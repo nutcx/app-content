@@ -57,18 +57,25 @@ order, are contiguous, and contain no padding or gaps. Each payload is compresse
 independently so the client can read one entry without expanding the whole bundle.
 The writer uses stored mode when DEFLATE would not reduce an entry's size.
 
-Required content paths include:
+Each entry's uncompressed payload is the exact UTF-8 JSON document consumed by the
+application. The bundle does not contain another archive or an extracted canonical
+repository tree. Version 1 uses these logical entries:
 
 ```text
-content/manifest.json
-content/heroes/<hero-id>.json
-content/skin-tags.json
-content/battle-effects.json
-content/preparations.json
+battle-effects.json
+preparations.json
+skin-tags.json
+skins.json
+upgrade-data.json
+upgrade-skins.json
 ```
 
-Migration reports, editor review files, Git metadata, and signing secrets are not part
-of the runtime bundle.
+Their stored blocks are concatenated in directory order. Reading an entry means seeking
+to its block, inflating it when necessary, verifying its SHA-256, and parsing the
+resulting JSON bytes directly. No filesystem extraction is required.
+
+Migration reports, editor review files, Git metadata, and signing secrets are not
+runtime entries.
 
 ## Signature block
 
@@ -108,11 +115,11 @@ A client must reject a package when any of these checks fail:
 - unsafe paths or unsupported compression codecs;
 - entry-count, per-entry-size, or total-uncompressed-size limits;
 - declared size or SHA-256 mismatch;
-- content schema or relationship validation after extraction.
+- JSON schema or relationship validation after decompression.
 
-The client downloads to a temporary file, validates and extracts into staging, then
-atomically activates the completed snapshot. A failed update leaves the previous valid
-snapshot untouched. Fresh installs use a bundled package processed by the same reader.
+The client downloads to a temporary file, validates every JSON payload, then atomically
+activates the completed bundle. A failed update leaves the previous valid bundle
+untouched. Fresh installs use a bundled package processed by the same reader.
 
 ## Distribution
 
