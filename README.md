@@ -11,4 +11,13 @@ legacy six-file encrypted layout.
 The indexed payloads are the application's UTF-8 JSON datasets themselves. There is
 no nested ZIP archive or extracted repository tree inside the bundle.
 
+The published client artifact is always named `Document.mlbytes` and lives under an
+immutable content-version path such as:
+
+```text
+versions/1001.0/assets/Document.mlbytes
+```
+
+The root `latest.json` points to the newest immutable version manifest.
+
 See [FORMAT.md](FORMAT.md) for the draft container specification.

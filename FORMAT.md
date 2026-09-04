@@ -6,7 +6,7 @@ Status: draft, version 1.
 
 - One atomic package for the complete content dataset.
 - Independent container, content-schema, and dataset versions.
-- Deterministic builds and safe bounded extraction.
+- Deterministic builds and safe bounded parsing.
 - Publisher authenticity and payload integrity.
 - No client-side Git credential and no embedded encryption secret.
 
@@ -29,7 +29,8 @@ header:
 | `0x14` | 4 | Content schema version |
 | `0x18` | 4 | Minimum compatible Android app version code |
 | `0x1C` | 4 | Reserved; must be zero |
-| `0x20` | 8 | Monotonically increasing content version |
+| `0x20` | 4 | Content release number, for example `1001` |
+| `0x24` | 4 | Content revision number, for example `0` |
 | `0x28` | 4 | Directory entry count |
 | `0x2C` | 4 | Directory size in bytes |
 | `0x30` | 8 | Absolute payload-region offset |
@@ -99,8 +100,13 @@ keys must never be committed or embedded in an app.
 
 - The format version changes when the binary container or signature rules change.
 - The schema version changes when the JSON data model changes.
-- The content version changes for every published dataset and provides rollback
-  protection.
+- The content version is rendered as `<release>.<revision>`, for example `1001.0`.
+  Both components are unsigned integers without leading zeroes; this is not a decimal
+  or floating-point number.
+- Versions are compared as numeric `(release, revision)` tuples, so `1001.9` is older
+  than `1001.10`, which is older than `1002.0`.
+- A normal dataset update increments the release and resets revision to zero. A
+  correction increments the revision.
 
 ## Validation
 
@@ -124,9 +130,69 @@ untouched. Fresh installs use a bundled package processed by the same reader.
 ## Distribution
 
 Editable source data remains in Git. A release job validates that source, creates a
-deterministic `.mlbytes` bundle, signs it, and publishes the bundle as an
-immutable release asset. A small signed `latest.json` pointer can expose the newest
-content version, URL, size, SHA-256, schema version, and minimum app version over HTTPS.
+deterministic `.mlbytes` bundle, signs it, and publishes it using the case-sensitive
+filename `Document.mlbytes`:
+
+```text
+latest.json
+latest.json.sig
+versions/
+  1001.0/
+    manifest.json
+    manifest.json.sig
+    assets/
+      Document.mlbytes
+```
+
+Published version directories are append-only and immutable. Changed bytes require a
+new version: publish `1001.1` rather than overwriting `1001.0`. The version in the
+directory name, version manifest, latest pointer, and bundle header must match.
+
+The root `latest.json` points to the immutable version manifest using relative paths:
+
+```json
+{
+  "pointerFormat": 1,
+  "channel": "stable",
+  "contentVersion": "1001.0",
+  "release": 1001,
+  "revision": 0,
+  "manifest": {
+    "path": "versions/1001.0/manifest.json",
+    "size": 512,
+    "sha256": "64-lowercase-hex-characters",
+    "signaturePath": "versions/1001.0/manifest.json.sig"
+  },
+  "publishedAt": "2026-09-05T00:00:00Z"
+}
+```
+
+The immutable version manifest identifies the bundle:
+
+```json
+{
+  "manifestFormat": 1,
+  "contentVersion": "1001.0",
+  "release": 1001,
+  "revision": 0,
+  "formatVersion": "1.0",
+  "schemaVersion": 1,
+  "minimumAppVersionCode": 4,
+  "asset": {
+    "path": "versions/1001.0/assets/Document.mlbytes",
+    "size": 123456,
+    "sha256": "64-lowercase-hex-characters"
+  }
+}
+```
+
+Publish `Document.mlbytes`, the version manifest, and their signatures first. Update
+`latest.json` last so clients never discover an incomplete version. Relative paths
+allow the same layout to work from GitHub Raw now and a dedicated CDN later.
+
+The client rejects a lower version than either its bundled baseline or the highest
+successfully activated version. An equal version with the same bundle SHA-256 is a
+no-op; an equal version with different bytes is an immutable-version collision.
 
 The format intentionally does not encrypt public content. A decryption key shipped in
 an Android app is extractable and would not establish publisher authenticity.
