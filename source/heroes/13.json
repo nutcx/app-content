@@ -1,0 +1,331 @@
+{
+  "heroId": 13,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Clint_%28Sun_n_Sand%29.jpg/revision/latest?cb=20231029215936",
+      "name": "Sun n Sand",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Clint_%28Sun_n_Sand%29.jpg/revision/latest?cb=20231029215936",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/clint_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Summer%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Summer%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Summer%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Summer%20to%20MYTHIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20SUMMER%20TO%20SOUL%20V.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Clint_%28Rock_and_Roll%29.jpg/revision/latest?cb=20231029220216",
+      "name": "Rock and Roll",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Clint_%28Rock_and_Roll%29.jpg/revision/latest?cb=20231029220216",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/clint_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Starlight%20Rock%20to%20M2.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Starlight%20Rock%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20OLD%20STARLIGHT%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Clint_%28Witch_Hunter%29.jpg/revision/latest?cb=20231029220231",
+      "name": "Witch Hunter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Clint_%28Witch_Hunter%29.jpg/revision/latest?cb=20231029220231",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/clint_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Season%20to%20M2.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Season%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20SEASON%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Clint_%28Dragon%27s_Maw%29.jpg/revision/latest?cb=20241208031740",
+      "name": "Dragon Maw",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Clint_%28Dragon%27s_Maw%29.jpg/revision/latest?cb=20241208031740",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20MYTHIC%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Clint_%28West_Justice%29.jpg/revision/latest?cb=20240719052533",
+      "name": "West Justice",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20240605133854",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1131.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/All-Skins/raw/main/Clint%20Valentine.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLINT%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/Mm/raw/main/clint_def_m2.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/All-Skins/raw/main/Clint%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/Mexi23/Mm/raw/main/clint_def_collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Clint%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Clint%20Mythic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20Revamp%20Clint%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727239827853,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Layla_%28Cannon_and_Roses%29.jpg/revision/latest?cb=20240801124614",
+      "name": "Guns and Roses",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest?cb=20220525164557",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/clint_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Valentine%20to%20M2.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Valentine%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20VALENTINE%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727239832929,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Clint_%28Badminton_Champion%29.jpg/revision/latest?cb=20231029220224",
+      "name": "Badminton Champion",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest?cb=20220525164559",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/clint_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Special%20to%20M2.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Special%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Clint%20Special%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20SPECIAL%20TO%20SOUL%20V.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727239842385,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Clint_%28Shadow_Omen%29.jpg/revision/latest?cb=20231029220245",
+      "name": "Shadow Omen",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest?cb=20220525164602",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727239913295,
+      "type": "M2"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Clint_%28Operator_CL%29.jpg/revision/latest?cb=20231029220252",
+      "name": "Operator CL",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest?cb=20220525164603",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20NEW%20STAR%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727239918227,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Clint_%28Crimson_Blast%29.jpg/revision/latest?cb=20230321152311",
+      "name": "Crimson Blast",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest?cb=20230316133647",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727239923433,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Clint_%28Captain_of_the_Reefs%29.jpg/revision/latest?cb=20240725093106",
+      "name": "Captain of the Reefs",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Clint_%28Captain_of_the_Reefs%29.jpg/revision/latest?cb=20240725093106",
+      "skinId": 8,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20EPIC%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727279622504,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20CLINT%20MYTHIC.jpg",
+      "name": "Dragon's Maw",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20CLINT%20MYTHIC.jpg",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1733570865928,
+      "type": "Mythic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Clint%20summer.jpg",
+      "name": "Sun's Sand",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Clint%20summer.jpg",
+      "skinId": 10,
+      "source": null,
+      "timestamp": 1753526096536,
+      "type": "Summer"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Clint_%28Vessel_of_Ruin%29.jpg/revision/latest?cb=20251206064702",
+      "name": "Vessel of Ruin",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Clint_%28Vessel_of_Ruin%29.jpg/revision/latest?cb=20251206064702",
+      "skinId": 11,
+      "source": null,
+      "timestamp": 1765181803813,
+      "type": "Soul Vessels"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "heroId": 78,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Khufra_%28Desert_Owl%29.jpg/revision/latest?cb=20240327134644",
+      "name": "Desert Owl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Khufra_%28Desert_Owl%29.jpg/revision/latest?cb=20240327134644",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Basic%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Khufra_%28Apophis%29.jpg/revision/latest?cb=20200427040150",
+      "name": "Apophis",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Khufra_%28Apophis%29.jpg/revision/latest?cb=20200427040150",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Apophis%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Apophis%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Apophis%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Khufra_%28Desert_Tyrant%29.jpg/revision/latest?cb=20240327134634",
+      "name": "Desert Tyrant",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest?cb=20240114021830",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/KHUFRA%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/KHUFRA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_EliteHook.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Khufra%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727365273728,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Khufra_%28Gentleman_Thief%29.jpg/revision/latest?cb=20240327134753",
+      "name": "Gentleman Thief",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Khufra_%28Gentleman_Thief%29.jpg/revision/latest?cb=20240327134753",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Valentine%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Valentine%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727365287397,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Khufra_%28Volcanic_Overlord%29.jpg/revision/latest?cb=20240327134819",
+      "name": "Volcanic Overload",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Khufra_%28Volcanic_Overlord%29.jpg/revision/latest?cb=20240327134819",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727365298949,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Khufra_%28Dreadful_Clown%29.jpg/revision/latest?cb=20240327134832",
+      "name": "Dreadful Clown",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Khufra_%28Dreadful_Clown%29.jpg/revision/latest?cb=20240327134832",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Starlight%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727365321897,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Khufra_%28Iron_Hook%29.jpg/revision/latest?cb=20240327134848",
+      "name": "Iron Hook",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Khufra_%28Iron_Hook%29.jpg/revision/latest?cb=20240327134848",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Iron%20Hook%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Khufra%20Iron%20Hook%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727365334058,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_043614.jpg",
+      "name": "Cursed Scroll",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_043614.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727642400327,
+      "type": "Epic"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "heroId": 122,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Nolan_%28Voidwalker%29.jpg/revision/latest?cb=20231008062107",
+      "name": "Void Walker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Nolan_%28Voidwalker%29.jpg/revision/latest?cb=20231008062107",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V38/raw/main/Nolan%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Nolan%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Nolan%20Normal%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NOLAN%20BASIC%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Nolan_%28Cosmic_Wayfinder%29.jpg/revision/latest?cb=20231008062052",
+      "name": "Cosmic Wayfinder",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20240917154554",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V38/raw/main/Nolan%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Nolan%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Nolan%2011Eleben.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NOLAN%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Nolan%20X%20Timothy.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727372329746,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Nolan_%28Fashion_Mogul%29.jpg/revision/latest?cb=20240502081843",
+      "name": "Fashion Mogul",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Nolan_%28Fashion_Mogul%29.jpg/revision/latest?cb=20240502081843",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V38/raw/main/Nolan%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Nolan%20Starlight%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NOLAN%20STARLIGHT%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727372341727,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/O22%20Nolan%2011.11.jpg",
+      "name": "The Navigator",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/O22%20Nolan%2011.11.jpg",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1729553015492,
+      "type": "11.11"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20NOLAN%20EPIC.jpg",
+      "name": "Spectral Strider",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20NOLAN%20EPIC.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1770124075439,
+      "type": "Epic"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
+      "name": "Kento Nanami",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1772355853107,
+      "type": "Anime|JujutsuKaisen"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241005_181205.jpg",
+      "name": "Timothy Crypto",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241005_181205.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1728120463474,
+      "type": "Weird"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "heroId": 51,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Helcurt_%28Exoracial_Executer%29_%282017-2024%29.jpg/revision/latest?cb=20230915152628",
+      "name": "Exoracial Executer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Helcurt_%28Exoracial_Executer%29_%282017-2024%29.jpg/revision/latest?cb=20230915152628",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Helcurt%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/HELCURT%20BASIC%20TO%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Helcurt%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Helcurt_%28Ice_Scythe%29.jpg/revision/latest?cb=20230915152643",
+      "name": "Ice Scythe",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Helcurt_%28Ice_Scythe%29.jpg/revision/latest?cb=20230915152643",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Helcurt%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/HELCURT%20ELITE%20TO%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Helcurt_%28Evolved_Predator%29.jpg/revision/latest?cb=20230915152657",
+      "name": "Evolved Predator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Helcurt_%28Evolved_Predator%29.jpg/revision/latest?cb=20230915152657",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/HELCURT%20SPECIAL%20TO%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Helcurt_%28Shadowbringer%29.jpg/revision/latest?cb=20240424080504",
+      "name": "Shadowbringer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Helcurt%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/HELCURT%20ZODIAC%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Helcurt%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Helcurt/Helcurt%20Default/Helcurt%20Collector%20Titans.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Helcurt%20Kurama.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727286025972,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Helcurt_%28Scorpio%29.jpg/revision/latest?cb=20230917012307",
+      "name": "Scorpio",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Helcurt_%28Scorpio%29.jpg/revision/latest?cb=20230917012307",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727286050623,
+      "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Helcurt_%28Dream_Prowler%29.jpg/revision/latest?cb=20240604025521",
+      "name": "Dream Prowler",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Helcurt_%28Dream_Prowler%29.jpg/revision/latest?cb=20240604025521",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/HELCURT%20STARLIGHT%20TO%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727286084799,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://pbs.twimg.com/media/HMIJlN5bQAA6_CN?format=jpg&name=large",
+      "name": "Kaiju of the Deep",
+      "portrait": "https://pbs.twimg.com/media/HMIJlN5bQAA6_CN?format=jpg&name=large",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1783142133312,
+      "type": "Collector Titans"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(30).jpeg",
+      "name": "Kurama",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(30).jpeg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728016328548,
+      "type": "Anime|Naruto"
+    }
+  ]
+}

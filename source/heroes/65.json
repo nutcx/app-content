@@ -1,0 +1,314 @@
+{
+  "heroId": 65,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Claude_%28Golden_Bullet%29.jpg/revision/latest?cb=20211202234652",
+      "name": "Golden Bullet",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Claude_%28Golden_Bullet%29.jpg/revision/latest?cb=20211202234652",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Basic%20to%20CHRISTMAS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Basic%20to%20BLAZING%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Basic%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Basic%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Basic%20to%20M6.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F7%20CLAUDE%20BASIC%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Claude_%28Plunderous_Pirate%29.jpg/revision/latest?cb=20211202234712",
+      "name": "Plunderous Pirate",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Claude_%28Plunderous_Pirate%29.jpg/revision/latest?cb=20211202234712",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Starlight%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Starlight%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Starlight%20to%20M6.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/D10%20CLAUDE%20STARLIGHT%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Claude_%28Master_Thief%29.jpg/revision/latest?cb=20211202234638",
+      "name": "Master Thief",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest?cb=20240501064446",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/V43Ztools/raw/main/CLAUDE%20EPIC%20REVAMPED.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v26/raw/main/claude%20christmas.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D6%20CLAUD%20BLAZING%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Claude%20Sanrio.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Claude%20M6.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F7%20CLAUDE%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20Revamp%20Claude%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727238952353,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Claude_%28Mecha_Dragon%29.jpg/revision/latest?cb=20240314064106",
+      "name": "Mecha Dragon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest?cb=20240314064605",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727238964437,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Claude_%28Christmas_Carnival%29.jpg/revision/latest?cb=20200528122850",
+      "name": "Christmas Carnival",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest?cb=20220525165639",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Christmas%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Christmas%20to%20M6.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/D10%20CLAUDE%20CHRISTMAS%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727238984329,
+      "type": "Christmas"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Claude_%28Earth%27s_Mightiest%29.jpg/revision/latest?cb=20210618055047",
+      "name": "Earth's Mightiest",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero657-portrait.png/revision/latest?cb=20220525165640",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20MSC%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20MSC%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/D10%20CLAUDE%20MSC%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727239020985,
+      "type": "MSC 2021"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Claude_%28Blazing_Trace%29.jpg/revision/latest?cb=20241201052634",
+      "name": "Blazing Trace",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Claude_%28Blazing_Trace%29.jpg/revision/latest?cb=20241201052634",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727239029411,
+      "type": "Blazing Bounties"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Claude_%28Bad_Bro%29.jpg/revision/latest?cb=20220216164936",
+      "name": "Bad Bro",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest?cb=20220525165642",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727239042536,
+      "type": "Sanrio Characters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Claude_%28Heart_Aflame%29.jpg/revision/latest?cb=20230819030144",
+      "name": "Heart Aflame",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest?cb=20230212035455",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1727239064060,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Claude_%28Challenger%27s_Spark%29.jpg/revision/latest?cb=20240904133121",
+      "name": "Challenger's Spark",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Claude_%28Challenger%27s_Spark%29.jpg/revision/latest?cb=20240904133121",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1729882034952,
+      "type": "M6"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Claude_%28Cosmic_Blaze%29.jpg/revision/latest?cb=20240904133123",
+      "name": "Cosmic Blaze",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Claude_%28Cosmic_Blaze%29.jpg/revision/latest?cb=20240904133123",
+      "skinId": 10,
+      "source": null,
+      "timestamp": 1731268104264,
+      "type": "Prime"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Claude%20summer.jpg",
+      "name": "Lifeguard",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Claude%20summer.jpg",
+      "skinId": 11,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Summer%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Summer%20to%20CHRISTMAS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Summer%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Summer%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Claude%20Summer%20to%20M6.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/D10%20CLAUDE%20SUMMER%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1753526130564,
+      "type": "Summer"
+    }
+  ]
+}

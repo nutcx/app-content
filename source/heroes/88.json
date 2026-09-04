@@ -1,0 +1,126 @@
+{
+  "heroId": 88,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Masha_%28Winter_Guard%29.jpg/revision/latest?cb=20200427115759",
+      "name": "Winter Guard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Masha_%28Winter_Guard%29.jpg/revision/latest?cb=20200427115759",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Masha%20Basic%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Masha_%28Spirited_Gauntlet%29.png/revision/latest?cb=20221128145315",
+      "name": "Spirited Gauntlet",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Masha_%28Spirited_Gauntlet%29.png/revision/latest?cb=20221128145315",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Masha%20Season%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Masha_%28Wild-oats_Fist%29.jpg/revision/latest?cb=20200818083823",
+      "name": "Wild-oats Fist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Masha%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_dragon.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FG-S2-SHIRO/raw/main/MASHA%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/V43/raw/main/MASHA%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727370188486,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Masha_%28Combat_Maiden%29.jpg/revision/latest?cb=20200627082821",
+      "name": "Combat Maiden",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Masha_%28Combat_Maiden%29.jpg/revision/latest?cb=20200627082821",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727370200201,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Masha_%28Dragon_Armor%29.jpg/revision/latest?cb=20200627082325",
+      "name": "Dragon Armor",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Masha_%28Dragon_Armor%29.jpg/revision/latest?cb=20200627082325",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Masha%20Dragon%20Tamer%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727370214354,
+      "type": "Dragon Tamer"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Masha_%28Rogue_Talon%29.jpg/revision/latest?cb=20230819033509",
+      "name": "Rogue Talon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Masha_%28Rogue_Talon%29.jpg/revision/latest?cb=20230819033509",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727370224134,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Masha_%28Mai_Shiranui%29.jpg/revision/latest?cb=20240430024326",
+      "name": "Mai Shiranui",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Masha_%28Mai_Shiranui%29.jpg/revision/latest?cb=20240430024326",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727370239063,
+      "type": "King of Fighters"
+    }
+  ]
+}

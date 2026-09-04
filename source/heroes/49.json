@@ -1,0 +1,68 @@
+{
+  "heroId": 49,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hylos_%28Jungle_Watcher%29.jpg/revision/latest?cb=20190827131510",
+      "name": "Jungle Watcher",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hylos_%28Jungle_Watcher%29.jpg/revision/latest?cb=20190827131510",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/HYLOS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hylos%20Season%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hylos_%28Grand_Warden%29.jpg/revision/latest?cb=20200911145039",
+      "name": "Grand Warden",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero491-portrait.png/revision/latest?cb=20220525165306",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/HYLOS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/HYLOS%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/02%20Hylos%20Elite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727361544864,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hylos_%28Iron_Steed%29.jpg/revision/latest?cb=20211104045510",
+      "name": "Iron Steed",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hylos_%28Iron_Steed%29.jpg/revision/latest?cb=20211104045510",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727361578031,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20HYLOS%20ELITE.jpg",
+      "name": "Bloodhoof Marauder",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20HYLOS%20ELITE.jpg",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727809118101,
+      "type": "Elite"
+    }
+  ]
+}

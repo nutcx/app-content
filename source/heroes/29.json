@@ -1,0 +1,209 @@
+{
+  "heroId": 29,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ruby_%28Cat_Girl%29.jpg/revision/latest?cb=20241128083641",
+      "name": "Cat Girl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ruby_%28Cat_Girl%29.jpg/revision/latest?cb=20241128083641",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Basic%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Ruby_%28Edelweiss%29.jpg/revision/latest?cb=20190809133611",
+      "name": "Edelweiss",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Ruby_%28Edelweiss%29.jpg/revision/latest?cb=20190809133611",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Elite%20Edelweiss%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Ruby_%28Hidden_Orchid_Butterfly%29.jpg/revision/latest?cb=20200824064403",
+      "name": "Hidden Orchid Butterfly",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Ruby_%28Hidden_Orchid_Butterfly%29.jpg/revision/latest?cb=20200824064403",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Elite%20Hidden%20Orchid%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Ruby_%28Little_Red_Hood%29.jpg/revision/latest?cb=20231231093700",
+      "name": "Little Red Hood",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20240612224841",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/Ruby_def_epicZombie.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Ruby%20Aspirant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/ruby_def_collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Ruby%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RUBY%20NEON%20EDGE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RUBY%20CRESCENT%20DERVISH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727376061834,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Ruby_%28Lady_Zombie%29.jpg/revision/latest?cb=20200824070016",
+      "name": "Lady Zombie",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Ruby_%28Lady_Zombie%29.jpg/revision/latest?cb=20200824070016",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20LUCKYBOX%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727376076206,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Ruby_%28Pirate_Parrot%29.jpg/revision/latest?cb=20211221013448",
+      "name": "Pirate Parrot",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Ruby_%28Pirate_Parrot%29.jpg/revision/latest?cb=20211221013448",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Starlight%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727376085626,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Ruby_%28Mecha_Maiden%29.jpg/revision/latest?cb=20221111142426",
+      "name": "Mecha Maiden",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Ruby_%28Mecha_Maiden%29.jpg/revision/latest?cb=20221111142426",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727376096116,
+      "type": "Aspirants"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Ruby_%28Prismatic_Plume%29.jpg/revision/latest?cb=20230903013337",
+      "name": "Prismatic Plume",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Ruby_%28Prismatic_Plume%29.jpg/revision/latest?cb=20230903013337",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727376108016,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Ruby_%28Soul_Reaper%29.jpg/revision/latest?cb=20240609043208",
+      "name": "Soul Reaper",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Ruby_%28Soul_Reaper%29.jpg/revision/latest?cb=20240609043208",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727376125864,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Ruby_%28Neon_Edge%29.jpg/revision/latest?cb=20250324130517",
+      "name": "Neon Edge",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Ruby_%28Neon_Edge%29.jpg/revision/latest?cb=20250324130517",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1739099483509,
+      "type": "Golden Month"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Ruby_%28Crescent_Dervish%29.jpg/revision/latest?cb=20250324130503",
+      "name": "Crescent Dervish",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Ruby_%28Crescent_Dervish%29.jpg/revision/latest?cb=20250324130503",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1739099492465,
+      "type": "Golden Month"
+    }
+  ]
+}

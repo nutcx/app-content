@@ -1,0 +1,278 @@
+{
+  "heroId": 10,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Franco_%28Apocalypse%29.jpg/revision/latest?cb=20181116135153",
+      "name": "Apocalypse",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Franco_%28Apocalypse%29.jpg/revision/latest?cb=20181116135153",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/FRANCO%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Franco%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Franco%20Starlight%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/OptimizeImage-Tank/raw/main/Franco-Masterchef.png",
+      "name": "Masterchef",
+      "portrait": "https://github.com/azizboy2007/OptimizeImage-Tank/raw/main/Franco-Masterchef.png",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/FRANCO%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Special%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Franco%20Special%20to%20BLAZING.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Special%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FRANCO%20BASIC%20TO%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Franco_%28Frozen_Warrior%29.jpg/revision/latest?cb=20200421010136",
+      "name": "Frozen Warrior",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png/revision/latest?cb=20240605133441",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1101.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/FRANCO%20SEASON.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20FRANCO%20HALLOWEEN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20FRANCO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D3%20FRANCO%20BLAZING%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/FRANCO%20RECHARGE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SH-FOLDER-FIX/raw/main/FRANCO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20FRANCO%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20FRANCO%20X%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20FRANCO%20X%20PUDGE.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Mafia%20Underboss.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727281986595,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Franco_%28Locomotive%29.jpg/revision/latest?cb=20180929012505",
+      "name": "Locomotive",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Franco_%28Locomotive%29.jpg/revision/latest?cb=20180929012505",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/FRANCO%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Season%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Season%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727282006106,
+      "type": "Season"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Franco_%28Wheatfield_Nightmare%29.png/revision/latest?cb=20191020135656",
+      "name": "Wheatfield Nightmare",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Franco_%28Wheatfield_Nightmare%29.png/revision/latest?cb=20191020135656",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/FRANCO%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Halloween%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Halloween%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727282025323,
+      "type": "Halloween"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Franco_%28Valhalla_Ruler%29.jpg/revision/latest?cb=20230818085128",
+      "name": "Valhalla Ruler",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Franco_%28Valhalla_Ruler%29.jpg/revision/latest?cb=20230818085128",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/FRANCO%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Epic%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727282046675,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20FRNCO%20BLAZING%20NEW.jpg",
+      "name": "Blazing Axe",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20FRNCO%20BLAZING%20NEW.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727282061157,
+      "type": "Blazing Bounties"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Franco_%28Bone_Crusher%29.jpg/revision/latest?cb=20230818085037",
+      "name": "Bone Crusher",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Franco_%28Bone_Crusher%29.jpg/revision/latest?cb=20230818085037",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/FRANCO%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Bone%20Crusher%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Franco%20Bone%20Crusher%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727282090541,
+      "type": "S21 Recharge"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Franco_%28King_of_Hell%29.jpg/revision/latest?cb=20230308110923",
+      "name": "King of Hell",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Franco_%28King_of_Hell%29.jpg/revision/latest?cb=20230308110923",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727282106704,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_163208.jpg",
+      "name": "Quantum Vanguard",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_163208.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727685217686,
+      "type": "MPL"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Franco_Captain_of_the_Lost.png/revision/latest?cb=20260206235709",
+      "name": "Captain of Lost",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Franco_Captain_of_the_Lost.png/revision/latest?cb=20260206235709",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1773723222886,
+      "type": "Special"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20FRANCO%20PUDGE.jpg",
+      "name": "Pudge",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20FRANCO%20PUDGE.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771301788916,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/fk15hqx/Mafia-Under-Boss.png",
+      "name": "Mafia Underboss",
+      "portrait": "https://i.ibb.co/fk15hqx/Mafia-Under-Boss.png",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727960547843,
+      "type": "Weird"
+    }
+  ]
+}

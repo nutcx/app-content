@@ -1,0 +1,196 @@
+{
+  "heroId": 54,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Jawhead_%28Girl_Scout%29.jpg/revision/latest?cb=20231030014710",
+      "name": "Girl Scout",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Jawhead_%28Girl_Scout%29.jpg/revision/latest?cb=20231030014710",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Jawhead%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Jawhead%20Basic%20to%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Jawhead%20Basic%20to%20Allstar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Jawhead_%28Steel_Sweetheart%29.jpg/revision/latest?cb=20231030014652",
+      "name": "Steel Sweetheart",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20240501074636",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Jawhead%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Jawhead%20Elite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Jawhead%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Jawhead%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Jawhead%20AllStar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20JAWHEAD%20X%20BENTEN.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727362250849,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Jawhead_%28Space_Explorer%29.jpg/revision/latest?cb=20231030014720",
+      "name": "Space Explorer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Jawhead_%28Space_Explorer%29.jpg/revision/latest?cb=20231030014720",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727362262260,
+      "type": "MSC 2018"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Jawhead_%28Foo_Quarterback%29.jpg/revision/latest?cb=20231030014731",
+      "name": "Foo Quarterback",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Jawhead_%28Foo_Quarterback%29.jpg/revision/latest?cb=20231030014731",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Jawhead%20Elite%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Jawhead%20Elite%20to%20Allstar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727362275709,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Jawhead_%28The_Nutcracker%29.jpg/revision/latest?cb=20231030014740",
+      "name": "The Nutracker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Jawhead_%28The_Nutcracker%29.jpg/revision/latest?cb=20231030014740",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Jawhead%20Special%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Jawhead%20Special%20to%20AllStar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727362286738,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Jawhead_%28Samurai_Mech%29.jpg/revision/latest?cb=20231030014749",
+      "name": "Samurai Mech",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Jawhead_%28Samurai_Mech%29.jpg/revision/latest?cb=20231030014749",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727362307547,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Jawhead_%28Candy_Bear%29.jpg/revision/latest?cb=20231030014759",
+      "name": "Candy Bear",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Jawhead_%28Candy_Bear%29.jpg/revision/latest?cb=20231030014759",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727362380839,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Jawhead_%28Cyber_Ranger%29.jpg/revision/latest?cb=20220814094230",
+      "name": "Cyber Ranger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Jawhead_%28Cyber_Ranger%29.jpg/revision/latest?cb=20220814094230",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727362394417,
+      "type": "Mpl"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Jawhead%20Allstar.jpg",
+      "name": "Proto Guardian",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Jawhead%20Allstar.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1748900444363,
+      "type": "Dino Pals"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20JawHEAD%20BENTEN%204ARMS.jpg",
+      "name": "Four Arms",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20JawHEAD%20BENTEN%204ARMS.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771301876107,
+      "type": "Weird"
+    }
+  ]
+}

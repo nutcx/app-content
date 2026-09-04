@@ -1,0 +1,366 @@
+{
+  "heroId": 25,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Kagura_%28Flower_Season%29.jpg/revision/latest?cb=20210827085724",
+      "name": "Flower Season",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Kagura_%28Flower_Season%29.jpg/revision/latest?cb=20210827085724",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20BASIC%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20BASIC%20TO%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20BASIC%20TO%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20BASIC%20TO%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20BASIC%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Kagura_%28Cherry_Witch%29.jpg/revision/latest?cb=20240424073218",
+      "name": "Cherry Witch",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Kagura_%28Cherry_Witch%29.jpg/revision/latest?cb=20240424073218",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20SPECIAL%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20SPECIAL%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20SPECIAL%20TO%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20SPECIAL%20TO%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20SPECIAL%20TO%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Kagura_%28Onmyouji_Master%29.jpg/revision/latest?cb=20211212135733",
+      "name": "Onmyouji Master",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20241021141216",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20Kagura%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20ANNUAL%20STAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Kagura%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/KAGURA%20VENOM.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Kagura%20-%20Kawaragi.zip",
+            "targetCategory": 1,
+            "targetSkinId": 30
+          }
+        ]
+      },
+      "timestamp": 1727363877051,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Kagura_%28Summer_Festival%29.jpg/revision/latest?cb=20220701102121",
+      "name": "Summer Festival",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Kagura_%28Summer_Festival%29.jpg/revision/latest?cb=20220701102121",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20SUMMER%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kagura%20Summer%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20SUMMER%20TO%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20SUMMER%20TO%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20SUMMER%20TO%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727363896225,
+      "type": "Summer"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Kagura_%28Soryu_Maiden%29.jpg/revision/latest?cb=20181113231007",
+      "name": "Soryu Maiden",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Kagura_%28Soryu_Maiden%29.jpg/revision/latest?cb=20181113231007",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20LUCKYBOX%20TO%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727363912614,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Kagura_%28Rainy_Walk%29.jpg/revision/latest?cb=20211109062903",
+      "name": "Rainy Walk",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Kagura_%28Rainy_Walk%29.jpg/revision/latest?cb=20211109062903",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20STARLIGHT%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20STARLIGHT%20TO%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20STARLIGHT%20TO%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20STARLIGHT%20TO%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727363925249,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Kagura_%28Water_Lily%29.jpg/revision/latest?cb=20211214071601",
+      "name": "Water Lily",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Kagura_%28Water_Lily%29.jpg/revision/latest?cb=20211214071601",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20ANNUAL%20STARLIGHT%20TO%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20ANNUAL%20STAARLIGHT%20TO%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727363935553,
+      "type": "Annual Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kagura_%28Exorcist_Kagura%29.jpg/revision/latest?cb=20220915133612",
+      "name": "Exorcist Kagura",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kagura_%28Exorcist_Kagura%29.jpg/revision/latest?cb=20220915133612",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727363959953,
+      "type": "Exorcists"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Kagura_%28Beyond_the_Clouds_Kagura%29.jpg/revision/latest?cb=20240520053314",
+      "name": "Beyond the Clouds",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Kagura_%28Beyond_the_Clouds_Kagura%29.jpg/revision/latest?cb=20240520053314",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20BTC%20TO%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727363986826,
+      "type": "Clouds"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/received_499796749582625.jpeg",
+      "name": "Jade Blossom",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/received_499796749582625.jpeg",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20EPIC%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20EPIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20EPIC%20TO%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20EPIC%20TO%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/KAGURA%20EPIC%20TO%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727687080366,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20KAGURA%20SPECIAL.jpg",
+      "name": "Lady Parasol",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20KAGURA%20SPECIAL.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1756745854593,
+      "type": "Special"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/kag%20venom.jpg",
+      "name": "Venom Kagura",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/kag%20venom.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728016976845,
+      "type": "Anime|CustomVenom"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20kawaragi.jpeg",
+      "name": "Senju Kawaragi",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20kawaragi.jpeg",
+      "skinId": 30,
+      "source": null,
+      "timestamp": 1728791022295,
+      "type": "Anime|TokyoRevenge"
+    }
+  ]
+}

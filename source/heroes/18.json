@@ -1,0 +1,229 @@
+{
+  "heroId": 18,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Layla_%28Green_Flash%29.jpg/revision/latest?cb=20201107031121",
+      "name": "Greenflash",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Layla_%28Green_Flash%29.jpg/revision/latest?cb=20201107031121",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Basic%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Basic%20to%20STARLIGHT(TWILIGHT).zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Layla_%28Bunny_Babe%29.jpg/revision/latest?cb=20201107034343",
+      "name": "Bunny Babe",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Layla_%28Bunny_Babe%29.jpg/revision/latest?cb=20201107034343",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Bunny%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Layla_%28Classic_Malefic_Gunner%29.jpg/revision/latest?cb=20201107040255",
+      "name": "Classic Malefic Gunner",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Layla_%28Classic_Malefic_Gunner%29.jpg/revision/latest?cb=20201107040255",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Classic%20MG%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Classic%20MG%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Layla_%28Energy_Gunner%29.jpg/revision/latest?cb=20231009030108",
+      "name": "Energy Gunner",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BLUE%20SPECTRE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20SABER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D3%20LAYLA%20BLAZING%20REVAMP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J21%20LAYLA%20ASPIRANT%20FIX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LAYLA%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Layla%20Nexus%20Sea.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727367520905,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Layla_%28Cannon_and_Roses%29.jpg/revision/latest?cb=20240801124614",
+      "name": "Cannon Rose",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Layla_%28Cannon_and_Roses%29.jpg/revision/latest?cb=20240801124614",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Valentine%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727367531162,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Layla_%28Blue_Spectre%29.jpg/revision/latest?cb=20201107034844",
+      "name": "Blue Spectre",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Layla_%28Blue_Spectre%29.jpg/revision/latest?cb=20201107034844",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727367543549,
+      "type": "Normal"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Layla_%28S.A.B.E.R._Breacher%29.jpg/revision/latest?cb=20201107041606",
+      "name": "S.A.B.E.R Breacher",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Layla_%28S.A.B.E.R._Breacher%29.jpg/revision/latest?cb=20201107041606",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Saber%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727367563782,
+      "type": "S.A.B.E.R"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20LAYLA%20BLAZING%20NEW.jpg",
+      "name": "Blazing Gun",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20LAYLA%20BLAZING%20NEW.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727367571434,
+      "type": "Blazing Bounties"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Layla_%28Miss_Hikari%29.jpg/revision/latest?cb=20220214155719",
+      "name": "Miss Hikari",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Layla_%28Miss_Hikari%29.jpg/revision/latest?cb=20220214155719",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727367630970,
+      "type": "Aspirants"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Layla_%28Twilight_Waltz%29.jpg/revision/latest?cb=20231009022948",
+      "name": "Twilight Waltz",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Layla_%28Twilight_Waltz%29.jpg/revision/latest?cb=20231009022948",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727367660080,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Layla_%28Paranormal_Operative%29.jpg/revision/latest?cb=20240620040625",
+      "name": "Paranormal Operative",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Layla_%28Paranormal_Operative%29.jpg/revision/latest?cb=20240620040625",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727367683879,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20LAYLA%20NEXUS.jpg",
+      "name": "The Beacon",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20LAYLA%20NEXUS.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1756746068756,
+      "type": "Nexus Sea"
+    }
+  ]
+}

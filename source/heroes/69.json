@@ -1,0 +1,111 @@
+{
+  "heroId": 69,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20BSIC.jpg",
+      "name": "Pale Pantom",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20BSIC.jpg",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F8%20HANZO%20BASIC%20TO%20ELITE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/HANZO%20BASIC%20TO%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hanzo_%28Akuma_Ninja%29.jpg/revision/latest?cb=20200818083812",
+      "name": "Akuma Ninja",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20240112141926",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F8%20HANZO%20ELITE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F8%20HANZO%20SPECIAL%20REVAMP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Hanzo%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727285392997,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20ELIT.jpg",
+      "name": "Undead King",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20ELIT.jpg",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Elite%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727285404148,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20SPECIAL.jpg",
+      "name": "Insidious Tutor",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20SPECIAL.jpg",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Special%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727285425251,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hanzo_%28Soulfire_Netherlord%29.jpg/revision/latest?cb=20250411100227",
+      "name": "Soulfire Netherlord",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hanzo_%28Soulfire_Netherlord%29.jpg/revision/latest?cb=20250411100227",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1744536969703,
+      "type": "Collector"
+    }
+  ]
+}

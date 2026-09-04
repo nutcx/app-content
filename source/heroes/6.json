@@ -1,0 +1,189 @@
+{
+  "heroId": 6,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Tigreal_%28Dark_Guardian%29.jpg/revision/latest?cb=20230622005012",
+      "name": "Dark Guardian",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Tigreal_%28Dark_Guardian%29.jpg/revision/latest?cb=20230622005012",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Tigreal%20Elite%20Dark%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Tigreal%20Elite%20Dark%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Elite%20Dark%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Tigreal_%28Wyrmslayer%29.jpg/revision/latest?cb=20201128042856",
+      "name": "Wyrmslayer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Tigreal_%28Wyrmslayer%29.jpg/revision/latest?cb=20201128042856",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Tigreal%20Season%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Season%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Tigreal_%28Fallen_Guard%29.jpg/revision/latest?cb=20201128044540",
+      "name": "Fallen Guardian",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Tigreal_%28Fallen_Guard%29.jpg/revision/latest?cb=20201128044540",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Tigreal%20Elite%20Fallen%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Elite%20Fallen%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Tigreal_%28Warrior_of_Dawn%29.jpg/revision/latest?cb=20220203071035",
+      "name": "Warrior of Dawn",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20240605132742",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1061.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20TIGREAL%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20GOLD%20BARON.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20TIGREAL%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/02%20Tigreal%20Special%20Pasha.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727377321614,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Tigreal_%28Lightborn_-_Defender%29.jpg/revision/latest?cb=20201128043317",
+      "name": "Lightborn Defender",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Tigreal_%28Lightborn_-_Defender%29.jpg/revision/latest?cb=20201128043317",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Lightborn%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727377343180,
+      "type": "Lightborn"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Tigreal_%28Gold_Baron%29.jpg/revision/latest?cb=20210814152007",
+      "name": "Gold Baron",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Tigreal_%28Gold_Baron%29.jpg/revision/latest?cb=20210814152007",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Gold%20Baron%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727377351322,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Tigreal_%28Galactic_Marshal%29.jpg/revision/latest?cb=20230825080154",
+      "name": "Galactic Marshal",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Tigreal_%28Galactic_Marshal%29.jpg/revision/latest?cb=20230825080154",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727377363214,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20TIREAL%20SPECIAL%20PASHA.jpg",
+      "name": "Pasha of Justice",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20TIREAL%20SPECIAL%20PASHA.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727809202252,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20TIGREAL%20COL.jpg",
+      "name": "Celestial Guardian",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20TIGREAL%20COL.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1759856024703,
+      "type": "Collector"
+    }
+  ]
+}

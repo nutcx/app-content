@@ -1,0 +1,526 @@
+{
+  "heroId": 56,
+  "skins": [
+    {
+      "category": -2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+      "name": "K Dash",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Gusion_%28Moonlight_Sonata%29.jpg/revision/latest?cb=20240128035646",
+      "name": "Moonlight Sonata",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Gusion_%28Moonlight_Sonata%29.jpg/revision/latest?cb=20240128035646",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20BASIC%20TO%20NARUTO.zip",
+            "targetCategory": -1,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%20Basic%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Gusion_%28Hairstylist%29.jpg/revision/latest?cb=20211011032854",
+      "name": "Hairstylist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Gusion_%28Hairstylist%29.jpg/revision/latest?cb=20211011032854",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Elite%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Gusion%20Elite%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Elite%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20ELITE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Elite%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20ELITE%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
+      "name": "Naruto Shippuden",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Gusion_%28Holy_Blade%29.jpg/revision/latest?cb=20221022091953",
+      "name": "Holy Blade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_venom.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/gusion%20kof%20revamp.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Gusion%20Legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20COLLECTOR%20RVMP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Gusion%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Gusion%2011.11.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/GUSION%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20NARUTO%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Summer%20Gusion.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Streacher.zip",
+            "targetCategory": 2,
+            "targetSkinId": 21
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Witch.zip",
+            "targetCategory": 2,
+            "targetSkinId": 22
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Gusion%20Summer%C2%B2.zip",
+            "targetCategory": 2,
+            "targetSkinId": 23
+          }
+        ]
+      },
+      "timestamp": 1727284680481,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Gusion_%28Cyber_Ops%29.jpg/revision/latest?cb=20211011032633",
+      "name": "Cyber Ops",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Gusion_%28Cyber_Ops%29.jpg/revision/latest?cb=20211011032633",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Old%20Startlight%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%20Starlight%20to%20Kof.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Old%20Starlight%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20STARLIGHT%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Old%20Starlight%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Old%20Starlight%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20STARLIGHT%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727284690103,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
+      "name": "Dangerous Liason",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%20Valentine%20to%20Kof.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20VALENTINE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20VALENTINE%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727284703686,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/V.E.N.O.M_-_Emperor_Scorpion_wall.jpg/revision/latest?cb=20211011033159",
+      "name": "V.E.N.O.M Emperror",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/V.E.N.O.M_-_Emperor_Scorpion_wall.jpg/revision/latest?cb=20211011033159",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%20VENOM%20to%20Kof.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Venom%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20VENOM%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Venom%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20VENOM%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727284718317,
+      "type": "V.E.N.O.M"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "name": "K' Dash",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727284732185,
+      "type": "King of Fighters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Gusion_%28Cosmic_Gleam%29.jpg/revision/latest?cb=20211011033726",
+      "name": "Cosmic Gleam",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Gusion_%28Cosmic_Gleam%29.jpg/revision/latest?cb=20211011033726",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727284780379,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Gusion_Night_Owl.png/revision/latest?cb=20260102012134",
+      "name": "Night Owl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Gusion_Night_Owl.png/revision/latest?cb=20260102012134",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727284789823,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Gusion_%28Soul_Revelation%29.jpg/revision/latest?cb=20211205132750",
+      "name": "Soul Revelation",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Gusion_%28Soul_Revelation%29.jpg/revision/latest?cb=20211205132750",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%20Epic%20to%20Kof.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Venom%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20EPIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Epic%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20EPIC%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727284804392,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gusion_%28Dimension_Walker%29.jpg/revision/latest?cb=20221111142419",
+      "name": "Dimension Walker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gusion_%28Dimension_Walker%29.jpg/revision/latest?cb=20221111142419",
+      "skinId": 8,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%2011%20to%20Kof.zip",
+            "targetCategory": -2,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Gusion%2011.11%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%2011%2011%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727284816640,
+      "type": "11.11"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Gusion_%28Desert_Spider%29.jpg/revision/latest?cb=20240709030910",
+      "name": "Desert Spider",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Gusion_%28Desert_Spider%29.jpg/revision/latest?cb=20240709030910",
+      "skinId": 9,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%20NewStar%20To%20Kof.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20New%20Starlight%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20NEW%20STARLIGHT%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20NEW%20STARLIGHT%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727284828700,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
+      "name": "Minato Namikaze",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
+      "skinId": 10,
+      "source": null,
+      "timestamp": 1770378891052,
+      "type": "Naruto Shippuden"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/Jx9XmSt/Summer-Gusion.png",
+      "name": "Summer Skin",
+      "portrait": "https://i.ibb.co/Jx9XmSt/Summer-Gusion.png",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727959365838,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/MNwCwxT/streacher.png",
+      "name": "Stretcher",
+      "portrait": "https://i.ibb.co/MNwCwxT/streacher.png",
+      "skinId": 21,
+      "source": null,
+      "timestamp": 1727959671591,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/XJStV7g/Gusion-witch.jpg",
+      "name": "Witch",
+      "portrait": "https://i.ibb.co/XJStV7g/Gusion-witch.jpg",
+      "skinId": 22,
+      "source": null,
+      "timestamp": 1727959924629,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/dkkRGP6/Gus-summer.jpg",
+      "name": "Summer Blade",
+      "portrait": "https://i.ibb.co/dkkRGP6/Gus-summer.jpg",
+      "skinId": 23,
+      "source": null,
+      "timestamp": 1727959956382,
+      "type": "Weird"
+    }
+  ]
+}

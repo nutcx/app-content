@@ -1,0 +1,151 @@
+{
+  "heroId": 42,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
+      "name": "Naughty Joker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
+      "name": "Royal Magister",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Starlight%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Starlight%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Harley_%28Mage_Genius%29.jpg/revision/latest?cb=20230819021629",
+      "name": "Magic Genius",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Harley%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Harley%20Venom.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Mafia%20Money.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727285762906,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Harley_%28Great_Inventor%29.jpg/revision/latest?cb=20230819021710",
+      "name": "Great Inventor",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Harley_%28Great_Inventor%29.jpg/revision/latest?cb=20230819021710",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727285775155,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Harley_%28V.E.N.O.M._Octopus%29.jpg/revision/latest?cb=20230819021722",
+      "name": "V.E.N.O.M Octopus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Harley_%28V.E.N.O.M._Octopus%29.jpg/revision/latest?cb=20230819021722",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727285789569,
+      "type": "V.E.N.O.M"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Harley_%28Dream_Caster%29.jpg/revision/latest?cb=20230819021734",
+      "name": "Dream Caster",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Harley_%28Dream_Caster%29.jpg/revision/latest?cb=20230819021734",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727285806706,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harley_%28Pulsar_Prodigy%29.jpg/revision/latest?cb=20221022092010",
+      "name": "Pulsar Prodigy",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harley_%28Pulsar_Prodigy%29.jpg/revision/latest?cb=20221022092010",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Special%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727285834240,
+      "type": "Special"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/hBFvsgY/Mafia3.jpg",
+      "name": "Mafia Monkey",
+      "portrait": "https://i.ibb.co/hBFvsgY/Mafia3.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727960278557,
+      "type": "Weird"
+    }
+  ]
+}

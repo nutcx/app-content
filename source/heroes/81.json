@@ -1,0 +1,181 @@
+{
+  "heroId": 81,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Esmeralda_%28Ruddy_Dusk%29.jpg/revision/latest?cb=20200427042705",
+      "name": "Ruddy Dusk",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Esmeralda_%28Ruddy_Dusk%29.jpg/revision/latest?cb=20200427042705",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Esme%20Basic%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Esme%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Esmeralda_%28Poison_Vine%29.jpg/revision/latest?cb=20200427042811",
+      "name": "Poison Vine",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Esmeralda_%28Poison_Vine%29.jpg/revision/latest?cb=20200427042811",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Esme%20Elite%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Esme%20Elite%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Esmeralda_%28Astrologer%29.jpg/revision/latest?cb=20200427041318",
+      "name": "Astrologer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest?cb=20240121135702",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J10%20ESMERALDA%20BLAZING%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Esmeralda%20X%20Tsunade.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727280700619,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Esmeralda_%28Lady_Thief%29.jpg/revision/latest?cb=20230819032019",
+      "name": "Lady Thief",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Esmeralda_%28Lady_Thief%29.jpg/revision/latest?cb=20230819032019",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727280714399,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Esmeralda_%28Cleopatra%29.jpg/revision/latest?cb=20200912121629",
+      "name": "Cleopatra",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Esmeralda_%28Cleopatra%29.jpg/revision/latest?cb=20200912121629",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Esme%20Starlight%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727280732815,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20ESME%20BLAZING%20NEW.jpg",
+      "name": "Blazing Shadow",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20ESME%20BLAZING%20NEW.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727280754692,
+      "type": "Blazing Bounties"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Esmeralda_%28The_Foreseer%29.jpg/revision/latest?cb=20220226091237",
+      "name": "The Foreseer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Esmeralda_%28The_Foreseer%29.jpg/revision/latest?cb=20220226091237",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727280772067,
+      "type": "Dawning Stars"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Esmeralda_%28Light_Envoy%29.jpg/revision/latest?cb=20220519140341",
+      "name": "Light Envoy",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Esmeralda_%28Light_Envoy%29.jpg/revision/latest?cb=20220519140341",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727280790465,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Esmeralda_%28Astral_Muse%29.jpg/revision/latest?cb=20240329063246",
+      "name": "Astral Muse",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Esmeralda_%28Astral_Muse%29.jpg/revision/latest?cb=20240329063246",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727280805004,
+      "type": "AllStars"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ESMI%20TSUNADE.jpg",
+      "name": "Tsunade",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ESMI%20TSUNADE.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1772355935203,
+      "type": "Anime|Naruto"
+    }
+  ]
+}

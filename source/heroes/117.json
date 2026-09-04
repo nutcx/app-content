@@ -1,0 +1,160 @@
+{
+  "heroId": 117,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Fredrinn_%28Regal_Renegade%29.jpg/revision/latest?cb=20220814094216",
+      "name": "Regal Renegade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Fredrinn_%28Regal_Renegade%29.jpg/revision/latest?cb=20220814094216",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Fredrinn%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREDRINN%20BASIC%20TO%20NEO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Fredrinn%20Basic%20to%20Sparkle.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREDRINN%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Fredrinn%20Basic%20to%20BernarBear.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Fredrinn_%28Jewel_Connoisseur%29.jpg/revision/latest?cb=20230308110944",
+      "name": "Jewel Connoisseur",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Fredrinn_%28Jewel_Connoisseur%29.jpg/revision/latest?cb=20230308110944",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Fredrinn%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREDRINN%20ELITE%20TO%20NEO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Fredrinn%20Elite%20to%20Sparkle.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREDRINN%20ELITE%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Fredrinn_%28Rogue_Appraiser%29.jpg/revision/latest?cb=20220814094221",
+      "name": "Rogue Appraiser",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Fredrinn%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREDRINN%20NEO%20BEAST%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Fredrinn%20Sparkle.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREDRINN%20STARLIGHT%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Fredrinn%20Bernar%20Bear.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727282266909,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Fredrinn_%28Neobeast_Fredrinn%29.jpg/revision/latest?cb=20230905081409",
+      "name": "Neobeast Fredrinn",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Fredrinn_%28Neobeast_Fredrinn%29.jpg/revision/latest?cb=20230905081409",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727282284538,
+      "type": "NeoBeast"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Fredrinn_%28Sparkle_Fredrinn%29.png/revision/latest?cb=20240405144645",
+      "name": "Sparkle Fredrinn",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Fredrinn_%28Sparkle_Fredrinn%29.png/revision/latest?cb=20240405144645",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/fredrinn%20sparkle%20to%20neobeast.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1727282298993,
+      "type": "Sparkle"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Fredrinn%20Starlight.jpg",
+      "name": "Royal Marshal",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Fredrinn%20Starlight.jpg",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREDRINN%20STARLIGHT%20TO%20NEO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1760855920189,
+      "type": "Starlight"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Bernard-cropped-jpg%20(1).jpg",
+      "name": "BernarBear",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Bernard-cropped-jpg%20(1).jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1775368699925,
+      "type": "Weird"
+    }
+  ]
+}

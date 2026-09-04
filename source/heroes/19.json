@@ -1,0 +1,106 @@
+{
+  "heroId": 19,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Minotaur_%28Sacred_Hammer%29.jpg/revision/latest?cb=20231029215114",
+      "name": "Sacred Hammer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Minotaur_%28Sacred_Hammer%29.jpg/revision/latest?cb=20231029215114",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Minotour%20Elite%20Sacred%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Minotaur_%28Bursting_Yama%29.jpg/revision/latest?cb=20231029214752",
+      "name": "Bursting Yama",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Minotaur_%28Bursting_Yama%29.jpg/revision/latest?cb=20231029214752",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Minotour%20Elite%20Bursting%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Minotaur_%28Orbiter%29.jpg/revision/latest?cb=20231029214828",
+      "name": "Orbiter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Minotaur_%28Orbiter%29.jpg/revision/latest?cb=20231029214828",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Minotour%20Season%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Minotaur_%28Son_of_Minos%29.jpg/revision/latest?cb=20231029214729",
+      "name": "Son of Minos",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20240605151309",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20MINOTOUR%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/Minator%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727370871929,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Minotaur_%28Taurus%29.jpg/revision/latest?cb=20231029215432",
+      "name": "Taurus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Minotaur_%28Taurus%29.jpg/revision/latest?cb=20231029215432",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727370883625,
+      "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/GwC-_xPaoAAVkYU.jpeg",
+      "name": "Nether Overseer",
+      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/GwC-_xPaoAAVkYU.jpeg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1754319644230,
+      "type": "Epic"
+    }
+  ]
+}

@@ -2,11 +2,12 @@
 
 Versioned content packages consumed by Nut Cracker.
 
-This repository is being prepared for the new `.mlbytes` format. The new format is a
+This repository publishes the `.mlbytes` format used by Nut Cracker. The format is a
 single compressed binary bundle with explicit format, schema, and content versions.
 It is inspired by MLBB's indexed `Document.unity3d` pack layout, but it adds per-entry
-compression and integrity metadata. It is not encrypted and does not support the
-legacy six-file encrypted layout.
+compression and integrity metadata. It is not encrypted. Schema 2 is the only
+supported content contract; older layouts are rejected instead of translated at
+runtime.
 
 The indexed payloads are the application's UTF-8 JSON datasets themselves. There is
 no nested ZIP archive or extracted repository tree inside the bundle.
@@ -18,6 +19,10 @@ immutable content-version path such as:
 versions/1001.0/assets/Document.mlbytes
 ```
 
-The root `latest.json` points to the newest immutable version manifest.
+The root `latest.json` points to the newest immutable version manifest. Editable,
+validated inputs live under `source/`; published clients consume only the generated
+bundle under `versions/`.
 
-See [FORMAT.md](FORMAT.md) for the draft container specification.
+See [FORMAT.md](FORMAT.md) for the container specification, [PAYLOADS.md](PAYLOADS.md)
+for the four JSON payload schemas, and [SOURCE.md](SOURCE.md) for the source-to-release
+boundary.

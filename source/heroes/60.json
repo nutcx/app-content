@@ -1,0 +1,249 @@
+{
+  "heroId": 60,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hanabi_%28Resplendent_Iris%29.jpg/revision/latest?cb=20241128094755",
+      "name": "Resplendent Iris",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hanabi_%28Resplendent_Iris%29.jpg/revision/latest?cb=20241128094755",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Basic%20to%20ALLSTARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Basic%20to%20SOUL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20HANABI%20BASIC%20TO%20GOLDENMONTH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hanabi_%28Viper%29.jpg/revision/latest?cb=20200824031410",
+      "name": "Viper",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hanabi_%28Viper%29.jpg/revision/latest?cb=20200824031410",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Elite%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Elite%20to%20ALLSTARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hanabi_%28Fiery_Moth%29.jpg/revision/latest?cb=20200513060336",
+      "name": "Fiery Moth",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hanabi_%28Fiery_Moth%29.jpg/revision/latest?cb=20200513060336",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Starlight%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Starlight%20to%20ALLSTARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hanabi_%28Scarlet_Flower%29.jpg/revision/latest?cb=20230308110952",
+      "name": "Scarlet Flower",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png/revision/latest?cb=20221217032835",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/HANABI%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/HANABI%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanabi%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/Mm/raw/main/hanabi_def_collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Mexi23/Mm/raw/main/hana_def_allstar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanabi%20SoulVessels.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/Hanabi%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20HANABI%20GOLDENMONTH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727285043305,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/V.E.N.O.M._-_Nephila_wall.jpg/revision/latest?cb=20200824031603",
+      "name": "V.E.N.O.M Nephila",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/V.E.N.O.M._-_Nephila_wall.jpg/revision/latest?cb=20200824031603",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Venom%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20VENOM%20to%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727285078642,
+      "type": "V.E.N.O.M"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hanabi_%28Rakshesha%29.jpg/revision/latest?cb=20200513061916",
+      "name": "Rakshesha",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hanabi_%28Rakshesha%29.jpg/revision/latest?cb=20200513061916",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727285109794,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hanabi_%28Field_Op%29.jpg/revision/latest?cb=20210529213850",
+      "name": "Field Op",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hanabi_%28Field_Op%29.jpg/revision/latest?cb=20210529213850",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Hanabi%20Special%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727285123373,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hanabi_%28Riverland_Phoenix%29.jpg/revision/latest?cb=20220107111042",
+      "name": "Riverland Phoenix",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hanabi_%28Riverland_Phoenix%29.jpg/revision/latest?cb=20220107111042",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727285146539,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hanabi_%28Moonlit_Ninja%29.jpg/revision/latest?cb=20230321152256",
+      "name": "Moonlit Ninja",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hanabi_%28Moonlit_Ninja%29.jpg/revision/latest?cb=20230321152256",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727285176315,
+      "type": "AllStars"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hanabi_%28Vessel_of_Rage%29.jpg/revision/latest?cb=20240725101324",
+      "name": "Vessels of Rage",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hanabi_%28Vessel_of_Rage%29.jpg/revision/latest?cb=20240725101324",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727285199611,
+      "type": "SoulVessels"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/FB_IMG_1753608095092.jpg",
+      "name": "Neon Glamour",
+      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/FB_IMG_1753608095092.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1754319551024,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20HANABI%20GOLDENMNT.jpg",
+      "name": "Twin Crescent",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20HANABI%20GOLDENMNT.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1775949994517,
+      "type": "Golden Month"
+    }
+  ]
+}

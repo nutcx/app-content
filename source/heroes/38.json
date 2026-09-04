@@ -1,0 +1,152 @@
+{
+  "heroId": 38,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Vexana_%28Lucent_Beacon%29.jpg/revision/latest?cb=20220630095405",
+      "name": "Lucent Beacon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Vexana_%28Lucent_Beacon%29.jpg/revision/latest?cb=20220630095405",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vexana_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20VEXANA%20BASIC%20TO%20ZENITH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Vexana_%28Cursed_Shackle%29.jpg/revision/latest?cb=20220914143925",
+      "name": "Cursed Shackle",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Vexana_%28Cursed_Shackle%29.jpg/revision/latest?cb=20220914143925",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vexana_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Season%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Season%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20VEXANA%20SEASON%20TO%20ZENITH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Vexana_%28Shimmer_of_Hope%29.jpg/revision/latest?cb=20220814094302",
+      "name": "Shimmer of Hope",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20240501104511",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vexana_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/vexana_def_epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/VEXANA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/vexana_def_collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20VEXANA%20ZENITH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Vexana%20Aspirant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727378464289,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Vexana_%28Sanguine_Rose%29.jpg/revision/latest?cb=20220630091241",
+      "name": "Sanguine Rose",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Vexana_%28Sanguine_Rose%29.jpg/revision/latest?cb=20220630091241",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727378479458,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Vexana_%28Circus_Magician%29.jpg/revision/latest?cb=20221205091911",
+      "name": "Circus Magician",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Vexana_%28Circus_Magician%29.jpg/revision/latest?cb=20221205091911",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727378490044,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Vexana_%28The_Sun_Empress%29.jpg/revision/latest?cb=20230914134518",
+      "name": "Sun Empress",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Vexana_%28The_Sun_Empress%29.jpg/revision/latest?cb=20230914134518",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727378500758,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Vexana_%28Twisted_Fairytale%29.jpg/revision/latest?cb=20240326141548",
+      "name": "Twisted Fairytale",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Vexana_%28Twisted_Fairytale%29.jpg/revision/latest?cb=20240326141548",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727378515530,
+      "type": "Zenith"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20VEXANA%20ASPIRANT.jpg",
+      "name": "Daybreak Halo",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20VEXANA%20ASPIRANT.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1756746037974,
+      "type": "Aspirants"
+    }
+  ]
+}

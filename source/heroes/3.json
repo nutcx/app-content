@@ -1,0 +1,183 @@
+{
+  "heroId": 3,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Saber_%28Golden_Flash%29.jpg/revision/latest?cb=20201009123849",
+      "name": "Golden Flash",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Saber_%28Golden_Flash%29.jpg/revision/latest?cb=20201009123849",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20BASIC%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Saber%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Saber_%28Fullmetal_Ronin%29.png/revision/latest?cb=20180531080207",
+      "name": "Fullmetal Ronin",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Saber_%28Fullmetal_Ronin%29.png/revision/latest?cb=20180531080207",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20ELITE%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Saber%20Elite%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Saber_%28Force_Warrior%29.jpg/revision/latest?cb=20200419032828",
+      "name": "Force Warrior",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Saber_%28Force_Warrior%29.jpg/revision/latest?cb=20200419032828",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20STARLIGHT%20FORCE%20WAR%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Saber_%28Silver_Edge%29.jpg/revision/latest?cb=20211221013434",
+      "name": "Silver Edge",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Saber_%28Silver_Edge%29.jpg/revision/latest?cb=20211221013434",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20SILVER%20EDGE%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Saber_%28Wandering_Sword%29.jpg/revision/latest?cb=20201009123921",
+      "name": "Wandering Sword",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20240602234619",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1031.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20LEGEND%20REVAMP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/saber_def_epicsaber.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Saber%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Saber%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727376262955,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Saber_%28Codename-Storm%29.png/revision/latest?cb=20260102012009",
+      "name": "Codename Storm",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Saber_%28Codename-Storm%29.png/revision/latest?cb=20260102012009",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727376283449,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Saber_%28S.A.B.E.R._Regulator%29.jpg/revision/latest?cb=20220302141803",
+      "name": "S.A.B.E.R Regulator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Saber_%28S.A.B.E.R._Regulator%29.jpg/revision/latest?cb=20220302141803",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Saber%20Saber%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727376294310,
+      "type": "S.A.B.E.R"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_043623.jpg",
+      "name": "Onimaru",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_043623.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727376303984,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Saber_%28Iron_Hound%29.jpg/revision/latest?cb=20230308111045",
+      "name": "Iron Hound",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Saber_%28Iron_Hound%29.jpg/revision/latest?cb=20230308111045",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20STARLIGHT%20IRON%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727376329244,
+      "type": "Starlight"
+    }
+  ]
+}

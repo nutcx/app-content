@@ -1,0 +1,305 @@
+{
+  "heroId": 103,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Paquito_%28Death_Blow%29.jpg/revision/latest?cb=20210120181634",
+      "name": "Death Blow",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Paquito_%28Death_Blow%29.jpg/revision/latest?cb=20210120181634",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Updater/raw/main/Paquito%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Normal%20to%20PAKYAW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Normal%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Normal%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Normal%20to%20FMVP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/PAQUITO%20BASIC%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BGV2vW1xKFB102qmuzH7of06h-O2-jxiMZ6h-eJe74LihMzZChC7qi9UeSAK7qpwdGNiLQJowVpvAXKTLx-0cm1kkhZqTqu9zCp5BZAJlLRaZTKNIVNIJ8TpDO3XDYq9XqxJSCFXRsyjtLAaTWQFPCzDfN49U0CQkVGPPy-ps90xnoXh31czNb7_HQ/s1920/paquito-fist-of-light-special-skin-wallpaper-hd.jpg",
+      "name": "Fist of Light",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BGV2vW1xKFB102qmuzH7of06h-O2-jxiMZ6h-eJe74LihMzZChC7qi9UeSAK7qpwdGNiLQJowVpvAXKTLx-0cm1kkhZqTqu9zCp5BZAJlLRaZTKNIVNIJ8TpDO3XDYq9XqxJSCFXRsyjtLAaTWQFPCzDfN49U0CQkVGPPy-ps90xnoXh31czNb7_HQ/s1920/paquito-fist-of-light-special-skin-wallpaper-hd.jpg",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Updater/raw/main/Paquito%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Fist%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Fist%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/PAQUITO%20SPECIAL%20FIST%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Paquito_%28The_Heavenly_Fist%29.jpg/revision/latest?cb=20210202033450",
+      "name": "Heavenly Fist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Updater/raw/main/Paquito%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Paquito%20Manny%20Pakyaw.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Paquito%20UndergrowndBoxer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/PAQUITO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Paquito%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Paquito%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Paquito%20FMVP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/PAQUITO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Paquito/Paquito%20Default/Paquito%20Street%20Fighter%20-%20Ryu%20(Outfit%201).zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Paquito/Paquito%20Default/Paquito%20Street%20Fighter%20-%20Ryu%20(Outfit%202).zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Paquito%20-%20Hakkai.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20PAQUITOO%20JOLIIBEE.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727372794783,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Paquito_%28Manny_Pacquiao%29.jpg/revision/latest?cb=20211214080040",
+      "name": "Manny Pacquiao",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Paquito_%28Manny_Pacquiao%29.jpg/revision/latest?cb=20211214080040",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727372806597,
+      "type": "Pacquiao"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Paquito_%28Underground_Boxer%29.jpg/revision/latest?cb=20211009115143",
+      "name": "Underground Boxer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Paquito_%28Underground_Boxer%29.jpg/revision/latest?cb=20211009115143",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Updater/raw/main/Paquito%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Underground%20to%20PAKYAW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Underground%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Underground%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Underground%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/PAQUITO%20UNDERGROUND%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727372817665,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Paquito_%28Fulgent_Punch%29.jpg/revision/latest?cb=20230819040253",
+      "name": "Fulgent Punch",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Paquito_%28Fulgent_Punch%29.jpg/revision/latest?cb=20230819040253",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Updater/raw/main/Paquito%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Starlight%20to%20PAKYAW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Starlight%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Starlight%20to%20PAKYAW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727372827938,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Paquito_%28Blazing_Tiger%29.jpg/revision/latest?cb=20240124083602",
+      "name": "Blazing Tiger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Paquito_%28Blazing_Tiger%29.jpg/revision/latest?cb=20240124083602",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727372836377,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Paquito_%28Terry_Bogard%29.jpg/revision/latest?cb=20240430025557",
+      "name": "Terry Bogard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Paquito_%28Terry_Bogard%29.jpg/revision/latest?cb=20240430025557",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727372861448,
+      "type": "King of Fighters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Paquito_%28Fist_of_Glory%29.jpg/revision/latest?cb=20240904135337",
+      "name": "Fist of Glory",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Paquito_%28Fist_of_Glory%29.jpg/revision/latest?cb=20240904135337",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727372870594,
+      "type": "FMVP"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Paquito%20Epic.jpg",
+      "name": "Demontech Striker",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Paquito%20Epic.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1761514325102,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/Paquito_(Ryu).png",
+      "name": "Ryu (Outfit 1)",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/Paquito_(Ryu).png",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1783344238019,
+      "type": "SF6"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/Paquito_(Ryu_(Outfit_2)).webp",
+      "name": "Ryu (Outfit 2)",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/Paquito_(Ryu_(Outfit_2)).webp",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1783344440515,
+      "type": "SF6"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20hakkaii.jpeg",
+      "name": "Hakkai Shiba",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20hakkaii.jpeg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728790982876,
+      "type": "Anime|TokyoRevenge"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PAQUITO%20JOEBELII.jpg",
+      "name": "Jollibee",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PAQUITO%20JOEBELII.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771301546374,
+      "type": "Weird"
+    }
+  ]
+}

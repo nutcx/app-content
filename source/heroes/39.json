@@ -1,0 +1,245 @@
+{
+  "heroId": 39,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Roger_%28Dark_Gent%29.jpg/revision/latest?cb=20241128083630",
+      "name": "Dark Gent",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Roger_%28Dark_Gent%29.jpg/revision/latest?cb=20241128083630",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Basic%20to%20Phantom%20Pirate.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Basic%20to%20CYBORG.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Basic%20to%20M3.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/ROGER%20BASIC%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/ROGER%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Roger_%28Anubis%29.jpg/revision/latest?cb=20200824043711",
+      "name": "Anubis",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Roger_%28Anubis%29.jpg/revision/latest?cb=20200824043711",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Starlight%20to%20CYBORG.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Starlight%20to%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Starlight%20to%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Roger_%28Dire_Wolf_Hunter%29.jpg/revision/latest?cb=20200815074734",
+      "name": "Wolf Hunter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/roger_def_epicDrN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Roger%20Phantom%20Pirate.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20EPIC%20CYBORG%20WOLF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Roger%20M3%20Fix.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/ROGER%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/ROGER%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/Roger%20Metro%20Zero.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Roger%20Hulk.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727375802524,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Roger_%28Dr._Beast%29.jpg/revision/latest?cb=20220920092202",
+      "name": "Dr Beast",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Roger_%28Dr._Beast%29.jpg/revision/latest?cb=20220920092202",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727375810421,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Roger_%28Phantom_Hunter%29.jpg/revision/latest?cb=20230321152130",
+      "name": "Phantom Pirate",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Roger_%28Phantom_Hunter%29.jpg/revision/latest?cb=20230321152130",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Phantom%20to%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Phantom%20to%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727375819700,
+      "type": "epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Roger_%28Cyborg_Werewolf%29.jpg/revision/latest?cb=20231104060722",
+      "name": "Cyborg Werewolf",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Roger_%28Cyborg_Werewolf%29.jpg/revision/latest?cb=20231104060722",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Cyborg%20to%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Roger%20Cyborg%20to%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727375841153,
+      "type": "epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Roger_%28Phantom_Ranger%29.jpg/revision/latest?cb=20211202145246",
+      "name": "Phantom Ranger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Roger_%28Phantom_Ranger%29.jpg/revision/latest?cb=20211202145246",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727375849834,
+      "type": "m3"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Roger_%28Fiend_Haunter%29.jpg/revision/latest?cb=20211202144811",
+      "name": "Field Haunter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Roger_%28Fiend_Haunter%29.jpg/revision/latest?cb=20211202144811",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727375877818,
+      "type": "prime"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Roger_%28Grimlock%29.jpg/revision/latest?cb=20220519140335",
+      "name": "Grimlock",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Roger_%28Grimlock%29.jpg/revision/latest?cb=20220519140335",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727375891084,
+      "type": "Transformers"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1335954258275650.jpeg",
+      "name": "Invoker's Restraint",
+      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1335954258275650.jpeg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1754322248969,
+      "type": "Metro Zero"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/hsCZCRG/Hulk.jpg",
+      "name": "Hulk",
+      "portrait": "https://i.ibb.co/hsCZCRG/Hulk.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727960635119,
+      "type": "Weird"
+    }
+  ]
+}

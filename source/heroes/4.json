@@ -1,0 +1,150 @@
+{
+  "heroId": 4,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Alice_Spirit_Woman.jpg/revision/latest?cb=20251208095844",
+      "name": "Spirit Woman",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Alice_Spirit_Woman.jpg/revision/latest?cb=20251208095844",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20ALICE%20ELITE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Divine_Owl_and_Midnight_Raven_wall.JPG/revision/latest?cb=20200419034055",
+      "name": "Divine Owl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Divine_Owl_and_Midnight_Raven_wall.JPG/revision/latest?cb=20200419034055",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALICE%20SPECIAL%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Atlas_HQHeroAtlas451_add-qlpicsay.png/revision/latest?cb=20260202235411",
+      "name": "Jade Empress",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Atlas_HQHeroAtlas451_add-qlpicsay.png/revision/latest?cb=20260202235411",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALICE%20SEASON%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20ALICE%20SEASON%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Alice_%28Steam_Glider%29.jpg/revision/latest?cb=20190304141517",
+      "name": "Steam Glider",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Alice_%28Steam_Glider%29.jpg/revision/latest?cb=20190304141517",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALICE%20STARLIGHT%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Alice_%28Queen_of_Blood%29.jpg/revision/latest?cb=20200419033908",
+      "name": "Queen of Blood",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20241021140346",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1041.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ALICE%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALICE%20LUCKYBOX%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20ALICE%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1736568650363,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Alice_%28Darknet_Temptress%29.jpg/revision/latest?cb=20240620040615",
+      "name": "Darknet Temptress",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Alice_%28Darknet_Temptress%29.jpg/revision/latest?cb=20240620040615",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1736568660159,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Alice_Wizardry_Teacher.png/revision/latest?cb=20260122223935",
+      "name": "Wizardry Teacher",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Alice_Wizardry_Teacher.png/revision/latest?cb=20260122223935",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1770308478088,
+      "type": "Luckybox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALICE%20COLLECTOR.jpg",
+      "name": "Dreaming Monarch",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALICE%20COLLECTOR.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1775949786630,
+      "type": "Collector"
+    }
+  ]
+}

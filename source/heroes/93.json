@@ -1,0 +1,108 @@
+{
+  "heroId": 93,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Reactor_Core_wall.jpg/revision/latest?cb=20200528124305",
+      "name": "Reactor Core",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Reactor_Core_wall.jpg/revision/latest?cb=20200528124305",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/ATLAS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Atlas%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Atlas%20Basic%20to%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Atlas%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Atlas_%28Ocean_Gladiator%29.jpg/revision/latest?cb=20200528124541",
+      "name": "Ocean Gladiator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20220525171026",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/ATLAS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Tangaka12/tankwar/raw/main/AtlasElite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/ATLAS%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/ATLAS%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Atlas%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727162200909,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Fuel_Turbine_wall.jpg/revision/latest?cb=20200907091800",
+      "name": "Fuel Turbine",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest?cb=20220525170224",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727162213821,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Atlas_%28Space_Mech%29.png/revision/latest?cb=20220908203813",
+      "name": "Space Mech",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest?cb=20220804115339",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727162234859,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Atlas_%28Rune_Sentinel%29.jpg/revision/latest?cb=20240124081454",
+      "name": "Rune of Sentinel",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727162246744,
+      "type": "MSC 2024"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Atlas_%28Mecha_Infernus%29.jpg/revision/latest?cb=20240725093233",
+      "name": "Mecha Infernus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero936-portrait.png/revision/latest?cb=20240918023911",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727162264245,
+      "type": "Collector"
+    }
+  ]
+}

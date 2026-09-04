@@ -1,0 +1,282 @@
+{
+  "heroId": 52,
+  "skins": [
+    {
+      "category": -2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20YZ%20ALLSTAR.jpg",
+      "name": "Tidescale Sealord",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20YZ%20ALLSTAR.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Pharsa_%28Wings_of_Heaven%29.jpg/revision/latest?cb=20181119104050",
+      "name": "Wings of Heaven",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Pharsa_%28Wings_of_Heaven%29.jpg/revision/latest?cb=20181119104050",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20PHARSA%20BASIC%20TO%20ALLSTAR.zip",
+            "targetCategory": -2,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Pharsa%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Pharsa%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20BASIC%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Pharsa_%28Peafowl%27s_Dance%29.jpg/revision/latest?cb=20180913134828",
+      "name": "Peafowl Dance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Pharsa_%28Peafowl%27s_Dance%29.jpg/revision/latest?cb=20180913134828",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Pharsa%20Elite%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20ELITE%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Pharsa_%28Indigo_Aviatrix%29.jpg/revision/latest?cb=20200408113752",
+      "name": "Indigo Aviatrix",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Pharsa_%28Indigo_Aviatrix%29.jpg/revision/latest?cb=20200408113752",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Pharsa%20Indigo%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20INDIGO%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Pharsa_%28Enchanting_Witch%29.jpg/revision/latest?cb=20200417235945",
+      "name": "Enchanting Witch",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Pharsa_%28Enchanting_Witch%29.jpg/revision/latest?cb=20200417235945",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Pharsa%20Season%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20SEASON%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Pharsa_%28Samba_Muse%29.jpg/revision/latest?cb=20210119124735",
+      "name": "Samba Muse",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Pharsa_%28Samba_Muse%29.jpg/revision/latest?cb=20210119124735",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20SPECIAL%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Pharsa_%28Wings_of_Vengeance%29.jpg/revision/latest?cb=20200818031855",
+      "name": "Wings of Vengeance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20240122082105",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/PHARSA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/PHARSA%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_epicneon.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20NEOBEAST%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20PHARSA%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Pharsa%20-%20Smiley%26Angry.zip",
+            "targetCategory": 1,
+            "targetSkinId": 30
+          }
+        ]
+      },
+      "timestamp": 1727373176186,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Pharsa_%28Empress_Phoenix%29.jpg/revision/latest?cb=20200806093644",
+      "name": "Empress Phoenix",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Pharsa_%28Empress_Phoenix%29.jpg/revision/latest?cb=20200806093644",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727373221415,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Pharsa_%28Peony_Bloom%29.jpg/revision/latest?cb=20211221013458",
+      "name": "Peony Bloom",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Pharsa_%28Peony_Bloom%29.jpg/revision/latest?cb=20211221013458",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Pharsa%20Starlight%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20STARLIGHT%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727373232297,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Pharsa_%28Hierophant%29.jpg/revision/latest?cb=20220519140338",
+      "name": "Hierophant",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Pharsa_%28Hierophant%29.jpg/revision/latest?cb=20220519140338",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727373242894,
+      "type": "MSC 2022"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Pharsa_%28Neon_Shingetsu%29.jpg/revision/latest?cb=20230914134143",
+      "name": "Neon Shingetsu",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Pharsa_%28Neon_Shingetsu%29.jpg/revision/latest?cb=20230914134143",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20EPIC%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727373256686,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Pharsa_%28Neobeast_Pharsa%29.jpg/revision/latest?cb=20250301020412",
+      "name": "Neobeast Pharsa",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Pharsa_%28Neobeast_Pharsa%29.jpg/revision/latest?cb=20250301020412",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1742527115806,
+      "type": "Neobeast"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PHARSA%20ALLSTAR.jpg",
+      "name": "Seasworn Oracle",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PHARSA%20ALLSTAR.jpg",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1775949830775,
+      "type": "All Stars"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20Smile%20angry.jpeg",
+      "name": "Smiley&Angry",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20Smile%20angry.jpeg",
+      "skinId": 30,
+      "source": null,
+      "timestamp": 1728791181418,
+      "type": "Anime|TokyoRevenge"
+    }
+  ]
+}

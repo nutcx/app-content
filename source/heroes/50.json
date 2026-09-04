@@ -1,0 +1,121 @@
+{
+  "heroId": 50,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Zhask_%28Crystallized_Predator%29.jpg/revision/latest?cb=20200529124202",
+      "name": "Crystallized Predator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Zhask_%28Crystallized_Predator%29.jpg/revision/latest?cb=20200529124202",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ZHASK%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Zhask%20Basic%20to%20Luckybox(Revamp).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zhask%20Basic%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zhask%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Zhask_%28Extraterrestrial%29.jpg/revision/latest?cb=20201120095623",
+      "name": "Extraterrestial",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Zhask_%28Extraterrestrial%29.jpg/revision/latest?cb=20201120095623",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ZHASK%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Zhask%20Special%20to%20LuckyBox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Zhask_%28The_King_of_Swarms%29.jpg/revision/latest?cb=20200529124046",
+      "name": "King of Swarms",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20240112141505",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ZHASK%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Zhask%20Luckybox%20Revamp.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Zhask%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/02%20Zhask%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727379717040,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Zhask_%28Bone_Flamen%29.jpg/revision/latest?cb=20220710041628",
+      "name": "Bone Flamen",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Zhask_%28Bone_Flamen%29.jpg/revision/latest?cb=20220710041628",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727379727495,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Zhask-Cancer-Revamp.jpg/revision/latest?cb=20230619014545",
+      "name": "Cancer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Zhask-Cancer-Revamp.jpg/revision/latest?cb=20230619014545",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727379738552,
+      "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20ZHASK%20STAR.jpg",
+      "name": "Death's Shadow",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20ZHASK%20STAR.jpg",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ZHASK%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Zhask%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1727809168145,
+      "type": "Starlight"
+    }
+  ]
+}

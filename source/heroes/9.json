@@ -1,0 +1,197 @@
+{
+  "heroId": 9,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Akai_%28Stream_Recluse%29.jpg/revision/latest?cb=20210712230737",
+      "name": "Stream Recluse",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Akai_%28Stream_Recluse%29.jpg/revision/latest?cb=20210712230737",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/AKAI%20ELITE%20STREAM%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Akai_%28Street_Enforcer%29.jpg/revision/latest?cb=20210730190452",
+      "name": "Street Enforcer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Akai_%28Street_Enforcer%29.jpg/revision/latest?cb=20210730190452",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Akai%20Season%20to%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241127_213411.jpg",
+      "name": "Summer Party",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241127_213411.jpg",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/AKAI%20SUMMER%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Akai_%28Monk%29.jpg/revision/latest?cb=20210712230531",
+      "name": "Monk",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Akai_%28Monk%29.jpg/revision/latest?cb=20210712230531",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/AKAI%20ELITEMONK%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Akai_%28Panda_Warrior%29.jpg/revision/latest?cb=20231104055333",
+      "name": "Panda Warrior",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20241021140401",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1091.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20Akai%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mexi23/TankD/raw/main/akai_def_epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/AKAI%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/TankD/raw/main/akai_def_halloween.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20AKAI%208TH%20MLBB.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727081717920,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Akai_%28Akazonae_Samurai%29.jpg/revision/latest?cb=20210712230720",
+      "name": "Akazonae Samurai",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEh1Z76jsyDzBbwB02vv3Pe7-sFvxf2V1byYc1fK-IwjvwUY2zc1gnCKjXirx-pcbXovD_FhDdS_HDSVVLhVRMJnajDXkUOb_baPyv48aliUz9KNo8XMQf3gGiZX9Y-ZKHthV76-uVZfShSbAXNLaGVkfrqG6fktDngT3A-vhEmZq0_4b-exPqd0a3hBtw=s1920",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Akai%20Starlight%20to%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727082058756,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Akai_%28Imperial_Assassin%29.jpg/revision/latest?cb=20230818081350",
+      "name": "Imperial Assasin",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgL3yPH4O5XyXpfvLU2aqYc5gdLsbNpkrxOgS1L9ToF-S8GPVtgVNoxV75d__ot-I9NFMOTPZWnAHrYfduVvZwbAM25qr0O-wlqV1DiHO-_S7aNbEgNEuUfRJnUnOrLR8ohmZC7R4toNKIapPm_IWoSx3FI8o3BjxtbDb1nsNEln9vZd3ESYLyhpsO69Q=s1920",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727082122435,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Akai_%28Kung_Fu_Panda%29.jpg/revision/latest?cb=20220804115052",
+      "name": "Kung Fu Panda",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5-Ys91A2lF7pO8bTocXwVUoUsetcUlHwC0LEXaG-gsqQaEiOu_u4CV0Aab2SPQxCMsvVckTlV8x6LvoS9Son7TuwgZejwUHLbRQdWbOGI3HE12YNCcQkMItNLUxgc7ZrLgMKZTBSaSbDUP-ym0Atl2KUvynPHakgiej1aNlnKoechF45qahE9gYk4aw/s1082/akai-po-skin-kung-fu-panda-wallpaper-hd.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727082189424,
+      "type": "Kung Fu Panda"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Akai_%28Pumpkin_Brawler%29.jpg/revision/latest?cb=20231021072829",
+      "name": "Pumpkin Brawler",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWE-DbxO0_tzZHg6IQY7v1skWWx9O69c94YHhIrTSBEq9Cx1P9Z2aQMHaVLdY4oRSwecZHyKdBgaqBJXUaoTScjaQOXUK0wb9WJEmQypcEWYZO1kmUrwuU-IpiPIEzrrZ4VXo7nBPwc1xH2i02TSn09QoHaN4zLbhKTZ9RsOT23omgaSJuUy8tNaqd4VZT/s3840/akai-pumpkin-brawler-hallowen-skin-wallpaper-hd.jpg",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/AKAI%20HALLOWEEN%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727082287786,
+      "type": "Halloween"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/received_938935237994115.jpeg",
+      "name": "Marvelous Maestro",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/received_938935237994115.jpeg",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/AKAI%20ANNIV%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727689104586,
+      "type": "8th Anniversary"
+    }
+  ]
+}

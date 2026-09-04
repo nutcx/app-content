@@ -1,0 +1,166 @@
+{
+  "heroId": 116,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Julian_%28Silent_Edge%29.jpg/revision/latest?cb=20220609110430",
+      "name": "Silent Edge",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Julian_%28Silent_Edge%29.jpg/revision/latest?cb=20220609110430",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D7%20JULIAN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Julian%20Basic%20to%20Fatcat.zip",
+            "targetCategory": -1,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Julian/JJKRevamp/Julian%20X%20Megumi%20Revamp%20Replace%20Basic%20-%5B%20Nutx%2CK4%2CXvrnn%20%5D.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/JULIAN%20BASIC%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F8%20Julian%20Normal%20to%20JJK.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Julian_%28Meowkin_Tracker%29.jpg/revision/latest?cb=20250601063939",
+      "name": "Meowskin Tracker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Julian_%28Meowkin_Tracker%29.jpg/revision/latest?cb=20250601063939",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/JULIAN%20MEOWSKN%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Julian%20Fatcat.jpg",
+      "name": "Fatcat Julian",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Julian%20Fatcat.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Julian_%28Scarlet_Raven%29.jpg/revision/latest?cb=20220317095207",
+      "name": "Scarlet Raven",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D7%20JULIAN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Julian/JJKRevamp/Julian%20X%20Megumi%20Revamp%20Replace%20Default%20-%5B%20Nutx%2CK4%2CXvrnn%20%5D.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/O18%20Julian%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/JULIAN%20NARUTO%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F2%20JULIAN%20HXH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Julian%20Meowskin.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727363306373,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Julian_%28Megumi_Fushiguro%29.jpg/revision/latest?cb=20230308111005",
+      "name": "Megumi Fushiguro",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Julian_%28Megumi_Fushiguro%29.jpg/revision/latest?cb=20230308111005",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/JULIAN%20JJK%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727363323666,
+      "type": "Jujutsu Kaisen"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/O18%20Julian%20Starlight.jpg",
+      "name": "Thunder Warden",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/O18%20Julian%20Starlight.jpg",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1729264132876,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JULIAN%20NARUTO.jpg",
+      "name": "Itachi Uchiha",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JULIAN%20NARUTO.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1770378755675,
+      "type": "Naruto Shippuden"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20JULIAN%20HXH.jpg",
+      "name": "Kurapika of Kurta",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20JULIAN%20HXH.jpg",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1733571135451,
+      "type": "HxH"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Julian%20Fatcat.jpg",
+      "name": "Meowkin Tracker",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Julian%20Fatcat.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1750500636410,
+      "type": "Mystic Meow"
+    }
+  ]
+}

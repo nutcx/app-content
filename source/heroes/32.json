@@ -1,0 +1,549 @@
+{
+  "heroId": 32,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Johnson_%28Fire_Chief%29.jpg/revision/latest?cb=20241128083558",
+      "name": "Fire Chief",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Johnson_%28Fire_Chief%29.jpg/revision/latest?cb=20241128083558",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Normal%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Basic%20to%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Basic%20to%20LEGEND(FIX).zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
+      "name": "Starblazer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Anniv%20to%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Anniv%20to%20LEGEND%20(NEW).zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Johnson_%28Wild_Engine%29.jpg/revision/latest?cb=20231009020910",
+      "name": "Wild Engine",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png/revision/latest?cb=20230826055045",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Johnson%20Saber.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/JOHNSON%20ELITE%20JEEPNEY.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Johnson%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/JOHNSON%20SPECIAL%20DETRIDE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F4%20Johnson%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Wheelchair.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Airplane.zip",
+            "targetCategory": 2,
+            "targetSkinId": 21
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Banana%20Boat.zip",
+            "targetCategory": 2,
+            "targetSkinId": 22
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Balmond%20Chooper%20Bike.zip",
+            "targetCategory": 2,
+            "targetSkinId": 23
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Richkid%20Chou.zip",
+            "targetCategory": 2,
+            "targetSkinId": 24
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/F-15%20Eagle.zip",
+            "targetCategory": 2,
+            "targetSkinId": 25
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Rocketman%20Paquito.zip",
+            "targetCategory": 2,
+            "targetSkinId": 26
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Scooter.zip",
+            "targetCategory": 2,
+            "targetSkinId": 27
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/GTA%20CJ.zip",
+            "targetCategory": 2,
+            "targetSkinId": 28
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Ph%20jeepney.zip",
+            "targetCategory": 2,
+            "targetSkinId": 29
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Yatcht.zip",
+            "targetCategory": 2,
+            "targetSkinId": 30
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/pedicab.zip",
+            "targetCategory": 2,
+            "targetSkinId": 31
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/MrBean.zip",
+            "targetCategory": 2,
+            "targetSkinId": 32
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Balmond%20Ads.zip",
+            "targetCategory": 2,
+            "targetSkinId": 33
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/chou%20ads.zip",
+            "targetCategory": 2,
+            "targetSkinId": 34
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Gojek.zip",
+            "targetCategory": 2,
+            "targetSkinId": 35
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Johnson%20Quad%20Bike.zip",
+            "targetCategory": 2,
+            "targetSkinId": 37
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Johnson%20Street%20Vendors.zip",
+            "targetCategory": 2,
+            "targetSkinId": 38
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/TrainLegend.zip",
+            "targetCategory": 2,
+            "targetSkinId": 39
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Johnson%20Minions.zip",
+            "targetCategory": 2,
+            "targetSkinId": 40
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Johnson%20X%20JolibeeCar.zip",
+            "targetCategory": 2,
+            "targetSkinId": 41
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20JONHSON%20X%20POU.zip",
+            "targetCategory": 2,
+            "targetSkinId": 42
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20JOHNSON.zip",
+            "targetCategory": 2,
+            "targetSkinId": 43
+          }
+        ]
+      },
+      "timestamp": 1727362733124,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
+      "name": "S.A.B.E.R Automata",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Saber%20to%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Saber%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727362749537,
+      "type": "S.A.B.E.R"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Johnson_%28Jeepney_Racer%29.jpg/revision/latest?cb=20181031101759",
+      "name": "Jeepney Racer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Johnson_%28Jeepney_Racer%29.jpg/revision/latest?cb=20181031101759",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Elite%20to%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Elite%20to%20LEGEND%20(FIX).zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727362781404,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Johnson_%28Wreck_King%29.jpg/revision/latest?cb=20240429080234",
+      "name": "Wreck King",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Johnson_%28Wreck_King%29.jpg/revision/latest?cb=20240429080234",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727362813749,
+      "type": "Luckybox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Johnson_%28Death_Ride%29.jpg/revision/latest?cb=20201213132140",
+      "name": "Death Ride",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Johnson_%28Death_Ride%29.jpg/revision/latest?cb=20201213132140",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Special%20to%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Special%20to%20LEGEND(FIX).zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727362823349,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Johnson_%28Optimus_Prime%29.jpg/revision/latest?cb=20211214152518",
+      "name": "Optimus Prime",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Johnson_%28Optimus_Prime%29.jpg/revision/latest?cb=20211214152518",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727362856029,
+      "type": "Transformers"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Johnson_%28Sovereign_of_Realms%29.jpg/revision/latest?cb=20241208031713",
+      "name": "Sovereign of Realms",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Johnson_%28Sovereign_of_Realms%29.jpg/revision/latest?cb=20241208031713",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1734772213527,
+      "type": "Legend"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/GxnMkJV/Wheel-Chair.png",
+      "name": "Wheelchair",
+      "portrait": "https://i.ibb.co/GxnMkJV/Wheel-Chair.png",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727872639678,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/K0SFL6Y/Airplane.png",
+      "name": "Airplane",
+      "portrait": "https://i.ibb.co/K0SFL6Y/Airplane.png",
+      "skinId": 21,
+      "source": null,
+      "timestamp": 1727872660318,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/Pjdyqb0/Banana-Boat.png",
+      "name": "Banana Boat",
+      "portrait": "https://i.ibb.co/Pjdyqb0/Banana-Boat.png",
+      "skinId": 22,
+      "source": null,
+      "timestamp": 1727872684444,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/5nxRN0V/Balmond-With-Motor.png",
+      "name": "Chopper Bike",
+      "portrait": "https://i.ibb.co/5nxRN0V/Balmond-With-Motor.png",
+      "skinId": 23,
+      "source": null,
+      "timestamp": 1727872850541,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/n6qkMfT/Richkid-Chou.png",
+      "name": "Chou Richkid",
+      "portrait": "https://i.ibb.co/n6qkMfT/Richkid-Chou.png",
+      "skinId": 24,
+      "source": null,
+      "timestamp": 1727957698439,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/9hR7ps0/F15-Eagle.png",
+      "name": "F15 Eagle",
+      "portrait": "https://i.ibb.co/9hR7ps0/F15-Eagle.png",
+      "skinId": 25,
+      "source": null,
+      "timestamp": 1727957720876,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/MPCVp4J/rocketman.png",
+      "name": "Paquito Rocketman",
+      "portrait": "https://i.ibb.co/MPCVp4J/rocketman.png",
+      "skinId": 26,
+      "source": null,
+      "timestamp": 1727957771383,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/grzN3H0/Scooter.png",
+      "name": "Scooter",
+      "portrait": "https://i.ibb.co/grzN3H0/Scooter.png",
+      "skinId": 27,
+      "source": null,
+      "timestamp": 1727957847400,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/bN2T4wh/GTA-CJ.png",
+      "name": "GTA CJ",
+      "portrait": "https://i.ibb.co/bN2T4wh/GTA-CJ.png",
+      "skinId": 28,
+      "source": null,
+      "timestamp": 1727957866418,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/cLfSmYX/Philippines-Jepniey.png",
+      "name": "Philippines Jeepney",
+      "portrait": "https://i.ibb.co/cLfSmYX/Philippines-Jepniey.png",
+      "skinId": 29,
+      "source": null,
+      "timestamp": 1727957897987,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/tXJQ3zd/Yacht.png",
+      "name": "Yatch",
+      "portrait": "https://i.ibb.co/tXJQ3zd/Yacht.png",
+      "skinId": 30,
+      "source": null,
+      "timestamp": 1727957977227,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/Dwfpc74/Pedicab.png",
+      "name": "Pedicab",
+      "portrait": "https://i.ibb.co/Dwfpc74/Pedicab.png",
+      "skinId": 31,
+      "source": null,
+      "timestamp": 1727958012167,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/hmHsMN0/Mr-Bean.png",
+      "name": "Mr Bean",
+      "portrait": "https://i.ibb.co/hmHsMN0/Mr-Bean.png",
+      "skinId": 32,
+      "source": null,
+      "timestamp": 1727958025866,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/7gxjrJY/Balmond-Ads.png",
+      "name": "Balmond Ads",
+      "portrait": "https://i.ibb.co/7gxjrJY/Balmond-Ads.png",
+      "skinId": 33,
+      "source": null,
+      "timestamp": 1727958071061,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/MfsxWcj/Chou-Ads.png",
+      "name": "Chou Ads",
+      "portrait": "https://i.ibb.co/MfsxWcj/Chou-Ads.png",
+      "skinId": 34,
+      "source": null,
+      "timestamp": 1727958084749,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/sRN5WPN/Gojek.png",
+      "name": "Gojek",
+      "portrait": "https://i.ibb.co/sRN5WPN/Gojek.png",
+      "skinId": 35,
+      "source": null,
+      "timestamp": 1727958096847,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/mtbGdZ7/Roger-Mscov.jpg",
+      "name": "Roger&Moscov",
+      "portrait": "https://i.ibb.co/mtbGdZ7/Roger-Mscov.jpg",
+      "skinId": 37,
+      "source": null,
+      "timestamp": 1727958184968,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/4MGZT1f/Street-Vendor.jpg",
+      "name": "Street Vendor",
+      "portrait": "https://i.ibb.co/4MGZT1f/Street-Vendor.jpg",
+      "skinId": 38,
+      "source": null,
+      "timestamp": 1727958200186,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/1KsVQ43/Clint-Fukact.jpg",
+      "name": "Train Legend",
+      "portrait": "https://i.ibb.co/1KsVQ43/Clint-Fukact.jpg",
+      "skinId": 39,
+      "source": null,
+      "timestamp": 1727958313066,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/345Sm24/Menyons.jpg",
+      "name": "Minions",
+      "portrait": "https://i.ibb.co/345Sm24/Menyons.jpg",
+      "skinId": 40,
+      "source": null,
+      "timestamp": 1727958404833,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20JOLIBEE%20TRUCK.jpg",
+      "name": "Jolibee Truck",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20JOLIBEE%20TRUCK.jpg",
+      "skinId": 41,
+      "source": null,
+      "timestamp": 1771518011750,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20POU.jpg",
+      "name": "Pou",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20POU.jpg",
+      "skinId": 42,
+      "source": null,
+      "timestamp": 1771518105286,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20JOHNSON.jpg",
+      "name": "n",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20JOHNSON.jpg",
+      "skinId": 43,
+      "source": null,
+      "timestamp": 1771518254244,
+      "type": "Chibi"
+    }
+  ]
+}

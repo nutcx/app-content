@@ -1,0 +1,431 @@
+{
+  "heroId": 7,
+  "skins": [
+    {
+      "category": -2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20220214005924",
+      "name": "Sweet Fantacy",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20220214005924",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Alucard_%28Lone_Hero%29.jpg/revision/latest?cb=20230201105518",
+      "name": "Lone Hero",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Alucard_%28Lone_Hero%29.jpg/revision/latest?cb=20230201105518",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Normal%20to%20VALENTINE.zip",
+            "targetCategory": -2,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20BASIC%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Normal%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Normal%20to%20STARWARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ALUCARD%20BASIC%20TO%20SPESIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Alucard%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Alucard_%28Fiery_Inferno%29.jpg/revision/latest?cb=20230201105513",
+      "name": "Fiery Inferno",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Alucard_%28Fiery_Inferno%29.jpg/revision/latest?cb=20230201105513",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20SEASON%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Season%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Season%20to%20STARWARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Season%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Alucard_%28Viscount%29.jpg/revision/latest?cb=20230201105535",
+      "name": "Viscount",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Alucard_%28Viscount%29.jpg/revision/latest?cb=20230201105535",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20STARLIGHT%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Starlight%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Starlight%20to%20STARWARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Starlight%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Alucard_%28Empire_Agent%29.jpg/revision/latest?cb=20230201105507",
+      "name": "Empire Agent",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Alucard_%28Empire_Agent%29.jpg/revision/latest?cb=20230201105507",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20EMPIRE%20AGENT%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Empire%20Agent%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Empire%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
+      "name": "Lightborn Striker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LIGHTBORN%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20250601064155",
+      "name": "Child of Fall",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20250601064155",
+      "skinId": 8,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LUCKYBOX%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2aaGnydDIuLZN1zYGLmEppjKRRIkTK0sU-XXpQ-zPxso0lAmnGpzi4p22OQf6W_7AqCfqExCHFn5EjyUFnoTQUpw31xkjPLCulI2bivJ979LSgKJWzR0ktWPgQu3C8ePEU_GjeXxg0VL9/s1920/alucard-demon-hunter-wallpaper-mobile-legends-hd.jpg",
+      "name": "Demon Hunter",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBYyHITZDS3eAIDokTp-dPEYzuKRGWVRCwUbdLo2-vLTjPuWkERKHKGwuA6Ga1Y46f5hjCnMa5RGj_i8i00ZoW_wx1H_Z3j0oSSbJTQo0tvTJTyQygq9GP3H0TPL-9mI1SQ-ms156ze2z/s1920/alucard-demon-hunter-wallpaper-mobile-legends-hd-mobile.jpg",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1071.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LEGEND%20RVAMP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Alucard%20Lightborn.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Alucard%20Starwars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ALUCARD%20SPESIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LUCKYBOX%20FIX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Alucard%20Tanjiro.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
+            "targetCategory": 1,
+            "targetSkinId": 16
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANIME%20Alucard%20Kokoshibu%20Demon.zip",
+            "targetCategory": 1,
+            "targetSkinId": 17
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Kyo%20Kusanagi.zip",
+            "targetCategory": 1,
+            "targetSkinId": 18
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20X%20FINN.zip",
+            "targetCategory": 2,
+            "targetSkinId": 17
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Alucard%20X%20Rimuru%20Tempest.zip",
+            "targetCategory": 2,
+            "targetSkinId": 18
+          }
+        ]
+      },
+      "timestamp": 1727158058743,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxdfjdmrlwgiEm_NBURb2jYUkd82_MUVt-IhWxZcZs69S9zvNJPIjV-tR-gR2u8Yd1bxEBZnekTPhN00VZmiGMFexbZtq9AtvDNJGXbil8jNdAgUJgIFhR2Aw_xohyphenhyphenFRE970HPcfSu14fa/s1920/alucard-special-romantic-fantasy-skin-mobile-legends-wallpaper-hd.jpg",
+      "name": "Romantic Fantasy",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8tZqHP21meM2rVfc0Svpqu8uyTweh_ZXZWXMWoAkAXNCZsuAUUUjxXC5UyUifgn1cmSda3m2J0TG9NJhDgoEtu-clv5vvjBuPFYnk6kuy2nfCJ8qtylWhSqzrdl3jWWlGj-CBGL5hwHA3/s1920/alucard-special-romantic-fantasy-skin-mobile-legends-wallpaper-hd-mobile.jpg",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20VALENTINE%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Valentine%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727159478960,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Alucard_Obsidian_Blade.png/revision/latest?cb=20260202013614",
+      "name": "Obsidian Blade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Alucard_Obsidian_Blade.png/revision/latest?cb=20260202013614",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1770123567633,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcjuloLr-mL1Km4QWqTiKxxYg35YjVYdo9PqP1yUaitFVNRFXDleCOz3bs79gMTOPPfeTqEQI-SNs-gxpiu2Jl17xQWM13VHp6COMV0rSCqHwbQsPSRU6agAfGD75TvpZkRFp4Gz6qOHFm/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd.jpg",
+      "name": "Lightborn - Striker",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJnFiy3oMRA2M9xgRlhBqk3x4xU4RqqUgJqJCdI7PiWnvgvPZsDpIuVlswq75Em4Pwubw-rXm7eBNep5AdDgXQnEUlV8i_29QBdiMrdbydRzyaBlFe8eCCJMgOb4xFUKe28cwtppTTn5Ma/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd-mobile.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727160150314,
+      "type": "Lightborn"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Alucard_%28Obi-Wan_Kenobi%29.jpg/revision/latest?cb=20240917065258",
+      "name": "Obi-wan Kenobi",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727161203622,
+      "type": "Star Wars"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250328_234153.jpg",
+      "name": "Demon's Bane",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250328_234153.jpg",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20SPECIAL%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Special%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1743176642706,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "name": "Child of the Fall",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1748509700494,
+      "type": "Luckybox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20EXORSIT.jpg",
+      "name": "Alucard Exorcist",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20EXORSIT.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1771718125154,
+      "type": "Exorcists"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(22).jpeg",
+      "name": "Tanjiro",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(22).jpeg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728015668105,
+      "type": "Anime|Tanjiro"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
+      "name": "Ichigo Kurosaki",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
+      "skinId": 16,
+      "source": null,
+      "timestamp": 1771308317175,
+      "type": "Anime|Bleach"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Alucard%20kokoshibu.jpeg",
+      "name": "Kokushibo",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Alucard%20kokoshibu.jpeg",
+      "skinId": 17,
+      "source": null,
+      "timestamp": 1728475088767,
+      "type": "Anime|DemonSlayer"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/images%20(46).jpeg",
+      "name": "Kyo Kusanagi",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/images%20(46).jpeg",
+      "skinId": 18,
+      "source": null,
+      "timestamp": 1729941483370,
+      "type": "Anime|KOF"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20FINN.jpg",
+      "name": "Finn",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20FINN.jpg",
+      "skinId": 17,
+      "source": null,
+      "timestamp": 1771718160587,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ALUCARD%20RIMURU.jpg",
+      "name": "Rimuru Tempest",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ALUCARD%20RIMURU.jpg",
+      "skinId": 18,
+      "source": null,
+      "timestamp": 1773356577529,
+      "type": "Weird"
+    }
+  ]
+}

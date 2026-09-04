@@ -1,0 +1,221 @@
+{
+  "heroId": 100,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Brody_%28Nameless_Stray%29.jpg/revision/latest?cb=20201023152051",
+      "name": "Nameless Stray",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Brody_%28Nameless_Stray%29.jpg/revision/latest?cb=20201023152051",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Brody%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Brody%20Basic%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Brody%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Brody%20Basic%20to%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Brody%20Basic%20to%20APBREN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/BRODY%20BASIC%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Brody_%28The_Lone_Star%29.jpg/revision/latest?cb=20201023151943",
+      "name": "The Lone Star",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20220525172049",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Brody%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/Mm/raw/main/brody_def_stun.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/All-Skins/raw/main/Revamp%20Brody%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v26/raw/main/brody%20collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Brody%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Brody%20AP%20Bren.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F11%20BRODY%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Brody%20-%20Kanzutora.zip",
+            "targetCategory": 1,
+            "targetSkinId": 30
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip",
+            "targetCategory": 1,
+            "targetSkinId": 31
+          }
+        ]
+      },
+      "timestamp": 1727228111061,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Brody_%28S.T.U.N._Brody%29.jpg/revision/latest?cb=20211214075226",
+      "name": "S.T.U.N. Brody",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727228118591,
+      "type": "S.T.U.N"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Brody_%28Lethal_Fang%29.jpg/revision/latest?cb=20211221013507",
+      "name": "Lethal Fang",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest?cb=20220525170321",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Brody%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Brody%20Starlight%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Brody%20Starlight%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Brody%20Starlight%20to%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/BRODY%20STARLIGHT%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727228123986,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Brody_%28Ore-chemist%29.jpg/revision/latest?cb=20220317062637",
+      "name": "Ore-chemist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest?cb=20220525170323",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727228129492,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Brody_%28Quantum_Grip%29.jpg/revision/latest?cb=20230308110800",
+      "name": "Quantum Grip",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Brody%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Brody%20MPL%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Brody%20MPL%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/BRODY%20CHAMPION%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727228136825,
+      "type": "Mpl"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Brody_%28APBren%29.jpg/revision/latest?cb=20240904135333",
+      "name": "APBren",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest?cb=20240920010119",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727228153870,
+      "type": "Champion"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Brody_%28Neobeast_Brody%29.jpg/revision/latest?cb=20250301020401",
+      "name": "Neobeast Brody",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Brody_%28Neobeast_Brody%29.jpg/revision/latest?cb=20250301020401",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1742527146438,
+      "type": "Neobeast"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20Kanzutora.jpeg",
+      "name": "Kanzutora Hanemiya",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20Kanzutora.jpeg",
+      "skinId": 30,
+      "source": null,
+      "timestamp": 1728791052006,
+      "type": "Anime|TokyoRevenge"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
+      "name": "Choso",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
+      "skinId": 31,
+      "source": null,
+      "timestamp": 1771718257496,
+      "type": "Anime|JujutsuKaisen"
+    }
+  ]
+}

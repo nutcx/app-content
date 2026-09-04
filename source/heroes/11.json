@@ -1,0 +1,151 @@
+{
+  "heroId": 11,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/images%20(17).jpeg",
+      "name": "Deep Sea Monster",
+      "portrait": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/images%20(17).jpeg",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bane%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Bane%20Basic%20to%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/BANE%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Bane_%28Warlord%29.jpg/revision/latest?cb=20220204050341",
+      "name": "Warlord",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Bane_%28Warlord%29.jpg/revision/latest?cb=20220204050341",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bane%20Season%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Bane%20Season%20to%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/BANE%20SEASON%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Bane_%28Frozen_King%29.jpg/revision/latest?cb=20210415134911",
+      "name": "Frozen King",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20241021140922",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1111.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/bane_def_epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Bane%20Underworld%20Outlaw.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Bane%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/BANE%20STARLIGHT%20DEFAULT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727163403362,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Bane_%28Castle_Master%29.jpg/revision/latest?cb=20220204045716",
+      "name": "Castle Master",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest?cb=20220525164539",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727163411132,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Bane_%28Underworld_Outlaw%29.jpg/revision/latest?cb=20220225030417",
+      "name": "Underworld Outlaw",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest?cb=20220525164542",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Bane%20Elite%20to%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/BANE%20ELITE%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727163428504,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Bane_%28Soul_Defiler%29.jpg/revision/latest?cb=20230321152302",
+      "name": "Soul Defiler",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727163434504,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Bane%20Starlight.jpg",
+      "name": "Lord of Scalding Seas",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Bane%20Starlight.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1761514270583,
+      "type": "Starlight"
+    }
+  ]
+}

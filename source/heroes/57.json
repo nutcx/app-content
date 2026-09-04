@@ -1,0 +1,226 @@
+{
+  "heroId": 57,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Valir_%28Pale_Flame%29.jpg/revision/latest?cb=20230829113807",
+      "name": "Pale Flame",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Valir_%28Pale_Flame%29.jpg/revision/latest?cb=20230829113807",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Basic%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Basic%20to%20PHEONIXIKKI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Basic%20to%20LEOIKKI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Basic%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/VALIR%20BASIC%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Valir_%28Shikigami_Summoner%29.jpg/revision/latest?cb=20230829113816",
+      "name": "Shikigami Summoner",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Valir_%28Shikigami_Summoner%29.jpg/revision/latest?cb=20230829113816",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Special%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Special%20to%20LEOIKKI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Special%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Valir_%28Dictator%29.jpg/revision/latest?cb=20230829113825",
+      "name": "Dictator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Valir_%28Dictator%29.jpg/revision/latest?cb=20230829113825",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Starlight%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Starlight%20to%20LEOIKKI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Starlight%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Valir_%28Son_of_Flames%29.jpg/revision/latest?cb=20230829113759",
+      "name": "Son of Flame",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero571-portrait.png/revision/latest?cb=20240501080033",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/valir_def_dragon.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/valir_def_collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/valir_def_legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/valir_def_phoenix.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/valir_def_leo.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/V43/raw/main/VALIR%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/VALIR%20EPIC%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727378228121,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Valir_%28Draconic_Flame%29.jpg/revision/latest?cb=20230829113835",
+      "name": "Draconic Flame",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Valir_%28Draconic_Flame%29.jpg/revision/latest?cb=20230829113835",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727378239458,
+      "type": "Dragon Tamer"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Valir_%28Demonlord%29.jpg/revision/latest?cb=20230829113848",
+      "name": "Demonlord",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Valir_%28Demonlord%29.jpg/revision/latest?cb=20230829113848",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727378249187,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Valir_%28Infernal_Blaze%29.jpg/revision/latest?cb=20230829113859",
+      "name": "Infernal Blaze",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Valir_%28Infernal_Blaze%29.jpg/revision/latest?cb=20230829113859",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727378257802,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Valir_%28Phoenix_Ikki%29.jpg/revision/latest?cb=20220915134424",
+      "name": "Phoenix Ikki",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Valir_%28Phoenix_Ikki%29.jpg/revision/latest?cb=20220915134424",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727378267157,
+      "type": "Saint Seiya"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Valir_%28Leo_Ikki%29.jpg/revision/latest?cb=20220915134414",
+      "name": "Leo Ikki",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Valir_%28Leo_Ikki%29.jpg/revision/latest?cb=20220915134414",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727378284691,
+      "type": "Saint Seiya"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Valir_%28Kyo_Kusanagi%29.jpg/revision/latest?cb=20240430023040",
+      "name": "Kyo Kusanagi",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Valir_%28Kyo_Kusanagi%29.jpg/revision/latest?cb=20240430023040",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727378300504,
+      "type": "King of Fighters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20VALIR%20EPIC.jpg",
+      "name": "Anbu Costplay",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20VALIR%20EPIC.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1770123858494,
+      "type": "Epic"
+    }
+  ]
+}

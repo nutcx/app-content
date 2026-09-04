@@ -1,0 +1,222 @@
+{
+  "heroId": 44,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Grock_%28Grave_Guardian%29.jpg/revision/latest?cb=20240311120615",
+      "name": "Grave Guardian",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Grock_%28Grave_Guardian%29.jpg/revision/latest?cb=20240311120615",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/grock_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Basic%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Grock_%28Castle_Guard%29.jpg/revision/latest?cb=20240311120601",
+      "name": "Castle Guard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Grock_%28Castle_Guard%29.jpg/revision/latest?cb=20240311120601",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/grock_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Elite%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Elite%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20ELITE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Grock_%28V.E.N.O.M._Monitor_Lizard%29.jpg/revision/latest?cb=20240922131504",
+      "name": "Monitor Lizard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Grock_%28V.E.N.O.M._Monitor_Lizard%29.jpg/revision/latest?cb=20240922131504",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20VENOM%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wasteland_Psycho_.jpg/revision/latest?cb=20241225232212",
+      "name": "Wasteland Psycho",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wasteland_Psycho_.jpg/revision/latest?cb=20241225232212",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20SPECIAL%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Grock_%28Fortress_Titan%29.jpg/revision/latest?cb=20231104061000",
+      "name": "Fortress Titan",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero441-portrait.png/revision/latest?cb=20250811073746",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/grock_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/TankD/raw/main/grock_def_venom.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/GROCK%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/GROCK%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v21/raw/main/Grock%20-%20Default%20to%20Season24.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727283939304,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Grock_V.E.N.O.M._Monitor_Lizard_wall.jpg/revision/latest?cb=20190508092954",
+      "name": "V.E.N.O.M Monitor Lizard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Grock_V.E.N.O.M._Monitor_Lizard_wall.jpg/revision/latest?cb=20190508092954",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727283962434,
+      "type": "V.E.N.O.M"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Grock_Iceland_Golem_wall.png/revision/latest?cb=20191028162058",
+      "name": "Iceland Golem",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Grock_Iceland_Golem_wall.png/revision/latest?cb=20191028162058",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/grock_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Starlight%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727283975805,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "name": "Codename Rhino",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20HELCURT%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727283989160,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Grock_%28Ancient_Golem%29.jpg/revision/latest?cb=20231104054742",
+      "name": "Ancient Golem",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Grock_%28Ancient_Golem%29.jpg/revision/latest?cb=20231104054742",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/grock_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Season%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20SEASON%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727284007321,
+      "type": "Season 24"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20GROCK%20COLLECTOR.jpg",
+      "name": "Titanic Illusion",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20GROCK%20COLLECTOR.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1771337836518,
+      "type": "Collector"
+    }
+  ]
+}

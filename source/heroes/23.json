@@ -1,0 +1,171 @@
+{
+  "heroId": 23,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Gord_%28Professor_of_Hell%29.jpg/revision/latest?cb=20241128083514",
+      "name": "Professor of Hell",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Gord_%28Professor_of_Hell%29.jpg/revision/latest?cb=20241128083514",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/gord_def_legend.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/GORD%20BASIC%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Normal%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Normal%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Basic%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Gord_%28New_Baron%29.jpg/revision/latest?cb=20230818090406",
+      "name": "New Baron",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Gord_%28New_Baron%29.jpg/revision/latest?cb=20230818090406",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/gord_def_legend.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/GORD%20SEASON%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Season%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Season%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20s21%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Gord_%28Professor_of_the_Mystics%29.jpg/revision/latest?cb=20231104060105",
+      "name": "Professor of the Mystics",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest?cb=20220525164812",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/gord_def_legend.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Christmas.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J23%20GORD%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J23%20GORD%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Gord%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727283318992,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Gord_%28Christmas_Carnival%29.png/revision/latest?cb=20200414064626",
+      "name": "Christmas Carnival",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Gord_%28Christmas_Carnival%29.png/revision/latest?cb=20200414064626",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Christmas%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727283343904,
+      "type": "Christmas"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Gord_%28Conqueror%29.jpg/revision/latest?cb=20240122090914",
+      "name": "Conqueror",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Gord_%28Conqueror%29.jpg/revision/latest?cb=20240122090914",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727283359055,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Gord_%28No.1_Controller%29.jpg/revision/latest?cb=20210521151000",
+      "name": "No 1 Controller",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Gord_%28No.1_Controller%29.jpg/revision/latest?cb=20210521151000",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727283369363,
+      "type": "Annual Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Gord_%28Cyber_Hacker%29.jpg/revision/latest?cb=20240725092923",
+      "name": "Cyber Hacker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Gord_%28Cyber_Hacker%29.jpg/revision/latest?cb=20240725092923",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727283381151,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Gord%20Starlight.jpg",
+      "name": "Imperator Vitalis",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Gord%20Starlight.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1744538020127,
+      "type": "Starlight"
+    }
+  ]
+}

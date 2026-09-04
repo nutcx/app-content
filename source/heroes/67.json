@@ -1,0 +1,288 @@
+{
+  "heroId": 67,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Leomord_%28Hell_Knight%29.jpg/revision/latest?cb=20220704101353",
+      "name": "Hell Knight",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Leomord_%28Hell_Knight%29.jpg/revision/latest?cb=20220704101353",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Basic%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Basic%20to%20DUCATI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20BASIC%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20BASIC%20TO%20LUNAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Leomord_%28Jack-o%27-lantern%29.jpg/revision/latest?cb=20201102031526",
+      "name": "Jack o Lantern",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Leomord_%28Jack-o%27-lantern%29.jpg/revision/latest?cb=20201102031526",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Halloween%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Halloween%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Halloween%20to%20DUCATI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20HALLOWEEN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20HALLOWEEN%20TO%20LUNAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Leomord_%28Triumph_-_Eagle%29.jpg/revision/latest?cb=20200427095939",
+      "name": "Triumph Eagle",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Leomord_%28Triumph_-_Eagle%29.jpg/revision/latest?cb=20200427095939",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20MSC%20to%20DUCATI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20MSC%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20MSC%20TO%20LUNAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Leomord_%28Frostborn_Paladin%29.jpg/revision/latest?cb=20200824073558",
+      "name": "Frostborn Paladin",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Leomord_%28Frostborn_Paladin%29.jpg/revision/latest?cb=20200824073558",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Starlight%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Starlight%20to%20DUCATI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20STARLIGHT%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Leomord_Twilight_Horseman.png/revision/latest?cb=20251208222905",
+      "name": "Twilight Horseman",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Leomord_Twilight_Horseman.png/revision/latest?cb=20251208222905",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20NEWEPIC%20TO%20LUNAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Leomord_%28Sworn_Sword%29.jpg/revision/latest?cb=20220814094236",
+      "name": "Sworn Sword",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/leo_def_epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/O13%20Leomord%20Abyss.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/F1%20Leomord%20Ducati.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20NEW%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20LUNAR%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Leomord%20X%20FLYING%20DUTCHMAN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Cart.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727368019379,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Leomord_%28Inferno_Soul%29.jpg/revision/latest?cb=20230529044303",
+      "name": "Inferno Soul",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Leomord_%28Inferno_Soul%29.jpg/revision/latest?cb=20230529044303",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20LUNAR%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727368057731,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Leomord_%28Shadow_Knight%29.jpg/revision/latest?cb=20230819030432",
+      "name": "Shadow Knight",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Leomord_%28Shadow_Knight%29.jpg/revision/latest?cb=20230819030432",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727368083661,
+      "type": "Abyss"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "name": "Diavel V4 Rider",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727642854089,
+      "type": "Ducati"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20LEOMORD%20EPIC.jpg",
+      "name": "Nightmare Count",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20LEOMORD%20EPIC.jpg",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1741935275468,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Leomord_Auspicious_Blaze.png/revision/latest?cb=20260206235554",
+      "name": "Auspicious Blaze",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Leomord_Auspicious_Blaze.png/revision/latest?cb=20260206235554",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1770560933302,
+      "type": "Lunarfest"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20LEO%20SPONGEBOB.jpg",
+      "name": "Spoge Bob",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20LEO%20SPONGEBOB.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1773356487070,
+      "type": "Dutchman"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/VVrJSG4/Cart.jpg",
+      "name": "Cart",
+      "portrait": "https://i.ibb.co/VVrJSG4/Cart.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727959692378,
+      "type": "Weird"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "heroId": 47,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Lancelot_%28Masked_Knight%29.jpg/revision/latest?cb=20241128094706",
+      "name": "Masked Knight",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Lancelot_%28Masked_Knight%29.jpg/revision/latest?cb=20241128094706",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Basic%20to%20CHRISTMAS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Basic%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Basic%20to%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Basic%20to%20CHAMPION.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Basic%20to%20DRAGONT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20BASIC%20TO%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20BASIC%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjM0-8fe7BZD0kd5Y9gkWmILHJkgOGQ8XrQTzecJG1eirkNOpjvW9h4JfHbxvf6ePcNXGMAtcFsvOcQntmmn-AGpInQqXqduu1_Q0EROhabJXIQnp0tjnbN5u2EfjpuHt5M8JKnHoucD3UOfmgfCdVuJQT5fUd7d8zitrULYC_vFVBQr0pnPGv_WteWeQ=s1920",
+      "name": "Blade of Roses",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Lancelot%20Christmas.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Lancelot%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/lancelot_def_starlN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Lancelot%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Lancelot%20Floral%20Night.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Lancelot%20Champion.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Lancelot%20DragonTamer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/lance_def_ElimarquessN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20KINSHIN%20DEFAULT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Lancelot%20Zenitsu.zip",
+            "targetCategory": 1,
+            "targetSkinId": 20
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Anime%20Ling%20X%20Sasuke.zip",
+            "targetCategory": 1,
+            "targetSkinId": 21
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Lancelot%20-%20Mikey.zip",
+            "targetCategory": 1,
+            "targetSkinId": 22
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20LANCELOT.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727156638645,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjn2RAAtFPIROyk8Ul2IaGD61a5-g3BraiVPR62bJdsMpdA3G5_is1r226kugCDjG-FI7HkiflMwIXtklY1eed5vBS4Mc8BMCccnNi51xUg_4lRK56c1MXFXEHZyHdBd0VXx3Irbq4vubGOYVZe_D9UIi8rQ4quT7hnttKtHfYdZ7GYQ9aTOAPKugD3xg=s1920",
+      "name": "Christmas Carnival",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEi9fOkb_xPkV6v6Rc81f5i1Z5zk2d5u0gabx1uQmbSd3PmG56e0EW8TnxOsrqvradzmL8uiQLUEHXgh1Edvyf6kpZ-KsDlUA-5kChgnp6zAzY4J5R28zUSx-EXNSu1h0GZ2n6dWHCDx0ZIjbpN4vkGHNJ8etpYRI22rRxXrYIdXRvDLi8PLyYzkK5o3pA=s1080",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Christmas%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Christmas%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Christmas%20to%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Christmas%20to%20DRAGONT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20CHRISTMAS%20TO%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20CHRISTMAS%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727156686526,
+      "type": "Christmas"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEir-aEExsMB_IIZ6ZmEPwByls6K3FKbhyB52aeDiZvvuW6VZ5M-FIOgxgdky3OXxEDKvkZMlxQGT7GuyZScNBJI_rpLJgu11XRxnfGlzgEdcCsXPWUdZPyWqqkFCYT4-cck0x9SWR46yYr39CtqtK3UQ7-0mEoMPwazkmz1OGOCCdLrMPzvKgTQf91_Xg=s1440",
+      "name": "Royal Matador",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEiB1FPd92s0pJ7x0a8b8HrmouMs8IwMYj2vcVqYADgoQJDbRqkR3_sxlFhSrhajGWa2kkT3qZ2Qvalf-bS2qw8S8axdejwvKeRAKTXyxwg630-2S27fM60ajbMyeATYCTqmaUq88FMKDBzPkjYmAruKU04RmocxxO556Iq7mOxJOTArRDs-XFmRK81cMg=s1843",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Luckybox%20to%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20LUCKYBOX%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727156731411,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjxRp_Uitc9vh8w82xCFt3O2WAdyI5xSQUjEF0vftWg3PnWNaDqFrb7Vv8kaJ1qEWjfmjLnnNQ_7UFHMSs4l3tlJOs7ouD_MxXwt1BIFsaTEyQQMUTFt2F08vVNulX7s9jppJkr7iCMU4Hdzz0mwPHge01PPN-X2TwZDjJoFrM3ljpg6qwwh10JPihzgw=s1920",
+      "name": "Dark Earl",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgXBUols2-nIH5M67M7-lq3efEG-z64vdPC71GP0a-AN2D8aiL-Ujd_moyIHOSCOHJU3nXwedNtEaqY3SFvRVlUabd8DYWSCDL4-jVVB1ZxKSgHMQslC6a2AUhUw1-VE4UwjCeM5-2ZNfy5JMsyYNFFTn6QXaClTrtRMio--IvqFGzNjdC1-GPWZyJyFg=s599",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Starlight%20to%20CHRISTMAS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Starlight%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Starlight%20to%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Starlight%20to%20CHAMPION.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Starlight%20to%20DRAGONT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20STARLIGHT%20TO%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727156788940,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Lancelot_%28Pisces%29.jpg/revision/latest?cb=20230321152222",
+      "name": "Pisces",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEj8i7uPKraABfxaTjIBBrPy9Bp8g8MehsaJwP2yHAAkfb9yMU3DoFHybp8rjaSI2woyUFTfJVOg9t4a_m8gC745RKpWah-SS1fXQ4g9cz1V7GtZx2zPUt3mJke35v0UTPGFnyXwc7F0JnGraMUynhxvMOqj77KtuxyGq_rvtPclnXtBzpxFh78aj4KcVQ=s1083",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Zodiac%20to%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20ZODIAC%20TO%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727156820514,
+      "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEhVnNte5VmzT3aKqINs6r_boMy5H4k-eK4IWasK2h-HuA1vwRULpDwS2ndi4_BENQFZrQEBqIF11qL0-9jg9kM8bKENfB43R3pdiJgD-y-azvktKG8Q8lZZSoOk11Oe0DZwQ2GK6K4GfwZgGss92aO3rnRVs62Zwhc9SpP8RAx9EOON7nVMz6bXlP1mSA=s1920",
+      "name": "Floral Knight",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEhVnNte5VmzT3aKqINs6r_boMy5H4k-eK4IWasK2h-HuA1vwRULpDwS2ndi4_BENQFZrQEBqIF11qL0-9jg9kM8bKENfB43R3pdiJgD-y-azvktKG8Q8lZZSoOk11Oe0DZwQ2GK6K4GfwZgGss92aO3rnRVs62Zwhc9SpP8RAx9EOON7nVMz6bXlP1mSA=s1920",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Floral%20Knight%20to%20CHRISTMAS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Floral%20Knight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Epic%20to%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Floral%20Knight%20to%20CHAMPION.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Floral%20Knight%20to%20DRAGONT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20EPIC%20TO%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20EPIC%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727156914517,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Lancelot_%28Swordmaster%29.jpg/revision/latest?cb=20230819023054",
+      "name": "Swordmaster",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgNr9q0gMHdd3ZLjk9HisKF7PmgqftPwXftnqTYRoL3BJolz77_3NJysapkLon5Yvdyr509DMVLQSDYpotrrhcVs5g699CTixEMDcMPlwzN5NIqLg3_x5DD-tEk8eEQ0SqKWxQCONLz3k24HIyKCN1Hly_02fjiDGKT8xVlSDQckZkm1unTHJxis10WWA=s2048",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727156999029,
+      "type": "Dawning Stars"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Lancelot_%28Bren_Esports%29.jpg/revision/latest?cb=20211011132445",
+      "name": "Bren Esports",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEiZSLgdM1FTsmMZb4kCHJQweyV30Nhxq_ITlav-9DdcRImaTiUTrdR8-tyHf3qgeFGM1B9uEOicjjxAu_CaT-MNHfuPDzMArVlwfvLLJqfwPkjbo68Jv1_xK_2fhLzcaxUEvYBYLNspnaEwpQsTZqvdg2wbSA2bBGAS80PF5X6rJD4LRiF55Otbk5BGpA=s1083",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Champion%20to%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20CHAMPION%20TO%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727157035927,
+      "type": "Champion"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Lancelot_%28Empyrean_Flame%29.jpg/revision/latest?cb=20220804115056",
+      "name": "Empyrean Flame",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilYDZbOJM1k9UX5VpVSQEtxXlLEdilCDWivmWXPNEPXZrw2-78GyVuOsUJvu2ZgOBgADV9lrnw1TYRiuCK86DZ7i9pBpWZiG1fAGLz8JbKjI-HTzZad1w6aY69x2j7QxDAx-tb0keGccXudn56lGBorf68pXQ0OiaVrVJ9afJVqNgYjYwXdGOemTdNRw/s1068/lancelot-skin-empyrean-flame-dragon-tamer-wallpaper-hd.jpg",
+      "skinId": 8,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20DragonTamer%20to%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20DTAMER%20TO%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LANCELOT%20DTAMER%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 1727157152866,
+      "type": "Dragon Tamer"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Lancelot_%28Marques_of_Blades%29.jpg/revision/latest?cb=20230927012930",
+      "name": "Marques of Blades",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvPUyCadxvB8T4nNOpJJxjI2yGGTynrsesEK1b3JL4dhaqSi38K810vLR4QcJERM07rtUTHN_OycovfBDyy3KBwcsF2Emz-Mmk7RSivwMVnePZz12Do-vSNPKSdc3H4hHqo8EN0n4MXyXvKLU1VObXBRcFv_WsC9cDBqWfw2dPDRc6puT6mngcwd_tAPsP/s2560/lancelot-marquess-of-blades-elite-skin-wallpaper-hd.jpg",
+      "skinId": 9,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Elite%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Elite%20to%20Dawning%20Stars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Elite%20to%20DRAGONT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727157195669,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lancelot_%28Guardian_of_the_Shrine%29.jpg/revision/latest?cb=20240725093807",
+      "name": "Guardian of the Shrine",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lancelot_%28Guardian_of_the_Shrine%29.jpg/revision/latest?cb=20240725093807",
+      "skinId": 10,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Kinshin%20to%20DawningStars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1738667358234,
+      "type": "Kishin Densetsu"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LANCELOT%20VALENTINE.jpg",
+      "name": "Blade of Devotion",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LANCELOT%20VALENTINE.jpg",
+      "skinId": 11,
+      "source": null,
+      "timestamp": 1770124522417,
+      "type": "Valentine"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(4)%20(29).jpeg",
+      "name": "Zenitsu Agatsuma",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(4)%20(29).jpeg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727813787768,
+      "type": "Anime|Demon Slayer"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/sasuke-uchiha.jpg",
+      "name": "Sasuke Uchiha",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/sasuke-uchiha.jpg",
+      "skinId": 21,
+      "source": null,
+      "timestamp": 1728658686911,
+      "type": "Anime|Naruto"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20mikey.jpeg",
+      "name": "Manjiro Sano",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20mikey.jpeg",
+      "skinId": 22,
+      "source": null,
+      "timestamp": 1728791228045,
+      "type": "Anime|TokyoRevenge"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20LANCELOT.jpg",
+      "name": "Chibi",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20LANCELOT.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771518281597,
+      "type": "Weird"
+    }
+  ]
+}

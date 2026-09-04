@@ -1,0 +1,142 @@
+{
+  "heroId": 75,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Kadita_%28Atlantean_Princess%29.jpg/revision/latest?cb=20200513055632",
+      "name": "Atlantean Princess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Kadita_%28Atlantean_Princess%29.jpg/revision/latest?cb=20200513055632",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KADITA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kadita%20Basic%20to%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kadita%20Basic%20to%20CREATE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/KADITA%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Kadita/Kadita.Anthem.of.Tides.Script.Basic.-.Nutx.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Kadita_%28Ocean_Goddess%29.jpg/revision/latest?cb=20200513055531",
+      "name": "Ocean Goddess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png/revision/latest?cb=20240121134111",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KADITA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KADITA%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kadita%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kadita%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/KADITA%20STARLIGHT%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Kadita/Kadita.Anthem.of.Tides.Script.Default.-.Nutx.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727363514213,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Kadita_%28White_Robin%29.jpg/revision/latest?cb=20200513055739",
+      "name": "White Robin",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Kadita_%28White_Robin%29.jpg/revision/latest?cb=20200513055739",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KADITA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kadita%20Special%20to%20CREATE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Kadita%20Special%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727363545347,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Kadita_%28Hydromancer%29.jpg/revision/latest?cb=20230810203230",
+      "name": "Hydromancer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Kadita_%28Hydromancer%29.jpg/revision/latest?cb=20230810203230",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727363576032,
+      "type": "mpl"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Kadita_%28Heart_Of_The_Sea%29.jpg/revision/latest?cb=20240620040624",
+      "name": "Heart of the Sea",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Kadita_%28Heart_Of_The_Sea%29.jpg/revision/latest?cb=20240620040624",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727363672193,
+      "type": "create"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Kadita%20Starlight.jpg",
+      "name": "Maiden of Tide",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Kadita%20Starlight.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1748900374481,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/kaditaelite.png",
+      "name": "Anthem of Tides",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/kaditaelite.png",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1785081753906,
+      "type": "Elite"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "heroId": 109,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/%28Night%27s_Edge%29.jpg/revision/latest?cb=20211031111230",
+      "name": "Night Edge",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/%28Night%27s_Edge%29.jpg/revision/latest?cb=20211031111230",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Aamon%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Basic%20to%20VESSELS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Aamon_%28Vessel_Of_Deceit%29.jpg/revision/latest?cb=20240725101441",
+      "name": "Vessels of Deceit",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Aamon_%28Vessel_Of_Deceit%29.jpg/revision/latest?cb=20240725101441",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Aamon_%28Duke_of_Shards%29.jpg/revision/latest?cb=20220218134516",
+      "name": "Duke of Shards",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Aamon%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Aamon%20Basic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v21/raw/main/Aamon%20-%20Default%20to%20Elite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Aamon%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Aamon%20Soul%20Vessels.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Aamon%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20AAMON.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727157393973,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEikE11IB7vadUmWljUqFRVw9Dl2d3Qav_XU1aWaG-XsUedwDEbtxfbjYQ_6n7m4vfCkx_OKhivyEQTvzerUCBSJ5ZS6VRn2rktmUkYE2Cb2w9ezF-bDAnGxtIlUV8aty_DHT4cGd51WDNoCJNVxoGG3ntJYsfeTHT7pvzjbyq0frtf8y7UZituU_ECPNQ=s1920",
+      "name": "Night's Edge",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgHFKnWG9BcbqdzfGzTTHelTv4M0dUetXqCoWTUAI7odAacc5VOiYiFNO0AUVPWuFJE14MsEl8rkPehbaWLgEj7u5B-FJrQlDlKd2WKr0s-wQj8MkdCKmOYKiXSEXTnAECbY2M0tTnfSM8DYbVrTWG0JdK3fbtrA-MqykgtlwbSx4N7cr_yMNMhgjuHow=s1920",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727157472574,
+      "type": "Normal"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixVKGh2gZZCIWbQHrpJaJQMVbUII1Fd6RcDlGiWzEOOduy0GVFZ2L6bdLJLxmQLypx8Dy1yYuBzJWZid-VTi7_E_CPhC-rNb-IqGqlpVhPHIb40PcRrtYoQcWzhyquCTAGiC3QpJIUVTeeLtc8HR2W7KO0NN8a92GXWyMlOeh0mlS8Tu4ItHKrbV64Jw/s1920/aamon-noble-crest-elite-skin-wallpaper-hd%20(2).jpg",
+      "name": "Noble Crest",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprP1eBzGm1lKPPH5KAskqz7d-coO187Bp2VSvUVbFS1wiLP7B3-iRqLNMyyToYQnBZwypjq2sfCW7UMCdJONRkFv2lkZjTEUHBfw9nsCHxk8EvGTrb7fUFpxVh0DjCij7e1TQQvrx6DEP2KWuArNW_2gaQrwY2Tz-r_ElvRfgiKc67ULeCnSl-57hAg/s780/aamon-noble-crest-elite-skin-wallpaper-hd.jpg",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Aamon%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Elite%20to%20VESSELS.zip",
+            "targetCategory": -1,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Elite%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727157506298,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEcw1CpLoSB5nO4oKzpFovxF39CrVStUZIue-1OqVxtwrz2r_sZo3yijsYln8Y6x_H9swEqffIkW3kEjIlxZ5PnWOZjCQe8xvpQ4Ovj4K5Zw7vJR8D7NCKaExT4jjIun0a42PkpRmYDnP32YmmVY0p4--eZbzvCLOG2DSDg1lWjFRi9CenJzJfy6rsjw/s3900/aamon-cyber-assassin-starlight-skin-wallpaper-hd.jpg",
+      "name": "Cyber Assassin",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcUbv_m73apdS7jI3TIDejwv6XclzZsKFteLfBBLOkAHZpgfWf66paVgtwe45ajdHUoYGJh4rkmOcURnIHWM3gSogaW2zQLWR5kzBU3bU5AcO7vaj1ZMGNV_RjHgfKQN5M0PdNszDz3-F-yfzZZ0tySaof22-56Ut6Yi-_buAG2_OZf9xvuBc__0JFA/s1920/aamon-cyber-assassin-starlight-skin-wallpaper-hd.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727157544523,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnKzOXzW1iir10K-CA4bc0AStwSuXROztKptCSDgLz5mYJkbXiIR6rtmRbzUBSKt-6ABOJprAmorzaPiBqkmKuFzgPB2GDGzeLjBLVe8vjJUR92qybRrLdnjKusmfWoaI1tkjWSvuPOmEGkiQSWlGdUM9M_1cKarHFix8F73cKJNftGbijy2tV5jHWc5Po/s1780/aamon-vessel-of-deceit-soul-vessel-skin-wallpaper-hd.png",
+      "name": "Vessel of Deceit",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7n2S-Ou3D7hqvDHHJ2MCnTbxtvIK2c0ri0wYbO6xuIgJ4tSTHGbMmKzWltWBsoDc1NGyb5ZDJ67xSeOjIlIU7eoQ5ig_fmfcRLEP9Hh98qzN62ZBz_VMDFwURyJsro446jw4irAKp2I6X_mtsbk2WUxt0Xuhr3XqtdnUajh-b1xoa-qBDcGm6mTtnW5un/s1560/aamon-vessel-of-deceit-soul-vessel-skin-wallpaper.png",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727157599428,
+      "type": "Soul Vessel"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20Aamon%20Collector.jpg",
+      "name": "Soul Reaver",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20Aamon%20Collector.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1756745916374,
+      "type": "Collector"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20AAMON.jpg",
+      "name": "Chibi",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20AAMON.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771518173580,
+      "type": "Weird"
+    }
+  ]
+}

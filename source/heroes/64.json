@@ -1,0 +1,319 @@
+{
+  "heroId": 64,
+  "skins": [
+    {
+      "category": -3,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Aldous_%28Starscream%29.jpg/revision/latest?cb=20220519140352",
+      "name": "Starscream",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Aldous_%28Starscream%29.jpg/revision/latest?cb=20220519140352",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -3,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Aldous_%28Starscream%29.jpg/revision/latest?cb=20220519140352",
+      "name": "Starscream",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Aldous_%28Starscream%29.jpg/revision/latest?cb=20220519140352",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/King_of_Supremacy_wall.png/revision/latest?cb=20191011121313",
+      "name": "King of Supremacy",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/King_of_Supremacy_wall.png/revision/latest?cb=20191011121313",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/King_of_Supremacy_wall.png/revision/latest?cb=20191011121313",
+      "name": "King of Supremacy",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/King_of_Supremacy_wall.png/revision/latest?cb=20191011121313",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Red_Mantle_wall.png/revision/latest?cb=20180816141116",
+      "name": "Red Mantle",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Red_Mantle_wall.png/revision/latest?cb=20180816141116",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Basic%20to%20TRANSFORMER.zip",
+            "targetCategory": -3,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Basic%20to%20M1.zip",
+            "targetCategory": -2,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Basic%20to%20BLAZING.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Basic%20to%20MISTBENDER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Aldous_%28Death%29.jpg/revision/latest?cb=20190810040214",
+      "name": "Death",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Aldous_%28Death%29.jpg/revision/latest?cb=20190810040214",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Elite%20to%20TRANSFORMER.zip",
+            "targetCategory": -3,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Elite%20to%20M1.zip",
+            "targetCategory": -2,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Elite%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Elite%20to%20MISTBENDER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Aldous_%28The_Insentient%29.jpg/revision/latest?cb=20190628092336",
+      "name": "The Insentient",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Aldous_%28The_Insentient%29.jpg/revision/latest?cb=20190628092336",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Starlight%20to%20TRANSFORMER.zip",
+            "targetCategory": -3,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Starlight%20to%20M1.zip",
+            "targetCategory": -2,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Starlight%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Starlight%20to%20MISTBENDER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fK7MsLTA7lPjTZ6jhyphenhyphen1mEpGwFkmHEBCts3SaIRsV6ERgblJVml_uzGl0Pd37IEZRlyEcYj9lN2XPYXYG4C1N7bt5ZkNvAfLYpgZT4qlOA50tTOWnIj63u5E0sKQXGgJvmgpHLI3nTs2X/s1920/wallpaper-aldous-mobile-legends-hd.jpg",
+      "name": "Contractor",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCX1THkKR445KOe6VQzDkLIt9AdB8xkAGNlzegQj-TLXZ6Hf5xfpbDBYX1Sligp8mbv0BLscT0w52fVimnWK5rWLLjku1sLmIZcucOk3KvxOnUUbkEaruc6hvsufKlb_Xb9QJItEdSXUhJ/s1920/wallpaper-aldous-mobile-legends-hd-phone-android.jpg",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20M1.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D6%20ALDOG%20BLAZING%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ALDOUS%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20MISTBENDER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/Aldous%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20ALDOUS%20SAITAMA.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALDOUS%20BIG%20ULTI%20TRANSFORMER.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727115519544,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkG6QOU07VCNMdcVsPrAYPKh_fyZff6yLjPSJxtXZeG8aEiWzjhwlgA8wVG136pkb-ii2bJPYNQbLK_n2u-CcrEldKa1zGHLaEAex96dHMxFIQIFsGvM_uwjzrWHr64t1cVPHAA5UDsRS9/s1920/aldous-king-of-supremacy-m1-skin-mobile-legends-wallpaper-hd.jpg",
+      "name": "King of Supermacy",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCTslu6SWOUL-BGzsSXH-94zg647kPgTEAiMphBWoFKbHpZqMCgZRq6fceiIet_ff3n7ze6bepoSMG63vTsyV5kYU7nAr-f-DOx7eH9Pah9re9US5nJU_M0wpbNygcpJ79T_y11P1EQnsC/s1920/aldous-king-of-supremacy-m1-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20M1%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727115597664,
+      "type": "M1"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20ALDOUS%20BLAZING%20NEW.jpg",
+      "name": "Blazing Force",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20ALDOUS%20BLAZING%20NEW.jpg",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Blazing%20to%20TRANSFORMER.zip",
+            "targetCategory": -3,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Blazing%20to%20M1.zip",
+            "targetCategory": -2,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Blazing%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20Blazing%20to%20MISTBENDER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727115631251,
+      "type": "Blazing Bounties"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdC5BwcWSnUMAzv5jpVfGIbPCdMO2lEWQZIuDFMlqY8KWkLlkh1BOU93x1IO92wqsiw3GAy79kbfeNhy6L4ah_S0tXpIXTtsARP8VDDN9XWrhcExCGlcfWrp0DgvTKyxiFKs8MmD1M4fKT/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd.jpg",
+      "name": "Realm Watcher",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyMVBDIkxE_bUtRp14H9Pb5jfP1gO1zy2DRN2jS24PgMpIzUWLCl-GT_B_qhhKIOSQBwJpF2MbErUBPyfaBeM5lGjRbJaIzxmEyydbhrqT-h-tqmqssm2PU9oCPOsGXblT5dQKzHioe-9/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd-phone-android.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727115652963,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjLGU9ApUxaT-cFBlV2R3m7vs6SZ61NgWV6y6G_YhliPisojJ0_AgesfmpNRkQJUcyWo3bNmQzjLlsZ_ZHTyLPcl01JsmzSli4RW2pe7H_2gxz2sf0iEC2qj-GHRfHGwk8PppzMUvaQNbMa3GfQrD2-dP1qmYckybzBTK4An9yRY-G_pS9QLIjw5hOtA/s1080/aldous-starscream-transformers-skin-wallpaper-hd-mobile-legends%20(2).jpg",
+      "name": "Star Scream",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUniaDVVJg99-pkRdpXmMOK6pGEfxpEYZbnobfxBepW8-erPiJ6EUi9IPp27oJTaYO5no23DvJIGrGKf9tKOjP0a7hzYg7NoJNmm7b1kJSHslrUxupl0GEiYsMquhAIxOQD7flyZoHCR8A9SuZYeYm7Z-jk6QaFtHQggBc4np60wcky1U-ZnICdA5Vrw/s607/aldous-starscream-transformers-skin-wallpaper-hd-mobile-legends%20(1).jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727115692323,
+      "type": "Transformers"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5aOSK0ef6cZCwc_pIRz0kdfC3qOyRTK_0aJDiH14KMrExGFq2EUDlOJ6khwYiKYmjkB01d1cIcV5UkX9hWa1BabKqOMn5qPXXGkP09TfA1ogG-fwLUKpWEnKzExWKZGIKGgl8LheQG62OW9-JM5UesZLfmWy8trLZD9p3M-Hi7uBPOvTPA3Tabzy3T_wC/s3840/aldous-mistbenders-wallpaper-hd.jpg",
+      "name": "Mistbender Aldous",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pA3lWPJMrrqT-k0MUZCC3RGji9KK1bAg_5v8hnNcPpXrWlc5lIYxOTmKo97xXi5tI4BFHhjl931u1oBfT-BMqX8QEMqeYgGfVt-_ye9BhsmiBb3dC5GvqKpi2imim3JKX0TmR90ANelDSBrhQe29nx7yvE16zZElCnURsc6j_7GByiIAdlgRBT89r-FK/s1240/aldous-mistbenders-skin-wallpaper.jpg",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727115721392,
+      "type": "Mistbender"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1252804266293533.jpeg",
+      "name": "Fathom Terror",
+      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1252804266293533.jpeg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1754319821782,
+      "type": "Epic"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(21).jpeg",
+      "name": "Saitama",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(21).jpeg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728015638112,
+      "type": "Anime|Saitama"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALDOUS%20BIGJETT.jpg",
+      "name": "Big Jett",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALDOUS%20BIGJETT.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771518042056,
+      "type": "Weird"
+    }
+  ]
+}

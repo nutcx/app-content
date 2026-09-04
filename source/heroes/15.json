@@ -1,0 +1,218 @@
+{
+  "heroId": 15,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
+      "name": "Flame Red Lips",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/EUDORA%20BASIC%20TO%20COEVENANT.zip",
+            "targetCategory": -1,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20ATOMIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Basic%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Eudora_%28Countess_Scarlet%29.jpg/revision/latest?cb=20200621043521",
+      "name": "Countess Scarlet",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Eudora_%28Countess_Scarlet%29.jpg/revision/latest?cb=20200621043521",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Season%20to%20ATOMIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Eudora%20Season%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
+      "name": "cove",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Eudora_%28Lightning_Weaver%29.jpg/revision/latest?cb=20260129103730",
+      "name": "Lighting Weaver",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest/scale-to-width-down/150?cb=20260129103005",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1151.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Christmas.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Limited.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_atomic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Luckybox%20Revamp.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/EUDORA%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727281138240,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Eudora_%28Christmas_Carnival%29.jpg/revision/latest?cb=20220222002916",
+      "name": "Christmas Carnival",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Eudora_%28Christmas_Carnival%29.jpg/revision/latest?cb=20220222002916",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Chrismas%20to%20ATOMIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Christmas%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727281149919,
+      "type": "Christmas"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Eudora_%28Vivo_Selfie_Goddess%29.jpg/revision/latest?cb=20200824040557",
+      "name": "Selfie Goddess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Eudora_%28Vivo_Selfie_Goddess%29.jpg/revision/latest?cb=20200824040557",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Vivo%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727281166612,
+      "type": "Limited"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Eudora_%28Cosmic_Voyage%29.jpg/revision/latest?cb=20221022091927",
+      "name": "Cosmic Voyage",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Eudora_%28Cosmic_Voyage%29.jpg/revision/latest?cb=20221022091927",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727281190384,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Eudora_%28Atomic_Pop_Eudora%29.jpg/revision/latest?cb=20230321152246",
+      "name": "Atomic Pop",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Eudora_%28Atomic_Pop_Eudora%29.jpg/revision/latest?cb=20230321152246",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Atomic%20Pop%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727281202531,
+      "type": "Atomic Pop"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Eudora_%28Emerald_Enchantress%29.jpg/revision/latest?cb=20250601064150",
+      "name": "Emerald Enchantress",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Eudora_%28Emerald_Enchantress%29.jpg/revision/latest?cb=20250601064150",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1748900539581,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
+      "name": "Midnights Allure",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1770124265901,
+      "type": "Covenant"
+    }
+  ]
+}

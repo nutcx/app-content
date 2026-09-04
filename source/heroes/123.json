@@ -1,0 +1,77 @@
+{
+  "heroId": 123,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/images%20(6).jpeg",
+      "name": "Circus Reverie",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/images%20(6).jpeg",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Cici%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Cici%20Starlight%20to%20P.ACE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Cici_%28Buoyant_Performer%29.jpg/revision/latest?cb=20231225022617",
+      "name": "Buoyant Performer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb=20240120070411",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Cici%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Cici%20Normal.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Cici%20P.ACE%20Default.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727238750492,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Cici_%28Whimsical_Carnival%29.jpg/revision/latest?cb=20240731074049",
+      "name": "Whimsical Carnival",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Cici_%28Whimsical_Carnival%29.jpg/revision/latest?cb=20240731074049",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Cici%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Cici%20Basic%20to%20P.ACE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727238761613,
+      "type": "Normal"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1757786164561.jpg",
+      "name": "P.ACE Cici",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1757786164561.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1757785878668,
+      "type": "9th Pace"
+    }
+  ]
+}

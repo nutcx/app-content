@@ -1,0 +1,165 @@
+{
+  "heroId": 112,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Floryn_%28Springtide%29.jpg/revision/latest?cb=20230819042202",
+      "name": "Springtide",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Floryn_%28Springtide%29.jpg/revision/latest?cb=20230819042202",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Floryn%20Basic%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Floryn%20Basic%20to%20SUMMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Floryn%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FLORYN%20BASIC%20TO%20SEASON.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Floryn_%28The_Budding_Hope%29.jpg/revision/latest?cb=20220218134532",
+      "name": "The Budding Hope",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20ELITE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Floryn%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J11%20FLORYN%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FLORYN%20SEASON.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727281787107,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Floryn_%28Fluffy_Dream%29.jpg/revision/latest?cb=20220216165132",
+      "name": "Flurry Dream",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Floryn_%28Fluffy_Dream%29.jpg/revision/latest?cb=20220216165132",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Floryn%20Sanrio%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727281802665,
+      "type": "Sanrio Characters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Floryn_%28Paw_Power%29.jpg/revision/latest?cb=20230321152035",
+      "name": "Paw Power",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Floryn_%28Paw_Power%29.jpg/revision/latest?cb=20230321152035",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Floryn%20Elite%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Floryn%20Elite%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FLORYN%20ELITE%20TO%20SEASON.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727281819746,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Floryn_%28Yatai_Waitress%29.jpg/revision/latest?cb=20240721073958",
+      "name": "Yatai Waitress",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Floryn_%28Yatai_Waitress%29.jpg/revision/latest?cb=20240721073958",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Floryn%20Summer%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727281835982,
+      "type": "Summer"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Floryn_%28Melody_of_Light%29.jpg/revision/latest?cb=20250109163217",
+      "name": "Melody of Light",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Floryn_%28Melody_of_Light%29.jpg/revision/latest?cb=20250109163217",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1736568768536,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20FLORYN%20SEASON.jpg",
+      "name": "Herald of Autumn",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20FLORYN%20SEASON.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1770123999818,
+      "type": "Season"
+    }
+  ]
+}

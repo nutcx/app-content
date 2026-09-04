@@ -1,0 +1,88 @@
+{
+  "heroId": 106,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250603_050428.png",
+      "name": "Monolith Watcher",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250603_050428.png",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20Phoveus%20Basic%20to%20Jiraiya.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Phoveus%20Basic%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Phoveus_%28Chains_of_Sin%29.jpg/revision/latest?cb=20240805140512",
+      "name": "Chains of Sin",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143231",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Phoveus%20Starlight.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Phoveus%20X%20Jiraiya.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Phoveus%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20PHOVEUS%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1746897198607,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20JIRAIYA.jpg",
+      "name": "Jiraiya (Customized)",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20JIRAIYA.jpg",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1746897255434,
+      "type": "Naruto Shippuden"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Phoveus%20Starlight.jpg",
+      "name": "Matrix Maverick",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Phoveus%20Starlight.jpg",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1748509500796,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PHOVEUS%20KOF.jpg",
+      "name": "Yashiro (Customized)",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PHOVEUS%20KOF.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1771718029837,
+      "type": "King of Fighters"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "heroId": 130,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Obsidia_%28Undying_Remnants%29.jpg/revision/latest?cb=20250926125609",
+      "name": "Undying Remnants",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Obsidia_%28Undying_Remnants%29.jpg/revision/latest?cb=20250926125609",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20OBSIDIA%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Obsidia_%28Sovereign_of_Dark%27s_End%29.jpg/revision/latest?cb=20260323042724",
+      "name": "Sovereign of Dark",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Obsidia_%28Sovereign_of_Dark%27s_End%29.jpg/revision/latest?cb=20260323042724",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20OBSIDIA%20STARLIGHT.zip",
+        "upgrades": [
+          {
+            "archive": "",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1775949868398,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
+      "name": "Magitech Wraith",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1775949902723,
+      "type": "Starlight"
+    }
+  ]
+}

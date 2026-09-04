@@ -1,0 +1,224 @@
+{
+  "heroId": 40,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(93).jpeg",
+      "name": "Rising Star",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(93).jpeg",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karrie%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karrie%20Basic%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karrie%20Basic%20to%20ICETALON.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karrie%20Basic%20to%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Karrie_%28Wheel_of_Justice%29.jpg/revision/latest?cb=20211218215729",
+      "name": "Wheel of Justice",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Karrie_%28Wheel_of_Justice%29.jpg/revision/latest?cb=20211218215729",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karrie%20Elite%20Topup%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karrie%20Elite%20Topup%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Karrie_%28Bladed_Mantis%29.jpg/revision/latest?cb=20250205132245",
+      "name": "Bladed Mantis",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Karrie_%28Bladed_Mantis%29.jpg/revision/latest?cb=20250205132245",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karrie%20Elite%20Mantis%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karrie%20Elite%20Mantis%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Karrie_%28Lost_Star%29.jpg/revision/latest?cb=20200818083837",
+      "name": "Lost Star",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero401-portrait.png/revision/latest?cb=20240121135955",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Karrie%20Halloweem.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Karrie%20Starlights.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_epicgill.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Karrie%20Hawkwaatch.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Karrie%20Annual%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Karrie%20Ice%20Talon%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F1%20KARRIE%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727364596227,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Karrie_%28Jester%29.jpg/revision/latest?cb=20250205132315",
+      "name": "Jester",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Karrie_%28Jester%29.jpg/revision/latest?cb=20250205132315",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F1%20KARRIE%20HALLOWEEN%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727364609241,
+      "type": "Halloween"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Karrie_%28Dragon_Queen%29.jpg/revision/latest?cb=20250205132254",
+      "name": "Dragon Queen",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Karrie_%28Dragon_Queen%29.jpg/revision/latest?cb=20250205132254",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karrie%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727364619970,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Karrie_%28Gill-Girl%29.jpg/revision/latest?cb=20250205132301",
+      "name": "Gill Girl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Karrie_%28Gill-Girl%29.jpg/revision/latest?cb=20250205132301",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727364634254,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Karrie_%28Hawkwatch%29.jpg/revision/latest?cb=20240124031933",
+      "name": "Hawkwatch",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Karrie_%28Hawkwatch%29.jpg/revision/latest?cb=20240124031933",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727364647299,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Karrie_%28Neon_Lightwheel%29.jpg/revision/latest?cb=20220227142911",
+      "name": "Neon Lightwheel",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Karrie_%28Neon_Lightwheel%29.jpg/revision/latest?cb=20220227142911",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727364682505,
+      "type": "Annual Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Karrie_%28Ice_Talon%29.jpg/revision/latest?cb=20230911111149",
+      "name": "Ice Talon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Karrie_%28Ice_Talon%29.jpg/revision/latest?cb=20230911111149",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727364691531,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162910.jpg",
+      "name": "Breath of Naraka",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162910.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1738667272844,
+      "type": "Kishin Densetsu"
+    }
+  ]
+}

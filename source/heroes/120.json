@@ -1,0 +1,132 @@
+{
+  "heroId": 120,
+  "skins": [
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Arlott_%28Lone_Lancer%29.jpg/revision/latest?cb=20230308110635",
+      "name": "Lone Lancer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20241021140737",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Assasins_defS/raw/main/arlott_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/V33/raw/main/Arlot%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/ARLOTT%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/ARLOTT%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Arlot%20Obanai.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARLOTT%20X%20ZORO.zip",
+            "targetCategory": 1,
+            "targetSkinId": 16
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Arlott%20X%20Chainsawman.zip",
+            "targetCategory": 1,
+            "targetSkinId": 17
+          }
+        ]
+      },
+      "timestamp": 1727162033923,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Arlott_%28Wandering_Spear%29.jpg/revision/latest?cb=20230308110711",
+      "name": "Wandering Lance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest?cb=20230208125754",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Assasins_defS/raw/main/arlott_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/ARLOT%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/ARLOTT%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727162043462,
+      "type": "Normal"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Arlott_%28Fury_of_the_Deep%29.jpg/revision/latest?cb=20240122032447",
+      "name": "Fury of the Deep",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1203-portrait.png/revision/latest?cb=20240114160254",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/ARLOTT%20STARLIGHT%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727162059250,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Image%20Arlot%20Collector.jpg",
+      "name": "Aeon of Twilight",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Image%20Arlot%20Collector.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1728822887476,
+      "type": "Collector"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(23).jpeg",
+      "name": "Obanai",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(23).jpeg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728015702750,
+      "type": "Anime|Obanai"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARLOTT%20ZORO.jpg",
+      "name": "Roronoa Zoro",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARLOTT%20ZORO.jpg",
+      "skinId": 16,
+      "source": null,
+      "timestamp": 1771301641532,
+      "type": "Anime|OnePiece"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ARLOT%20X%20CHAINSAWMAN.jpg",
+      "name": "Chainsaw Man",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ARLOT%20X%20CHAINSAWMAN.jpg",
+      "skinId": 17,
+      "source": null,
+      "timestamp": 1771718374830,
+      "type": "Anime|ChainsawMan"
+    }
+  ]
+}

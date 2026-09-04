@@ -1,0 +1,383 @@
+{
+  "heroId": 53,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
+      "name": "Royal Muskeeter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Lesley%20Basic%20to%20Meowskin.zip",
+            "targetCategory": -1,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LESLEY%20BASIC%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Lesley%20Basic%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Basic%20to%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Lesley_%28General_Rosa%29.jpg/revision/latest?cb=20180609232251",
+      "name": "General Rosa",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Lesley_%28General_Rosa%29.jpg/revision/latest?cb=20180609232251",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Elite%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Elite%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Elite%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Elite%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Elite%20to%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Lesley%20Elite%20to%20Meowskin.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Lesley_%28Cheergunner%29.jpg/revision/latest?cb=20210520070016",
+      "name": "Cheergunner",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Lesley_%28Cheergunner%29.jpg/revision/latest?cb=20210520070016",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Special%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Special%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Special%20to%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Lesley%20Special%20to%20Meowskin.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
+      "name": "Dangerous Liason",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Valentine%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Valentine%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Valentine%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Lesley%20Valentine%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Valentine%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Lesley%20Fatcat.jpg",
+      "name": "Fatcat Lesley",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Lesley%20Fatcat.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Lesley_%28Deadly_Sniper%29.jpg/revision/latest?cb=20221022092026",
+      "name": "Deadly Sniper",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20240623134201",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_epicstelarries.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LESLEY%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LESLEY%20LEGEND%20REVAMP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Lesley%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Lesley%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Lesley%20Annual%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Lesley%20Aspirant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Lesley%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Lesley%20Meowskin.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20LESLEY%20SOUL%20VESSELS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727368265149,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Lesley_%28Stellaris_Ghost%29.jpg/revision/latest?cb=20230826135319",
+      "name": "Stellaris Ghost",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Lesley_%28Stellaris_Ghost%29.jpg/revision/latest?cb=20230826135319",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727368282845,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
+      "name": "Dangerous Love",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727368292576,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Lesley_%28Angelic_Agent%29.jpg/revision/latest?cb=20200531065437",
+      "name": "Angelic Agent",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Lesley_%28Angelic_Agent%29.jpg/revision/latest?cb=20200531065437",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727368306333,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Lesley_%28Lethal_Lady%29.jpg/revision/latest?cb=20200531065401",
+      "name": "Lethal Lady",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Lesley_%28Lethal_Lady%29.jpg/revision/latest?cb=20200531065401",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Starlight%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Starlight%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesle%20Starlight%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Starlight%20to%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Lesley%20Starlight%20to%20Meowskin.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 1727368315946,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Lesley_%28Falcon_Mistress%29.jpg/revision/latest?cb=20211214150156",
+      "name": "Falcon Mistress",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Lesley_%28Falcon_Mistress%29.jpg/revision/latest?cb=20211214150156",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727368366656,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Lesley_%28Hawk-eyed_Sniper%29.jpg/revision/latest?cb=20221111142422",
+      "name": "Hawk-eyed Sniper",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Lesley_%28Hawk-eyed_Sniper%29.jpg/revision/latest?cb=20221111142422",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Annual%20to%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727368379290,
+      "type": "Annual Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Lesley_%28Deadeye_Spectre%29.jpg/revision/latest?cb=20240126071937",
+      "name": "Deadeye Spectre",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Lesley_%28Deadeye_Spectre%29.jpg/revision/latest?cb=20240126071937",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727368403800,
+      "type": "Aspirants"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20LESLEY%20COVENANT.jpg",
+      "name": "Duchess of Tides",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20LESLEY%20COVENANT.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1741504084189,
+      "type": "Covenant"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Lesley%20Fatcat.jpg",
+      "name": "Meowkin Hunter",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Lesley%20Fatcat.jpg",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1750500684160,
+      "type": "Mystic Meow"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20LESLEY%20SOULV.png",
+      "name": "Soul Vessels",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20LESLEY%20SOULV.png",
+      "skinId": 10,
+      "source": null,
+      "timestamp": 1771312280092,
+      "type": "Soul Vessels"
+    }
+  ]
+}

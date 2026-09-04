@@ -1,0 +1,34 @@
+{
+  "heroId": 124,
+  "skins": [
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Chip_%28Phase_Technician%29.jpg/revision/latest?cb=20240303050952",
+      "name": "Phase Technician",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240917154206",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Chip%20Elite.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Chip%20Elite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727238139239,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Chip_%28Badlands_Hiatus%29.jpg/revision/latest?cb=20240909043304",
+      "name": "Badlands Hiatus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero1243-portrait.png/revision/latest?cb=20240909043655",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727238148432,
+      "type": "Elite"
+    }
+  ]
+}

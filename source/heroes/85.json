@@ -1,0 +1,311 @@
+{
+  "heroId": 85,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dyrroth_%28Scalebore%29.jpg/revision/latest?cb=20200427090440",
+      "name": "Scalebore",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dyrroth_%28Scalebore%29.jpg/revision/latest?cb=20200427090440",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F3%20DYROTH%20BASIC%20TO%20HXH.zip",
+            "targetCategory": -1,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20BASIC%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Dyrroth_%28Gon%29.jpg/revision/latest?cb=20241208031721",
+      "name": "Gon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Dyrroth_%28Gon%29.jpg/revision/latest?cb=20241208031721",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Dyrroth_%28Prince_of_the_Abyss%29.jpg/revision/latest?cb=20200818083813",
+      "name": "Prince of the Abyss",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20250917081250",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Dyroth%20Venom.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/O30%20DIROT%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Dyroth%20Lightborn.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Hunter%20x%20Hunter.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20DYROTH%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Street%20Fighter%20-%20Guile%20(Outfit%201).zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Street%20Fighter%20-%20Guile%20(Outfit%202).zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Anime%20Dyroth%20NARUTO.zip",
+            "targetCategory": 1,
+            "targetSkinId": 20
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Dyroth%20-%20Chifuyu.zip",
+            "targetCategory": 1,
+            "targetSkinId": 21
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Gojo.zip",
+            "targetCategory": 1,
+            "targetSkinId": 23
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Ace%20Onepiece.zip",
+            "targetCategory": 1,
+            "targetSkinId": 24
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Updater/raw/main/Dyroth%20Saber.zip",
+            "targetCategory": 2,
+            "targetSkinId": 30
+          }
+        ]
+      },
+      "timestamp": 1727280186350,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
+      "name": "Orochi Chris",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727280216842,
+      "type": "King of Fighters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Dyrroth_Ruins_Scavenger_wall.png/revision/latest?cb=20191125135115",
+      "name": "Ruins Scavenger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Dyrroth_Ruins_Scavenger_wall.png/revision/latest?cb=20191125135115",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20HXH.zip",
+            "targetCategory": -1,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20STARLIGHT%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727280240754,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Dyrroth_%28V.E.N.O.M._Cobra%29.jpg/revision/latest?cb=20220317062640",
+      "name": "V.E.N.O.M Cobra",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Dyrroth_%28V.E.N.O.M._Cobra%29.jpg/revision/latest?cb=20220317062640",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20VENOM%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Venom%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727280261205,
+      "type": "V.E.N.O.M"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Dyrroth_%28Naraka_Flame%29.jpg/revision/latest?cb=20230308110844",
+      "name": "Naraka Flame",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Dyrroth_%28Naraka_Flame%29.jpg/revision/latest?cb=20230308110844",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727280272699,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_175012.jpg",
+      "name": "Prince of the Moniyan",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_175012.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1728553868096,
+      "type": "Lightborn"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20DYROTH%20HXH.jpg",
+      "name": "Gon Freecss",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20DYROTH%20HXH.jpg",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1733571101600,
+      "type": "HxH"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20DYROTH%20LIGHTBORN.jpg",
+      "name": "Prince of Light",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20DYROTH%20LIGHTBORN.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1771718076452,
+      "type": "Lightborn"
+    },
+    {
+      "category": 0,
+      "landscape": "https://pbs.twimg.com/media/HJaaVWeakAAZlJM?format=jpg&name=large",
+      "name": "Guile (Outfit 1)",
+      "portrait": "https://pbs.twimg.com/media/HJaaVWeakAAZlJM?format=jpg&name=large",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1783124124955,
+      "type": "Street Fighter"
+    },
+    {
+      "category": 0,
+      "landscape": "https://pbs.twimg.com/media/HJaaVY0aMAAWUfO?format=jpg&name=large",
+      "name": "Guile (Outfit 2)",
+      "portrait": "https://pbs.twimg.com/media/HJaaVY0aMAAWUfO?format=jpg&name=large",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1783124177820,
+      "type": "Street Fighter"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_180333.jpg",
+      "name": "Naruto",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_180333.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1728481826438,
+      "type": "Anime|Naruto"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20chifuyu.jpeg",
+      "name": "Chifuyu Matsuno",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20chifuyu.jpeg",
+      "skinId": 21,
+      "source": null,
+      "timestamp": 1728791091892,
+      "type": "Anime|TokyoRevenge"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG_20260310_232748_122.jpg",
+      "name": "Gojo",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG_20260310_232748_122.jpg",
+      "skinId": 23,
+      "source": null,
+      "timestamp": 1773068018998,
+      "type": "Anime|JujutsuKaisen"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20DYROTH%20X%20ACE.jpg",
+      "name": "Ace",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20DYROTH%20X%20ACE.jpg",
+      "skinId": 24,
+      "source": null,
+      "timestamp": 1773068034034,
+      "type": "Anime|OnePiece"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_182220.jpg",
+      "name": "S.A.B.E.R Abyss",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_182220.jpg",
+      "skinId": 30,
+      "source": null,
+      "timestamp": 1728552724762,
+      "type": "Weird"
+    }
+  ]
+}

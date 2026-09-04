@@ -1,0 +1,182 @@
+{
+  "heroId": 34,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Estes_%28Holy_Priest%29.jpg/revision/latest?cb=20200514034225",
+      "name": "Holy Priest",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Estes_%28Holy_Priest%29.jpg/revision/latest?cb=20200514034225",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/ESTES%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Estes%20Normal%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Estes%20Normal%20to%20DRAGONTAMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Estes%20Season%20to%20CHAMPION.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Estes%20Normal%20to%20SPARKLE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Estes%20Basic%20to%20SPECIAL%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Estes_%28White_Crane%29.jpg/revision/latest?cb=20200514034402",
+      "name": "White Crane",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Estes_%28White_Crane%29.jpg/revision/latest?cb=20200514034402",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/ESTES%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Estes%20Season%20to%20CHAMPION.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Estes_%28Moon_Elf_King%29.jpg/revision/latest?cb=20200514034311",
+      "name": "Moon Elf King",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20240501095928",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/BACKUP%20ESTES.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/SuppD/raw/main/estes_def_Epicgalaxy.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/ESTES%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/SuppD/raw/main/estes_def_dragon.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/SuppD/raw/main/estes_def_blacklist.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/V43Ztools/raw/main/ESTES%20SPARKLE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D7%20ESTES%20SPECIAL%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Estes%20Blck%20car.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727147545657,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Estes_%28Galaxy_Dominator%29.jpg/revision/latest?cb=20230321152152",
+      "name": "Galaxy Dominator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero343-portrait.png/revision/latest?cb=20230212041009",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727147583897,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Estes_%28Crow_Bishop%29.jpg/revision/latest?cb=20200514034554",
+      "name": "Crow Bishop",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero345-portrait.png/revision/latest?cb=20220525165045",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727147610534,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Estes_%28Rattan_Dragon%29.jpg/revision/latest?cb=20200611050003",
+      "name": "Rattan Dragon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest?cb=20220525165046",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727147638914,
+      "type": "Dragon Tamer"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Estes_%28Blacklist_International%29.jpg/revision/latest?cb=20220804115054",
+      "name": "Blacklist International",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727147675765,
+      "type": "Champion"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Estes_%28SPARKLE_Estes%29.jpg/revision/latest?cb=20240416015245",
+      "name": "SPARKLE Estes",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest?cb=20240416015757",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727147717305,
+      "type": "Sparkle"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20TESTES%20SPECIAL%20NEW.jpg",
+      "name": "Arcane Magistrate",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20TESTES%20SPECIAL%20NEW.jpg",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1733570805079,
+      "type": "Special"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/nPmPTKG/Blacklist-Car.png",
+      "name": "Blacklist Car",
+      "portrait": "https://i.ibb.co/nPmPTKG/Blacklist-Car.png",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727959473471,
+      "type": "Weird"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "heroId": 91,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Wisteria_Count%2C_%26_Wisteria_Countess_wall.jpg/revision/latest?cb=20200824133424",
+      "name": "Wisteria Count",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Wisteria_Count%2C_%26_Wisteria_Countess_wall.jpg/revision/latest?cb=20200824133424",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Basic%20to%20HXH(FIX).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Cecillion%20Basic%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20BASIC%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20BASIC%20TO%20SUGURU%20JJK.zip",
+            "targetCategory": 1,
+            "targetSkinId": 16
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
+      "name": "Magician Girl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20HXH(Updated).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20ELITE%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Phantom_Countess_%26_Phantom_Count_wall.jpg/revision/latest?cb=20210214041829",
+      "name": "Phantom Countless",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Phantom_Countess_%26_Phantom_Count_wall.jpg/revision/latest?cb=20210214041829",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Valentine%20to%20HXH(New).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Cecillion%20Valentine%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Valentine%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20VALENTINE%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Cecilion_%28Embrace_of_Night%29.jpg/revision/latest?cb=20200815122305",
+      "name": "Embrace of Night",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20220525171232",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D24%20CECILLION%20HXH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Cecillion%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20CECILLION%20X%20MADARA.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip",
+            "targetCategory": 1,
+            "targetSkinId": 16
+          }
+        ]
+      },
+      "timestamp": 1727235935137,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20CECILLION%20HXH.jpg",
+      "name": "Hisoka Morrow",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20CECILLION%20HXH.jpg",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1733571039328,
+      "type": "HxH"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Cecilion_%28Stargazer%29.jpg/revision/latest?cb=20220202133459",
+      "name": "Stargazer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Cecilion_%28Stargazer%29.jpg/revision/latest?cb=20220202133459",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Startlight%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20STARLIGHT%20TO%20SOUL%20VESSELS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727235954887,
+      "type": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Cecilion_%28Stargazer%29.jpg/revision/latest?cb=20220202133459"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Cecilion_%28Crimson_Wings%29.jpg/revision/latest?cb=20220915133531",
+      "name": "Crimson Wings",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727235959508,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Cecilion_%28Vessel_of_Gluttony%29.png/revision/latest?cb=20260106025831",
+      "name": "Vessels of Gluttony",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Cecilion_%28Vessel_of_Gluttony%29.png/revision/latest?cb=20260106025831",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1765181845337,
+      "type": "Soul Vessels"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20CECILLION%20MADARA.jpg",
+      "name": "Madara",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20CECILLION%20MADARA.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771301752837,
+      "type": "Anime|NarutoShippuden"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
+      "name": "Suguru Geto",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
+      "skinId": 16,
+      "source": null,
+      "timestamp": 1773723184987,
+      "type": "Anime|JujutsuKaisen"
+    }
+  ]
+}

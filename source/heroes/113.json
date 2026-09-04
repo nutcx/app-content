@@ -1,0 +1,266 @@
+{
+  "heroId": 113,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Yin_%28Fists_of_Valor%29.jpg/revision/latest?cb=20221228184337",
+      "name": "Fist of Valor",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Yin_%28Fists_of_Valor%29.jpg/revision/latest?cb=20221228184337",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YIN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yin%20Normal%20to%20MWORLD.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Yin/Yin%20Default/Yin%20Replace%20Skins/Yin%20X%20Itadori%20Revamp%20Blackflash%20Mode%20Replace%20Basic%20-%5BK4%2CNutx%2CXvrn%5D.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/yin%20basic%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yin%20Normal%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Yin%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Yin_%28Martial_Genius%29.jpg/revision/latest?cb=20220113132448",
+      "name": "Martial Genius",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240918065501",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YIN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Yin%20Mworld.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Yin/Yin%20Default/Yin%20Replace%20Skins/Yin%20X%20Itadori%20Revamp%20Blackflash%20Mode%20Replace%20Default%20-%5BK4%2CNutx%2CXvrn%5D.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/yin%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/yin_def_starN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Yin%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Yin%20Naruto.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANIME%20Yin%20Tobi%20Akatsuki.zip",
+            "targetCategory": 1,
+            "targetSkinId": 16
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20YIN%20TARO%20SAKAMOTO.zip",
+            "targetCategory": 1,
+            "targetSkinId": 21
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Yin%20Swimming%20Pool.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Yin%20X%20Ultra%20Man%20Red.zip",
+            "targetCategory": 2,
+            "targetSkinId": 21
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20YIN%20EREN%20TITAN.zip",
+            "targetCategory": 2,
+            "targetSkinId": 22
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Yin%20X%20Kamen%20Rider.zip",
+            "targetCategory": 2,
+            "targetSkinId": 23
+          }
+        ]
+      },
+      "timestamp": 1727379308414,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Yin_%28M-World_Yin%29.jpg/revision/latest?cb=20220408062536",
+      "name": "MWorld Yin",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Yin_%28M-World_Yin%29.jpg/revision/latest?cb=20220408062536",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YIN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Yin%20Mworld%20to%20AOT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727379322120,
+      "type": "MWorld"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Yin_%28Yuji_Itadori%29.jpg/revision/latest?cb=20230308111142",
+      "name": "Yuji Itadori",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Yin_%28Yuji_Itadori%29.jpg/revision/latest?cb=20230308111142",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727379350188,
+      "type": "Jujutsu Kaisen"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Yin_%28Eren%29.jpg/revision/latest?cb=20240122041247",
+      "name": "Eren",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Yin_%28Eren%29.jpg/revision/latest?cb=20240122041247",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727379358656,
+      "type": "Attack on Titan"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Yin_%28Eternal_Guardian%29.jpg/revision/latest?cb=20240815171340",
+      "name": "Eternal Guardian",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Yin_%28Eternal_Guardian%29.jpg/revision/latest?cb=20240815171340",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YIN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yin%20Starlight%20to%20JJK.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/yin%20starlight%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Yin%20Starlight%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727379368471,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013511.jpg",
+      "name": "Dauntless Battlelord",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013511.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1757785946171,
+      "type": "Collector"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241004_152959.jpg",
+      "name": "Naruto",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241004_152959.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728016105362,
+      "type": "Anime|Naruto"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Yin%20tobi%20akatsuki.jpeg",
+      "name": "Obito Uchiha",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Yin%20tobi%20akatsuki.jpeg",
+      "skinId": 16,
+      "source": null,
+      "timestamp": 1728475794657,
+      "type": "Anime|Naruto"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20YIN%20TARO%20SAKAMOTO.jpg",
+      "name": "Taro Sakamoto",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20YIN%20TARO%20SAKAMOTO.jpg",
+      "skinId": 21,
+      "source": null,
+      "timestamp": 1770641616963,
+      "type": "Anime|SakamotoDays"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/WVN14NP/swimming-Pool.jpg",
+      "name": "Swimming Pool",
+      "portrait": "https://i.ibb.co/WVN14NP/swimming-Pool.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727960915863,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YIN%20ULTRAMAN.jpg",
+      "name": "Ultraman",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YIN%20ULTRAMAN.jpg",
+      "skinId": 21,
+      "source": null,
+      "timestamp": 1773356434694,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20YIN%20EREN.jpg",
+      "name": "Eren",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20YIN%20EREN.jpg",
+      "skinId": 22,
+      "source": null,
+      "timestamp": 1771301988954,
+      "type": "Anime|AOT"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YIN%20X%20KAMEN%20RIDER.png",
+      "name": "Kamen Rider",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YIN%20X%20KAMEN%20RIDER.png",
+      "skinId": 23,
+      "source": null,
+      "timestamp": 1773494305195,
+      "type": "Weird"
+    }
+  ]
+}

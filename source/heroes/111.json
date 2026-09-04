@@ -1,0 +1,122 @@
+{
+  "heroId": 111,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Edith_%28Celestial_Safeguard%29.jpg/revision/latest?cb=20211224175707",
+      "name": "Celestial Safeguard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Edith_%28Celestial_Safeguard%29.jpg/revision/latest?cb=20211224175707",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/edith_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Edith%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Edith%20Starlight%20to%20CLOUDS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20EDITH%20BASIC%20TO%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Edith_%28Ancient_Guard%29.jpg/revision/latest?cb=20211221193138",
+      "name": "Ancient Guard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20220525171947",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/edith_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/EDITH%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Edith%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/TankD/raw/main/edith_def_beyond.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20EDITH%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727280450805,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Edith_%28Ancient_Warden%29.jpg/revision/latest?cb=20230402084136",
+      "name": "Ancient Warden",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Edith_%28Ancient_Warden%29.jpg/revision/latest?cb=20230402084136",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/edith_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Edith%20Starlight%20to%20CLOUDS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20EDITH%20STARLIGHT%20TO%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727280477709,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Edith_%28Red_Bastion%29.jpg/revision/latest?cb=20240405035251",
+      "name": "Red Bastion",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Edith_%28Red_Bastion%29.jpg/revision/latest?cb=20240405035251",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727280488001,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Edith_%28Beyond_the_Clouds_Edith%29.jpg/revision/latest?cb=20230819042704",
+      "name": "Beyond the Clouds",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Edith_%28Beyond_the_Clouds_Edith%29.jpg/revision/latest?cb=20230819042704",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727280498989,
+      "type": "Clouds"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20EDITH%20MPL.jpg",
+      "name": "Prismatic Sentinel",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20EDITH%20MPL.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1741503536633,
+      "type": "MPL"
+    }
+  ]
+}

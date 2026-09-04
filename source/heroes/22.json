@@ -1,0 +1,266 @@
+{
+  "heroId": 22,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20FREYA%20BASIC%20REVAMP.jpg",
+      "name": "Dark Rose",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20FREYA%20BASIC%20REVAMP.jpg",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/FREYA%20BASIC%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/FREYA%20BASIC%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Zilong_%28Christmas_Carnival%29.jpg/revision/latest?cb=20240303042325",
+      "name": "Christmas Carnival",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Zilong_%28Christmas_Carnival%29.jpg/revision/latest?cb=20240303042325",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Freya_%28Raven_Shogun%29.jpg/revision/latest?cb=20231029212115",
+      "name": "Raven Shogun",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Freya_%28Raven_Shogun%29.jpg/revision/latest?cb=20231029212115",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20EPIC%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20epic%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/1733767268114.jpg",
+      "name": "Dragon Hunter",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/1733767268114.jpg",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20STARLIGHT%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20OG%20STAR%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20starlight%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Freya_%28Beach_Sweetheart%29.jpg/revision/latest?cb=20231029212024",
+      "name": "Beach Sweetheart",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Freya_%28Beach_Sweetheart%29.jpg/revision/latest?cb=20231029212024",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20SUMMER%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20SUMMER%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20summer%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
+      "name": "S.A.B.E.R Manhunter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Freya_%28Gladiator%29.jpg/revision/latest?cb=20231029212057",
+      "name": "Gladiator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Freya_%28Gladiator%29.jpg/revision/latest?cb=20231029212057",
+      "skinId": 8,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20ELITE%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/elite/main/FREYA%20ELITE%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20elite%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Freya_%28Valkyrie%29.jpg/revision/latest?cb=20251219113938",
+      "name": "Valkyrie",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20251110105915",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20LUCKYBOX%20NEW.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/FREYA%20LEGEND%20DEFAULT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727282422789,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Freya_%28War_Angel%29.jpg/revision/latest?cb=20240725092617",
+      "name": "War Angel",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Freya_%28War_Angel%29.jpg/revision/latest?cb=20240725092617",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20luckybox%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727282471736,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20FREYA%20STARLIGHT.jpg",
+      "name": "Starborn Resolve",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20FREYA%20STARLIGHT.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1770124334607,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Freya_%28Galactic_Vanquisher%29.jpg/revision/latest?cb=20240122091706",
+      "name": "Galactic Vanquisher",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Freya_%28Galactic_Vanquisher%29.jpg/revision/latest?cb=20240122091706",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727282555589,
+      "type": "Legend"
+    }
+  ]
+}

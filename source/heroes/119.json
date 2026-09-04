@@ -1,0 +1,82 @@
+{
+  "heroId": 119,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Novaria_%28Dark_Star%29.jpg/revision/latest?cb=20240417042819",
+      "name": "Dark Star",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Novaria_%28Dark_Star%29.jpg/revision/latest?cb=20240417042819",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/NOVARIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Novaria%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Novaria/NovaCC/Novaria%20CC%20(Basic)%20-%20Nutx.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Novaria_%28Star_Rebel%29.jpg/revision/latest?cb=20240124060833",
+      "name": "Star Rebel",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20240616052213",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/NOVARIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/NOVARIA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Novaria/NovaCC/Novaria%20CC%20(Default)%20-%20Nutx.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727372403272,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Novaria_%28Sugar_Glaze%29.jpg/revision/latest?cb=20240128145026",
+      "name": "Sugar Glaze",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Novaria_%28Sugar_Glaze%29.jpg/revision/latest?cb=20240128145026",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/NOVARIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Novaria/NovaCC/Novaria%20CC%20(Starlight)%20-%20Nutx.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727372425376,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250405_003043.jpg",
+      "name": "Dragonsworn",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250405_003043.jpg",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1743784448095,
+      "type": "Collector"
+    }
+  ]
+}

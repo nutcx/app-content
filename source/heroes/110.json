@@ -1,0 +1,150 @@
+{
+  "heroId": 110,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Valentina_%28Twilight_Charmer%29.jpg/revision/latest?cb=20230308111122",
+      "name": "Twilight Charmer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Valentina_%28Twilight_Charmer%29.jpg/revision/latest?cb=20230308111122",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/VALENTINA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/VALENTINA%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/VALENTINA%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/VALENTINA%20BASIC%20TO%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Valentina_%28Prophetess_of_the_Night%29.jpg/revision/latest?cb=20211213141810",
+      "name": "Prophetess of the Night",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1101-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143333",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/VALENTINA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/VALENTINA%20ELITE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/VALENTINA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/VALENTINA%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/VALENTINA%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Valentina%20Season.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727378010525,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Valentina_%28Archmagister%29.jpg/revision/latest?cb=20220920093811",
+      "name": "Archmagister",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Valentina_%28Archmagister%29.jpg/revision/latest?cb=20220920093811",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/VALENTINA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/VALENTINA%20ELITE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727378028987,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Valentina_%28Cyber_Agent%29.jpg/revision/latest?cb=20230321152120",
+      "name": "Cyber Agent",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Valentina_%28Cyber_Agent%29.jpg/revision/latest?cb=20230321152120",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/VALENTINA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/VALENTINA%20STARLIGHT%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727378041493,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Valentina_%28Celestial_Judicator%29.jpg/revision/latest?cb=20231029205219",
+      "name": "Celestial Judicator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Valentina_%28Celestial_Judicator%29.jpg/revision/latest?cb=20231029205219",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727378062701,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Valentina_%28Dark_Nexus%29.jpg/revision/latest?cb=20240620040627",
+      "name": "Dark Nexus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Valentina_%28Dark_Nexus%29.jpg/revision/latest?cb=20240620040627",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/VALENTINA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/VALENTINA%20MSC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727378070962,
+      "type": "Msc 2024"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20VALENTINA%20SEASON.jpg",
+      "name": "Grand Gala",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20VALENTINA%20SEASON.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1756745823050,
+      "type": "Season"
+    }
+  ]
+}

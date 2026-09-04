@@ -1,0 +1,79 @@
+{
+  "heroId": 87,
+  "skins": [
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Baxia_%28Mystic_Tortoise%29.jpg/revision/latest?cb=20190926102330",
+      "name": "Mystic Tortoise",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png/revision/latest?cb=20220621142648",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/BAXIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/BAXIA%20NORMAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/BAXIA%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/N11%20BAXIA%20DAUNTLESS%20SHIELD.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/sonic%20baxia.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727163748651,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Baxia_%28Badass_Roller%29.jpg/revision/latest?cb=20200714083000",
+      "name": "Badass Roller",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero873-portrait.png/revision/latest?cb=20220525170057",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727163755300,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Baxia_%28Ba-tender%29.jpg/revision/latest?cb=20230819033213",
+      "name": "Ba-tender",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest?cb=20221111133611",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727163760553,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20BAXIA%20SPECIAL.png",
+      "name": "Dauntless Shield",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20BAXIA%20SPECIAL.png",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1731268029116,
+      "type": "Special"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/n01SSL8/baxi-Sonic.jpg",
+      "name": "Sonic",
+      "portrait": "https://i.ibb.co/n01SSL8/baxi-Sonic.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727960584573,
+      "type": "Weird"
+    }
+  ]
+}

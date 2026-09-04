@@ -1,0 +1,607 @@
+{
+  "heroId": 26,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046",
+      "name": "Thunder Fist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+      "name": "ECHO Choh",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZA046T8OOYBFmrfCcVbxKcfHeU4nhlLb6FG2F0XDITjd_Mh4wRO2H9aP&s=10",
+      "name": "Ken Outfit 2",
+      "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZA046T8OOYBFmrfCcVbxKcfHeU4nhlLb6FG2F0XDITjd_Mh4wRO2H9aP&s=10",
+      "skinId": 11,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUFlBXsJ9mrF9jzRBHnUE_GFK-pWEiR5qmbxGMS7EeX7AWLwPCevpyihKZ2eVSsm7_7tizj_Q9iy_vaNDETDfWm1qweH7cp4XInNUbanRVOhqEJ4wataiWscb8dFkPBa5wo2p-mNMZl_cy_9NvS7Ut6l0dqpLQtNjJCVqB6cLRj3WfmSac9WI53BSHJcoF/s3840/chou-revamp-wallpaper.jpg",
+      "name": "Kung-Fu Boy",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2jBn0PSL6IWn6SAqOjE4vyOoVHEBEbKqpLqGGs_lrokXY_YP0jlys55j0ulNiaeeZ_bFrvt1Yaot08_GjKdw93ipVAbQiKwhMTE0dNGll5S7-Pelh4JZeDLgLp6A-w1miW1M2u4kPO41cj9TgdaUQw9v4e00LZxR2fR_icVdN2Vo3wdNG7DFj3kK2fJoU/s3840/chou-revamp-wallpaper-hd.jpg",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Street%20Figther%20-%20Ken%20(Outfit%202).zip",
+            "targetCategory": -1,
+            "targetSkinId": 11
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Elite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Default/Chou%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Default/Chou%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Dawning%20Stars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Saint%20Seiya%20-%20Dragon%20Shiryu.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Saint%20Seiya%20-%20Libra%20Shiryu.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Champion.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/D24%20CHOU%20CHINESE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20Chou%20Basic%20to%20Rocklee.zip",
+            "targetCategory": 0,
+            "targetSkinId": 12
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Street%20Fighter%20-%20Ken%20(Outfit%201).zip",
+            "targetCategory": 0,
+            "targetSkinId": 13
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Yin/Yin%20Default/Yin%20Replace%20Skins/Yin%20X%20Itadori%20Revamp%20Blackflash%20Mode%20Replace%20Default%20-%5BK4%2CNutx%2CXvrn%5D.zip",
+            "targetCategory": 1,
+            "targetSkinId": 20
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Chou%20Sanji.zip",
+            "targetCategory": 1,
+            "targetSkinId": 21
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Anime%20Chou%20X%20Ace.zip",
+            "targetCategory": 1,
+            "targetSkinId": 22
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Chou%20-%20Draken.zip",
+            "targetCategory": 1,
+            "targetSkinId": 23
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20CHOU%20TO%20MCDOO.zip",
+            "targetCategory": 2,
+            "targetSkinId": 17
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20CHOU%20THUNDERFIST.zip",
+            "targetCategory": 2,
+            "targetSkinId": 18
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Chou%20X%20Red%20Ranger.zip",
+            "targetCategory": 2,
+            "targetSkinId": 19
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/School%20Boy.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Mafia%20Boss.zip",
+            "targetCategory": 2,
+            "targetSkinId": 21
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Chou%20X%20Angela%20Summer.zip",
+            "targetCategory": 2,
+            "targetSkinId": 22
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Chou%20X%20Angela%20Starlight.zip",
+            "targetCategory": 2,
+            "targetSkinId": 23
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D6%20CHOU%20X%20ANGELA%20SANRIO.zip",
+            "targetCategory": 2,
+            "targetSkinId": 24
+          }
+        ]
+      },
+      "timestamp": 1727238297354,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIycfSnyJp1FNdWKZgstK2D9nmQxmRlqyAPf5EPzF0O6hmdu839xoLISH7D2I09fjrmE4CHEXEAMLHBjB3-mvZzaDh_xXjyo-Xyee8ISTN1c1HlnV7qN357awDc0BGGZBI7yGajPdUbf6X/s1920/chou-dragon-boy-epic-skin-mobile-legends-wallpaper-hd.jpg",
+      "name": "Dragon Boy",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Epic%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Luckybox%20to%20LibraShiryu.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Epic%20to%20ECHO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727238306574,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Chou_%28King_of_Muay_Thai%29.jpg/revision/latest?cb=20230819020003",
+      "name": "King of Muay Thai",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cb=20220525164852",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Elite%20to%20HERO.zip",
+            "targetCategory": -1,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHOU%20ELITE%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Elite%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Elite%20to%20DRAGON%20SHIRYU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Elite%20to%20LibraShiryu.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Elite%20to%20ECHO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727238315322,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Chou_%28Furious_Tiger%29.jpg/revision/latest?cb=20230819020014",
+      "name": "Furious Tiger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest?cb=20220525164853",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Special%20to%20HERO.zip",
+            "targetCategory": -1,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Special%20to%20ECHO.zip",
+            "targetCategory": -1,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHOU%20SPECIAL%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Special%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Special%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Special%20to%20DRAGON%20SHIRYU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Special%20to%20LibraShiryu.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Special/Chou%20Special%20to%20Champion.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727238322505,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "name": "Iori Yagami",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727238331917,
+      "type": "King of Fighters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFbJx-fJX8Cc2xYGpNrqOUTrn9UIGAAfVvSImikMtcbBwMjIdx6ATjU4eavNqlSPTpnVO7V5GZurBGsf-xDlfxS9tnGCfXQ2LY_sX5h1KU4JhviFb1ilMpfRb9XYEKXUiruT_3dpcwrgzH/s1920/chou-go-ballistic-starlight-skin-mobile-legends-wallpaper-hd.jpg",
+      "name": "Go Ballistic",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb=20220525164855",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Starlight%20to%20HERO.zip",
+            "targetCategory": -1,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHOU%20STARLIGHT%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Starlight%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Starlight%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Starlight%20to%20DRAGON%20SHIRYU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Starlight%20to%20LibraShiryu.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Starlight%20to%20ECHO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727238374776,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGAsDgNlcz8gRmTV9QTTjsdtswApgDUL02KS2i6yT5Hj1Qg-h7gt-6ng9K02HB88VOBFxEa4hBQWjsGFyoPxQbbY7ee5yUQTFj9M_JgF-50_yV-cPnF4cLX6fjqUNYM5Xvm9vCeB_PO13/s1920/chou-thunderfist-hero-skin-mobile-legends-wallpaper-hd.jpg",
+      "name": "Thunderfist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727238381814,
+      "type": "Dawning Stars"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVsUCG84gakuKmpO1X_bFxyEkgo5owNXjfXXPKIg8T8d0T4kOlshHTUZfZDuY0GilbpWhBdpwZGzRskZXcqhzOAhG9ygNjRNdnZmxFaeWa9GHxpiDKBptye2A7-c0yFU5VjkC9lOPiBg1/s1920/chou-stun-skin-mobile-legends-wallpaper-hd.jpg",
+      "name": "S.T.U.N. Chou",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20STUN%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Stun%20to%20LibraShiryu.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Epic%20to%20ECHO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727238387083,
+      "type": "S.T.U.N"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Chou_%28Dragon_Shiryu%29.jpg/revision/latest?cb=20220915133548",
+      "name": "Dragon Shiryu",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb=20220915121509",
+      "skinId": 8,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Dragon%20Shiryu%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727238391820,
+      "type": "Saint Seiya"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Chou_%28Libra_Shiryu%29.jpg/revision/latest?cb=20220915133558",
+      "name": "Libra Shiryu",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb=20220915121517",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1727238395913,
+      "type": "Saint Seiya"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
+      "name": "ECHO",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+      "skinId": 10,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHOU%20CHAMPION%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Echo%20to%20LIBRA%20SHIRYU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 1727238421140,
+      "type": "Champion"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241224_104348.jpg",
+      "name": "Chou Chinese",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241224_104348.jpg",
+      "skinId": 11,
+      "source": null,
+      "timestamp": 1735008417434,
+      "type": "Chinese"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20ROCKLEE.jpg",
+      "name": "Rocklee (Customized)",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20ROCKLEE.jpg",
+      "skinId": 12,
+      "source": null,
+      "timestamp": 1746897488981,
+      "type": "Naruto Shippuden"
+    },
+    {
+      "category": 0,
+      "landscape": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2CxMsqy2zdPuGH2XTFkdzL5PYVMpaINLx0Lq0I8E429fwf0arabnp0Q_&s=10",
+      "name": "Ken",
+      "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2CxMsqy2zdPuGH2XTFkdzL5PYVMpaINLx0Lq0I8E429fwf0arabnp0Q_&s=10",
+      "skinId": 13,
+      "source": null,
+      "timestamp": 1783025046035,
+      "type": "New"
+    },
+    {
+      "category": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Yin_%28Yuji_Itadori%29.jpg/revision/latest?cb=20230308111142",
+      "name": "Yuji Itadori",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Yin_%28Yuji_Itadori%29.jpg/revision/latest?cb=20230308111142",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727812483751,
+      "type": "Anime|Jujutsu Kaisen"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(25).jpeg",
+      "name": "Sanji",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(25).jpeg",
+      "skinId": 21,
+      "source": null,
+      "timestamp": 1728015762117,
+      "type": "Anime|One Piece"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20chou%20x%20ace.jpeg",
+      "name": "Portgas Ace",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20chou%20x%20ace.jpeg",
+      "skinId": 22,
+      "source": null,
+      "timestamp": 1728481797148,
+      "type": "Anime|One-piece"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20draken.jpeg",
+      "name": "Ken Ryuguji",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20draken.jpeg",
+      "skinId": 23,
+      "source": null,
+      "timestamp": 1728793662663,
+      "type": "Anime|TokyoRevenge"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHOU%20MCDO.jpg",
+      "name": "Mcdonalds",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHOU%20MCDO.jpg",
+      "skinId": 17,
+      "source": null,
+      "timestamp": 1771301498171,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20CHOU.jpg",
+      "name": "Thunderfist Chibi",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20CHOU.jpg",
+      "skinId": 18,
+      "source": null,
+      "timestamp": 1771518215981,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CHOU%20X%20RANGER%20RED.jpg",
+      "name": "Red Ranger",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CHOU%20X%20RANGER%20RED.jpg",
+      "skinId": 19,
+      "source": null,
+      "timestamp": 1773068060987,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/fvDRDRv/Chou-School-Boy.png",
+      "name": "School Boy",
+      "portrait": "https://i.ibb.co/fvDRDRv/Chou-School-Boy.png",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727959641934,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/KsnPTt3/Chuo-Mafia.jpg",
+      "name": "Mafia Boss",
+      "portrait": "https://i.ibb.co/KsnPTt3/Chuo-Mafia.jpg",
+      "skinId": 21,
+      "source": null,
+      "timestamp": 1727960248240,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Angela_%28Summer_Vibes%29.jpg/revision/latest?cb=20200721082502",
+      "name": "Angela Summer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Angela_%28Summer_Vibes%29.jpg/revision/latest?cb=20200721082502",
+      "skinId": 22,
+      "source": null,
+      "timestamp": 1728472000647,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Shanghai_Maiden_wall.png/revision/latest?cb=20200513055352",
+      "name": "Angela Starlight",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Shanghai_Maiden_wall.png/revision/latest?cb=20200513055352",
+      "skinId": 23,
+      "source": null,
+      "timestamp": 1728472024080,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Angela_%28Heartstring%29.jpg/revision/latest?cb=20220216164629",
+      "name": "Angela Sanrio",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Angela_%28Heartstring%29.jpg/revision/latest?cb=20220216164629",
+      "skinId": 24,
+      "source": null,
+      "timestamp": 1746897450502,
+      "type": "Weird"
+    }
+  ]
+}

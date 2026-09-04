@@ -1,0 +1,73 @@
+{
+  "heroId": 129,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Zetian_%28Heavenly_Splendor%29.jpg/revision/latest?cb=20250617145812",
+      "name": "Heavenly Splendor",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Zetian_%28Heavenly_Splendor%29.jpg/revision/latest?cb=20250617145812",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ZETIAN%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ZETIAN%20BASIC%20TO%20NEXUS%20GALAXY.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Zetian_%28Celestial_Empress%29.jpg/revision/latest?cb=20250402020331",
+      "name": "Celestial Impress",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png/revision/latest?cb=20250802160054",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ZETIAN%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ZETIAN%20NEXUS%20GALAXY.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1770123459883,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ZETIAN%20STARLIGHT.jpg",
+      "name": "Sunset Luminance",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ZETIAN%20STARLIGHT.jpg",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1774014997697,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ZETIAN%20GALAXY.png",
+      "name": "Nexus of Planet",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ZETIAN%20GALAXY.png",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1774015030478,
+      "type": "Zodiac"
+    }
+  ]
+}

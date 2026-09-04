@@ -1,0 +1,217 @@
+{
+  "heroId": 95,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Yu_Zhong_%28Emerald_Dragon%29.jpg/revision/latest?cb=20200619101640",
+      "name": "Emerald Dragon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Yu_Zhong_%28Emerald_Dragon%29.jpg/revision/latest?cb=20200619101640",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YZ%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20M5.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20YUZHONG%20BASIC%20TO%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Yu_Zhong_%28Black_Dragon%29.jpg/revision/latest?cb=20240620010918",
+      "name": "Black Dragon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YZ%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YUZHONG%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YUZHONG%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YUZHONG%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YUZHONG%20M5.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YUZHONG%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Yuzhong%20Metro%20Zero.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20YUZHONG%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Anime%20Yuzhong%20X%20Kaido.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20YuZhong%20Tanjiro.zip",
+            "targetCategory": 1,
+            "targetSkinId": 16
+          }
+        ]
+      },
+      "timestamp": 1727379488981,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Yu_Zhong_%28Biohazard%29.jpg/revision/latest?cb=20210124033536",
+      "name": "Biohazard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Yu_Zhong_%28Biohazard%29.jpg/revision/latest?cb=20210124033536",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YZ%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Starlight%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Starlight%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Starlight%20to%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727379497323,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Yu_Zhong_%28Blood_Serpent%29.jpg/revision/latest?cb=20211215022337",
+      "name": "Blood Serpent",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Yu_Zhong_%28Blood_Serpent%29.jpg/revision/latest?cb=20211215022337",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727379507150,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Yu_Zhong_%28Exorcist_Yu_Zhong%29.jpg/revision/latest?cb=20220915134452",
+      "name": "Exorcist Yuzhong",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Yu_Zhong_%28Exorcist_Yu_Zhong%29.jpg/revision/latest?cb=20220915134452",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727379517510,
+      "type": "Exorcists"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Yu_Zhong_%28Dragon%27s_Shade%29.jpg/revision/latest?cb=20231029210009",
+      "name": "Dragon Shade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Yu_Zhong_%28Dragon%27s_Shade%29.jpg/revision/latest?cb=20231029210009",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727379531011,
+      "type": "M5"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Yu_Zhong_%28Cosmic_Dragon%29.jpg/revision/latest?cb=20231029210048",
+      "name": "Cosmic Dragon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Yu_Zhong_%28Cosmic_Dragon%29.jpg/revision/latest?cb=20231029210048",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727379561702,
+      "type": "Prime"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20Yuzhong%20Metro%20Zero.png",
+      "name": "Cyber Tyrant",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20Yuzhong%20Metro%20Zero.png",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1773494595782,
+      "type": "Metro Zero"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20YZ%20ALLSTAR.jpg",
+      "name": "Tidescale Sealord",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20YZ%20ALLSTAR.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1775949955928,
+      "type": "All Stars"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Yuzhong%20kaido.jpeg",
+      "name": "Kaido",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Yuzhong%20kaido.jpeg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728481980005,
+      "type": "Anime|One-piece"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YUZHONG%20TANJIRO.png",
+      "name": "Tanjiro",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YUZHONG%20TANJIRO.png",
+      "skinId": 16,
+      "source": null,
+      "timestamp": 1773494369062,
+      "type": "Anime|DemonSlayer"
+    }
+  ]
+}

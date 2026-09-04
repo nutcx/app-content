@@ -1,0 +1,284 @@
+{
+  "heroId": 55,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Dove_%26_Love_wall.png/revision/latest?cb=20180531080157",
+      "name": "Dove Love",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Dove_%26_Love_wall.png/revision/latest?cb=20180531080157",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANGELA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Normal%20to%20HALLOWEEN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Angela.Collector.Optimize.Replace.Basic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Normal%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Normal%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Normal%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F1%20ANGELA%20BASIC%20TO%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/V.E.N.O.M_-_Vespid_wall.jpg/revision/latest?cb=20200513054302",
+      "name": "V.E.N.O.M Vespid",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/V.E.N.O.M_-_Vespid_wall.jpg/revision/latest?cb=20200513054302",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANGELA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Angela.Collector.Optimize.Replace.V.E.N.O.M.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Shanghai_Maiden_wall.png/revision/latest?cb=20200513055352",
+      "name": "Shanghai Maiden",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Shanghai_Maiden_wall.png/revision/latest?cb=20200513055352",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANGELA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Angela.Collector.Optimize.Replace.Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Starlight%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Starlight%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Starlight%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Angela_%28Summer_Vibes%29.jpg/revision/latest?cb=20200721082502",
+      "name": "Summer Vibes",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Angela_%28Summer_Vibes%29.jpg/revision/latest?cb=20200721082502",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANGELA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Angela.Collector.Optimize.Replace.Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Summer%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Summer%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjj5szOJYCWml3TFyx1yIj0Mc00ywJk3172n7L1mlIn38i-OjGulLUcPhgs4r6LMXCDKsDSqwECHZHts7xeDW7Xy7pMBtx7bXtr4QCobANRCfJfxkMH5iCTe_NTgPh83Hd3i6sdEZMBwjbYsn97CXwRcgUOhnyjNPe7G0oNrI51fsTlhg7THvEJEhbFew=s1920",
+      "name": "Bunnylove",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEghO-bv9SEEjgKQ1DjGkrv_T2SwHQ6JxbgcoWQ35cxPxPS8FsVA49Kc3-6D_IT5xzbQd6hlqjsCBOPTfvzfcMWBLEImJwRwoP1CoOZzxOeaRDGYr0YUgqR0BsA7G9qQ_AIY1NUGNLwF4ALTY5RIkOt0ZDGBdDtd3w-c5Pt3Zf-hDQTZBObu-5QqgKAsFg=s1920",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANGELA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/ANGELA%20HALOWEEN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mexi23/SuppD/raw/main/angela_def_venom.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Angela.Collector.Optimize.Replace.Default.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/ANGELA%20ANUAL%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Mexi23/SuppD/raw/main/angela_def_sanrio.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D6%20ANGELA%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F1%20ANGELA%20KINSHIN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20ANGELA.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727134129099,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Angela_%28Scream_Doll%29.jpg/revision/latest?cb=20200513054122",
+      "name": "Scream Doll",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Angela_%28Scream_Doll%29.jpg/revision/latest?cb=20200513054122",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANGELA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Angela.Collector.Optimize.Replace.Halloween.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Halloween%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Angela%20Halloween%20to%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727134160696,
+      "type": "Halloween"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEik7HKYHk0RLqFTadX6NWHsda8BoewLrsZKMVTUS97GsGfwILZRsFK_pzmOPrk4c7_m1ijK_TeZkzt1GfVyp83e9tcFGsVpfgZmX7PzhDivNNhk2UiiN8hh_y8qrRryaEVAC6Ch_HvZekA_p-VSy5DLQjGW6pHABmURWlnhRa5o9Nyr8gmeHUhXYmL4bQ=s1920",
+      "name": "V.E.N.O.M. Vespid",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEh8AP3jvBASswDETEl2MUNAMf2177tvFlrvKy5P--FKkMBA6a1Nx1sQf6XADHEgEJqbJsKeeauD03_-1i-jXCS5ucAMi2C-37kRDHmMsUC_MhSf-ji42KztJZwbkQZtXYyJOtam0eDpTFn44IhxBIXT8lKZtCp4OsL0mww_G6Nb--nNgluea5y8cbnlVA=s1280",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727134252521,
+      "type": "V.E.N.O.M"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/angelacc.png",
+      "name": "Floral Elf",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/angelacc.png",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727134298207,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCLc3uf9Aju-1bs9Q22leLPwTJUXyL2ej46CLDYRc22kqlmmCq0Q7ATnbXih9eIIKZKqdt8g9DwR3DxJk9Iq5ghuDRy2162D4d4u5Zz7UsoT-A8lU_HPevidHV38-WLAJhSDwyKtbxM2bmM3qnPL2QOjPMTWbPae9d8CzU2UiFMNYjzYa6t9pyS-km7gLd/s3840/angela-starlight-annual-skin-wallpaper-hd.jpg",
+      "name": "Avatar of Time",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwvqGprGXQYuyRlvnwujcGjdPI2aVfuTYFmXyLOZFFU6gceewf6FLVnSktJAxmwxcK6vPqDlLFJTTF4ZfW6fFAHO_cLMUomUsBLMXL7myCfLDJLVBsU3KOIS9H3DK4VEw98CCOUTuO8Ng71meJpqpd8lUwGbixNo0-kKM9S4SMH2XToFafa8_1O9Kf8i9e/s1463/angela-avatar-of-time-starlight-skin-wallpaper.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727134333237,
+      "type": "Annual Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Angela_%28Heartstring%29.jpg/revision/latest?cb=20220216164629",
+      "name": "Heartstring",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest?cb=20220525165437",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727134395015,
+      "type": "Sanrio Characters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Angela_%28Cyber_Cherubin%29.jpg/revision/latest?cb=20221111142406",
+      "name": "Cyber Cherubin",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest?cb=20221103134616",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727134420246,
+      "type": "Aspirants"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162925.jpg",
+      "name": "String of Fate",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162925.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1738667306608,
+      "type": "Kishin Densetsu"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20ANGELA.jpg",
+      "name": "Chibi",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20ANGELA.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771518191857,
+      "type": "Weird"
+    }
+  ]
+}

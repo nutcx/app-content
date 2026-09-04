@@ -1,0 +1,161 @@
+{
+  "heroId": 43,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Irithel_%28Silver_Cyclone%29.jpg/revision/latest?cb=20230819021934",
+      "name": "Silver Cyclone",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Irithel_%28Silver_Cyclone%29.jpg/revision/latest?cb=20230819021934",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/iri_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Basic%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Basic%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Basic%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Irithel%20Basic%20to%20DUCATI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Irithel_%28Hellfire%29.jpg/revision/latest?cb=20230819022120",
+      "name": "Hellfire",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Irithel_%28Hellfire%29.jpg/revision/latest?cb=20230819022120",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/iri_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Epic%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Irithel_%28Nightarrow%29.jpg/revision/latest?cb=20230819022046",
+      "name": "Nightarrow",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Irithel_%28Nightarrow%29.jpg/revision/latest?cb=20230819022046",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/iri_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Old%20Starlight%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Old%20Starlight%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Irithel%20Starlight%20to%20DUCATI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Irithel_%28Jungle_Heart%29.jpg/revision/latest?cb=20230819021925",
+      "name": "Jungle Heart",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20220525165209",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/iri_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Irithel%20Ducati.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727361682054,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Irithel_%28Checkered_Knight%29.jpg/revision/latest?cb=20250211140705",
+      "name": "Checkered Knight",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Irithel_%28Checkered_Knight%29.jpg/revision/latest?cb=20250211140705",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727361692005,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Irithel_%28Sagittarius%29.jpg/revision/latest?cb=20231029205301",
+      "name": "Sagittarius",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Irithel_%28Sagittarius%29.jpg/revision/latest?cb=20231029205301",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727361719575,
+      "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Irithel_%28Astral_Wanderer%29.jpg/revision/latest?cb=20220920091219",
+      "name": "Astral Wanderer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Irithel_%28Astral_Wanderer%29.jpg/revision/latest?cb=20220920091219",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727361732240,
+      "type": "Luckybox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/images%20(1)%20(18).jpeg",
+      "name": "Monster SP Rider",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/images%20(1)%20(18).jpeg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727361776521,
+      "type": "Ducati"
+    }
+  ]
+}

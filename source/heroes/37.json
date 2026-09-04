@@ -1,0 +1,131 @@
+{
+  "heroId": 37,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Lapu-Lapu_%28Ancestral_Blade%29.jpg/revision/latest?cb=20240128043029",
+      "name": "Ancestral Blade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Lapu-Lapu_%28Ancestral_Blade%29.jpg/revision/latest?cb=20240128043029",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/LAPU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lapu%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lapu%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Imperial_Champion_wall.png/revision/latest?cb=20180529104325",
+      "name": "Imperial Champion",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Imperial_Champion_wall.png/revision/latest?cb=20180529104325",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/LAPU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lapu%20Elite%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Lapu-Lapu_%28Son_of_the_Wild%29.jpg/revision/latest?cb=20250321103331",
+      "name": "Son of the Wild",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Lapu-Lapu_%28Son_of_the_Wild%29.jpg/revision/latest?cb=20250321103331",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/LAPU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lapu%20Season%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lapu%20Season%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Lapu-Lapu_%28Courageous_Blade%29.jpg/revision/latest?cb=20211215022152",
+      "name": "Courageous Blade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20240626072050",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/LAPU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lapu%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/LAPU%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LAPU%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727367215957,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Lapu-Lapu_%28Vulcan%29.jpg/revision/latest?cb=20190728061424",
+      "name": "Vulcan Wall",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Lapu-Lapu_%28Vulcan%29.jpg/revision/latest?cb=20190728061424",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727367239798,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Lapu-Lapu_%28Special_Force%29.jpg/revision/latest?cb=20210224081323",
+      "name": "Special Force",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Lapu-Lapu_%28Special_Force%29.jpg/revision/latest?cb=20210224081323",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727367252113,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Lapu-Lapu_%28Adlaw%27s_Chosen%29.jpg/revision/latest?cb=20240122034646",
+      "name": "Adlaw's Chosen",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Lapu-Lapu_%28Adlaw%27s_Chosen%29.jpg/revision/latest?cb=20240122034646",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727367317026,
+      "type": "Collector"
+    }
+  ]
+}

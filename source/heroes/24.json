@@ -1,0 +1,156 @@
+{
+  "heroId": 24,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Natalia_%28Glass_Blade%29.jpg/revision/latest?cb=20200427043825",
+      "name": "Glass Blade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Natalia_%28Glass_Blade%29.jpg/revision/latest?cb=20200427043825",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Natalia%20-%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Basic%20to%20CREATE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Natalia_%28Deadly_Mamba%29.jpg/revision/latest?cb=20240711074312",
+      "name": "Deadly Mamba",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Natalia_%28Deadly_Mamba%29.jpg/revision/latest?cb=20240711074312",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Natalia%20-%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Elite%20to%20CREATE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Natalia_%28Phantom_Dancer%29.jpg/revision/latest?cb=20230702154313",
+      "name": "Phantom Dancer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Natalia_%28Phantom_Dancer%29.jpg/revision/latest?cb=20230702154313",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Natalia%20-%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Starlight%20to%20CREATE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Bright_Claw_%28rework%29_wall.jpg/revision/latest?cb=20200815164824",
+      "name": "Bright Claw",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20240121131843",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Natalia%20-%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/NATALIA%20MIDNIGHT%20RAVEN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/NATALIA%20SPECIAL(CYBER%20SPECTRE).zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Natalia%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/Natalia%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727371868435,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Natalia_%28Midnight_Raven%29.jpg/revision/latest?cb=20240710055105",
+      "name": "Midnight Raven",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Natalia_%28Midnight_Raven%29.jpg/revision/latest?cb=20240710055105",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727371878587,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Natalia_%28Grim_Strangler%29.jpg/revision/latest?cb=20200914105240",
+      "name": "Grim Strangler",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Natalia_%28Grim_Strangler%29.jpg/revision/latest?cb=20200914105240",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727371895103,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Natalia_%28Cyber_Spectre%29.jpg/revision/latest?cb=20200427042933",
+      "name": "Cyber Spectre",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Natalia_%28Cyber_Spectre%29.jpg/revision/latest?cb=20200427042933",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727371909997,
+      "type": "Create"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Natalia_%28Warrioress_Paragon%29.jpg/revision/latest?cb=20240725093511",
+      "name": "Warriorness Paragon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Natalia_%28Warrioress_Paragon%29.jpg/revision/latest?cb=20240725093511",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727371928181,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1041807924408337.jpeg",
+      "name": "Soul Huntress",
+      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1041807924408337.jpeg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1754319745499,
+      "type": "Epic"
+    }
+  ]
+}

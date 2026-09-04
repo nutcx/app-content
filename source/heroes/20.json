@@ -1,0 +1,64 @@
+{
+  "heroId": 20,
+  "skins": [
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Lolita_%28Steel_Elf%29.jpg/revision/latest?cb=20231009015931",
+      "name": "Steel Elf",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero201-portrait.png/revision/latest?cb=20240605151404",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lolita%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lolita%20Lunar%20Fest.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lolita%20Genki%20Slam.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/02%20Lolita%20Rising.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727369183364,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Lolita_%28Impish_Trickster%29.jpg/revision/latest?cb=20230818090155",
+      "name": "Impish Trickster",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Lolita_%28Impish_Trickster%29.jpg/revision/latest?cb=20230818090155",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727369197971,
+      "type": "Halloween"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Lolita_%28Lion_Dance%29.jpg/revision/latest?cb=20230818090210",
+      "name": "Lion Dance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Lolita_%28Lion_Dance%29.jpg/revision/latest?cb=20230818090210",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727369205742,
+      "type": "LunarFest"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20LOLITA%20RISING.jpg",
+      "name": "Starwatcher",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20LOLITA%20RISING.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727809270972,
+      "type": "Rising"
+    }
+  ]
+}

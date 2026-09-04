@@ -1,0 +1,218 @@
+{
+  "heroId": 58,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Martis_%28Tyrant%29.jpg/revision/latest?cb=20231029212959",
+      "name": "Tyrant",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Martis_%28Tyrant%29.jpg/revision/latest?cb=20231029212959",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Normal%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Normal%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/martis%20basic%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Martis_%28Searing_Maw%29.jpg/revision/latest?cb=20231029213011",
+      "name": "Searing Maw",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Martis_%28Searing_Maw%29.jpg/revision/latest?cb=20231029213011",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Starlight%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/martis%20old%20star%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Martis_%28Asura_King%29.jpg/revision/latest?cb=20231029212951",
+      "name": "Ashura King",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MARTIS%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Odette%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/martis_def_specN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Martis%20AOT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/N10%20Martis%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20MARTIS%20NEW%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727369928766,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Martis_%28God_of_War%29.jpg/revision/latest?cb=20220804115103",
+      "name": "God of War",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Martis_%28God_of_War%29.jpg/revision/latest?cb=20220804115103",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/martis%20luckybox%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727369951098,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Martis_%28Capricorn%29.jpg/revision/latest?cb=20240123102203",
+      "name": "Capricorn",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Martis_%28Capricorn%29.jpg/revision/latest?cb=20240123102203",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/martis%20zodiac%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727369959574,
+      "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Martis_%28Deathrock%29.jpg/revision/latest?cb=20231029213031",
+      "name": "Deathrock",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Martis_%28Deathrock%29.jpg/revision/latest?cb=20231029213031",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Special%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Special%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/martis%20special%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727369975286,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Martis_%28Levi%29.jpg/revision/latest?cb=20240122041659",
+      "name": "Levi Ackerman",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Martis_%28Levi%29.jpg/revision/latest?cb=20240122041659",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727370003904,
+      "type": "Attack on Titan"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Martis_%28Darkwater_Terror%29.jpg/revision/latest?cb=20241116131932",
+      "name": "Darkwater Terror",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Martis_%28Darkwater_Terror%29.jpg/revision/latest?cb=20241116131932",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/martis%20newstar%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727689189410,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20MARTIS%20NEWEPIC.jpg",
+      "name": "Wild Renegade",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20MARTIS%20NEWEPIC.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1775950021510,
+      "type": "Epic"
+    }
+  ]
+}

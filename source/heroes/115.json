@@ -1,0 +1,132 @@
+{
+  "heroId": 115,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Xavier_%28Verdict_of_Light%29.jpg/revision/latest?cb=20220324085006",
+      "name": "Verdick of Light",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Xavier_%28Verdict_of_Light%29.jpg/revision/latest?cb=20220324085006",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/XAVIER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Xavier/JJK%20Revamped/Xavier%20X%20Satoru%20Replace%20Basic%20-%5BK4%2CNutx%2CXvrn%5D.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Xavier%20Basic%20to%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Xavier%20Basic%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20Xavier%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Xavier_%28Defier_of_Light%29.jpg/revision/latest?cb=20220322122200",
+      "name": "Defier of Light",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20241021143446",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/XAVIER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Xavier/JJK%20Revamped/Xavier%20X%20Satoru%20Replace%20Default%20-%5BK4%2CNutx%2CXvrn%5D.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Xavier%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Xavier%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20Xavier%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727379001744,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Xavier_%28Satoru_Gojo%29.jpg/revision/latest?cb=20230308111131",
+      "name": "Satoru Gojo",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Xavier_%28Satoru_Gojo%29.jpg/revision/latest?cb=20230308111131",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727379021471,
+      "type": "Jujutsu Kaisen"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Xavier_%28Beyond_the_Clouds_Xavier%29.jpg/revision/latest?cb=20230819043212",
+      "name": "Beyond the Clouds",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Xavier_%28Beyond_the_Clouds_Xavier%29.jpg/revision/latest?cb=20230819043212",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727379036406,
+      "type": "Clouds"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Xavier_%28Hardlight_Artificer%29.jpg/revision/latest?cb=20250305071312",
+      "name": "Headlight Artificer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Xavier_%28Hardlight_Artificer%29.jpg/revision/latest?cb=20250305071312",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/XAVIER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Xavier%20Starlight%20to%20JJK.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Xavier%20Starlight%20to%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20Xavier%20Starlight%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1730227721577,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Xavier%20Collector.jpeg",
+      "name": "Sunborn Monarch",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Xavier%20Collector.jpeg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1760855944907,
+      "type": "Collector"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "heroId": 82,
+  "skins": [
+    {
+      "category": -2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
+      "name": "Soul Tyrant",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
+      "name": "Soul Tyrant",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Terizla_%28Abyss_Guard%29.jpg/revision/latest?cb=20220713092856",
+      "name": "Abyss Guard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Terizla_%28Abyss_Guard%29.jpg/revision/latest?cb=20220713092856",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Teriz%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Terizla_%28Rustwreck%29.jpg/revision/latest?cb=20240213093113",
+      "name": "Rustwreck",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Terizla_%28Rustwreck%29.jpg/revision/latest?cb=20240213093113",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Teriz%20Season%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20SEASON%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Terizla_%28Flare%29.jpg/revision/latest?cb=20220713092901",
+      "name": "Flare",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Terizla_%28Flare%29.jpg/revision/latest?cb=20220713092901",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20ELITE%20TO%20COLLECTOR.zip",
+            "targetCategory": -2,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Terizla_%28Executioner%29.jpg/revision/latest?cb=20200818083821",
+      "name": "Executioner",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/TERIZLA%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727376999374,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Terizla_%28Hammer_Giant%29.jpg/revision/latest?cb=20201027120126",
+      "name": "Hammer Giant",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Terizla_%28Hammer_Giant%29.jpg/revision/latest?cb=20201027120126",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20SPECIAL%20TO%20COLLECTOR.zip",
+            "targetCategory": -2,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1727377020639,
+      "type": "Halloween"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Terizla_%28Flames_of_Judgement%29.jpg/revision/latest?cb=20240417022241",
+      "name": "Flames of Judgement",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Terizla_%28Flames_of_Judgement%29.jpg/revision/latest?cb=20240417022241",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20EPIC%20TO%20COLLECTOR.zip",
+            "targetCategory": -2,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727377041203,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20TERIZLA%20COLLECTOR.jpg",
+      "name": "Soulblight Tyrant",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20TERIZLA%20COLLECTOR.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1734772127252,
+      "type": "Collector"
+    }
+  ]
+}

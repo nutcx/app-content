@@ -1,0 +1,406 @@
+{
+  "heroId": 63,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Selena_%28Wasp_Queen%29.jpg/revision/latest?cb=20180710115113",
+      "name": "Wasp Queen",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Selena_%28Wasp_Queen%29.jpg/revision/latest?cb=20180710115113",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Selena%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/SelenaZenith/Selena.Zenith.Script.Basic.-.Nutx.zip",
+            "targetCategory": -1,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Virus.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Abyss.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Selena%20Basic%20to%20WRAITH%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.Basic.-.K4IJ1.SFILE.MOBI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Selena_%28Gothic_Curse%29.jpg/revision/latest?cb=20220922090434",
+      "name": "Gothic Curse",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Selena_%28Gothic_Curse%29.jpg/revision/latest?cb=20220922090434",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Selena%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20Zenith.zip",
+            "targetCategory": -1,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20Virus.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Selena%20Elite%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Selena_%28Curse_of_Cinder%29.jpg/revision/latest?cb=20250109163210",
+      "name": "Curse of Cinder",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Selena_%28Curse_of_Cinder%29.jpg/revision/latest?cb=20250109163210",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Selena_%28Curse_of_Cinder%29.jpg/revision/latest?cb=20250109163210",
+      "name": "Curse of Cinder",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Selena_%28Curse_of_Cinder%29.jpg/revision/latest?cb=20250109163210",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Selena_%28Curse_of_Cinder%29.jpg/revision/latest?cb=20250109163210",
+      "name": "Curse of Cinder",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Selena_%28Curse_of_Cinder%29.jpg/revision/latest?cb=20250109163210",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zenith%20to%20Abyss.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/mlbb__selena_s_t_u_n_hd_wallpaper_by_keyadfdf_dif4abt-pre.jpg",
+      "name": "S.T.U.N. Selena",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/mlbb__selena_s_t_u_n_hd_wallpaper_by_keyadfdf_dif4abt-pre.jpg",
+      "skinId": 8,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1638.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.S.T.U.N.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Selena_%28Abyssal_Witch%29.jpg/revision/latest?cb=20200427092223",
+      "name": "Abyssal Witch",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20240122041957",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Selena%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Epic%20Virus.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/selena%20starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20LuckyBox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Abyss.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/O22%20SELENA%20EPIC%20BUTTERFLY.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/SelenaZenith/Selena.Zenith.Script.Default.-.Nutx.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 1727376474076,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Selena_%28Virus%29.jpg/revision/latest?cb=20220715131504",
+      "name": "Virus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Selena_%28Virus%29.jpg/revision/latest?cb=20220715131504",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20Zenith.zip",
+            "targetCategory": -1,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20Abyss.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727376481189,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Selena_%28Gemini_-_Shadow%29.jpg/revision/latest?cb=20211010064501",
+      "name": "Gemini Shadow",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Selena_%28Gemini_-_Shadow%29.jpg/revision/latest?cb=20211010064501",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20Zenith.zip",
+            "targetCategory": -1,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20Abyss.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727376493044,
+      "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Selena_%28Double_Identity%29.jpg/revision/latest?cb=20201119100336",
+      "name": "Double Identity",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Selena_%28Double_Identity%29.jpg/revision/latest?cb=20201119100336",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Selena%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20Zenith.zip",
+            "targetCategory": -1,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/virus/main/Selena%20Starlight%20to%20Virus.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20Abyss.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727376502996,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Selena_%28Thunder_Flash%29.jpg/revision/latest?cb=20200427044121",
+      "name": "Thunderflash",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Selena_%28Thunder_Flash%29.jpg/revision/latest?cb=20200427044121",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727376512214,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Selena_%28S.T.U.N._Selena%29.jpg/revision/latest?cb=20211214074924",
+      "name": "S.T.U.N Selena",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Selena_%28S.T.U.N._Selena%29.jpg/revision/latest?cb=20211214074924",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727376533088,
+      "type": "S.T.U.N"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Selena_%28Lady_Vengeance%29.jpg/revision/latest?cb=20220621070814",
+      "name": "Lady Vengeance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Selena_%28Lady_Vengeance%29.jpg/revision/latest?cb=20220621070814",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Abyss%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727376551094,
+      "type": "Abyss"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/O22%20Image%20Selena%20Epic.jpg",
+      "name": "Wraith Butterfly",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/O22%20Image%20Selena%20Epic.jpg",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1729552952578,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20SELENA%20ZENITH.jpg",
+      "name": "Curse of Cinders",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20SELENA%20ZENITH.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1737825572078,
+      "type": "Zenith"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/selena-obsidia-aspirants-skin-splash-art-v0-ktl48a8z24jh1.jpg",
+      "name": "Silverbolt Raiko",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/selena-obsidia-aspirants-skin-splash-art-v0-ktl48a8z24jh1.jpg",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1787986311294,
+      "type": "Aspirants"
+    }
+  ]
+}

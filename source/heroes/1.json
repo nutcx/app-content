@@ -1,0 +1,450 @@
+{
+  "heroId": 1,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Miya_%28Burning_Bow%29.jpg/revision/latest?cb=20210521053537",
+      "name": "Burning Bow",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Miya_%28Burning_Bow%29.jpg/revision/latest?cb=20210521053537",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/MIYA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20ELITE%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Miya%20Elite%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20ELITE%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20Miya%20Elite%20to%20Suzuhime.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Miya%20Elite%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Miya%20Elite%20to%20ATOMIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Basic%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/MIYA%20ELITE%20TO%20SEASON.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20Miya%20Elite%20to%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Miya_%28Jungle_Ranger%29.jpg/revision/latest?cb=20201102042156",
+      "name": "Jungle Ranger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Miya_%28Jungle_Ranger%29.jpg/revision/latest?cb=20201102042156",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/MIYA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20JUNGLERANGER%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Miya%20Topup%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20JUNGLERANGER%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20ELITE%20JUNGLERANGER%20TO%20ATOMICPOP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Topup%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20Miya%20Basic%20to%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Miya_%28Moon_Priestess%29.jpg/revision/latest?cb=20210930005255",
+      "name": "Moon Priestess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Miya_%28Moon_Priestess%29.jpg/revision/latest?cb=20210930005255",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/MIYA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20ANNIV%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Miya%20Anniv%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20ANNIV%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20ANNIV%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20ANIV%20TO%20ATOMICPOP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Anniv%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Miya_%28Captain_Thorns%29.jpg/revision/latest?cb=20241230053406",
+      "name": "Captain Thorns",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Miya_%28Captain_Thorns%29.jpg/revision/latest?cb=20241230053406",
+      "skinId": 8,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20STARLIGHT%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20STARLIGHT%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20STARLIGHT%20TO%20ATOMICPOP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Star2017%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/MIYA%20OLD%20STARLIGHT%20TO%20SEASON.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Miya_%28Moonlight_Archer%29.jpg/revision/latest?cb=20240128052520",
+      "name": "Moonlight Archer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20250407160822",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1011.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/MIYA%20CHRISTMAS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Limited.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/MIYA%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20Miya%20Suzuhime.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Atomic%20Pop.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Miya%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/MIYA%20SEASON.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20Miya%20BTC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20MIYA.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727371147739,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Miya_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211220203300",
+      "name": "Christmas Carnival",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Miya_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211220203300",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20CHRISTMAS%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727371164188,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Miya_%28Honor%29.jpg/revision/latest?cb=20210521053731",
+      "name": "Honor",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Miya_%28Honor%29.jpg/revision/latest?cb=20210521053731",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/MIYA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20LIMITED%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20LIMITED%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20LIMITED%20TO%20ATOMICPOP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Limited%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727371177688,
+      "type": "Limited"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Miya_%28Modena_Butterfly%29.jpg/revision/latest?cb=20220204184007",
+      "name": "Modena Butterfly",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Miya_%28Modena_Butterfly%29.jpg/revision/latest?cb=20220204184007",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727371197951,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20220214005924",
+      "name": "Sweet Fantacy",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20220214005924",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20VALENTINE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Valentine%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727371205554,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Miya_%28Suzuhime%29.jpg/revision/latest?cb=20210521054657",
+      "name": "Suzuhime",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Miya_%28Suzuhime%29.jpg/revision/latest?cb=20210521054657",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/MIYA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20SUZUHIME%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20SUZUHIME%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Special%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727371233850,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Miya_%28Doom_Catalyst%29.jpg/revision/latest?cb=20220804115106",
+      "name": "Doom Catalyst",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Miya_%28Doom_Catalyst%29.jpg/revision/latest?cb=20220804115106",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727371246789,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Miya_%28Atomic_Pop_Miya%29.jpg/revision/latest?cb=20230321152238",
+      "name": "Atomic Pop",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Miya_%28Atomic_Pop_Miya%29.jpg/revision/latest?cb=20230321152238",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20ALLSTAR%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727371255092,
+      "type": "Atomic Pop"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Miya_%28Nightowl_Huntress%29.jpg/revision/latest?cb=20250418053421",
+      "name": "Nightowl Huntress",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Miya_%28Nightowl_Huntress%29.jpg/revision/latest?cb=20250418053421",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1744537120412,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20MIYA%20SEASON.jpg",
+      "name": "Arrow of Spring",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20MIYA%20SEASON.jpg",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1770123927984,
+      "type": "Season"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20F1%20Miya%20BTC.jpg",
+      "name": "Beyond the Clouds",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20F1%20Miya%20BTC.jpg",
+      "skinId": 10,
+      "source": null,
+      "timestamp": 1775368743914,
+      "type": "Clouds"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20MIYA.jpg",
+      "name": "Chibi",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20MIYA.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771518325911,
+      "type": "Weird"
+    }
+  ]
+}

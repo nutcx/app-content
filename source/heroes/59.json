@@ -1,0 +1,127 @@
+{
+  "heroId": 59,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Uranus_%28Ancient_Soul%29.jpg/revision/latest?cb=20230829120147",
+      "name": "Ancient Soul",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Uranus_%28Ancient_Soul%29.jpg/revision/latest?cb=20230829120147",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/ura_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Uranus%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Uranus%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Uranus_%28Aethereal_Defender%29.jpg/revision/latest?cb=20230829120138",
+      "name": "Aethereal Defender",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png/revision/latest?cb=20220525165512",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/ura_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/TankD/raw/main/ura_def_videogame.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mexi23/TankD/raw/main/ura_def_pinball.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/URANUS%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v26/raw/main/Uranus%20Season.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20URANUS%20MAHORAGA.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727377506808,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Uranus_%28Video-Game_Dominator%29.jpg/revision/latest?cb=20230829120209",
+      "name": "Video Game Dominator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Uranus_%28Video-Game_Dominator%29.jpg/revision/latest?cb=20230829120209",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727377520975,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Uranus_%28Pinball_Machine%29.jpg/revision/latest?cb=20230829120218",
+      "name": "Pinball Machine",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Uranus_%28Pinball_Machine%29.jpg/revision/latest?cb=20230829120218",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727377533543,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Uranus_%28Celestial_Bastion%29.jpg/revision/latest?cb=20230829120227",
+      "name": "Celestial Bastion",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Uranus_%28Celestial_Bastion%29.jpg/revision/latest?cb=20230829120227",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727377553710,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Uranus_%28Earthen_Relic%29.jpg/revision/latest?cb=20231104061405",
+      "name": "Earthen Relic",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Uranus_%28Earthen_Relic%29.jpg/revision/latest?cb=20231104061405",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/ura_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Uranus%20Season%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727377570494,
+      "type": "Season 25"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20URANUS%20MAHOROGA.jpg",
+      "name": "Mahoraga",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20URANUS%20MAHOROGA.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1772355897351,
+      "type": "Anime|JujutsuKaisen"
+    }
+  ]
+}

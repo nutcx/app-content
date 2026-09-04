@@ -1,0 +1,224 @@
+{
+  "heroId": 96,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Luo_Yi_%28Yin-yang_Mage%29.jpg/revision/latest?cb=20200523053147",
+      "name": "Yin-yang Mage",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Luo_Yi_%28Yin-yang_Mage%29.jpg/revision/latest?cb=20200523053147",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Basic%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Basic%20to%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20LuoYi%20Basic%20to%20Lady%20Dragon.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Luo_Yi_%28Tenko%29.jpg/revision/latest?cb=20230621235447",
+      "name": "Tenko",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Luo_Yi_%28Tenko%29.jpg/revision/latest?cb=20230621235447",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Elite%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Elite%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Elite%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Elite%20to%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Luo_Yi_%28Yin-yang_Geomancer%29.jpg/revision/latest?cb=20200523052957",
+      "name": "Yinyang Geomancer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest?cb=20240501052651",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/luo_def_lunar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUOYI%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/luo_def_collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/luo_def_epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20LuoYi%20Lady%20Dragon.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727369549981,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Luo_Yi_%28Dawning_Fortune%29.jpg/revision/latest?cb=20230621235518",
+      "name": "Dawning Fortune",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Luo_Yi_%28Dawning_Fortune%29.jpg/revision/latest?cb=20230621235518",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Lunarfest%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Lunarfest%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727369566339,
+      "type": "LunarFest"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Luo_Yi_%28Siren_Priestess%29.jpg/revision/latest?cb=20230621235603",
+      "name": "Siren Priestess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Luo_Yi_%28Siren_Priestess%29.jpg/revision/latest?cb=20230621235603",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Starlight%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Starlight%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Starlight%20to%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727369583624,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Luo_Yi_%28Elysium_Guardian%29.jpg/revision/latest?cb=20220630091233",
+      "name": "Elysium Guardian",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Luo_Yi_%28Elysium_Guardian%29.jpg/revision/latest?cb=20220630091233",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727369593035,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Luo_Yi_%28Oracle_of_Sol%29.jpg/revision/latest?cb=20230529054921",
+      "name": "Oracle of Sol",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Luo_Yi_%28Oracle_of_Sol%29.jpg/revision/latest?cb=20230529054921",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20LuoYi%20Epic%20to%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727369609264,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1750344456307.jpg",
+      "name": "Startborne Matron",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1750344456307.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1750344728372,
+      "type": "Create"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20LUOYI%20DRAGON.jpg",
+      "name": "Lady Dragon",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20LUOYI%20DRAGON.jpg",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1759855982764,
+      "type": "Epic"
+    }
+  ]
+}

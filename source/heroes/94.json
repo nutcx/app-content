@@ -1,0 +1,166 @@
+{
+  "heroId": 94,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Popol_and_Kupa_%28Hunting_Pals%29.jpg/revision/latest?cb=20230819035405",
+      "name": "Hunting Pals",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Popol_and_Kupa_%28Hunting_Pals%29.jpg/revision/latest?cb=20230819035405",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/popol_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Popol%20And%20Kupa%20Basic%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Popol%20And%20Kupa%20Basic%20to%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Popol%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J5%20Popol%20Basic%20to%20AllStar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Popol_and_Kupa_%28Icefield_Companions%29.jpg/revision/latest?cb=20200816042923",
+      "name": "Icefield Companion",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20240430165645",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/popol_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Popol%20Elite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Popol%20And%20Kupa%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Popol%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/V33/raw/main/Popol%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J5%20Popol%20Allstar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANIME%20Popol%20Kiba.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727373422205,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Popol_and_Kupa_%28Tribal_Howl%29.jpg/revision/latest?cb=20201015015007",
+      "name": "Tribal Howl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Popol_and_Kupa_%28Tribal_Howl%29.jpg/revision/latest?cb=20201015015007",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/popol_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Popol%20Basic%20to%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J5%20Popol%20Elite%20to%20Allstar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727373437299,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Popol_and_Kupa_%28Trouble_Makers%29.jpg/revision/latest?cb=20230819035417",
+      "name": "Trouble Makers",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Popol_and_Kupa_%28Trouble_Makers%29.jpg/revision/latest?cb=20230819035417",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J5%20Popol%20Starlight%20to%20AllStar.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727373448663,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Popol_and_Kupa_%28Soundwave_%26_Ravage%29.jpg/revision/latest?cb=20220527113624",
+      "name": "Soundwave",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Popol_and_Kupa_%28Soundwave_%26_Ravage%29.jpg/revision/latest?cb=20220527113624",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727373457356,
+      "type": "Transformers"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Popol_and_Kupa_%28Spirit_of_the_Brush%29.jpg/revision/latest?cb=20231029204904",
+      "name": "Spirit of Brush",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Popol_and_Kupa_%28Spirit_of_the_Brush%29.jpg/revision/latest?cb=20231029204904",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727373470357,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J5%20Popol%20All-star%20Pic.jpg",
+      "name": "Pronto Hunter",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J5%20Popol%20All-star%20Pic.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1749115723264,
+      "type": "Allstar 2025"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Popol%20kiba.jpeg",
+      "name": "Kiba Inuzuka",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Popol%20kiba.jpeg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728475738722,
+      "type": "Anime|Naruto"
+    }
+  ]
+}

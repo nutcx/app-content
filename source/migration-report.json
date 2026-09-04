@@ -1,0 +1,3529 @@
+{
+  "blockers": [],
+  "inputCounts": {
+    "battleEffects": 161,
+    "preparations": 26,
+    "skins": 943,
+    "tags": 16,
+    "upgradeData": 1370,
+    "upgradeSkins": 504
+  },
+  "outputCounts": {
+    "battleEffects": 161,
+    "heroes": 130,
+    "preparations": 26,
+    "skins": 1257,
+    "skinsWithSources": 633,
+    "upgradeRoutes": 2154
+  },
+  "publishable": true,
+  "schemaVersion": 2,
+  "statistics": {
+    "correctedBackupArchives": 1,
+    "correctedMalformedSchemeArchives": 1,
+    "correctedRouteArchives": 24,
+    "correctedUpgradeDataBaseIds": 1,
+    "correctedUpgradeDataHeroes": 19,
+    "correctedUpgradeDataNames": 159,
+    "correctedUpgradeSkinNames": 30,
+    "deduplicatedRoutes": 29,
+    "emittedRoutes": 2154,
+    "filledMissingImages": 1,
+    "imageDisambiguatedMatches": 16,
+    "matchedUpgradeSources": 231,
+    "matchedUpgradeTargets": 1310,
+    "normalizedGithubBlobArchives": 5,
+    "normalizedSignedPreparationTypes": 1,
+    "omittedInvalidArchives": 103,
+    "replacedUpgradeSourceIds": 176,
+    "replacedUpgradeTargetIds": 1092,
+    "resolvedBackupArchiveConflicts": 1,
+    "resolvedRouteConflicts": 24,
+    "selectedUpgradeDataRetainedCategories": 29,
+    "skinRouteCandidates": 813,
+    "unmatchedUpgradeSources": 273,
+    "unmatchedUpgradeTargets": 60,
+    "upgradeDataRouteCandidates": 1370
+  },
+  "warnings": [
+    {
+      "archive": "na",
+      "heroId": 28,
+      "issue": "invalidArchiveOmitted",
+      "kind": "upgrade",
+      "origin": "Skin",
+      "row": 67,
+      "skinCategory": 0,
+      "skinId": 0,
+      "upgradeCategory": 0,
+      "upgradeId": 2
+    },
+    {
+      "archive": "https://github.com/azizboy2007/ASS-S2-SHIRO/raw/main/NATALIA%20SPECIAL1.jpg",
+      "heroId": 24,
+      "issue": "invalidArchiveOmitted",
+      "kind": "upgrade",
+      "origin": "Skin",
+      "row": 427,
+      "skinCategory": 0,
+      "skinId": 0,
+      "upgradeCategory": 0,
+      "upgradeId": 2
+    },
+    {
+      "archive": "kiw",
+      "heroId": 128,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Surging Wave",
+      "skinCategory": 0,
+      "skinId": 0
+    },
+    {
+      "archive": "m",
+      "heroId": 101,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Astrowarden",
+      "skinCategory": 0,
+      "skinId": 0
+    },
+    {
+      "archive": "meow",
+      "heroId": 129,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Celestial Impress",
+      "skinCategory": 0,
+      "skinId": 0
+    },
+    {
+      "archive": "b",
+      "heroId": 130,
+      "issue": "invalidArchiveOmitted",
+      "kind": "upgrade",
+      "origin": "Skin",
+      "row": 871,
+      "skinCategory": 0,
+      "skinId": 0,
+      "upgradeCategory": 0,
+      "upgradeId": 1
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDLH1HCT4jd63p62DWb-iD34tskuCqXhLqRB6m3ic9zRA_kC5jiTncER4Zf0V5SGgRclP8vCPbjnGNpC4HCT1VcG5T9C0-NbFALMVJQF44gV7b_SDxrW7ZhxerqpDftDgUx3LPyzBxrPA/s1123/zilong-christmas-carnival-special-skin-mobile--legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyabUzv54gOsUNwDQYIxECpiUqp7865W8ROFhi5w20f0VVEu7V4otLURjonp8JwU5TTt1Qkq7Jaz2p5-ppD-ICbwJomZkE-thyH1bAh7NpLN03u-jdTchZ2PrBPXut38jSTzzgifdhl930/s1920/zilong-christmas-carnival-special-skin-mobile--legends-wallpaper-hd-mobile.jpg",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Christmas_Carnival_wall.jpg/revision/latest?cb=20240303042325"
+      ],
+      "issue": "imageConflict",
+      "row": 4,
+      "skinId": 3,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_l-FOecYYjV-0N54RjnLxX0brebEcgNHovaXI3mkzs1DYIJ0I6VCYb4Eyvp4bVR2JrKALuK4I216iZhlFapJpQbdSIvSUD1PVGMC5SIc-GGOHFvrpjuTs_KZRTZZLFkxGH3yikJo56lVxWlKJ3V8mkbaL6VwtZboe9485MJN8ptZGZzKp-RU37A9r6A/s2122/zilong-storm-rider-515-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ8-94J3Q8_gaet_WW6flnDRyOhTl1ceF4s4ZrDCN9Xrd_6hSbxyGIcNCTWjvN3MH5_lCSiwovWgBpuFInU4ytiqtIc3LR4FrZrOeO7gZtNPTX7T4HsPE4FxeqlVdKQ4DffNb1Px880bZxOvHlWPQzCxQvqyeriHI-o6fgvo7KrFwxruQOK-5yFHklDw/s2166/zilong-storm-rider-m-world-skin-wallpaper-hd.jpg",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Storm_Rider_wall.jpg/revision/latest?cb=20240303042444"
+      ],
+      "issue": "imageConflict",
+      "row": 5,
+      "skinId": 7,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFbJx-fJX8Cc2xYGpNrqOUTrn9UIGAAfVvSImikMtcbBwMjIdx6ATjU4eavNqlSPTpnVO7V5GZurBGsf-xDlfxS9tnGCfXQ2LY_sX5h1KU4JhviFb1ilMpfRb9XYEKXUiruT_3dpcwrgzH/s1920/chou-go-ballistic-starlight-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb=20220525164855",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Go_Ballistic%29.jpg/revision/latest?cb=20230819020036"
+      ],
+      "issue": "imageConflict",
+      "row": 9,
+      "skinId": 5,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214"
+      ],
+      "issue": "imageConflict",
+      "row": 10,
+      "skinId": 10,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIycfSnyJp1FNdWKZgstK2D9nmQxmRlqyAPf5EPzF0O6hmdu839xoLISH7D2I09fjrmE4CHEXEAMLHBjB3-mvZzaDh_xXjyo-Xyee8ISTN1c1HlnV7qN357awDc0BGGZBI7yGajPdUbf6X/s1920/chou-dragon-boy-epic-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Chou_%28Dragon_Boy%29.jpg/revision/latest?cb=20230819015951"
+      ],
+      "issue": "imageConflict",
+      "row": 11,
+      "skinId": 1,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVsUCG84gakuKmpO1X_bFxyEkgo5owNXjfXXPKIg8T8d0T4kOlshHTUZfZDuY0GilbpWhBdpwZGzRskZXcqhzOAhG9ygNjRNdnZmxFaeWa9GHxpiDKBptye2A7-c0yFU5VjkC9lOPiBg1/s1920/chou-stun-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101"
+      ],
+      "issue": "imageConflict",
+      "row": 12,
+      "skinId": 7,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEiV83KDEM5McxyHZj4Q_SaAi4iu7TfQPhGZ0_ScC3641YD1o4jlS5C7rx9ofOK9WY7r047YI1zgkcBKnEUY9bE-_m1rhhe5OHmiDlJdPcbKkm0jbKcGh_nVujAToQlzWH07GAyXo9ZaEelivY-ky7tO44h9Yrb3SvIcUqNIJSFUyM5z6ed9OMWj9lzPcw=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEhDwxxgQqWxaptEAS2LO7WPHKDWDV9FPBZEego7I1J5nGFFSQDyklcB3ErAt3UIBWSCeuOGphenCA1S5CHoUyz-CONpEtkuLawGOfDcLomXipE57sad11w-_rL0tkEX32i-IPYSMagL2kbqXb-16j7rhJVbxfNOl85vh7ik6ZmYdGhf6-PkcV0ZgWU6Sg=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hayabusa_%28Biological_Weapon%29.jpg/revision/latest?cb=20211021140729"
+      ],
+      "issue": "imageConflict",
+      "row": 40,
+      "skinId": 4,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEivygImLnikACiIJv4ryMIFE47z2H0Z28wOTuNiEARr1Bn9C42u0ycGOnslF5C5pfRclycMb3la2HfVX0cYSxE_dH8tJDy-PJXPhhFqaWJlBB6PcZwUH-ujuHPmfB7__X30t4luAKuMRsiLnkOp2sZhs5mlWYIK_74_JVpJW9KhhR7feG49YgK6wKUrfg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEil5BNksUyDNyQW8jxeZ4yM0UXY6rpnPWe21JF6_9cHXdi2OH7hYLDe8HurSL8ZmcXXBYlQ7ZIe3wkcIQvpN--dbi5CqFrqMdJAqHvDYyC4UHzcfD-OVdQzu9Tc5W26_fclbAu4EXTkLXxMmPt7VI-pllHwn4Grorun4iZtwWgj6sMrWMjUz678bHMnSQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643"
+      ],
+      "issue": "imageConflict",
+      "row": 42,
+      "skinId": 3,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Claude%20summer.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Claude%20summer.jpg",
+      "category": 0,
+      "heroId": 65,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Claude_%28Lifeguard%29.jpg/revision/latest?cb=20211010124450"
+      ],
+      "issue": "imageConflict",
+      "row": 134,
+      "skinId": 11,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixVKGh2gZZCIWbQHrpJaJQMVbUII1Fd6RcDlGiWzEOOduy0GVFZ2L6bdLJLxmQLypx8Dy1yYuBzJWZid-VTi7_E_CPhC-rNb-IqGqlpVhPHIb40PcRrtYoQcWzhyquCTAGiC3QpJIUVTeeLtc8HR2W7KO0NN8a92GXWyMlOeh0mlS8Tu4ItHKrbV64Jw/s1920/aamon-noble-crest-elite-skin-wallpaper-hd%20(2).jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprP1eBzGm1lKPPH5KAskqz7d-coO187Bp2VSvUVbFS1wiLP7B3-iRqLNMyyToYQnBZwypjq2sfCW7UMCdJONRkFv2lkZjTEUHBfw9nsCHxk8EvGTrb7fUFpxVh0DjCij7e1TQQvrx6DEP2KWuArNW_2gaQrwY2Tz-r_ElvRfgiKc67ULeCnSl-57hAg/s780/aamon-noble-crest-elite-skin-wallpaper-hd.jpg",
+      "category": 0,
+      "heroId": 109,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Aamon_%28Noble_Crest%29.jpg/revision/latest?cb=20230903014116"
+      ],
+      "issue": "imageConflict",
+      "row": 188,
+      "skinId": 2,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkG6QOU07VCNMdcVsPrAYPKh_fyZff6yLjPSJxtXZeG8aEiWzjhwlgA8wVG136pkb-ii2bJPYNQbLK_n2u-CcrEldKa1zGHLaEAex96dHMxFIQIFsGvM_uwjzrWHr64t1cVPHAA5UDsRS9/s1920/aldous-king-of-supremacy-m1-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCTslu6SWOUL-BGzsSXH-94zg647kPgTEAiMphBWoFKbHpZqMCgZRq6fceiIet_ff3n7ze6bepoSMG63vTsyV5kYU7nAr-f-DOx7eH9Pah9re9US5nJU_M0wpbNygcpJ79T_y11P1EQnsC/s1920/aldous-king-of-supremacy-m1-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/King_of_Supremacy_wall.png/revision/latest?cb=20191011121313"
+      ],
+      "issue": "imageConflict",
+      "row": 193,
+      "skinId": 2,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDm1cUkCLDi79aYPmOUDeHrQx15ddDuv2zpZygZHpFqYo2wSi8wXD7StHnd7H9cjhyphenhyphenmVtayar-r6IhbZSPEpjU2cVo6i5nkR0c1S_qq7i9ERM60hzPnZm3LFFaWXs9YerqxJZDaYBSrkvm/s1920/alpha-sea-gladiator-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVieDTjqboHrILLnY2NBoaR0X_u6kvqSDv3socVpochNrlT-lhyptAu-jrDipxIPY2K4K4blRAQJQoDUwrmSBgvFgfbx82NM0JhDQnHq4NhwkAJ_-DEfvT9rz3vJ8Bh63M-DmMqE45jLOt/s1080/alpha-sea-gladiator-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Alpha_%28Sea_Gladiator%29.jpg/revision/latest?cb=20210901071237"
+      ],
+      "issue": "imageConflict",
+      "row": 195,
+      "skinId": 2,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-ITY0H6tDWG6q_MHXyga_mbvr4kPsilbmFDs03iHlxIVKrl4g2ONmT8RvRybpunDglLEUzOYXSFpDru1P2yMostRmKySdsY_nHfWkNZIUpUuPRUWWnz8p_7eH1AC0vaCVZP-vR35WtqwW/s739/wallpaper-alpha-crimson-warrior-special-skin-hd.jpeg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS_5h4jV3C3VC938PhWK4x7JJ6FK32Y9dL3pmlLQccy1ZA8jz9M4NNrdvqUtO0E5Fja0RdfNMcxdeSK2JG_y19nhB40UGKIReWVu5YY2Ur9Kp9F5Tb8T3oegwCIOyrgy-0FCOjrkMC8A97/s1083/wallpaper-alpha-crimson-warrior-special-skin-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Crimson_Warrior_wall.png/revision/latest?cb=20200328044612"
+      ],
+      "issue": "imageConflict",
+      "row": 196,
+      "skinId": 3,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDt6VRNIAFttP3ov4PEtTXhSvpYypgkdUYoBztXNQaPuQZB2T55FPFQcv7SGyznd7wM5MsJUVVGXoZy5xWcdKeEDFJ8mghg_Tju1yHwweApzDIzATSyHD7AbWkKkiFhfjuQN14Hp6v1sj/s1920/argus-catastrophe-elite-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAKJbd9_AXxzUnaRF3b0ath58mIS78GRtZNXlALBtqb9QBpb3llculVxF3E-xjjMiUWdsLDhZSI7sEG44kb0AmIcxrjTmCy9Dyvff8PGl1MWxh_D3vrq8mn5BVIyMApJlfV72adCp51Mm2/s1920/argus-catastrophe-elite-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 45,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Argus_%28Catastrophe%29.jpg/revision/latest?cb=20200824133432"
+      ],
+      "issue": "imageConflict",
+      "row": 198,
+      "skinId": 2,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1IbIGAROcYlVqTXK3fdU6Vk7CewOKt_uboNNsPDWKtOLyy1Kh8-WFkAlb3KY12B_IYA-q2C5hdHJ3j0p5mflpg_tlRBklM0s1Pj31Og_ZOPY5heWcaXrY2ickskkz-V8ti5awU6vlpMN/s1920/argus-dark-draconic-starlight-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0oQ6w58GNto3yIm7Tf6pM4a5j2vihEn7HXwNbIWRJU4FG4wxWhNbEIyb_i-nf6OOwERlkKzwoZz12ff0KL0fCOeE__Xw9q8a42nyywTx1W0JKfqgLis7mfkQJa5n9Lb3KA3Bsu618CaB6/s1920/argus-dark-draconic-starlight-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 45,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Argus_%28Dark_Draconic%29.jpg/revision/latest?cb=20240311143124"
+      ],
+      "issue": "imageConflict",
+      "row": 199,
+      "skinId": 1,
+      "source": "upgradeSkin"
+    },
+    {
+      "archive": "l",
+      "heroId": 11,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Underworld Outlaw",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjn2RAAtFPIROyk8Ul2IaGD61a5-g3BraiVPR62bJdsMpdA3G5_is1r226kugCDjG-FI7HkiflMwIXtklY1eed5vBS4Mc8BMCccnNi51xUg_4lRK56c1MXFXEHZyHdBd0VXx3Irbq4vubGOYVZe_D9UIi8rQ4quT7hnttKtHfYdZ7GYQ9aTOAPKugD3xg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEi9fOkb_xPkV6v6Rc81f5i1Z5zk2d5u0gabx1uQmbSd3PmG56e0EW8TnxOsrqvradzmL8uiQLUEHXgh1Edvyf6kpZ-KsDlUA-5kChgnp6zAzY4J5R28zUSx-EXNSu1h0GZ2n6dWHCDx0ZIjbpN4vkGHNJ8etpYRI22rRxXrYIdXRvDLi8PLyYzkK5o3pA=s1080",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Lancelot_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202171924"
+      ],
+      "issue": "imageConflict",
+      "row": 273,
+      "skinId": 1,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEhVnNte5VmzT3aKqINs6r_boMy5H4k-eK4IWasK2h-HuA1vwRULpDwS2ndi4_BENQFZrQEBqIF11qL0-9jg9kM8bKENfB43R3pdiJgD-y-azvktKG8Q8lZZSoOk11Oe0DZwQ2GK6K4GfwZgGss92aO3rnRVs62Zwhc9SpP8RAx9EOON7nVMz6bXlP1mSA=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEhVnNte5VmzT3aKqINs6r_boMy5H4k-eK4IWasK2h-HuA1vwRULpDwS2ndi4_BENQFZrQEBqIF11qL0-9jg9kM8bKENfB43R3pdiJgD-y-azvktKG8Q8lZZSoOk11Oe0DZwQ2GK6K4GfwZgGss92aO3rnRVs62Zwhc9SpP8RAx9EOON7nVMz6bXlP1mSA=s1920",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Lancelot_%28Floral_Knight%29.jpg/revision/latest?cb=20200729215556"
+      ],
+      "issue": "imageConflict",
+      "row": 276,
+      "skinId": 5,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEir-aEExsMB_IIZ6ZmEPwByls6K3FKbhyB52aeDiZvvuW6VZ5M-FIOgxgdky3OXxEDKvkZMlxQGT7GuyZScNBJI_rpLJgu11XRxnfGlzgEdcCsXPWUdZPyWqqkFCYT4-cck0x9SWR46yYr39CtqtK3UQ7-0mEoMPwazkmz1OGOCCdLrMPzvKgTQf91_Xg=s1440",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEiB1FPd92s0pJ7x0a8b8HrmouMs8IwMYj2vcVqYADgoQJDbRqkR3_sxlFhSrhajGWa2kkT3qZ2Qvalf-bS2qw8S8axdejwvKeRAKTXyxwg630-2S27fM60ajbMyeATYCTqmaUq88FMKDBzPkjYmAruKU04RmocxxO556Iq7mOxJOTArRDs-XFmRK81cMg=s1843",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832"
+      ],
+      "issue": "imageConflict",
+      "row": 277,
+      "skinId": 2,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjxRp_Uitc9vh8w82xCFt3O2WAdyI5xSQUjEF0vftWg3PnWNaDqFrb7Vv8kaJ1qEWjfmjLnnNQ_7UFHMSs4l3tlJOs7ouD_MxXwt1BIFsaTEyQQMUTFt2F08vVNulX7s9jppJkr7iCMU4Hdzz0mwPHge01PPN-X2TwZDjJoFrM3ljpg6qwwh10JPihzgw=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgXBUols2-nIH5M67M7-lq3efEG-z64vdPC71GP0a-AN2D8aiL-Ujd_moyIHOSCOHJU3nXwedNtEaqY3SFvRVlUabd8DYWSCDL4-jVVB1ZxKSgHMQslC6a2AUhUw1-VE4UwjCeM5-2ZNfy5JMsyYNFFTn6QXaClTrtRMio--IvqFGzNjdC1-GPWZyJyFg=s599",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Lancelot_%28Dark_Earl%29.jpg/revision/latest?cb=20210904114021"
+      ],
+      "issue": "imageConflict",
+      "row": 278,
+      "skinId": 3,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Benedetta%28Street_Blow%29.jpg/revision/latest?cb=20230926170445",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb=20220525170254",
+      "category": 0,
+      "heroId": 97,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Benedetta_%28Street_Thrasher%29.jpg/revision/latest?cb=20230926170445"
+      ],
+      "issue": "imageConflict",
+      "row": 361,
+      "skinId": 1,
+      "source": "upgradeSkin"
+    },
+    {
+      "archive": "[  NO BACKUP FILE SORYY DEAR ]",
+      "heroId": 128,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Shimmering Waves",
+      "skinCategory": -1,
+      "skinId": 1
+    },
+    {
+      "archive": "l",
+      "heroId": 69,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Undead King",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "archive": "l",
+      "heroId": 69,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Insidious Tutor",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "l",
+      "heroId": 23,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Christmas Carnival",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "archive": "l",
+      "heroId": 1,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Sweet Fantacy",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "archive": "l",
+      "heroId": 1,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Christmas Carnival",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "archive": "l",
+      "heroId": 1,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Captain Thorns",
+      "skinCategory": -1,
+      "skinId": 8
+    },
+    {
+      "archive": "l",
+      "heroId": 5,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Cyclone Clash",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "archive": "l",
+      "heroId": 5,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Wind Fairy ",
+      "skinCategory": -1,
+      "skinId": 5
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20nana%20summer.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20nana%20summer.jpg",
+      "category": 0,
+      "heroId": 5,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Nana_%28Sundress%29.jpg/revision/latest?cb=20200721082600"
+      ],
+      "issue": "imageConflict",
+      "row": 391,
+      "skinId": 6,
+      "source": "upgradeSkin"
+    },
+    {
+      "archive": "l",
+      "heroId": 5,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Sundress",
+      "skinCategory": 0,
+      "skinId": 6
+    },
+    {
+      "archive": "l",
+      "heroId": 63,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Virus",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "archive": "l",
+      "heroId": 63,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Gemini Shadow",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "l",
+      "heroId": 63,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Curse of Cinder",
+      "skinCategory": -1,
+      "skinId": 6
+    },
+    {
+      "archive": "l",
+      "heroId": 63,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Lady Vengeance",
+      "skinCategory": 0,
+      "skinId": 6
+    },
+    {
+      "archive": "l",
+      "heroId": 106,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Monolith Watcher",
+      "skinCategory": -1,
+      "skinId": 1
+    },
+    {
+      "archive": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Akai_%28Marvelous_Maestro%29.jpg/revision/latest?cb=20240904133115",
+      "heroId": 9,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Marvelous Maestro ",
+      "skinCategory": 0,
+      "skinId": 5
+    },
+    {
+      "archive": "ad",
+      "heroId": 9,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Pumpkin Brawler",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "archive": "l",
+      "heroId": 9,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Monk",
+      "skinCategory": -1,
+      "skinId": 7
+    },
+    {
+      "archive": "l",
+      "heroId": 120,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Fury of the Deep",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "l",
+      "heroId": 25,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Soryu Maiden",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "l",
+      "heroId": 25,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Water Lily",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/received_499796749582625.jpeg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/received_499796749582625.jpeg",
+      "category": 0,
+      "heroId": 25,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Kagura_%28Jade_Blossom%29.jpg/revision/latest?cb=20240904133126"
+      ],
+      "issue": "imageConflict",
+      "row": 405,
+      "skinId": 7,
+      "source": "upgradeSkin"
+    },
+    {
+      "archive": "l",
+      "heroId": 25,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Jade Blossom",
+      "skinCategory": 0,
+      "skinId": 7
+    },
+    {
+      "archive": "l",
+      "heroId": 25,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Beyond the Clouds",
+      "skinCategory": 0,
+      "skinId": 6
+    },
+    {
+      "archive": "l",
+      "heroId": 1,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Atomic Pop",
+      "skinCategory": 0,
+      "skinId": 7
+    },
+    {
+      "archive": "l",
+      "heroId": 89,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Mworld Wanwan",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "archive": "l",
+      "heroId": 90,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Midnight Justice",
+      "skinCategory": -1,
+      "skinId": 3
+    },
+    {
+      "archive": "l",
+      "heroId": 7,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Demon's Bane",
+      "skinCategory": 0,
+      "skinId": 6
+    },
+    {
+      "archive": "l",
+      "heroId": 94,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Trouble Makers",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ68Ag7J8KIy9Y2DUqAj5A-q6uFg6eGr5PpJ-OnXysWCDKNcyL-Mge1uHyfiFr_IsGIxBWYiaoI8yMtGWQXvXT6Cp9ubg77avc5xVTNak11zpmVZeklvU4HSsDaI5xga5y7iUnQRgKGtX-n0rvQBfRGzfiaa-z5mKdv1fyFZYjdltScPzGesC2cxOqJ3rz/s1760/alpha-star-enforcer-starlight-skin-wallpaper.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEpRISF765ix6mXC3f8CGAfyJpSbTxfhYU_VIou5VwIx8Qg4eKHYG3uef7xBCanOkvlylWgors3mdY_H1-xdRcLAOsobH4Gp3lWR2ETiEKdajDpa5ZrnmlDdRO6yW4IzPTkKRD5PBfvxzvc34WAkgWmil8PQmW828LKEHd_DUMcRJbdSQXa1JfcBuHHnj3/s3124/alpha-star-enforcer-starlight-skin-wallpaper-hd.jpg",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Alpha_%28Star_Enforcer%29.jpg/revision/latest?cb=20250703150809"
+      ],
+      "issue": "imageConflict",
+      "row": 427,
+      "skinId": 5,
+      "source": "upgradeSkin"
+    },
+    {
+      "archive": "kerit",
+      "heroId": 28,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Star Enforcer",
+      "skinCategory": 0,
+      "skinId": 5
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgAf12gmZuyXGEfetauv0yh00j92DJ2dJm5c1PdeIfn4qc0qs6PLrZpQZqYQvuTERyxT9d6aMg4LVxstGUb8a-HzOKcZNsL1LwE_MynDAq-5nCT-Lt25lPUBRwo4gl8PfRaN42jgJiWg7fMI0ce6xC6ZD4nW4oLkmnSN4qF3ixQfZENQaKxniRtzNhnVw=s1080",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEjbm-lb3tG9AwJ4Oy6OEBVVFURd7pY9uY97QXeRAy3xJm6wyMJxeIgoQg1RDmb-c1CmC_1-mkYrekDg-OLxmVZId32LG9emDBnfyBJYqumJ3w7eBeVvEVNGrFZfIpuEJJEdfsAgb4NXZGYLsCgSiIDk5ngxqRB1Rfq25uS8VzsUkSalPw1DtT8g9iZEpA=s607",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Alpha_%28Onimusha_Commander%29.jpg/revision/latest?cb=20220322122516"
+      ],
+      "issue": "imageConflict",
+      "row": 428,
+      "skinId": 1,
+      "source": "upgradeSkin"
+    },
+    {
+      "archive": "l",
+      "heroId": 28,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Onimusha Commander",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpGqrg8gFToXDtixxYLSor0Qup-Kshoe6zbHKxH1a3p-CWSwjbNsHfVzj4QzOdJ1xwQ8K1kJR19g_u_hDTHuPq09KhWv8bykE80_QeuxuFX1TS_btAiTOC7506WXVUitKR2yqV3zTCu_P/s1280/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiiBBR12fUJrQIsQCDXcqDB41NN9L2o5jdKKYpKaty3sDGtWHDKLFXBjZiAH9Ry46rdo4AhagqSrFWZBbE-e-7FU_-8bNtw7kbcf-zhF_8vc1lRC0d3ICgKgSX-tdxIPjECQAH9FuMIG66/s2048/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd-phone.jpg",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Alpha_%28General_Void%29.jpg/revision/latest?cb=20220621070946"
+      ],
+      "issue": "imageConflict",
+      "row": 429,
+      "skinId": 4,
+      "source": "upgradeSkin"
+    },
+    {
+      "archive": "l",
+      "heroId": 28,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "General Void",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "archive": "l",
+      "heroId": 28,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Mecha King Perseus",
+      "skinCategory": -1,
+      "skinId": 7
+    },
+    {
+      "archive": "l",
+      "heroId": 7,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Lightborn Striker",
+      "skinCategory": -1,
+      "skinId": 7
+    },
+    {
+      "archive": "l",
+      "heroId": 7,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Child of Fall",
+      "skinCategory": -1,
+      "skinId": 8
+    },
+    {
+      "archive": "l",
+      "heroId": 77,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Pegasus Seiya",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "archive": "close",
+      "heroId": 26,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Dragon Shiryu",
+      "skinCategory": 0,
+      "skinId": 8
+    },
+    {
+      "archive": "l",
+      "heroId": 112,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Yatai Waitress",
+      "skinCategory": 0,
+      "skinId": 3
+    },
+    {
+      "archive": "l",
+      "heroId": 112,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Flurry Dream",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "archive": "l",
+      "heroId": 117,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Sparkle Fredrinn",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "l",
+      "heroId": 22,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Beach Sweetheart",
+      "skinCategory": -1,
+      "skinId": 5
+    },
+    {
+      "archive": "l",
+      "heroId": 22,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "War Angel",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "l",
+      "heroId": 22,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "S.A.B.E.R Manhunter",
+      "skinCategory": -1,
+      "skinId": 7
+    },
+    {
+      "archive": "l",
+      "heroId": 22,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Gladiator",
+      "skinCategory": -1,
+      "skinId": 8
+    },
+    {
+      "archive": "l",
+      "heroId": 56,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Dimension Walker",
+      "skinCategory": 0,
+      "skinId": 8
+    },
+    {
+      "archive": "l",
+      "heroId": 47,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Guardian of the Shrine",
+      "skinCategory": 0,
+      "skinId": 10
+    },
+    {
+      "archive": "l",
+      "heroId": 47,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Pisces ",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "archive": "l",
+      "heroId": 47,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Bren Esports",
+      "skinCategory": 0,
+      "skinId": 7
+    },
+    {
+      "archive": "l",
+      "heroId": 84,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "M-World Ling",
+      "skinCategory": 0,
+      "skinId": 5
+    },
+    {
+      "archive": "l",
+      "heroId": 84,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "NeoBeast Ling",
+      "skinCategory": 0,
+      "skinId": 7
+    },
+    {
+      "archive": "k",
+      "heroId": 84,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Lord Shen",
+      "skinCategory": 0,
+      "skinId": 6
+    },
+    {
+      "archive": "l",
+      "heroId": 114,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "SPARKLE Melissa",
+      "skinCategory": 0,
+      "skinId": 3
+    },
+    {
+      "archive": "l",
+      "heroId": 114,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "NightWalker",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20MELISA%20COLL.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20MELISA%20COLL.jpg",
+      "category": 0,
+      "heroId": 114,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Melissa_%28Umbra_Bloom%29.jpg/revision/latest?cb=20250301020410"
+      ],
+      "issue": "imageConflict",
+      "row": 451,
+      "skinId": 4,
+      "source": "upgradeSkin"
+    },
+    {
+      "archive": "l",
+      "heroId": 114,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Umbra Bloom",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "archive": "l",
+      "heroId": 31,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Snake Eye Commander",
+      "skinCategory": -1,
+      "skinId": 7
+    },
+    {
+      "archive": "j",
+      "heroId": 101,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Forest Hymn",
+      "skinCategory": -1,
+      "skinId": 1
+    },
+    {
+      "archive": "k",
+      "heroId": 97,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Death Oath",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "k",
+      "heroId": 13,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Captain of the Reefs",
+      "skinCategory": 0,
+      "skinId": 8
+    },
+    {
+      "archive": "k",
+      "heroId": 13,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Dragon Maw",
+      "skinCategory": -1,
+      "skinId": 7
+    },
+    {
+      "archive": "k",
+      "heroId": 13,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Operator CL",
+      "skinCategory": 0,
+      "skinId": 6
+    },
+    {
+      "archive": "I",
+      "heroId": 79,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Lightborn - Override",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "m",
+      "heroId": 68,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Nature Harmony",
+      "skinCategory": -1,
+      "skinId": 6
+    },
+    {
+      "archive": "j",
+      "heroId": 86,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Magitech Arsenal",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "j",
+      "heroId": 107,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Captain Chrono",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "k",
+      "heroId": 46,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Christmas Carnival",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "archive": "m",
+      "heroId": 46,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Auspicious Charm",
+      "skinCategory": 0,
+      "skinId": 4
+    },
+    {
+      "archive": "m",
+      "heroId": 46,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Sage of the Current",
+      "skinCategory": 0,
+      "skinId": 5
+    },
+    {
+      "archive": "j",
+      "heroId": 46,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Wisdom of the Stars",
+      "skinCategory": 0,
+      "skinId": 6
+    },
+    {
+      "archive": "j",
+      "heroId": 3,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Iron Hound",
+      "skinCategory": 0,
+      "skinId": 6
+    },
+    {
+      "archive": "k",
+      "heroId": 3,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Silver Edge",
+      "skinCategory": -1,
+      "skinId": 6
+    },
+    {
+      "archive": "j",
+      "heroId": 4,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Spirit Woman",
+      "skinCategory": -1,
+      "skinId": 1
+    },
+    {
+      "archive": "k",
+      "heroId": 4,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Divine Owl",
+      "skinCategory": -1,
+      "skinId": 2
+    },
+    {
+      "archive": "j",
+      "heroId": 4,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Jade Empress",
+      "skinCategory": -1,
+      "skinId": 3
+    },
+    {
+      "archive": "k",
+      "heroId": 4,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Steam Glider",
+      "skinCategory": -1,
+      "skinId": 4
+    },
+    {
+      "archive": "epic",
+      "heroId": 61,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Vine Cradle",
+      "skinCategory": 0,
+      "skinId": 5
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Fredrinn%20Starlight.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Fredrinn%20Starlight.jpg",
+      "category": 0,
+      "heroId": 117,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Fredrinn_%28Royal_Marshal%29.jpg/revision/latest?cb=20251207060948"
+      ],
+      "issue": "imageConflict",
+      "row": 483,
+      "skinId": 3,
+      "source": "upgradeSkin"
+    },
+    {
+      "archive": "k",
+      "heroId": 117,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Royal Marshal",
+      "skinCategory": 0,
+      "skinId": 3
+    },
+    {
+      "archive": "k",
+      "heroId": 51,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Evolved Predator",
+      "skinCategory": -1,
+      "skinId": 3
+    },
+    {
+      "archive": "k",
+      "heroId": 51,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Dream Prowler",
+      "skinCategory": 0,
+      "skinId": 3
+    },
+    {
+      "archive": "n",
+      "heroId": 121,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Dynamic Streak",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "archive": "k",
+      "heroId": 125,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Ethereal Serenity ",
+      "skinCategory": -1,
+      "skinId": 1
+    },
+    {
+      "archive": "k",
+      "heroId": 125,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Emberbwisp Mystic",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "archive": "m",
+      "heroId": 116,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Megumi Fushiguro",
+      "skinCategory": 0,
+      "skinId": 1
+    },
+    {
+      "archive": "n",
+      "heroId": 116,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Meowskin Tracker",
+      "skinCategory": -1,
+      "skinId": 3
+    },
+    {
+      "archive": "k",
+      "heroId": 67,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Inferno Soul",
+      "skinCategory": 0,
+      "skinId": 2
+    },
+    {
+      "archive": "j",
+      "heroId": 67,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Twilight Horseman",
+      "skinCategory": -1,
+      "skinId": 6
+    },
+    {
+      "archive": "j",
+      "heroId": 44,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Monitor Lizard",
+      "skinCategory": -1,
+      "skinId": 5
+    },
+    {
+      "archive": "k",
+      "heroId": 44,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Codename Rhino",
+      "skinCategory": 0,
+      "skinId": 3
+    },
+    {
+      "archive": "i",
+      "heroId": 44,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Wasteland Psycho",
+      "skinCategory": -1,
+      "skinId": 7
+    },
+    {
+      "archive": "n",
+      "heroId": 129,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Heavenly Splendor",
+      "skinCategory": -1,
+      "skinId": 1
+    },
+    {
+      "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
+      "heroId": 130,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Undying Remnants",
+      "skinCategory": -1,
+      "skinId": 1
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUFlBXsJ9mrF9jzRBHnUE_GFK-pWEiR5qmbxGMS7EeX7AWLwPCevpyihKZ2eVSsm7_7tizj_Q9iy_vaNDETDfWm1qweH7cp4XInNUbanRVOhqEJ4wataiWscb8dFkPBa5wo2p-mNMZl_cy_9NvS7Ut6l0dqpLQtNjJCVqB6cLRj3WfmSac9WI53BSHJcoF/s3840/chou-revamp-wallpaper.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2jBn0PSL6IWn6SAqOjE4vyOoVHEBEbKqpLqGGs_lrokXY_YP0jlys55j0ulNiaeeZ_bFrvt1Yaot08_GjKdw93ipVAbQiKwhMTE0dNGll5S7-Pelh4JZeDLgLp6A-w1miW1M2u4kPO41cj9TgdaUQw9v4e00LZxR2fR_icVdN2Vo3wdNG7DFj3kK2fJoU/s3840/chou-revamp-wallpaper-hd.jpg",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Chou_%28Hip-hop_Boy%29.jpg/revision/latest?cb=20230819015935"
+      ],
+      "issue": "imageConflict",
+      "row": 500,
+      "skinId": 0,
+      "source": "upgradeSkin"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDLH1HCT4jd63p62DWb-iD34tskuCqXhLqRB6m3ic9zRA_kC5jiTncER4Zf0V5SGgRclP8vCPbjnGNpC4HCT1VcG5T9C0-NbFALMVJQF44gV7b_SDxrW7ZhxerqpDftDgUx3LPyzBxrPA/s1123/zilong-christmas-carnival-special-skin-mobile--legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyabUzv54gOsUNwDQYIxECpiUqp7865W8ROFhi5w20f0VVEu7V4otLURjonp8JwU5TTt1Qkq7Jaz2p5-ppD-ICbwJomZkE-thyH1bAh7NpLN03u-jdTchZ2PrBPXut38jSTzzgifdhl930/s1920/zilong-christmas-carnival-special-skin-mobile--legends-wallpaper-hd-mobile.jpg",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Christmas_Carnival_wall.jpg/revision/latest?cb=20240303042325",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Christmas_Carnival_wall.jpg/revision/latest?cb=20240303042325"
+      ],
+      "issue": "imageConflict",
+      "row": 6,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFglBSw4fGLeAwKpawFh0dWqfCLetVJTa0rPokUuywijpBLWaru8xSGpzn4wLwjS2Kb4yrsKCPpmMfs2pGnG1F0-SPDcu0opwqE9bjwrwcaLJpj1Pbj0nUoXY3de89SKCElcw9mu7pQEp733rwvyFGVH4MZq0iAfj_PvrXON6eZqcpSy_ey6nrGyJGJA3l/s1780/zilong-changbanpo-commander-epic-skin.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCAvO0hrgOX0QjuDohGtBaxxmaHaj8cHjogm2BKwccYZDSiMZlBKQxBDDDzG4sDLRZRvEFTN2i57pNL4LBgI9LvA2cE_0jEh1UbSr1gY14WX0UpywkAE4TM797kugpRg_qV_qMRzDwG03BRI_sfly-cWdCFHaBt0dpM3ElioI97zoPfxzmSatz8xauq_Xd/s1560/zilong-changbanpo-commander-epic-skin-revamp.png",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215",
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215"
+      ],
+      "issue": "imageConflict",
+      "row": 7,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Zilong_%28Summer_Waves%29.jpg/revision/latest?cb=20210730172000",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Zilong_%28Summer_Waves%29.jpg/revision/latest?cb=20210730172000"
+      ],
+      "issue": "imageConflict",
+      "row": 8,
+      "skinId": 9,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFglBSw4fGLeAwKpawFh0dWqfCLetVJTa0rPokUuywijpBLWaru8xSGpzn4wLwjS2Kb4yrsKCPpmMfs2pGnG1F0-SPDcu0opwqE9bjwrwcaLJpj1Pbj0nUoXY3de89SKCElcw9mu7pQEp733rwvyFGVH4MZq0iAfj_PvrXON6eZqcpSy_ey6nrGyJGJA3l/s1780/zilong-changbanpo-commander-epic-skin.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCAvO0hrgOX0QjuDohGtBaxxmaHaj8cHjogm2BKwccYZDSiMZlBKQxBDDDzG4sDLRZRvEFTN2i57pNL4LBgI9LvA2cE_0jEh1UbSr1gY14WX0UpywkAE4TM797kugpRg_qV_qMRzDwG03BRI_sfly-cWdCFHaBt0dpM3ElioI97zoPfxzmSatz8xauq_Xd/s1560/zilong-changbanpo-commander-epic-skin-revamp.png",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215",
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215"
+      ],
+      "issue": "imageConflict",
+      "row": 9,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDLH1HCT4jd63p62DWb-iD34tskuCqXhLqRB6m3ic9zRA_kC5jiTncER4Zf0V5SGgRclP8vCPbjnGNpC4HCT1VcG5T9C0-NbFALMVJQF44gV7b_SDxrW7ZhxerqpDftDgUx3LPyzBxrPA/s1123/zilong-christmas-carnival-special-skin-mobile--legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyabUzv54gOsUNwDQYIxECpiUqp7865W8ROFhi5w20f0VVEu7V4otLURjonp8JwU5TTt1Qkq7Jaz2p5-ppD-ICbwJomZkE-thyH1bAh7NpLN03u-jdTchZ2PrBPXut38jSTzzgifdhl930/s1920/zilong-christmas-carnival-special-skin-mobile--legends-wallpaper-hd-mobile.jpg",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Christmas_Carnival_wall.jpg/revision/latest?cb=20240303042325",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Christmas_Carnival_wall.jpg/revision/latest?cb=20240303042325"
+      ],
+      "issue": "imageConflict",
+      "row": 11,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Zilong_%28Summer_Waves%29.jpg/revision/latest?cb=20210730172000",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Zilong_%28Summer_Waves%29.jpg/revision/latest?cb=20210730172000"
+      ],
+      "issue": "imageConflict",
+      "row": 13,
+      "skinId": 9,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFglBSw4fGLeAwKpawFh0dWqfCLetVJTa0rPokUuywijpBLWaru8xSGpzn4wLwjS2Kb4yrsKCPpmMfs2pGnG1F0-SPDcu0opwqE9bjwrwcaLJpj1Pbj0nUoXY3de89SKCElcw9mu7pQEp733rwvyFGVH4MZq0iAfj_PvrXON6eZqcpSy_ey6nrGyJGJA3l/s1780/zilong-changbanpo-commander-epic-skin.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCAvO0hrgOX0QjuDohGtBaxxmaHaj8cHjogm2BKwccYZDSiMZlBKQxBDDDzG4sDLRZRvEFTN2i57pNL4LBgI9LvA2cE_0jEh1UbSr1gY14WX0UpywkAE4TM797kugpRg_qV_qMRzDwG03BRI_sfly-cWdCFHaBt0dpM3ElioI97zoPfxzmSatz8xauq_Xd/s1560/zilong-changbanpo-commander-epic-skin-revamp.png",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215",
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215"
+      ],
+      "issue": "imageConflict",
+      "row": 15,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Zilong_%28Summer_Waves%29.jpg/revision/latest?cb=20210730172000",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Zilong_%28Summer_Waves%29.jpg/revision/latest?cb=20210730172000"
+      ],
+      "issue": "imageConflict",
+      "row": 16,
+      "skinId": 9,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFglBSw4fGLeAwKpawFh0dWqfCLetVJTa0rPokUuywijpBLWaru8xSGpzn4wLwjS2Kb4yrsKCPpmMfs2pGnG1F0-SPDcu0opwqE9bjwrwcaLJpj1Pbj0nUoXY3de89SKCElcw9mu7pQEp733rwvyFGVH4MZq0iAfj_PvrXON6eZqcpSy_ey6nrGyJGJA3l/s1780/zilong-changbanpo-commander-epic-skin.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCAvO0hrgOX0QjuDohGtBaxxmaHaj8cHjogm2BKwccYZDSiMZlBKQxBDDDzG4sDLRZRvEFTN2i57pNL4LBgI9LvA2cE_0jEh1UbSr1gY14WX0UpywkAE4TM797kugpRg_qV_qMRzDwG03BRI_sfly-cWdCFHaBt0dpM3ElioI97zoPfxzmSatz8xauq_Xd/s1560/zilong-changbanpo-commander-epic-skin-revamp.png",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215",
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215"
+      ],
+      "issue": "imageConflict",
+      "row": 17,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Zilong_%28Summer_Waves%29.jpg/revision/latest?cb=20210730172000",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Zilong_%28Summer_Waves%29.jpg/revision/latest?cb=20210730172000"
+      ],
+      "issue": "imageConflict",
+      "row": 18,
+      "skinId": 9,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFglBSw4fGLeAwKpawFh0dWqfCLetVJTa0rPokUuywijpBLWaru8xSGpzn4wLwjS2Kb4yrsKCPpmMfs2pGnG1F0-SPDcu0opwqE9bjwrwcaLJpj1Pbj0nUoXY3de89SKCElcw9mu7pQEp733rwvyFGVH4MZq0iAfj_PvrXON6eZqcpSy_ey6nrGyJGJA3l/s1780/zilong-changbanpo-commander-epic-skin.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCAvO0hrgOX0QjuDohGtBaxxmaHaj8cHjogm2BKwccYZDSiMZlBKQxBDDDzG4sDLRZRvEFTN2i57pNL4LBgI9LvA2cE_0jEh1UbSr1gY14WX0UpywkAE4TM797kugpRg_qV_qMRzDwG03BRI_sfly-cWdCFHaBt0dpM3ElioI97zoPfxzmSatz8xauq_Xd/s1560/zilong-changbanpo-commander-epic-skin-revamp.png",
+      "category": 0,
+      "heroId": 16,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215",
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Changbanpo_Commander_wall.jpg/revision/latest?cb=20240620010215"
+      ],
+      "issue": "imageConflict",
+      "row": 20,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 21,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 23,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214"
+      ],
+      "issue": "imageConflict",
+      "row": 24,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVsUCG84gakuKmpO1X_bFxyEkgo5owNXjfXXPKIg8T8d0T4kOlshHTUZfZDuY0GilbpWhBdpwZGzRskZXcqhzOAhG9ygNjRNdnZmxFaeWa9GHxpiDKBptye2A7-c0yFU5VjkC9lOPiBg1/s1920/chou-stun-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101"
+      ],
+      "issue": "imageConflict",
+      "row": 26,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 27,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGAsDgNlcz8gRmTV9QTTjsdtswApgDUL02KS2i6yT5Hj1Qg-h7gt-6ng9K02HB88VOBFxEa4hBQWjsGFyoPxQbbY7ee5yUQTFj9M_JgF-50_yV-cPnF4cLX6fjqUNYM5Xvm9vCeB_PO13/s1920/chou-thunderfist-hero-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046"
+      ],
+      "issue": "imageConflict",
+      "row": 28,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVsUCG84gakuKmpO1X_bFxyEkgo5owNXjfXXPKIg8T8d0T4kOlshHTUZfZDuY0GilbpWhBdpwZGzRskZXcqhzOAhG9ygNjRNdnZmxFaeWa9GHxpiDKBptye2A7-c0yFU5VjkC9lOPiBg1/s1920/chou-stun-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101"
+      ],
+      "issue": "imageConflict",
+      "row": 32,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214"
+      ],
+      "issue": "imageConflict",
+      "row": 33,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 34,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGAsDgNlcz8gRmTV9QTTjsdtswApgDUL02KS2i6yT5Hj1Qg-h7gt-6ng9K02HB88VOBFxEa4hBQWjsGFyoPxQbbY7ee5yUQTFj9M_JgF-50_yV-cPnF4cLX6fjqUNYM5Xvm9vCeB_PO13/s1920/chou-thunderfist-hero-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046"
+      ],
+      "issue": "imageConflict",
+      "row": 35,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 38,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 40,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVsUCG84gakuKmpO1X_bFxyEkgo5owNXjfXXPKIg8T8d0T4kOlshHTUZfZDuY0GilbpWhBdpwZGzRskZXcqhzOAhG9ygNjRNdnZmxFaeWa9GHxpiDKBptye2A7-c0yFU5VjkC9lOPiBg1/s1920/chou-stun-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101"
+      ],
+      "issue": "imageConflict",
+      "row": 41,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214"
+      ],
+      "issue": "imageConflict",
+      "row": 43,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 46,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVsUCG84gakuKmpO1X_bFxyEkgo5owNXjfXXPKIg8T8d0T4kOlshHTUZfZDuY0GilbpWhBdpwZGzRskZXcqhzOAhG9ygNjRNdnZmxFaeWa9GHxpiDKBptye2A7-c0yFU5VjkC9lOPiBg1/s1920/chou-stun-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101"
+      ],
+      "issue": "imageConflict",
+      "row": 47,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 51,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVsUCG84gakuKmpO1X_bFxyEkgo5owNXjfXXPKIg8T8d0T4kOlshHTUZfZDuY0GilbpWhBdpwZGzRskZXcqhzOAhG9ygNjRNdnZmxFaeWa9GHxpiDKBptye2A7-c0yFU5VjkC9lOPiBg1/s1920/chou-stun-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101"
+      ],
+      "issue": "imageConflict",
+      "row": 52,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214"
+      ],
+      "issue": "imageConflict",
+      "row": 54,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 57,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 59,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214"
+      ],
+      "issue": "imageConflict",
+      "row": 60,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 62,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "category": 0,
+      "heroId": 56,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239"
+      ],
+      "issue": "imageConflict",
+      "row": 122,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "category": 0,
+      "heroId": 56,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239"
+      ],
+      "issue": "imageConflict",
+      "row": 129,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "category": 0,
+      "heroId": 56,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239"
+      ],
+      "issue": "imageConflict",
+      "row": 133,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "category": 0,
+      "heroId": 56,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239"
+      ],
+      "issue": "imageConflict",
+      "row": 140,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "category": 0,
+      "heroId": 56,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239"
+      ],
+      "issue": "imageConflict",
+      "row": 145,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "category": 0,
+      "heroId": 56,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239"
+      ],
+      "issue": "imageConflict",
+      "row": 149,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUS.png",
+      "category": 0,
+      "heroId": 56,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239"
+      ],
+      "issue": "imageConflict",
+      "row": 153,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjPBdSNggnLp8rP4LQO5YJK285P7hlRHsT2he1ONFoFhZAzk2yfrMNxGUt4hYj3y3lIuMAesoyFuj9-va4oNUO3hggZJ0m-DIUl7TAt_NPI9n8lodwaF7f4tfWY0XJnj4zEpRdDSGBmecHdtWJqeuHBNu8zQOb0eYgm4ooHJFhSKhryVQFPeRxHnyG7XA=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgr8cfHx7cN0TP3NVO-mnE3lEFpn33-L-52AYKCiGZI0rkkv6_rws-L0IsP1oqfM-I2iIm_A9gE89mWuoix6Q9-1XFhqAbhjMhE2a_C-eQBW3DO6stcuQmcW4bsk0TOvabtJWMMleO19pbmkig2naEHdp2Gjz4D0H5Rfe_6T1o0OiFurlRY17Z_BgnelA=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hayabusa_%28Experiment_21%29.jpg/revision/latest?cb=20211021140601",
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hayabusa_%28Experiment_21%29.jpg/revision/latest?cb=20211021140601"
+      ],
+      "issue": "imageConflict",
+      "row": 156,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEivygImLnikACiIJv4ryMIFE47z2H0Z28wOTuNiEARr1Bn9C42u0ycGOnslF5C5pfRclycMb3la2HfVX0cYSxE_dH8tJDy-PJXPhhFqaWJlBB6PcZwUH-ujuHPmfB7__X30t4luAKuMRsiLnkOp2sZhs5mlWYIK_74_JVpJW9KhhR7feG49YgK6wKUrfg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEil5BNksUyDNyQW8jxeZ4yM0UXY6rpnPWe21JF6_9cHXdi2OH7hYLDe8HurSL8ZmcXXBYlQ7ZIe3wkcIQvpN--dbi5CqFrqMdJAqHvDYyC4UHzcfD-OVdQzu9Tc5W26_fclbAu4EXTkLXxMmPt7VI-pllHwn4Grorun4iZtwWgj6sMrWMjUz678bHMnSQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643",
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643"
+      ],
+      "issue": "imageConflict",
+      "row": 157,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgM6T49GUeCtdymIrdkObTK7pN_Vvd8azp2fl_WNwE_rAc8B4DyuNFAVFQJvzsPLRZxn6NDWADu2isVQxRBBqvV_yaXbbdXr_42rpuGPwAZCTHBX7xEvmvNos0M9JXxrlkXg05wG8FMUaPKgNOSivRk1GwsqP8nxR72bCFKQIxSeMLiv5TKQ_vcgSHabQ=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEg74tlEKBPoJEXBcRTVx6R_cXAurdRM_gasXZhZFprKgbV9XwkVOweb_Q4e8xZOdAYV2dIGl1gJgI6ITcEiL_zdp2wmXyQdneJyFbOTYFbj2RvLzFqiSXnSokhfP_xd42lzH7qTwJeJDSnIx498FBnPJFrnl-l09_B_ZRgacWrYkUE1BbQduTuA9okFZQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548"
+      ],
+      "issue": "imageConflict",
+      "row": 158,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKAf4djYI7bDjfQwCN20COxNLQY_EPqCy11rxBWB3TuEx-QRiTbqYwx0DlAEyBLa-sgth33CBbfO8xmS-0EMPKlXSoSeS_uMQHq-w4ryk9eZr3GENTP2ch4TASnwQbA8uHAIyNHk-ufXW7rmn4XZlAoCmm1zt46QYUKJNziT4fTwKdsVKXd3HnQqNDl3KP/s1780/hayabusa-exorcist-wallpaper.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYKcSroPtTNiZ2RmvksoH-OrTX7_VjnXCobMa3Gm44V8F2nzJ8KWY_cz4Pf-7iNEAUS2RREtcgGcRU1vBk8c22zJnwsertfgZ7fYWtOh2OiIFOyfqiGH_1NIv1DXeFfJoWghJM9fF3EkxmgUBrM3pdw3lq3YJOIpAprdvEIT4nx9Ea2L8HVJ8y1wWJ_zqL/s1560/gambar-hayabusa-exorcist.png",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445"
+      ],
+      "issue": "imageConflict",
+      "row": 159,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjPBdSNggnLp8rP4LQO5YJK285P7hlRHsT2he1ONFoFhZAzk2yfrMNxGUt4hYj3y3lIuMAesoyFuj9-va4oNUO3hggZJ0m-DIUl7TAt_NPI9n8lodwaF7f4tfWY0XJnj4zEpRdDSGBmecHdtWJqeuHBNu8zQOb0eYgm4ooHJFhSKhryVQFPeRxHnyG7XA=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgr8cfHx7cN0TP3NVO-mnE3lEFpn33-L-52AYKCiGZI0rkkv6_rws-L0IsP1oqfM-I2iIm_A9gE89mWuoix6Q9-1XFhqAbhjMhE2a_C-eQBW3DO6stcuQmcW4bsk0TOvabtJWMMleO19pbmkig2naEHdp2Gjz4D0H5Rfe_6T1o0OiFurlRY17Z_BgnelA=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hayabusa_%28Experiment_21%29.jpg/revision/latest?cb=20211021140601",
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hayabusa_%28Experiment_21%29.jpg/revision/latest?cb=20211021140601"
+      ],
+      "issue": "imageConflict",
+      "row": 160,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEivygImLnikACiIJv4ryMIFE47z2H0Z28wOTuNiEARr1Bn9C42u0ycGOnslF5C5pfRclycMb3la2HfVX0cYSxE_dH8tJDy-PJXPhhFqaWJlBB6PcZwUH-ujuHPmfB7__X30t4luAKuMRsiLnkOp2sZhs5mlWYIK_74_JVpJW9KhhR7feG49YgK6wKUrfg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEil5BNksUyDNyQW8jxeZ4yM0UXY6rpnPWe21JF6_9cHXdi2OH7hYLDe8HurSL8ZmcXXBYlQ7ZIe3wkcIQvpN--dbi5CqFrqMdJAqHvDYyC4UHzcfD-OVdQzu9Tc5W26_fclbAu4EXTkLXxMmPt7VI-pllHwn4Grorun4iZtwWgj6sMrWMjUz678bHMnSQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643",
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643"
+      ],
+      "issue": "imageConflict",
+      "row": 161,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgM6T49GUeCtdymIrdkObTK7pN_Vvd8azp2fl_WNwE_rAc8B4DyuNFAVFQJvzsPLRZxn6NDWADu2isVQxRBBqvV_yaXbbdXr_42rpuGPwAZCTHBX7xEvmvNos0M9JXxrlkXg05wG8FMUaPKgNOSivRk1GwsqP8nxR72bCFKQIxSeMLiv5TKQ_vcgSHabQ=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEg74tlEKBPoJEXBcRTVx6R_cXAurdRM_gasXZhZFprKgbV9XwkVOweb_Q4e8xZOdAYV2dIGl1gJgI6ITcEiL_zdp2wmXyQdneJyFbOTYFbj2RvLzFqiSXnSokhfP_xd42lzH7qTwJeJDSnIx498FBnPJFrnl-l09_B_ZRgacWrYkUE1BbQduTuA9okFZQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548"
+      ],
+      "issue": "imageConflict",
+      "row": 162,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKAf4djYI7bDjfQwCN20COxNLQY_EPqCy11rxBWB3TuEx-QRiTbqYwx0DlAEyBLa-sgth33CBbfO8xmS-0EMPKlXSoSeS_uMQHq-w4ryk9eZr3GENTP2ch4TASnwQbA8uHAIyNHk-ufXW7rmn4XZlAoCmm1zt46QYUKJNziT4fTwKdsVKXd3HnQqNDl3KP/s1780/hayabusa-exorcist-wallpaper.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYKcSroPtTNiZ2RmvksoH-OrTX7_VjnXCobMa3Gm44V8F2nzJ8KWY_cz4Pf-7iNEAUS2RREtcgGcRU1vBk8c22zJnwsertfgZ7fYWtOh2OiIFOyfqiGH_1NIv1DXeFfJoWghJM9fF3EkxmgUBrM3pdw3lq3YJOIpAprdvEIT4nx9Ea2L8HVJ8y1wWJ_zqL/s1560/gambar-hayabusa-exorcist.png",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445"
+      ],
+      "issue": "imageConflict",
+      "row": 163,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjPBdSNggnLp8rP4LQO5YJK285P7hlRHsT2he1ONFoFhZAzk2yfrMNxGUt4hYj3y3lIuMAesoyFuj9-va4oNUO3hggZJ0m-DIUl7TAt_NPI9n8lodwaF7f4tfWY0XJnj4zEpRdDSGBmecHdtWJqeuHBNu8zQOb0eYgm4ooHJFhSKhryVQFPeRxHnyG7XA=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgr8cfHx7cN0TP3NVO-mnE3lEFpn33-L-52AYKCiGZI0rkkv6_rws-L0IsP1oqfM-I2iIm_A9gE89mWuoix6Q9-1XFhqAbhjMhE2a_C-eQBW3DO6stcuQmcW4bsk0TOvabtJWMMleO19pbmkig2naEHdp2Gjz4D0H5Rfe_6T1o0OiFurlRY17Z_BgnelA=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hayabusa_%28Experiment_21%29.jpg/revision/latest?cb=20211021140601",
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hayabusa_%28Experiment_21%29.jpg/revision/latest?cb=20211021140601"
+      ],
+      "issue": "imageConflict",
+      "row": 164,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEivygImLnikACiIJv4ryMIFE47z2H0Z28wOTuNiEARr1Bn9C42u0ycGOnslF5C5pfRclycMb3la2HfVX0cYSxE_dH8tJDy-PJXPhhFqaWJlBB6PcZwUH-ujuHPmfB7__X30t4luAKuMRsiLnkOp2sZhs5mlWYIK_74_JVpJW9KhhR7feG49YgK6wKUrfg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEil5BNksUyDNyQW8jxeZ4yM0UXY6rpnPWe21JF6_9cHXdi2OH7hYLDe8HurSL8ZmcXXBYlQ7ZIe3wkcIQvpN--dbi5CqFrqMdJAqHvDYyC4UHzcfD-OVdQzu9Tc5W26_fclbAu4EXTkLXxMmPt7VI-pllHwn4Grorun4iZtwWgj6sMrWMjUz678bHMnSQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643",
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643"
+      ],
+      "issue": "imageConflict",
+      "row": 165,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgM6T49GUeCtdymIrdkObTK7pN_Vvd8azp2fl_WNwE_rAc8B4DyuNFAVFQJvzsPLRZxn6NDWADu2isVQxRBBqvV_yaXbbdXr_42rpuGPwAZCTHBX7xEvmvNos0M9JXxrlkXg05wG8FMUaPKgNOSivRk1GwsqP8nxR72bCFKQIxSeMLiv5TKQ_vcgSHabQ=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEg74tlEKBPoJEXBcRTVx6R_cXAurdRM_gasXZhZFprKgbV9XwkVOweb_Q4e8xZOdAYV2dIGl1gJgI6ITcEiL_zdp2wmXyQdneJyFbOTYFbj2RvLzFqiSXnSokhfP_xd42lzH7qTwJeJDSnIx498FBnPJFrnl-l09_B_ZRgacWrYkUE1BbQduTuA9okFZQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548"
+      ],
+      "issue": "imageConflict",
+      "row": 166,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEivygImLnikACiIJv4ryMIFE47z2H0Z28wOTuNiEARr1Bn9C42u0ycGOnslF5C5pfRclycMb3la2HfVX0cYSxE_dH8tJDy-PJXPhhFqaWJlBB6PcZwUH-ujuHPmfB7__X30t4luAKuMRsiLnkOp2sZhs5mlWYIK_74_JVpJW9KhhR7feG49YgK6wKUrfg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEil5BNksUyDNyQW8jxeZ4yM0UXY6rpnPWe21JF6_9cHXdi2OH7hYLDe8HurSL8ZmcXXBYlQ7ZIe3wkcIQvpN--dbi5CqFrqMdJAqHvDYyC4UHzcfD-OVdQzu9Tc5W26_fclbAu4EXTkLXxMmPt7VI-pllHwn4Grorun4iZtwWgj6sMrWMjUz678bHMnSQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643",
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643"
+      ],
+      "issue": "imageConflict",
+      "row": 168,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgM6T49GUeCtdymIrdkObTK7pN_Vvd8azp2fl_WNwE_rAc8B4DyuNFAVFQJvzsPLRZxn6NDWADu2isVQxRBBqvV_yaXbbdXr_42rpuGPwAZCTHBX7xEvmvNos0M9JXxrlkXg05wG8FMUaPKgNOSivRk1GwsqP8nxR72bCFKQIxSeMLiv5TKQ_vcgSHabQ=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEg74tlEKBPoJEXBcRTVx6R_cXAurdRM_gasXZhZFprKgbV9XwkVOweb_Q4e8xZOdAYV2dIGl1gJgI6ITcEiL_zdp2wmXyQdneJyFbOTYFbj2RvLzFqiSXnSokhfP_xd42lzH7qTwJeJDSnIx498FBnPJFrnl-l09_B_ZRgacWrYkUE1BbQduTuA9okFZQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548"
+      ],
+      "issue": "imageConflict",
+      "row": 169,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEivygImLnikACiIJv4ryMIFE47z2H0Z28wOTuNiEARr1Bn9C42u0ycGOnslF5C5pfRclycMb3la2HfVX0cYSxE_dH8tJDy-PJXPhhFqaWJlBB6PcZwUH-ujuHPmfB7__X30t4luAKuMRsiLnkOp2sZhs5mlWYIK_74_JVpJW9KhhR7feG49YgK6wKUrfg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEil5BNksUyDNyQW8jxeZ4yM0UXY6rpnPWe21JF6_9cHXdi2OH7hYLDe8HurSL8ZmcXXBYlQ7ZIe3wkcIQvpN--dbi5CqFrqMdJAqHvDYyC4UHzcfD-OVdQzu9Tc5W26_fclbAu4EXTkLXxMmPt7VI-pllHwn4Grorun4iZtwWgj6sMrWMjUz678bHMnSQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643",
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Shadow_of_Obscurity_wall.jpg/revision/latest?cb=20211021140643"
+      ],
+      "issue": "imageConflict",
+      "row": 170,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgM6T49GUeCtdymIrdkObTK7pN_Vvd8azp2fl_WNwE_rAc8B4DyuNFAVFQJvzsPLRZxn6NDWADu2isVQxRBBqvV_yaXbbdXr_42rpuGPwAZCTHBX7xEvmvNos0M9JXxrlkXg05wG8FMUaPKgNOSivRk1GwsqP8nxR72bCFKQIxSeMLiv5TKQ_vcgSHabQ=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEg74tlEKBPoJEXBcRTVx6R_cXAurdRM_gasXZhZFprKgbV9XwkVOweb_Q4e8xZOdAYV2dIGl1gJgI6ITcEiL_zdp2wmXyQdneJyFbOTYFbj2RvLzFqiSXnSokhfP_xd42lzH7qTwJeJDSnIx498FBnPJFrnl-l09_B_ZRgacWrYkUE1BbQduTuA9okFZQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548"
+      ],
+      "issue": "imageConflict",
+      "row": 171,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKAf4djYI7bDjfQwCN20COxNLQY_EPqCy11rxBWB3TuEx-QRiTbqYwx0DlAEyBLa-sgth33CBbfO8xmS-0EMPKlXSoSeS_uMQHq-w4ryk9eZr3GENTP2ch4TASnwQbA8uHAIyNHk-ufXW7rmn4XZlAoCmm1zt46QYUKJNziT4fTwKdsVKXd3HnQqNDl3KP/s1780/hayabusa-exorcist-wallpaper.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYKcSroPtTNiZ2RmvksoH-OrTX7_VjnXCobMa3Gm44V8F2nzJ8KWY_cz4Pf-7iNEAUS2RREtcgGcRU1vBk8c22zJnwsertfgZ7fYWtOh2OiIFOyfqiGH_1NIv1DXeFfJoWghJM9fF3EkxmgUBrM3pdw3lq3YJOIpAprdvEIT4nx9Ea2L8HVJ8y1wWJ_zqL/s1560/gambar-hayabusa-exorcist.png",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
+        "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445"
+      ],
+      "issue": "imageConflict",
+      "row": 172,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgM6T49GUeCtdymIrdkObTK7pN_Vvd8azp2fl_WNwE_rAc8B4DyuNFAVFQJvzsPLRZxn6NDWADu2isVQxRBBqvV_yaXbbdXr_42rpuGPwAZCTHBX7xEvmvNos0M9JXxrlkXg05wG8FMUaPKgNOSivRk1GwsqP8nxR72bCFKQIxSeMLiv5TKQ_vcgSHabQ=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEg74tlEKBPoJEXBcRTVx6R_cXAurdRM_gasXZhZFprKgbV9XwkVOweb_Q4e8xZOdAYV2dIGl1gJgI6ITcEiL_zdp2wmXyQdneJyFbOTYFbj2RvLzFqiSXnSokhfP_xd42lzH7qTwJeJDSnIx498FBnPJFrnl-l09_B_ZRgacWrYkUE1BbQduTuA9okFZQ=s1080",
+      "category": 0,
+      "heroId": 21,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hayabusa_%28Shura%29.jpg/revision/latest?cb=20211214150548"
+      ],
+      "issue": "imageConflict",
+      "row": 173,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcjuloLr-mL1Km4QWqTiKxxYg35YjVYdo9PqP1yUaitFVNRFXDleCOz3bs79gMTOPPfeTqEQI-SNs-gxpiu2Jl17xQWM13VHp6COMV0rSCqHwbQsPSRU6agAfGD75TvpZkRFp4Gz6qOHFm/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJnFiy3oMRA2M9xgRlhBqk3x4xU4RqqUgJqJCdI7PiWnvgvPZsDpIuVlswq75Em4Pwubw-rXm7eBNep5AdDgXQnEUlV8i_29QBdiMrdbydRzyaBlFe8eCCJMgOb4xFUKe28cwtppTTn5Ma/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd-mobile.jpg",
+      "category": 0,
+      "heroId": 7,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008"
+      ],
+      "issue": "imageConflict",
+      "row": 190,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcjuloLr-mL1Km4QWqTiKxxYg35YjVYdo9PqP1yUaitFVNRFXDleCOz3bs79gMTOPPfeTqEQI-SNs-gxpiu2Jl17xQWM13VHp6COMV0rSCqHwbQsPSRU6agAfGD75TvpZkRFp4Gz6qOHFm/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJnFiy3oMRA2M9xgRlhBqk3x4xU4RqqUgJqJCdI7PiWnvgvPZsDpIuVlswq75Em4Pwubw-rXm7eBNep5AdDgXQnEUlV8i_29QBdiMrdbydRzyaBlFe8eCCJMgOb4xFUKe28cwtppTTn5Ma/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd-mobile.jpg",
+      "category": 0,
+      "heroId": 7,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008"
+      ],
+      "issue": "imageConflict",
+      "row": 194,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "category": 0,
+      "heroId": 7,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502"
+      ],
+      "issue": "imageConflict",
+      "row": 195,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcjuloLr-mL1Km4QWqTiKxxYg35YjVYdo9PqP1yUaitFVNRFXDleCOz3bs79gMTOPPfeTqEQI-SNs-gxpiu2Jl17xQWM13VHp6COMV0rSCqHwbQsPSRU6agAfGD75TvpZkRFp4Gz6qOHFm/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJnFiy3oMRA2M9xgRlhBqk3x4xU4RqqUgJqJCdI7PiWnvgvPZsDpIuVlswq75Em4Pwubw-rXm7eBNep5AdDgXQnEUlV8i_29QBdiMrdbydRzyaBlFe8eCCJMgOb4xFUKe28cwtppTTn5Ma/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd-mobile.jpg",
+      "category": 0,
+      "heroId": 7,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008"
+      ],
+      "issue": "imageConflict",
+      "row": 198,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "category": 0,
+      "heroId": 7,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502"
+      ],
+      "issue": "imageConflict",
+      "row": 199,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcjuloLr-mL1Km4QWqTiKxxYg35YjVYdo9PqP1yUaitFVNRFXDleCOz3bs79gMTOPPfeTqEQI-SNs-gxpiu2Jl17xQWM13VHp6COMV0rSCqHwbQsPSRU6agAfGD75TvpZkRFp4Gz6qOHFm/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJnFiy3oMRA2M9xgRlhBqk3x4xU4RqqUgJqJCdI7PiWnvgvPZsDpIuVlswq75Em4Pwubw-rXm7eBNep5AdDgXQnEUlV8i_29QBdiMrdbydRzyaBlFe8eCCJMgOb4xFUKe28cwtppTTn5Ma/s1920/alucard-lightborn-striker-skin-mobile-legends-wallpaper-hd-mobile.jpg",
+      "category": 0,
+      "heroId": 7,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008"
+      ],
+      "issue": "imageConflict",
+      "row": 201,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCLc3uf9Aju-1bs9Q22leLPwTJUXyL2ej46CLDYRc22kqlmmCq0Q7ATnbXih9eIIKZKqdt8g9DwR3DxJk9Iq5ghuDRy2162D4d4u5Zz7UsoT-A8lU_HPevidHV38-WLAJhSDwyKtbxM2bmM3qnPL2QOjPMTWbPae9d8CzU2UiFMNYjzYa6t9pyS-km7gLd/s3840/angela-starlight-annual-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwvqGprGXQYuyRlvnwujcGjdPI2aVfuTYFmXyLOZFFU6gceewf6FLVnSktJAxmwxcK6vPqDlLFJTTF4ZfW6fFAHO_cLMUomUsBLMXL7myCfLDJLVBsU3KOIS9H3DK4VEw98CCOUTuO8Ng71meJpqpd8lUwGbixNo0-kKM9S4SMH2XToFafa8_1O9Kf8i9e/s1463/angela-avatar-of-time-starlight-skin-wallpaper.jpg",
+      "category": 0,
+      "heroId": 55,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Angela_%28Avatar_of_Time%29.jpg/revision/latest?cb=20231029205621",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Angela_%28Avatar_of_Time%29.jpg/revision/latest?cb=20231029205621"
+      ],
+      "issue": "imageConflict",
+      "row": 222,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCLc3uf9Aju-1bs9Q22leLPwTJUXyL2ej46CLDYRc22kqlmmCq0Q7ATnbXih9eIIKZKqdt8g9DwR3DxJk9Iq5ghuDRy2162D4d4u5Zz7UsoT-A8lU_HPevidHV38-WLAJhSDwyKtbxM2bmM3qnPL2QOjPMTWbPae9d8CzU2UiFMNYjzYa6t9pyS-km7gLd/s3840/angela-starlight-annual-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwvqGprGXQYuyRlvnwujcGjdPI2aVfuTYFmXyLOZFFU6gceewf6FLVnSktJAxmwxcK6vPqDlLFJTTF4ZfW6fFAHO_cLMUomUsBLMXL7myCfLDJLVBsU3KOIS9H3DK4VEw98CCOUTuO8Ng71meJpqpd8lUwGbixNo0-kKM9S4SMH2XToFafa8_1O9Kf8i9e/s1463/angela-avatar-of-time-starlight-skin-wallpaper.jpg",
+      "category": 0,
+      "heroId": 55,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Angela_%28Avatar_of_Time%29.jpg/revision/latest?cb=20231029205621",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Angela_%28Avatar_of_Time%29.jpg/revision/latest?cb=20231029205621"
+      ],
+      "issue": "imageConflict",
+      "row": 225,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCLc3uf9Aju-1bs9Q22leLPwTJUXyL2ej46CLDYRc22kqlmmCq0Q7ATnbXih9eIIKZKqdt8g9DwR3DxJk9Iq5ghuDRy2162D4d4u5Zz7UsoT-A8lU_HPevidHV38-WLAJhSDwyKtbxM2bmM3qnPL2QOjPMTWbPae9d8CzU2UiFMNYjzYa6t9pyS-km7gLd/s3840/angela-starlight-annual-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwvqGprGXQYuyRlvnwujcGjdPI2aVfuTYFmXyLOZFFU6gceewf6FLVnSktJAxmwxcK6vPqDlLFJTTF4ZfW6fFAHO_cLMUomUsBLMXL7myCfLDJLVBsU3KOIS9H3DK4VEw98CCOUTuO8Ng71meJpqpd8lUwGbixNo0-kKM9S4SMH2XToFafa8_1O9Kf8i9e/s1463/angela-avatar-of-time-starlight-skin-wallpaper.jpg",
+      "category": 0,
+      "heroId": 55,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Angela_%28Avatar_of_Time%29.jpg/revision/latest?cb=20231029205621",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Angela_%28Avatar_of_Time%29.jpg/revision/latest?cb=20231029205621"
+      ],
+      "issue": "imageConflict",
+      "row": 229,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCLc3uf9Aju-1bs9Q22leLPwTJUXyL2ej46CLDYRc22kqlmmCq0Q7ATnbXih9eIIKZKqdt8g9DwR3DxJk9Iq5ghuDRy2162D4d4u5Zz7UsoT-A8lU_HPevidHV38-WLAJhSDwyKtbxM2bmM3qnPL2QOjPMTWbPae9d8CzU2UiFMNYjzYa6t9pyS-km7gLd/s3840/angela-starlight-annual-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwvqGprGXQYuyRlvnwujcGjdPI2aVfuTYFmXyLOZFFU6gceewf6FLVnSktJAxmwxcK6vPqDlLFJTTF4ZfW6fFAHO_cLMUomUsBLMXL7myCfLDJLVBsU3KOIS9H3DK4VEw98CCOUTuO8Ng71meJpqpd8lUwGbixNo0-kKM9S4SMH2XToFafa8_1O9Kf8i9e/s1463/angela-avatar-of-time-starlight-skin-wallpaper.jpg",
+      "category": 0,
+      "heroId": 55,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Angela_%28Avatar_of_Time%29.jpg/revision/latest?cb=20231029205621",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Angela_%28Avatar_of_Time%29.jpg/revision/latest?cb=20231029205621"
+      ],
+      "issue": "imageConflict",
+      "row": 231,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "category": 0,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514",
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514"
+      ],
+      "issue": "imageConflict",
+      "row": 254,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "category": 0,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514",
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514"
+      ],
+      "issue": "imageConflict",
+      "row": 257,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "category": 0,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514",
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514"
+      ],
+      "issue": "imageConflict",
+      "row": 259,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "category": 0,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514",
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514"
+      ],
+      "issue": "imageConflict",
+      "row": 261,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20GUIN.png",
+      "category": 0,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514",
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514"
+      ],
+      "issue": "imageConflict",
+      "row": 264,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20GATOT%20LUCKYBOX%20NEW.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20GATOT%20LUCKYBOX%20NEW.jpg",
+      "category": 0,
+      "heroId": 41,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gatotkaca_%28Sentinel%29.jpg/revision/latest?cb=20241201052613",
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gatotkaca_%28Sentinel%29.jpg/revision/latest?cb=20241201052613"
+      ],
+      "issue": "imageConflict",
+      "row": 509,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
+      "category": 0,
+      "heroId": 73,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Harith_%28Killua%29.jpg/revision/latest?cb=20241208031717",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Harith_%28Killua%29.jpg/revision/latest?cb=20241208031717"
+      ],
+      "issue": "imageConflict",
+      "row": 520,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEcw1CpLoSB5nO4oKzpFovxF39CrVStUZIue-1OqVxtwrz2r_sZo3yijsYln8Y6x_H9swEqffIkW3kEjIlxZ5PnWOZjCQe8xvpQ4Ovj4K5Zw7vJR8D7NCKaExT4jjIun0a42PkpRmYDnP32YmmVY0p4--eZbzvCLOG2DSDg1lWjFRi9CenJzJfy6rsjw/s3900/aamon-cyber-assassin-starlight-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcUbv_m73apdS7jI3TIDejwv6XclzZsKFteLfBBLOkAHZpgfWf66paVgtwe45ajdHUoYGJh4rkmOcURnIHWM3gSogaW2zQLWR5kzBU3bU5AcO7vaj1ZMGNV_RjHgfKQN5M0PdNszDz3-F-yfzZZ0tySaof22-56Ut6Yi-_buAG2_OZf9xvuBc__0JFA/s1920/aamon-cyber-assassin-starlight-skin-wallpaper-hd.jpg",
+      "category": 0,
+      "heroId": 109,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Aamon_%28Cyber_Assassin%29.jpg/revision/latest?cb=20230825080854",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Aamon_%28Cyber_Assassin%29.jpg/revision/latest?cb=20230825080854"
+      ],
+      "issue": "imageConflict",
+      "row": 522,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnKzOXzW1iir10K-CA4bc0AStwSuXROztKptCSDgLz5mYJkbXiIR6rtmRbzUBSKt-6ABOJprAmorzaPiBqkmKuFzgPB2GDGzeLjBLVe8vjJUR92qybRrLdnjKusmfWoaI1tkjWSvuPOmEGkiQSWlGdUM9M_1cKarHFix8F73cKJNftGbijy2tV5jHWc5Po/s1780/aamon-vessel-of-deceit-soul-vessel-skin-wallpaper-hd.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7n2S-Ou3D7hqvDHHJ2MCnTbxtvIK2c0ri0wYbO6xuIgJ4tSTHGbMmKzWltWBsoDc1NGyb5ZDJ67xSeOjIlIU7eoQ5ig_fmfcRLEP9Hh98qzN62ZBz_VMDFwURyJsro446jw4irAKp2I6X_mtsbk2WUxt0Xuhr3XqtdnUajh-b1xoa-qBDcGm6mTtnW5un/s1560/aamon-vessel-of-deceit-soul-vessel-skin-wallpaper.png",
+      "category": 0,
+      "heroId": 109,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Aamon_%28Vessel_Of_Deceit%29.jpg/revision/latest?cb=20240725101441",
+        "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Aamon_%28Vessel_Of_Deceit%29.jpg/revision/latest?cb=20240725101441"
+      ],
+      "issue": "imageConflict",
+      "row": 523,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEcw1CpLoSB5nO4oKzpFovxF39CrVStUZIue-1OqVxtwrz2r_sZo3yijsYln8Y6x_H9swEqffIkW3kEjIlxZ5PnWOZjCQe8xvpQ4Ovj4K5Zw7vJR8D7NCKaExT4jjIun0a42PkpRmYDnP32YmmVY0p4--eZbzvCLOG2DSDg1lWjFRi9CenJzJfy6rsjw/s3900/aamon-cyber-assassin-starlight-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcUbv_m73apdS7jI3TIDejwv6XclzZsKFteLfBBLOkAHZpgfWf66paVgtwe45ajdHUoYGJh4rkmOcURnIHWM3gSogaW2zQLWR5kzBU3bU5AcO7vaj1ZMGNV_RjHgfKQN5M0PdNszDz3-F-yfzZZ0tySaof22-56Ut6Yi-_buAG2_OZf9xvuBc__0JFA/s1920/aamon-cyber-assassin-starlight-skin-wallpaper-hd.jpg",
+      "category": 0,
+      "heroId": 109,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Aamon_%28Cyber_Assassin%29.jpg/revision/latest?cb=20230825080854",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Aamon_%28Cyber_Assassin%29.jpg/revision/latest?cb=20230825080854"
+      ],
+      "issue": "imageConflict",
+      "row": 524,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdC5BwcWSnUMAzv5jpVfGIbPCdMO2lEWQZIuDFMlqY8KWkLlkh1BOU93x1IO92wqsiw3GAy79kbfeNhy6L4ah_S0tXpIXTtsARP8VDDN9XWrhcExCGlcfWrp0DgvTKyxiFKs8MmD1M4fKT/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyMVBDIkxE_bUtRp14H9Pb5jfP1gO1zy2DRN2jS24PgMpIzUWLCl-GT_B_qhhKIOSQBwJpF2MbErUBPyfaBeM5lGjRbJaIzxmEyydbhrqT-h-tqmqssm2PU9oCPOsGXblT5dQKzHioe-9/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755",
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755"
+      ],
+      "issue": "imageConflict",
+      "row": 529,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5aOSK0ef6cZCwc_pIRz0kdfC3qOyRTK_0aJDiH14KMrExGFq2EUDlOJ6khwYiKYmjkB01d1cIcV5UkX9hWa1BabKqOMn5qPXXGkP09TfA1ogG-fwLUKpWEnKzExWKZGIKGgl8LheQG62OW9-JM5UesZLfmWy8trLZD9p3M-Hi7uBPOvTPA3Tabzy3T_wC/s3840/aldous-mistbenders-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pA3lWPJMrrqT-k0MUZCC3RGji9KK1bAg_5v8hnNcPpXrWlc5lIYxOTmKo97xXi5tI4BFHhjl931u1oBfT-BMqX8QEMqeYgGfVt-_ye9BhsmiBb3dC5GvqKpi2imim3JKX0TmR90ANelDSBrhQe29nx7yvE16zZElCnURsc6j_7GByiIAdlgRBT89r-FK/s1240/aldous-mistbenders-skin-wallpaper.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Aldous_%28Mistbender_Aldous%29.jpg/revision/latest?cb=20240322094705",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Aldous_%28Mistbender_Aldous%29.jpg/revision/latest?cb=20240322094705"
+      ],
+      "issue": "imageConflict",
+      "row": 530,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdC5BwcWSnUMAzv5jpVfGIbPCdMO2lEWQZIuDFMlqY8KWkLlkh1BOU93x1IO92wqsiw3GAy79kbfeNhy6L4ah_S0tXpIXTtsARP8VDDN9XWrhcExCGlcfWrp0DgvTKyxiFKs8MmD1M4fKT/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyMVBDIkxE_bUtRp14H9Pb5jfP1gO1zy2DRN2jS24PgMpIzUWLCl-GT_B_qhhKIOSQBwJpF2MbErUBPyfaBeM5lGjRbJaIzxmEyydbhrqT-h-tqmqssm2PU9oCPOsGXblT5dQKzHioe-9/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755",
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755"
+      ],
+      "issue": "imageConflict",
+      "row": 533,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5aOSK0ef6cZCwc_pIRz0kdfC3qOyRTK_0aJDiH14KMrExGFq2EUDlOJ6khwYiKYmjkB01d1cIcV5UkX9hWa1BabKqOMn5qPXXGkP09TfA1ogG-fwLUKpWEnKzExWKZGIKGgl8LheQG62OW9-JM5UesZLfmWy8trLZD9p3M-Hi7uBPOvTPA3Tabzy3T_wC/s3840/aldous-mistbenders-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pA3lWPJMrrqT-k0MUZCC3RGji9KK1bAg_5v8hnNcPpXrWlc5lIYxOTmKo97xXi5tI4BFHhjl931u1oBfT-BMqX8QEMqeYgGfVt-_ye9BhsmiBb3dC5GvqKpi2imim3JKX0TmR90ANelDSBrhQe29nx7yvE16zZElCnURsc6j_7GByiIAdlgRBT89r-FK/s1240/aldous-mistbenders-skin-wallpaper.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Aldous_%28Mistbender_Aldous%29.jpg/revision/latest?cb=20240322094705",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Aldous_%28Mistbender_Aldous%29.jpg/revision/latest?cb=20240322094705"
+      ],
+      "issue": "imageConflict",
+      "row": 534,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdC5BwcWSnUMAzv5jpVfGIbPCdMO2lEWQZIuDFMlqY8KWkLlkh1BOU93x1IO92wqsiw3GAy79kbfeNhy6L4ah_S0tXpIXTtsARP8VDDN9XWrhcExCGlcfWrp0DgvTKyxiFKs8MmD1M4fKT/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyMVBDIkxE_bUtRp14H9Pb5jfP1gO1zy2DRN2jS24PgMpIzUWLCl-GT_B_qhhKIOSQBwJpF2MbErUBPyfaBeM5lGjRbJaIzxmEyydbhrqT-h-tqmqssm2PU9oCPOsGXblT5dQKzHioe-9/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755",
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755"
+      ],
+      "issue": "imageConflict",
+      "row": 537,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5aOSK0ef6cZCwc_pIRz0kdfC3qOyRTK_0aJDiH14KMrExGFq2EUDlOJ6khwYiKYmjkB01d1cIcV5UkX9hWa1BabKqOMn5qPXXGkP09TfA1ogG-fwLUKpWEnKzExWKZGIKGgl8LheQG62OW9-JM5UesZLfmWy8trLZD9p3M-Hi7uBPOvTPA3Tabzy3T_wC/s3840/aldous-mistbenders-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pA3lWPJMrrqT-k0MUZCC3RGji9KK1bAg_5v8hnNcPpXrWlc5lIYxOTmKo97xXi5tI4BFHhjl931u1oBfT-BMqX8QEMqeYgGfVt-_ye9BhsmiBb3dC5GvqKpi2imim3JKX0TmR90ANelDSBrhQe29nx7yvE16zZElCnURsc6j_7GByiIAdlgRBT89r-FK/s1240/aldous-mistbenders-skin-wallpaper.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Aldous_%28Mistbender_Aldous%29.jpg/revision/latest?cb=20240322094705",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Aldous_%28Mistbender_Aldous%29.jpg/revision/latest?cb=20240322094705"
+      ],
+      "issue": "imageConflict",
+      "row": 538,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdC5BwcWSnUMAzv5jpVfGIbPCdMO2lEWQZIuDFMlqY8KWkLlkh1BOU93x1IO92wqsiw3GAy79kbfeNhy6L4ah_S0tXpIXTtsARP8VDDN9XWrhcExCGlcfWrp0DgvTKyxiFKs8MmD1M4fKT/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyMVBDIkxE_bUtRp14H9Pb5jfP1gO1zy2DRN2jS24PgMpIzUWLCl-GT_B_qhhKIOSQBwJpF2MbErUBPyfaBeM5lGjRbJaIzxmEyydbhrqT-h-tqmqssm2PU9oCPOsGXblT5dQKzHioe-9/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755",
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755"
+      ],
+      "issue": "imageConflict",
+      "row": 541,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5aOSK0ef6cZCwc_pIRz0kdfC3qOyRTK_0aJDiH14KMrExGFq2EUDlOJ6khwYiKYmjkB01d1cIcV5UkX9hWa1BabKqOMn5qPXXGkP09TfA1ogG-fwLUKpWEnKzExWKZGIKGgl8LheQG62OW9-JM5UesZLfmWy8trLZD9p3M-Hi7uBPOvTPA3Tabzy3T_wC/s3840/aldous-mistbenders-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pA3lWPJMrrqT-k0MUZCC3RGji9KK1bAg_5v8hnNcPpXrWlc5lIYxOTmKo97xXi5tI4BFHhjl931u1oBfT-BMqX8QEMqeYgGfVt-_ye9BhsmiBb3dC5GvqKpi2imim3JKX0TmR90ANelDSBrhQe29nx7yvE16zZElCnURsc6j_7GByiIAdlgRBT89r-FK/s1240/aldous-mistbenders-skin-wallpaper.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Aldous_%28Mistbender_Aldous%29.jpg/revision/latest?cb=20240322094705",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Aldous_%28Mistbender_Aldous%29.jpg/revision/latest?cb=20240322094705"
+      ],
+      "issue": "imageConflict",
+      "row": 542,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdC5BwcWSnUMAzv5jpVfGIbPCdMO2lEWQZIuDFMlqY8KWkLlkh1BOU93x1IO92wqsiw3GAy79kbfeNhy6L4ah_S0tXpIXTtsARP8VDDN9XWrhcExCGlcfWrp0DgvTKyxiFKs8MmD1M4fKT/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyMVBDIkxE_bUtRp14H9Pb5jfP1gO1zy2DRN2jS24PgMpIzUWLCl-GT_B_qhhKIOSQBwJpF2MbErUBPyfaBeM5lGjRbJaIzxmEyydbhrqT-h-tqmqssm2PU9oCPOsGXblT5dQKzHioe-9/s1920/aldous-realm-watcher-collector-skin-mobile-legends-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 64,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755",
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest?cb=20211214153755"
+      ],
+      "issue": "imageConflict",
+      "row": 543,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgAf12gmZuyXGEfetauv0yh00j92DJ2dJm5c1PdeIfn4qc0qs6PLrZpQZqYQvuTERyxT9d6aMg4LVxstGUb8a-HzOKcZNsL1LwE_MynDAq-5nCT-Lt25lPUBRwo4gl8PfRaN42jgJiWg7fMI0ce6xC6ZD4nW4oLkmnSN4qF3ixQfZENQaKxniRtzNhnVw=s1080",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEjbm-lb3tG9AwJ4Oy6OEBVVFURd7pY9uY97QXeRAy3xJm6wyMJxeIgoQg1RDmb-c1CmC_1-mkYrekDg-OLxmVZId32LG9emDBnfyBJYqumJ3w7eBeVvEVNGrFZfIpuEJJEdfsAgb4NXZGYLsCgSiIDk5ngxqRB1Rfq25uS8VzsUkSalPw1DtT8g9iZEpA=s607",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Alpha_%28Onimusha_Commander%29.jpg/revision/latest?cb=20220322122516",
+        "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Alpha_%28Onimusha_Commander%29.jpg/revision/latest?cb=20220322122516"
+      ],
+      "issue": "imageConflict",
+      "row": 544,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpGqrg8gFToXDtixxYLSor0Qup-Kshoe6zbHKxH1a3p-CWSwjbNsHfVzj4QzOdJ1xwQ8K1kJR19g_u_hDTHuPq09KhWv8bykE80_QeuxuFX1TS_btAiTOC7506WXVUitKR2yqV3zTCu_P/s1280/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiiBBR12fUJrQIsQCDXcqDB41NN9L2o5jdKKYpKaty3sDGtWHDKLFXBjZiAH9Ry46rdo4AhagqSrFWZBbE-e-7FU_-8bNtw7kbcf-zhF_8vc1lRC0d3ICgKgSX-tdxIPjECQAH9FuMIG66/s2048/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd-phone.jpg",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Alpha_%28General_Void%29.jpg/revision/latest?cb=20220621070946",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Alpha_%28General_Void%29.jpg/revision/latest?cb=20220621070946"
+      ],
+      "issue": "imageConflict",
+      "row": 545,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ68Ag7J8KIy9Y2DUqAj5A-q6uFg6eGr5PpJ-OnXysWCDKNcyL-Mge1uHyfiFr_IsGIxBWYiaoI8yMtGWQXvXT6Cp9ubg77avc5xVTNak11zpmVZeklvU4HSsDaI5xga5y7iUnQRgKGtX-n0rvQBfRGzfiaa-z5mKdv1fyFZYjdltScPzGesC2cxOqJ3rz/s1760/alpha-star-enforcer-starlight-skin-wallpaper.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEpRISF765ix6mXC3f8CGAfyJpSbTxfhYU_VIou5VwIx8Qg4eKHYG3uef7xBCanOkvlylWgors3mdY_H1-xdRcLAOsobH4Gp3lWR2ETiEKdajDpa5ZrnmlDdRO6yW4IzPTkKRD5PBfvxzvc34WAkgWmil8PQmW828LKEHd_DUMcRJbdSQXa1JfcBuHHnj3/s3124/alpha-star-enforcer-starlight-skin-wallpaper-hd.jpg",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Alpha_%28Star_Enforcer%29.jpg/revision/latest?cb=20230902074504",
+        "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Alpha_%28Star_Enforcer%29.jpg/revision/latest?cb=20230902074504"
+      ],
+      "issue": "imageConflict",
+      "row": 546,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpGqrg8gFToXDtixxYLSor0Qup-Kshoe6zbHKxH1a3p-CWSwjbNsHfVzj4QzOdJ1xwQ8K1kJR19g_u_hDTHuPq09KhWv8bykE80_QeuxuFX1TS_btAiTOC7506WXVUitKR2yqV3zTCu_P/s1280/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiiBBR12fUJrQIsQCDXcqDB41NN9L2o5jdKKYpKaty3sDGtWHDKLFXBjZiAH9Ry46rdo4AhagqSrFWZBbE-e-7FU_-8bNtw7kbcf-zhF_8vc1lRC0d3ICgKgSX-tdxIPjECQAH9FuMIG66/s2048/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd-phone.jpg",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Alpha_%28General_Void%29.jpg/revision/latest?cb=20220621070946",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Alpha_%28General_Void%29.jpg/revision/latest?cb=20220621070946"
+      ],
+      "issue": "imageConflict",
+      "row": 548,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpGqrg8gFToXDtixxYLSor0Qup-Kshoe6zbHKxH1a3p-CWSwjbNsHfVzj4QzOdJ1xwQ8K1kJR19g_u_hDTHuPq09KhWv8bykE80_QeuxuFX1TS_btAiTOC7506WXVUitKR2yqV3zTCu_P/s1280/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd.png",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiiBBR12fUJrQIsQCDXcqDB41NN9L2o5jdKKYpKaty3sDGtWHDKLFXBjZiAH9Ry46rdo4AhagqSrFWZBbE-e-7FU_-8bNtw7kbcf-zhF_8vc1lRC0d3ICgKgSX-tdxIPjECQAH9FuMIG66/s2048/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd-phone.jpg",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Alpha_%28General_Void%29.jpg/revision/latest?cb=20220621070946",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Alpha_%28General_Void%29.jpg/revision/latest?cb=20220621070946"
+      ],
+      "issue": "imageConflict",
+      "row": 550,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1IbIGAROcYlVqTXK3fdU6Vk7CewOKt_uboNNsPDWKtOLyy1Kh8-WFkAlb3KY12B_IYA-q2C5hdHJ3j0p5mflpg_tlRBklM0s1Pj31Og_ZOPY5heWcaXrY2ickskkz-V8ti5awU6vlpMN/s1920/argus-dark-draconic-starlight-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0oQ6w58GNto3yIm7Tf6pM4a5j2vihEn7HXwNbIWRJU4FG4wxWhNbEIyb_i-nf6OOwERlkKzwoZz12ff0KL0fCOeE__Xw9q8a42nyywTx1W0JKfqgLis7mfkQJa5n9Lb3KA3Bsu618CaB6/s1920/argus-dark-draconic-starlight-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 45,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Argus_%28Dark_Draconic%29.jpg/revision/latest?cb=20240311143124",
+        "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Argus_%28Dark_Draconic%29.jpg/revision/latest?cb=20240311143124"
+      ],
+      "issue": "imageConflict",
+      "row": 552,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpzDjHmjYVvDngjyW3m8L-S5W1n-G4vkHaTYelKFGrYjUH3EapBG183DpiT-47RdLNg1wgM6zFyMqjmcpyOkckVOKoouvqlstzcw9hojsRnHdX6Zey1rrdWmENRcItI9UdGfYmazkfwuH/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWXg2nOnHTZM5mHEh9eizJtUqgXgIEPY9MyoCu8YPUIAC6Qh7E8BZZDPe-a61Aa3vg-XzY5jYmVLBT81OYwpcrGfbv9yzzhvbp3bFsaB9nae_10N4HGOmvXW59PsXRrfMKDMbTArHBIb3n/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 45,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Argus_%28Darth_Vader%29.jpg/revision/latest?cb=20211209065727",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Argus_%28Darth_Vader%29.jpg/revision/latest?cb=20211209065727"
+      ],
+      "issue": "imageConflict",
+      "row": 553,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpzDjHmjYVvDngjyW3m8L-S5W1n-G4vkHaTYelKFGrYjUH3EapBG183DpiT-47RdLNg1wgM6zFyMqjmcpyOkckVOKoouvqlstzcw9hojsRnHdX6Zey1rrdWmENRcItI9UdGfYmazkfwuH/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWXg2nOnHTZM5mHEh9eizJtUqgXgIEPY9MyoCu8YPUIAC6Qh7E8BZZDPe-a61Aa3vg-XzY5jYmVLBT81OYwpcrGfbv9yzzhvbp3bFsaB9nae_10N4HGOmvXW59PsXRrfMKDMbTArHBIb3n/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 45,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Argus_%28Darth_Vader%29.jpg/revision/latest?cb=20211209065727",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Argus_%28Darth_Vader%29.jpg/revision/latest?cb=20211209065727"
+      ],
+      "issue": "imageConflict",
+      "row": 554,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpzDjHmjYVvDngjyW3m8L-S5W1n-G4vkHaTYelKFGrYjUH3EapBG183DpiT-47RdLNg1wgM6zFyMqjmcpyOkckVOKoouvqlstzcw9hojsRnHdX6Zey1rrdWmENRcItI9UdGfYmazkfwuH/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWXg2nOnHTZM5mHEh9eizJtUqgXgIEPY9MyoCu8YPUIAC6Qh7E8BZZDPe-a61Aa3vg-XzY5jYmVLBT81OYwpcrGfbv9yzzhvbp3bFsaB9nae_10N4HGOmvXW59PsXRrfMKDMbTArHBIb3n/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 45,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Argus_%28Darth_Vader%29.jpg/revision/latest?cb=20211209065727",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Argus_%28Darth_Vader%29.jpg/revision/latest?cb=20211209065727"
+      ],
+      "issue": "imageConflict",
+      "row": 555,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpzDjHmjYVvDngjyW3m8L-S5W1n-G4vkHaTYelKFGrYjUH3EapBG183DpiT-47RdLNg1wgM6zFyMqjmcpyOkckVOKoouvqlstzcw9hojsRnHdX6Zey1rrdWmENRcItI9UdGfYmazkfwuH/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWXg2nOnHTZM5mHEh9eizJtUqgXgIEPY9MyoCu8YPUIAC6Qh7E8BZZDPe-a61Aa3vg-XzY5jYmVLBT81OYwpcrGfbv9yzzhvbp3bFsaB9nae_10N4HGOmvXW59PsXRrfMKDMbTArHBIb3n/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "category": 0,
+      "heroId": 45,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Argus_%28Darth_Vader%29.jpg/revision/latest?cb=20211209065727",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Argus_%28Darth_Vader%29.jpg/revision/latest?cb=20211209065727"
+      ],
+      "issue": "imageConflict",
+      "row": 556,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
+      "category": 0,
+      "heroId": 85,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Dyrroth_%28Orochi_Chris%29.jpg/revision/latest?cb=20200427090551",
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Dyrroth_%28Orochi_Chris%29.jpg/revision/latest?cb=20200427090551"
+      ],
+      "issue": "imageConflict",
+      "row": 568,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
+      "category": 0,
+      "heroId": 85,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Dyrroth_%28Orochi_Chris%29.jpg/revision/latest?cb=20200427090551",
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Dyrroth_%28Orochi_Chris%29.jpg/revision/latest?cb=20200427090551"
+      ],
+      "issue": "imageConflict",
+      "row": 572,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
+      "category": 0,
+      "heroId": 85,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Dyrroth_%28Orochi_Chris%29.jpg/revision/latest?cb=20200427090551",
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Dyrroth_%28Orochi_Chris%29.jpg/revision/latest?cb=20200427090551"
+      ],
+      "issue": "imageConflict",
+      "row": 575,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "category": 0,
+      "heroId": 44,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Codename_-_Rhino_wall.jpg/revision/latest?cb=20200513053150",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Codename_-_Rhino_wall.jpg/revision/latest?cb=20200513053150"
+      ],
+      "issue": "imageConflict",
+      "row": 586,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "category": 0,
+      "heroId": 44,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Codename_-_Rhino_wall.jpg/revision/latest?cb=20200513053150",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Codename_-_Rhino_wall.jpg/revision/latest?cb=20200513053150"
+      ],
+      "issue": "imageConflict",
+      "row": 588,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "category": 0,
+      "heroId": 44,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Codename_-_Rhino_wall.jpg/revision/latest?cb=20200513053150",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Codename_-_Rhino_wall.jpg/revision/latest?cb=20200513053150"
+      ],
+      "issue": "imageConflict",
+      "row": 589,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Grock_%28Codename_Rhino%29.jpg/revision/latest?cb=20200513053150",
+      "category": 0,
+      "heroId": 44,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Codename_-_Rhino_wall.jpg/revision/latest?cb=20200513053150",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Codename_-_Rhino_wall.jpg/revision/latest?cb=20200513053150"
+      ],
+      "issue": "imageConflict",
+      "row": 590,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Kadita_%28Heart_Of_The_Sea%29.jpg/revision/latest?cb=20240620040624",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Kadita_%28Heart_Of_The_Sea%29.jpg/revision/latest?cb=20240620040624",
+      "category": 0,
+      "heroId": 75,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Kadita_%28Heart_of_the_Sea%29.jpg/revision/latest?cb=20240620040624",
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Kadita_%28Heart_of_the_Sea%29.jpg/revision/latest?cb=20240620040624"
+      ],
+      "issue": "imageConflict",
+      "row": 601,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "category": 0,
+      "heroId": 67,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Leomord_%28Diavel_V4_Rider%29.jpg/revision/latest?cb=20240904133134",
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Leomord_%28Diavel_V4_Rider%29.jpg/revision/latest?cb=20240904133134"
+      ],
+      "issue": "imageConflict",
+      "row": 614,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "category": 0,
+      "heroId": 67,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Leomord_%28Diavel_V4_Rider%29.jpg/revision/latest?cb=20240904133134",
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Leomord_%28Diavel_V4_Rider%29.jpg/revision/latest?cb=20240904133134"
+      ],
+      "issue": "imageConflict",
+      "row": 617,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "category": 0,
+      "heroId": 67,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Leomord_%28Diavel_V4_Rider%29.jpg/revision/latest?cb=20240904133134",
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Leomord_%28Diavel_V4_Rider%29.jpg/revision/latest?cb=20240904133134"
+      ],
+      "issue": "imageConflict",
+      "row": 618,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/F2%20Leomord%20Ducati.jpg",
+      "category": 0,
+      "heroId": 67,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Leomord_%28Diavel_V4_Rider%29.jpg/revision/latest?cb=20240904133134",
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Leomord_%28Diavel_V4_Rider%29.jpg/revision/latest?cb=20240904133134"
+      ],
+      "issue": "imageConflict",
+      "row": 620,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_043623.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_043623.jpg",
+      "category": 0,
+      "heroId": 3,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Saber_%28Onimaru%29.jpg/revision/latest?cb=20240904135250",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Saber_%28Onimaru%29.jpg/revision/latest?cb=20240904135250"
+      ],
+      "issue": "imageConflict",
+      "row": 652,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjn2RAAtFPIROyk8Ul2IaGD61a5-g3BraiVPR62bJdsMpdA3G5_is1r226kugCDjG-FI7HkiflMwIXtklY1eed5vBS4Mc8BMCccnNi51xUg_4lRK56c1MXFXEHZyHdBd0VXx3Irbq4vubGOYVZe_D9UIi8rQ4quT7hnttKtHfYdZ7GYQ9aTOAPKugD3xg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEi9fOkb_xPkV6v6Rc81f5i1Z5zk2d5u0gabx1uQmbSd3PmG56e0EW8TnxOsrqvradzmL8uiQLUEHXgh1Edvyf6kpZ-KsDlUA-5kChgnp6zAzY4J5R28zUSx-EXNSu1h0GZ2n6dWHCDx0ZIjbpN4vkGHNJ8etpYRI22rRxXrYIdXRvDLi8PLyYzkK5o3pA=s1080",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Lancelot_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202171924",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Lancelot_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202171924"
+      ],
+      "issue": "imageConflict",
+      "row": 685,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEir-aEExsMB_IIZ6ZmEPwByls6K3FKbhyB52aeDiZvvuW6VZ5M-FIOgxgdky3OXxEDKvkZMlxQGT7GuyZScNBJI_rpLJgu11XRxnfGlzgEdcCsXPWUdZPyWqqkFCYT4-cck0x9SWR46yYr39CtqtK3UQ7-0mEoMPwazkmz1OGOCCdLrMPzvKgTQf91_Xg=s1440",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEiB1FPd92s0pJ7x0a8b8HrmouMs8IwMYj2vcVqYADgoQJDbRqkR3_sxlFhSrhajGWa2kkT3qZ2Qvalf-bS2qw8S8axdejwvKeRAKTXyxwg630-2S27fM60ajbMyeATYCTqmaUq88FMKDBzPkjYmAruKU04RmocxxO556Iq7mOxJOTArRDs-XFmRK81cMg=s1843",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832"
+      ],
+      "issue": "imageConflict",
+      "row": 686,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lancelot_%28Guardian_of_the_Shrine%29.jpg/revision/latest?cb=20240725093807",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lancelot_%28Guardian_of_the_Shrine%29.jpg/revision/latest?cb=20240725093807",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162904.jpg",
+        "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162904.jpg"
+      ],
+      "issue": "imageConflict",
+      "row": 691,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEir-aEExsMB_IIZ6ZmEPwByls6K3FKbhyB52aeDiZvvuW6VZ5M-FIOgxgdky3OXxEDKvkZMlxQGT7GuyZScNBJI_rpLJgu11XRxnfGlzgEdcCsXPWUdZPyWqqkFCYT4-cck0x9SWR46yYr39CtqtK3UQ7-0mEoMPwazkmz1OGOCCdLrMPzvKgTQf91_Xg=s1440",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEiB1FPd92s0pJ7x0a8b8HrmouMs8IwMYj2vcVqYADgoQJDbRqkR3_sxlFhSrhajGWa2kkT3qZ2Qvalf-bS2qw8S8axdejwvKeRAKTXyxwg630-2S27fM60ajbMyeATYCTqmaUq88FMKDBzPkjYmAruKU04RmocxxO556Iq7mOxJOTArRDs-XFmRK81cMg=s1843",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832"
+      ],
+      "issue": "imageConflict",
+      "row": 695,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEir-aEExsMB_IIZ6ZmEPwByls6K3FKbhyB52aeDiZvvuW6VZ5M-FIOgxgdky3OXxEDKvkZMlxQGT7GuyZScNBJI_rpLJgu11XRxnfGlzgEdcCsXPWUdZPyWqqkFCYT4-cck0x9SWR46yYr39CtqtK3UQ7-0mEoMPwazkmz1OGOCCdLrMPzvKgTQf91_Xg=s1440",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEiB1FPd92s0pJ7x0a8b8HrmouMs8IwMYj2vcVqYADgoQJDbRqkR3_sxlFhSrhajGWa2kkT3qZ2Qvalf-bS2qw8S8axdejwvKeRAKTXyxwg630-2S27fM60ajbMyeATYCTqmaUq88FMKDBzPkjYmAruKU04RmocxxO556Iq7mOxJOTArRDs-XFmRK81cMg=s1843",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832"
+      ],
+      "issue": "imageConflict",
+      "row": 696,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEir-aEExsMB_IIZ6ZmEPwByls6K3FKbhyB52aeDiZvvuW6VZ5M-FIOgxgdky3OXxEDKvkZMlxQGT7GuyZScNBJI_rpLJgu11XRxnfGlzgEdcCsXPWUdZPyWqqkFCYT4-cck0x9SWR46yYr39CtqtK3UQ7-0mEoMPwazkmz1OGOCCdLrMPzvKgTQf91_Xg=s1440",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEiB1FPd92s0pJ7x0a8b8HrmouMs8IwMYj2vcVqYADgoQJDbRqkR3_sxlFhSrhajGWa2kkT3qZ2Qvalf-bS2qw8S8axdejwvKeRAKTXyxwg630-2S27fM60ajbMyeATYCTqmaUq88FMKDBzPkjYmAruKU04RmocxxO556Iq7mOxJOTArRDs-XFmRK81cMg=s1843",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832"
+      ],
+      "issue": "imageConflict",
+      "row": 700,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjn2RAAtFPIROyk8Ul2IaGD61a5-g3BraiVPR62bJdsMpdA3G5_is1r226kugCDjG-FI7HkiflMwIXtklY1eed5vBS4Mc8BMCccnNi51xUg_4lRK56c1MXFXEHZyHdBd0VXx3Irbq4vubGOYVZe_D9UIi8rQ4quT7hnttKtHfYdZ7GYQ9aTOAPKugD3xg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEi9fOkb_xPkV6v6Rc81f5i1Z5zk2d5u0gabx1uQmbSd3PmG56e0EW8TnxOsrqvradzmL8uiQLUEHXgh1Edvyf6kpZ-KsDlUA-5kChgnp6zAzY4J5R28zUSx-EXNSu1h0GZ2n6dWHCDx0ZIjbpN4vkGHNJ8etpYRI22rRxXrYIdXRvDLi8PLyYzkK5o3pA=s1080",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Lancelot_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202171924",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Lancelot_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202171924"
+      ],
+      "issue": "imageConflict",
+      "row": 704,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjn2RAAtFPIROyk8Ul2IaGD61a5-g3BraiVPR62bJdsMpdA3G5_is1r226kugCDjG-FI7HkiflMwIXtklY1eed5vBS4Mc8BMCccnNi51xUg_4lRK56c1MXFXEHZyHdBd0VXx3Irbq4vubGOYVZe_D9UIi8rQ4quT7hnttKtHfYdZ7GYQ9aTOAPKugD3xg=s1920",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEi9fOkb_xPkV6v6Rc81f5i1Z5zk2d5u0gabx1uQmbSd3PmG56e0EW8TnxOsrqvradzmL8uiQLUEHXgh1Edvyf6kpZ-KsDlUA-5kChgnp6zAzY4J5R28zUSx-EXNSu1h0GZ2n6dWHCDx0ZIjbpN4vkGHNJ8etpYRI22rRxXrYIdXRvDLi8PLyYzkK5o3pA=s1080",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Lancelot_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202171924",
+        "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Lancelot_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202171924"
+      ],
+      "issue": "imageConflict",
+      "row": 706,
+      "skinId": 1,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/a/AVvXsEir-aEExsMB_IIZ6ZmEPwByls6K3FKbhyB52aeDiZvvuW6VZ5M-FIOgxgdky3OXxEDKvkZMlxQGT7GuyZScNBJI_rpLJgu11XRxnfGlzgEdcCsXPWUdZPyWqqkFCYT4-cck0x9SWR46yYr39CtqtK3UQ7-0mEoMPwazkmz1OGOCCdLrMPzvKgTQf91_Xg=s1440",
+      "catalogPortrait": "https://blogger.googleusercontent.com/img/a/AVvXsEiB1FPd92s0pJ7x0a8b8HrmouMs8IwMYj2vcVqYADgoQJDbRqkR3_sxlFhSrhajGWa2kkT3qZ2Qvalf-bS2qw8S8axdejwvKeRAKTXyxwg630-2S27fM60ajbMyeATYCTqmaUq88FMKDBzPkjYmAruKU04RmocxxO556Iq7mOxJOTArRDs-XFmRK81cMg=s1843",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832",
+        "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Lancelot_%28Royal_Matador%29.jpg/revision/latest?cb=20211214135832"
+      ],
+      "issue": "imageConflict",
+      "row": 707,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lancelot_%28Guardian_of_the_Shrine%29.jpg/revision/latest?cb=20240725093807",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lancelot_%28Guardian_of_the_Shrine%29.jpg/revision/latest?cb=20240725093807",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162904.jpg",
+        "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162904.jpg"
+      ],
+      "issue": "imageConflict",
+      "row": 712,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20AURORA.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20AURORA.png",
+      "category": 0,
+      "heroId": 36,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Kula_Diamond_Wall.jpg/revision/latest?cb=20190819215545",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Kula_Diamond_Wall.jpg/revision/latest?cb=20190819215545"
+      ],
+      "issue": "imageConflict",
+      "row": 717,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/received_499796749582625.jpeg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/received_499796749582625.jpeg",
+      "category": 0,
+      "heroId": 25,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Kagura_%28Jade_Blossom%29.jpg/revision/latest?cb=20240904133126",
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Kagura_%28Jade_Blossom%29.jpg/revision/latest?cb=20240904133126"
+      ],
+      "issue": "imageConflict",
+      "row": 752,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Lunox_%28Butterfly_Seraphim%29.jpg/revision/latest?cb=20200427113956",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+      "category": 0,
+      "heroId": 68,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604",
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604"
+      ],
+      "issue": "imageConflict",
+      "row": 766,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Lunox_%28Butterfly_Seraphim%29.jpg/revision/latest?cb=20200427113956",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+      "category": 0,
+      "heroId": 68,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604",
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604"
+      ],
+      "issue": "imageConflict",
+      "row": 769,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Lunox_%28Butterfly_Seraphim%29.jpg/revision/latest?cb=20200427113956",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+      "category": 0,
+      "heroId": 68,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604",
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604"
+      ],
+      "issue": "imageConflict",
+      "row": 773,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Lunox_%28Butterfly_Seraphim%29.jpg/revision/latest?cb=20200427113956",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+      "category": 0,
+      "heroId": 68,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604",
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604"
+      ],
+      "issue": "imageConflict",
+      "row": 775,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Lunox_%28Butterfly_Seraphim%29.jpg/revision/latest?cb=20200427113956",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+      "category": 0,
+      "heroId": 68,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604",
+        "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Lunox_Butterfly_Seraphim.png/revision/latest?cb=20260202010604"
+      ],
+      "issue": "imageConflict",
+      "row": 777,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20ZHASK%20STAR.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20ZHASK%20STAR.jpg",
+      "category": 0,
+      "heroId": 50,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Zhask_%28Death%27s_Shadow%29.jpg/revision/latest?cb=20241008012226",
+        "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Zhask_%28Death%27s_Shadow%29.jpg/revision/latest?cb=20241008012226"
+      ],
+      "issue": "imageConflict",
+      "row": 835,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241211_000307.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241211_000307.jpg",
+      "category": 0,
+      "heroId": 14,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Rafaela_%28Bloom_of_Abundance%29.jpg/revision/latest?cb=20241208031708",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Rafaela_%28Bloom_of_Abundance%29.jpg/revision/latest?cb=20241208031708"
+      ],
+      "issue": "imageConflict",
+      "row": 859,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
+      "category": 0,
+      "heroId": 73,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Harith_%28Killua%29.jpg/revision/latest?cb=20241208031717",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Harith_%28Killua%29.jpg/revision/latest?cb=20241208031717"
+      ],
+      "issue": "imageConflict",
+      "row": 882,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
+      "category": 0,
+      "heroId": 73,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Harith_%28Killua%29.jpg/revision/latest?cb=20241208031717",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Harith_%28Killua%29.jpg/revision/latest?cb=20241208031717"
+      ],
+      "issue": "imageConflict",
+      "row": 883,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
+      "category": 0,
+      "heroId": 73,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Harith_%28Killua%29.jpg/revision/latest?cb=20241208031717",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Harith_%28Killua%29.jpg/revision/latest?cb=20241208031717"
+      ],
+      "issue": "imageConflict",
+      "row": 884,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Floryn_%28Melody_of_Light%29.jpg/revision/latest?cb=20250109163217",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Floryn_%28Melody_of_Light%29.jpg/revision/latest?cb=20250109163217",
+      "category": 0,
+      "heroId": 112,
+      "incomingImages": [
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Floryn%20Collector.jpg",
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Floryn%20Collector.jpg"
+      ],
+      "issue": "imageConflict",
+      "row": 890,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lancelot_%28Guardian_of_the_Shrine%29.jpg/revision/latest?cb=20240725093807",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lancelot_%28Guardian_of_the_Shrine%29.jpg/revision/latest?cb=20240725093807",
+      "category": 0,
+      "heroId": 47,
+      "incomingImages": [
+        "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162904.jpg",
+        "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162904.jpg"
+      ],
+      "issue": "imageConflict",
+      "row": 894,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Alpha_%28Revenant_of_Roses%29.jpg/revision/latest?cb=20250301020356",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Alpha_%28Revenant_of_Roses%29.jpg/revision/latest?cb=20250301020356",
+      "category": 0,
+      "heroId": 28,
+      "incomingImages": [
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20ALPHA%20LEGEND.jpg",
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20ALPHA%20LEGEND.jpg"
+      ],
+      "issue": "imageConflict",
+      "row": 903,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Gord%20Starlight.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Gord%20Starlight.jpg",
+      "category": 0,
+      "heroId": 23,
+      "incomingImages": [
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Starlight.jpg",
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Starlight.jpg"
+      ],
+      "issue": "imageConflict",
+      "row": 953,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Gord%20Starlight.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Gord%20Starlight.jpg",
+      "category": 0,
+      "heroId": 23,
+      "incomingImages": [
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Starlight.jpg",
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Starlight.jpg"
+      ],
+      "issue": "imageConflict",
+      "row": 954,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Gord%20Starlight.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Gord%20Starlight.jpg",
+      "category": 0,
+      "heroId": 23,
+      "incomingImages": [
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Starlight.jpg",
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Starlight.jpg"
+      ],
+      "issue": "imageConflict",
+      "row": 955,
+      "skinId": 5,
+      "source": "upgradeData"
+    },
+    {
+      "archive": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Miya_%28Nightowl_Huntress%29.jpg/revision/latest?cb=20250418053421",
+      "heroId": 1,
+      "issue": "invalidArchiveOmitted",
+      "kind": "upgrade",
+      "origin": "Upgrade Skin Data",
+      "row": 962,
+      "skinCategory": 0,
+      "skinId": 1,
+      "upgradeCategory": 0,
+      "upgradeId": 8
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Phoveus%20Starlight.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Phoveus%20Starlight.jpg",
+      "category": 0,
+      "heroId": 106,
+      "incomingImages": [
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Phoveus%20Starlight.jpg",
+        "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Phoveus%20Starlight.jpg"
+      ],
+      "issue": "imageConflict",
+      "row": 1045,
+      "skinId": 2,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "category": 0,
+      "heroId": 7,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502"
+      ],
+      "issue": "imageConflict",
+      "row": 1047,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "category": 0,
+      "heroId": 7,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502"
+      ],
+      "issue": "imageConflict",
+      "row": 1048,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Alucard%20Epic.jpg",
+      "category": 0,
+      "heroId": 7,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20230201105502"
+      ],
+      "issue": "imageConflict",
+      "row": 1049,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "archive": "n",
+      "heroId": 22,
+      "issue": "invalidArchiveOmitted",
+      "kind": "upgrade",
+      "origin": "Upgrade Skin Data",
+      "row": 1213,
+      "skinCategory": -1,
+      "skinId": 2,
+      "upgradeCategory": 0,
+      "upgradeId": 3
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Fredrinn%20Starlight.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Fredrinn%20Starlight.jpg",
+      "category": 0,
+      "heroId": 117,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Fredrinn_%28Royal_Marshal%29.jpg/revision/latest?cb=20251207060948",
+        "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Fredrinn_%28Royal_Marshal%29.jpg/revision/latest?cb=20251207060948"
+      ],
+      "issue": "imageConflict",
+      "row": 1261,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_748304437694899.jpeg",
+      "catalogPortrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_748304437694899.jpeg",
+      "category": 0,
+      "heroId": 121,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Ixia_%28Invoker%27s_Command%29.jpg/revision/latest?cb=20250819053100",
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Ixia_%28Invoker%27s_Command%29.jpg/revision/latest?cb=20250819053100"
+      ],
+      "issue": "imageConflict",
+      "row": 1264,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_748304437694899.jpeg",
+      "catalogPortrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_748304437694899.jpeg",
+      "category": 0,
+      "heroId": 121,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Ixia_%28Invoker%27s_Command%29.jpg/revision/latest?cb=20250819053100",
+        "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Ixia_%28Invoker%27s_Command%29.jpg/revision/latest?cb=20250819053100"
+      ],
+      "issue": "imageConflict",
+      "row": 1265,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "category": 0,
+      "heroId": 72,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Thamuz_%28The_Annihilator%29.jpg/revision/latest?cb=20240904133142",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Thamuz_%28The_Annihilator%29.jpg/revision/latest?cb=20240904133142"
+      ],
+      "issue": "imageConflict",
+      "row": 1286,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "category": 0,
+      "heroId": 72,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Thamuz_%28The_Annihilator%29.jpg/revision/latest?cb=20240904133142",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Thamuz_%28The_Annihilator%29.jpg/revision/latest?cb=20240904133142"
+      ],
+      "issue": "imageConflict",
+      "row": 1287,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "category": 0,
+      "heroId": 72,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Thamuz_%28The_Annihilator%29.jpg/revision/latest?cb=20240904133142",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Thamuz_%28The_Annihilator%29.jpg/revision/latest?cb=20240904133142"
+      ],
+      "issue": "imageConflict",
+      "row": 1288,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "category": 0,
+      "heroId": 72,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Thamuz_%28The_Annihilator%29.jpg/revision/latest?cb=20240904133142",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Thamuz_%28The_Annihilator%29.jpg/revision/latest?cb=20240904133142"
+      ],
+      "issue": "imageConflict",
+      "row": 1289,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214"
+      ],
+      "issue": "imageConflict",
+      "row": 1328,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGAsDgNlcz8gRmTV9QTTjsdtswApgDUL02KS2i6yT5Hj1Qg-h7gt-6ng9K02HB88VOBFxEa4hBQWjsGFyoPxQbbY7ee5yUQTFj9M_JgF-50_yV-cPnF4cLX6fjqUNYM5Xvm9vCeB_PO13/s1920/chou-thunderfist-hero-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046"
+      ],
+      "issue": "imageConflict",
+      "row": 1329,
+      "skinId": 6,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20CHOU.png",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024",
+        "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Chou_%28Iori_Yagami%29.jpg/revision/latest?cb=20230819020024"
+      ],
+      "issue": "imageConflict",
+      "row": 1332,
+      "skinId": 4,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVsUCG84gakuKmpO1X_bFxyEkgo5owNXjfXXPKIg8T8d0T4kOlshHTUZfZDuY0GilbpWhBdpwZGzRskZXcqhzOAhG9ygNjRNdnZmxFaeWa9GHxpiDKBptye2A7-c0yFU5VjkC9lOPiBg1/s1920/chou-stun-skin-mobile-legends-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101",
+        "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Chou_%28S.T.U.N._Chou%29.jpg/revision/latest?cb=20230819020101"
+      ],
+      "issue": "imageConflict",
+      "row": 1333,
+      "skinId": 7,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+      "category": 0,
+      "heroId": 26,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
+        "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214"
+      ],
+      "issue": "imageConflict",
+      "row": 1338,
+      "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Guinevere_%28Amethyst_Dance%29.jpg/revision/latest?cb=20200427090108",
+      "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Guinevere_%28Amethyst_Dance%29.jpg/revision/latest?cb=20200427090108",
+      "category": 0,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514",
+        "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Guinevere_%28Athena_Asamiya%29.jpg/revision/latest?cb=20200427085514"
+      ],
+      "issue": "imageConflict",
+      "row": 1343,
+      "skinId": 3,
+      "source": "upgradeData"
+    },
+    {
+      "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20M4%20Glory.gif",
+      "effectType": 5,
+      "issue": "invalidArchiveOmitted",
+      "kind": "battleEffect",
+      "name": "M4 Glory",
+      "row": 127
+    },
+    {
+      "archive": ".",
+      "issue": "invalidArchiveOmitted",
+      "kind": "preparationItem",
+      "name": "Seal of Anvil",
+      "preparationId": 4,
+      "preparationName": "M1 Glory 2019",
+      "preparationType": 1,
+      "row": 7
+    },
+    {
+      "archive": "kk",
+      "issue": "invalidArchiveOmitted",
+      "kind": "preparationItem",
+      "name": "Seal of Anvil",
+      "preparationId": 7,
+      "preparationName": "M2 Glory",
+      "preparationType": 1,
+      "row": 10
+    },
+    {
+      "archive": "kk",
+      "issue": "invalidArchiveOmitted",
+      "kind": "preparationItem",
+      "name": "Seal of Anvil",
+      "preparationId": 11,
+      "preparationName": "5th Anniversary",
+      "preparationType": 1,
+      "row": 14
+    },
+    {
+      "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20M4%20Glory.gif",
+      "issue": "invalidArchiveOmitted",
+      "kind": "preparationItem",
+      "name": "M4 Glory",
+      "preparationId": 0,
+      "preparationName": "Classic",
+      "preparationType": 5,
+      "row": 3
+    }
+  ]
+}

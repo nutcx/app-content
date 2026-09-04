@@ -1,0 +1,278 @@
+{
+  "heroId": 68,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Lunox_%28Bloody_Mary%29.jpg/revision/latest?cb=20200427113455",
+      "name": "Bloody Mary",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Lunox_%28Bloody_Mary%29.jpg/revision/latest?cb=20200427113455",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Basic%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Basic%20to%20DAWN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Basic%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Lunox_%28Cosmic_Harmony%29.jpg/revision/latest?cb=20200427114137",
+      "name": "Cosmic Harmony",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Lunox_%28Cosmic_Harmony%29.jpg/revision/latest?cb=20200427114137",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Basic%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LUNOX%20ELITE%20HARMONIX%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Elite%20to%20DAWN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Elite%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Lunox_Nature%27s_Harmony.png/revision/latest?cb=20251208222943",
+      "name": "Nature Harmony",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Lunox_Nature%27s_Harmony.png/revision/latest?cb=20251208222943",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LUNOX%20ELITE%20TOPUP%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Lunox_%28Twilight_Goddess%29.jpg/revision/latest?cb=20200427113835",
+      "name": "Twilight Goddess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lunox%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/O1%20Lunox%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LUNOX%20LUCKYBOX%20REVMP.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20EPIC%20EYE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20EPIC%20REVELATION.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lunox%20Legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lunox%20Nature's%20Harmony.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Lunox%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727149329686,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Lunox_%28Ash_Blossom%29.jpg/revision/latest?cb=20200427113410",
+      "name": "Ash Blossom",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest?cb=20220525165715",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LUNOX%20STARLIGHT%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Starlight%20to%20DAWN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Starlight%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727149358865,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Lunox_%28Libra%29.jpg/revision/latest?cb=20230917012406",
+      "name": "Libra",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20230917050312",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727149380742,
+      "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Lunox_%28Butterfly_Seraphim%29.jpg/revision/latest?cb=20200427113956",
+      "name": "Butterfly Seraphim",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727149411311,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Lunox_%28Eyes_of_Eternity%29.jpg/revision/latest?cb=20210618142900",
+      "name": "Eyes of Eternity",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest?cb=20220525165719",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Epic%20EYE%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20Epic%20EYE%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727149429149,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lunox_%28Dawn_Revelation%29.jpg/revision/latest?cb=20211022123755",
+      "name": "Dawn Revelation",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest?cb=20220525165720",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20DAWNREV%20TO%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LUNOX%20EPIC%20SOUL%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lunox%20DAWNREV%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727149459895,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Lunox_%28Divine_Goddess%29.jpg/revision/latest?cb=20230819030814",
+      "name": "Divine Goddess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727149475643,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Lunox_%28Nature%27s_Harmony%29.jpg/revision/latest?cb=20240717042046",
+      "name": "Nature's Harmony",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero106810-portrait.png/revision/latest?cb=20240619175050",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727149494531,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20LUNOX%20MPL.jpg",
+      "name": "Quantum Polarity",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20LUNOX%20MPL.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1756745991858,
+      "type": "MPL"
+    }
+  ]
+}

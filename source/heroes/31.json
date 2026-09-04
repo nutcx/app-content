@@ -1,0 +1,302 @@
+{
+  "heroId": 31,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Moskov_%28Spear_of_Bone_Dragon%29.jpg/revision/latest?cb=20241128083548",
+      "name": "Spear of Bone",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Moskov_%28Spear_of_Bone_Dragon%29.jpg/revision/latest?cb=20241128083548",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/moscov_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Normal%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Normal%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Moscov%20Basic%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Normal%20to%20ALLSTARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Moskov_%28Snake_Eye_Commander%29.jpg/revision/latest?cb=20231104043943",
+      "name": "Snake Eye Commander",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Moskov_%28Snake_Eye_Commander%29.jpg/revision/latest?cb=20231104043943",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/moscov_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Starlight%20to%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Moskov_%28Yasha%29.jpg/revision/latest?cb=20231104042858",
+      "name": "Yasha",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Moskov_%28Yasha%29.jpg/revision/latest?cb=20231104042858",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/moscov_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Season%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Season%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Moscov%20Season%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Season%20to%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Moskov_%28Javelin_Champion%29.jpg/revision/latest?cb=20231104042904",
+      "name": "Javelin Champion",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Moskov_%28Javelin_Champion%29.jpg/revision/latest?cb=20231104042904",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/moscov_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Special%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Moscov%20Special%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Moskov_%28Decapitator%29.jpg/revision/latest?cb=20231104042916",
+      "name": "Decapitator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Moskov_%28Decapitator%29.jpg/revision/latest?cb=20231104042916",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/moscov_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Elite%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Moscov%20Elite%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Elite%20to%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Moskov_%28Snake_Eye_Commander%29.jpg/revision/latest?cb=20231104043943",
+      "name": "Snake Eye Commander",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Moskov_%28Snake_Eye_Commander%29.jpg/revision/latest?cb=20231104043943",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Moscov%20Starlight%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Moskov_%28Spear_of_Quiescence%29.jpg/revision/latest?cb=20240128040500",
+      "name": "Spear Quiescence",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest?cb=20231110122307",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/moscov_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/O1%20Moscov%20Twilight%20Dragon.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/V30/raw/main/moscov%20bloodspear.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Moscov%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D24%20MOSCOV%20ALLSTARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Moscov%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Dr%20Moscov.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/WEIRD%20MOSCOV%20CRIMSONLIZARD.zip",
+            "targetCategory": 2,
+            "targetSkinId": 21
+          }
+        ]
+      },
+      "timestamp": 1727371429530,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Moskov_%28Twilight_Dragon%29.jpg/revision/latest?cb=20231104042911",
+      "name": "Twilight Dragon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Moskov_%28Twilight_Dragon%29.jpg/revision/latest?cb=20231104042911",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727371442956,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Moskov_%28Blood_Spear%29.jpg/revision/latest?cb=20231104042923",
+      "name": "Blood Spear",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Moskov_%28Blood_Spear%29.jpg/revision/latest?cb=20231104042923",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/moscov_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Moscov%20Epic%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Moscov%20Epic%20to%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727371454757,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Moskov_%28Doom_Incarnate%29.jpg/revision/latest?cb=20220630091235",
+      "name": "Doom Incarnate",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Moskov_%28Doom_Incarnate%29.jpg/revision/latest?cb=20220630091235",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727371463661,
+      "type": "Abyss"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Moskov_%28Infernal_Wyrmlord%29.jpg/revision/latest?cb=20240416091822",
+      "name": "Infernal Wyrmlord",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Moskov_%28Infernal_Wyrmlord%29.jpg/revision/latest?cb=20240416091822",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727371484984,
+      "type": "Allstars"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+      "name": "Harbinger of Chaos",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1754320460675,
+      "type": "Collector"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/wJz6c3t/Moscov-Inject.jpg",
+      "name": "Doctor",
+      "portrait": "https://i.ibb.co/wJz6c3t/Moscov-Inject.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727960613531,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20MOSCOV%20CRIMSON%20FARM.png",
+      "name": "Crimson Lizard",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20MOSCOV%20CRIMSON%20FARM.png",
+      "skinId": 21,
+      "source": null,
+      "timestamp": 1771518141327,
+      "type": "Weird"
+    }
+  ]
+}

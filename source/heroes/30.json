@@ -1,0 +1,193 @@
+{
+  "heroId": 30,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Yi_Sun-shin_%28Major_General%29.jpg/revision/latest?cb=20230811025436",
+      "name": "Major General",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Yi_Sun-shin_%28Major_General%29.jpg/revision/latest?cb=20230811025436",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Yi%20Sun%20Shin%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/YSS%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Yi_Sun-shin_%28Roguish_Ranger%29.jpg/revision/latest?cb=20230811025529",
+      "name": "Roguish Ranger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Yi_Sun-shin_%28Roguish_Ranger%29.jpg/revision/latest?cb=20230811025529",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/YiSunShin%20Elite%20Roguist%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/YSS%20Elite%20ROUGUISH%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Yi_Sun-shin_%28Apocalypse_Agent%29.jpg/revision/latest?cb=20230811025436",
+      "name": "Apocalypse Agent",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Yi_Sun-shin_%28Apocalypse_Agent%29.jpg/revision/latest?cb=20230811025436",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Yi%20Sun%20Shin%20Elite%20Apocalyps%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/YSS%20Elite%20Apocalyps%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Yi_Sun-shin_%28Paenlong_Legend%29.jpg/revision/latest?cb=20230811025401",
+      "name": "Paenlong Legend",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/YiSunShin%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/All-Skins/raw/main/Yi%20Sun%20Shin%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Yss%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/V40/raw/main/yss%20season.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/YiSun%20Shin%20Summer.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727379117088,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Yi_Sun-shin_%28Lone_Destructor%29.jpg/revision/latest?cb=20230811025434",
+      "name": "Lone Destructor",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Yi_Sun-shin_%28Lone_Destructor%29.jpg/revision/latest?cb=20230811025434",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727379127190,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Yi_Sun-shin_%28Azure_Sentry%29.jpg/revision/latest?cb=20230811025402",
+      "name": "Azure Sentry",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Yi_Sun-shin_%28Azure_Sentry%29.jpg/revision/latest?cb=20230811025402",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/YiSun%20Shin%20Starlight%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1727379135726,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Yi_Sun-shin_%28Fleet_Warden%29.jpg/revision/latest?cb=20220630091243",
+      "name": "Fleet Warden",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Yi_Sun-shin_%28Fleet_Warden%29.jpg/revision/latest?cb=20220630091243",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Yi%20Sun%20Shin%20Epic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1727379146131,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Yi_Sun-shin_%28Surging_Torrent%29.jpg/revision/latest?cb=20240124071916",
+      "name": "Surging Torrent",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Yi_Sun-shin_%28Surging_Torrent%29.jpg/revision/latest?cb=20240124071916",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Yi%20SunShin%20Season%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1727379158774,
+      "type": "Season 31"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/PFvtnNq/Yeses.jpg",
+      "name": "Summer Boat",
+      "portrait": "https://i.ibb.co/PFvtnNq/Yeses.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727960042121,
+      "type": "Weird"
+    }
+  ]
+}

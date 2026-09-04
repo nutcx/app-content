@@ -1,0 +1,205 @@
+{
+  "heroId": 66,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Vale_%28Cerulean_Winds%29.jpg/revision/latest?cb=20211010164949",
+      "name": "Cerulean Winds",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Vale_%28Cerulean_Winds%29.jpg/revision/latest?cb=20211010164949",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Basic%20to%20Dawning.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Basic%20to%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Basic%20to%20Gaara.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Vale_%28Kannagi%29.jpg/revision/latest?cb=20211010170122",
+      "name": "Kannagi",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Vale_%28Kannagi%29.jpg/revision/latest?cb=20211010170122",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Elite%20to%20Dawning.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Elite%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Elite%20to%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Elite%20to%20Gaara.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Vale_%28Soaring_Devata%29.jpg/revision/latest?cb=20211221013440",
+      "name": "Soaring Devala",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Vale_%28Soaring_Devata%29.jpg/revision/latest?cb=20211221013440",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Starlight%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Starlight%20to%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Starlight%20to%20Gaara.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Windtalker_wall.jpg/revision/latest?cb=20211010164504",
+      "name": "Windtalker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero661-portrait.png/revision/latest?cb=20250406000746",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Dawning.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Gaara.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20VALE.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727377716403,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Vale_%28Blizzard_Storm%29.jpg/revision/latest?cb=20220226091204",
+      "name": "Blizzard Storm",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Vale_%28Blizzard_Storm%29.jpg/revision/latest?cb=20220226091204",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Dawning%20to%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Dawning%20to%20Gaara.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727377731452,
+      "type": "Dawning Stars"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Vale_%28Supernal_Tempest%29.jpg/revision/latest?cb=20220408062526",
+      "name": "Supernal Tempest",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Vale_%28Supernal_Tempest%29.jpg/revision/latest?cb=20220408062526",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727377759257,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Vale_%28Concerto_of_Light%29.jpg/revision/latest?cb=20240904133143",
+      "name": "Concerto of Light",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Vale_%28Concerto_of_Light%29.jpg/revision/latest?cb=20240904133143",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1728902068580,
+      "type": "Annual Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Vale_%28Gaara%29.jpg/revision/latest?cb=20250411100220",
+      "name": "Gaara",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Vale_%28Gaara%29.jpg/revision/latest?cb=20250411100220",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1744538084856,
+      "type": "Naruto Shippuden"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20VALE.jpg",
+      "name": "Chibi",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20VALE.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771518360676,
+      "type": "Weird"
+    }
+  ]
+}

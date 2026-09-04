@@ -1,0 +1,92 @@
+{
+  "heroId": 102,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Mathilda_%28Unrestrained_Delight%29.jpg/revision/latest?cb=20211223035625",
+      "name": "Unrestrained Delight",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Mathilda_%28Unrestrained_Delight%29.jpg/revision/latest?cb=20211223035625",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/MATHILDA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Mathilda%20Normal%20to%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Mathilda%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Mathilda_%28Floral_Crown%29.jpg/revision/latest?cb=20240328075554",
+      "name": "Floral Crown",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Mathilda_%28Floral_Crown%29.jpg/revision/latest?cb=20240328075554",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/MATHILDA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Mathilda%20Elite%20to%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Mathilda_%28Swift_Plume%29.jpg/revision/latest?cb=20211215022210",
+      "name": "Swift Plume",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1021-portrait.png/revision/latest?cb=20220525171504",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/MATHILDA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Mathilda%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Mathilda%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727370509433,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Mathilda_%28Dream_Groove%29.jpg/revision/latest?cb=20240415055006",
+      "name": "Dream Groove",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Mathilda_%28Dream_Groove%29.jpg/revision/latest?cb=20240415055006",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727370517881,
+      "type": "mpl"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Mathilda%20Epic.jpg",
+      "name": "Dreambound Pixie",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Mathilda%20Epic.jpg",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1736568735304,
+      "type": "Epic"
+    }
+  ]
+}

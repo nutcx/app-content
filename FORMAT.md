@@ -1,6 +1,6 @@
 # `.mlbytes` container format
 
-Status: draft, version 1.
+Status: implemented, version 1.
 
 ## Goals
 
@@ -38,6 +38,12 @@ header:
 | `0x40` | 8 | Total uncompressed entry size |
 | `0x48` | 8 | Absolute signature-block offset |
 
+The directory starts at `headerSize`. The payload-region offset must equal
+`headerSize + directorySize`, and the signature-block offset must equal
+`payloadOffset + storedPayloadSize` when the signature flag is set. When the flag is
+unset for development fixtures, the signature offset is zero and the file ends at the
+end of the payload region. Unknown flag bits are rejected.
+
 The header is followed immediately by the directory. Each variable-size directory
 record contains:
 
@@ -56,19 +62,19 @@ record contains:
 Directory records are sorted by their UTF-8 path bytes. Payloads appear in the same
 order, are contiguous, and contain no padding or gaps. Each payload is compressed
 independently so the client can read one entry without expanding the whole bundle.
-The writer uses stored mode when DEFLATE would not reduce an entry's size.
+Codec `1` is an RFC 1950 zlib stream containing DEFLATE data, with no preset
+dictionary. The deterministic writer uses compression level 9 and stored mode when
+compression would not strictly reduce an entry's size.
 
 Each entry's uncompressed payload is the exact UTF-8 JSON document consumed by the
 application. The bundle does not contain another archive or an extracted canonical
-repository tree. Version 1 uses these logical entries:
+repository tree. Container version 1 uses these four logical entries:
 
 ```text
 battle-effects.json
+heroes.json
 preparations.json
 skin-tags.json
-skins.json
-upgrade-data.json
-upgrade-skins.json
 ```
 
 Their stored blocks are concatenated in directory order. Reading an entry means seeking
@@ -78,10 +84,31 @@ resulting JSON bytes directly. No filesystem extraction is required.
 Migration reports, editor review files, Git metadata, and signing secrets are not
 runtime entries.
 
+Version 1 content bundles contain exactly these four unique, case-sensitive entry
+paths. Their JSON contracts are defined in [PAYLOADS.md](PAYLOADS.md).
+
+## Version 1 limits
+
+- Required runtime entries: exactly the four paths above; the binary parser rejects
+  declared counts above 64 before allocating directory records.
+- UTF-8 entry path: at most 1,024 bytes.
+- Directory: at most 65,536 bytes.
+- Stored or uncompressed size of one entry: at most 8 MiB.
+- Sum of uncompressed entry sizes: at most 32 MiB.
+- Complete bundle file: at most 40 MiB.
+
+Each record size is `64 + pathLength`. Relative payload offsets must equal the sum of
+all preceding stored sizes. Header totals must equal the corresponding directory
+sums. The complete file ends exactly after the payload region for an unsigned fixture,
+or exactly after the signature block for a signed production bundle; trailing bytes
+are forbidden.
+
 ## Signature block
 
-Release bundles are signed but not encrypted. The signature block starts at the offset
-declared in the fixed header:
+Release bundles are signed but not encrypted. Production bundles must set header flag
+bit 0 and include the signature block at the declared offset. Flag-zero unsigned
+bundles are permitted only as local development and test fixtures. The signature
+block starts at the offset declared in the fixed header:
 
 | Size | Field |
 | ---: | --- |
@@ -97,6 +124,12 @@ The signed message is the ASCII domain separator `MLBYTES-SIGNATURE-V1`, a zero 
 all file bytes before the signature block, and the signature-block bytes through the
 key ID. Clients select a pinned public key using the signed key ID. Private signing
 keys must never be committed or embedded in an app.
+
+`latest.json.sig` and `manifest.json.sig` use the same complete `MLBSIG` block. Their
+signed messages use `MLBYTES-LATEST-V1` and `MLBYTES-MANIFEST-V1`, respectively,
+followed by one zero byte, the exact raw JSON bytes, and the signature-block bytes
+through the key ID. Detached JSON is limited to 64 KiB. A detached signature file is
+not a bare 64-byte Ed25519 value.
 
 - The format version changes when the binary container or signature rules change.
 - The schema version changes when the JSON data model changes.
@@ -176,8 +209,8 @@ The immutable version manifest identifies the bundle:
   "release": 1001,
   "revision": 0,
   "formatVersion": "1.0",
-  "schemaVersion": 1,
-  "minimumAppVersionCode": 4,
+  "schemaVersion": 2,
+  "minimumAppVersionCode": 6,
   "asset": {
     "path": "versions/1001.0/assets/Document.mlbytes",
     "size": 123456,

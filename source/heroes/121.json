@@ -1,0 +1,82 @@
+{
+  "heroId": 121,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Ixia_%28Shifting_Sand%29.jpg/revision/latest?cb=20240731081136",
+      "name": "Shifting Sand",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Ixia_%28Shifting_Sand%29.jpg/revision/latest?cb=20240731081136",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/IXIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ixia%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IXIA%20BASIC%20TO%20METRO%20ZERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Ixia_%28Arclight_Outlaw%29.jpg/revision/latest?cb=20240128153646",
+      "name": "Arclight Outlaw",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb=20231010041751",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/IXIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/V41S/raw/main/ixia%20starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IXIA%20METRO%20ZERO%20FIX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727362091758,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Ixia_%28Dynamic_Streak%29.jpg/revision/latest?cb=20240227095849",
+      "name": "Dynamic Streak",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Ixia_%28Dynamic_Streak%29.jpg/revision/latest?cb=20240227095849",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IXIA%20STARLIGHT%20TO%20METRO%20ZERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727362103708,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_748304437694899.jpeg",
+      "name": "Invoker's Command",
+      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_748304437694899.jpeg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1754502571488,
+      "type": "Metro Zero"
+    }
+  ]
+}

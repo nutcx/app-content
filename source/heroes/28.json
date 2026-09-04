@@ -1,0 +1,312 @@
+{
+  "heroId": 28,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Alpha_%28Fierce_Dragon%29.jpg/revision/latest?cb=20210519161243",
+      "name": "Fierce of Dragon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Alpha_%28Fierce_Dragon%29.jpg/revision/latest?cb=20210519161243",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20COLL.zip",
+            "targetCategory": -1,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20ALPHA%20BASIC%20TO%20NEWEPIC.zip",
+            "targetCategory": -1,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Basic%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
+      "name": "Mecha King Perseus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
+      "name": "Mecha King Perseus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALPHA%20NEWEPIC.jpg",
+      "name": "Dreaming Monarch",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALPHA%20NEWEPIC.jpg",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
+      "name": "Mecha King Perseus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Collector%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijMmUYaLSWVMyyStNPpWQ4tmc5W3ogF9NxcbwCDJFHuuXe2hhT3Hdb8xDgg22-I6t-AfshXr6X6FD-n51wlE3effrWmBDj2DUsgKjcVxV99JLgsu__F0DqrYIW-d8t0Y1-OHK95L_gT5GI/s1920/alpha-revamped-mobile-legends-wallpaper-hd.jpg",
+      "name": "Blade of Enmity",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj98SwUPMK3oR_utGnA0NFZPAWjTYoXZDzHis-7CVqhU66KlbGHiSfPRAK98QhQIBsiKLyaX7ci7Q_1Bp5m7_-ot1Lowo6vMpstZlwbspWFZwjDJGVApfcyjsa11CPIdYmiI47M3TUxwVRv/s1920/alpha-revamped-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D6%20ALPHA%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ALPHA%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20ALPHA%20NEW%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Allien%20.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727157741207,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgAf12gmZuyXGEfetauv0yh00j92DJ2dJm5c1PdeIfn4qc0qs6PLrZpQZqYQvuTERyxT9d6aMg4LVxstGUb8a-HzOKcZNsL1LwE_MynDAq-5nCT-Lt25lPUBRwo4gl8PfRaN42jgJiWg7fMI0ce6xC6ZD4nW4oLkmnSN4qF3ixQfZENQaKxniRtzNhnVw=s1080",
+      "name": "Onimusha Commander",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEjbm-lb3tG9AwJ4Oy6OEBVVFURd7pY9uY97QXeRAy3xJm6wyMJxeIgoQg1RDmb-c1CmC_1-mkYrekDg-OLxmVZId32LG9emDBnfyBJYqumJ3w7eBeVvEVNGrFZfIpuEJJEdfsAgb4NXZGYLsCgSiIDk5ngxqRB1Rfq25uS8VzsUkSalPw1DtT8g9iZEpA=s607",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Luckybox%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727157761990,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDm1cUkCLDi79aYPmOUDeHrQx15ddDuv2zpZygZHpFqYo2wSi8wXD7StHnd7H9cjhyphenhyphenmVtayar-r6IhbZSPEpjU2cVo6i5nkR0c1S_qq7i9ERM60hzPnZm3LFFaWXs9YerqxJZDaYBSrkvm/s1920/alpha-sea-gladiator-skin-mobile-legends-wallpaper-hd.jpg",
+      "name": "Sea Gladiator",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVieDTjqboHrILLnY2NBoaR0X_u6kvqSDv3socVpochNrlT-lhyptAu-jrDipxIPY2K4K4blRAQJQoDUwrmSBgvFgfbx82NM0JhDQnHq4NhwkAJ_-DEfvT9rz3vJ8Bh63M-DmMqE45jLOt/s1080/alpha-sea-gladiator-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Season%20to%20COLL.zip",
+            "targetCategory": -1,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Season%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Season%20to%20Legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727157779614,
+      "type": "Season"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-ITY0H6tDWG6q_MHXyga_mbvr4kPsilbmFDs03iHlxIVKrl4g2ONmT8RvRybpunDglLEUzOYXSFpDru1P2yMostRmKySdsY_nHfWkNZIUpUuPRUWWnz8p_7eH1AC0vaCVZP-vR35WtqwW/s739/wallpaper-alpha-crimson-warrior-special-skin-hd.jpeg",
+      "name": "Crimson Warrior",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS_5h4jV3C3VC938PhWK4x7JJ6FK32Y9dL3pmlLQccy1ZA8jz9M4NNrdvqUtO0E5Fja0RdfNMcxdeSK2JG_y19nhB40UGKIReWVu5YY2Ur9Kp9F5Tb8T3oegwCIOyrgy-0FCOjrkMC8A97/s1083/wallpaper-alpha-crimson-warrior-special-skin-hd-phone-android.jpg",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Special%20to%20COLL.zip",
+            "targetCategory": -1,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Special%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Special%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727157834904,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpGqrg8gFToXDtixxYLSor0Qup-Kshoe6zbHKxH1a3p-CWSwjbNsHfVzj4QzOdJ1xwQ8K1kJR19g_u_hDTHuPq09KhWv8bykE80_QeuxuFX1TS_btAiTOC7506WXVUitKR2yqV3zTCu_P/s1280/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd.png",
+      "name": "General Void",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiiBBR12fUJrQIsQCDXcqDB41NN9L2o5jdKKYpKaty3sDGtWHDKLFXBjZiAH9Ry46rdo4AhagqSrFWZBbE-e-7FU_-8bNtw7kbcf-zhF_8vc1lRC0d3ICgKgSX-tdxIPjECQAH9FuMIG66/s2048/alpha-general-void-abyss-skin-mobile-legends-wallpaper-hd-phone.jpg",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Abyss%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727157852938,
+      "type": "Abyss"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ68Ag7J8KIy9Y2DUqAj5A-q6uFg6eGr5PpJ-OnXysWCDKNcyL-Mge1uHyfiFr_IsGIxBWYiaoI8yMtGWQXvXT6Cp9ubg77avc5xVTNak11zpmVZeklvU4HSsDaI5xga5y7iUnQRgKGtX-n0rvQBfRGzfiaa-z5mKdv1fyFZYjdltScPzGesC2cxOqJ3rz/s1760/alpha-star-enforcer-starlight-skin-wallpaper.jpg",
+      "name": "Star Enforcer",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEpRISF765ix6mXC3f8CGAfyJpSbTxfhYU_VIou5VwIx8Qg4eKHYG3uef7xBCanOkvlylWgors3mdY_H1-xdRcLAOsobH4Gp3lWR2ETiEKdajDpa5ZrnmlDdRO6yW4IzPTkKRD5PBfvxzvc34WAkgWmil8PQmW828LKEHd_DUMcRJbdSQXa1JfcBuHHnj3/s3124/alpha-star-enforcer-starlight-skin-wallpaper-hd.jpg",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Starlight%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 1727157877536,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKfGvcC5stnV_n96f0hPE7kkvSttEprfSKxXQTcDcHE3X0z83VvVPxjwdEPYBGLkuW9h3SNx140QRULPwLs8gYczDn1jamHZiTpJeaZgynblmZqZUqSUCi08Z_uBB8zsPG9OwC67LJv06Dc9TJkGU6VfaDWSgVg3iPPmWnYOBCQ-z8si25-nmYUZhxdj6M/s1780/alpha-mecha-king-perseus-collector-skin-hd-wallpaper.png",
+      "name": "Mecha-King Perseus",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO71qczO-e1WReCBmQPkIDB0mkyeB79UZnPjmxOmrGGeOANqF1RqhcdD4h3Nju5mf7YnQBxeC6dSlA95YVLZ_Pf_NfmG37-FK6y0sNofgb8Z5cuWUGsS-zvkglnTCFEAVs-ggFwXXZUlr4s5iQYH6aZcWJdg__xWZLkJ7C6VB5tOcRjuNp15Dqs4pHFSLq/s1560/alpha-collector-skin-hd-wallpaper.png",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727157895311,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Alpha_%28Revenant_of_Roses%29.jpg/revision/latest?cb=20250301020356",
+      "name": "Revenant of Roses",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Alpha_%28Revenant_of_Roses%29.jpg/revision/latest?cb=20250301020356",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1741503625997,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALPHA%20NEWEPIC.jpg",
+      "name": "Edict of Sands",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALPHA%20NEWEPIC.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1775951241576,
+      "type": "Epic"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/Hg57rg0/Allien-Ship.png",
+      "name": "Allien Ship",
+      "portrait": "https://i.ibb.co/Hg57rg0/Allien-Ship.png",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727959617825,
+      "type": "Weird"
+    }
+  ]
+}

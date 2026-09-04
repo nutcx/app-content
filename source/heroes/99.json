@@ -1,0 +1,83 @@
+{
+  "heroId": 99,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Barats_%28Armored_Lizard%29.jpg/revision/latest?cb=20200918133039",
+      "name": "Armored Lizard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Barats_%28Armored_Lizard%29.jpg/revision/latest?cb=20200918133039",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/BARATS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Barats%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Barats_%28Dino_Rider%29.jpg/revision/latest?cb=20200918133041",
+      "name": "Dino Rider",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20240103093200",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/BARATS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/BARATS%20HALLOWEEN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/BARATS%20ELITE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D6%20BARATS%20EPIC%20UPCOMING.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727163561159,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Barats_%28Baratstein%29.jpg/revision/latest?cb=20211129025118",
+      "name": "Baratstein",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero994-portrait.png/revision/latest?cb=20220525170309",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727163566436,
+      "type": "Halloween"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Barats_%28Toy_Rex%29.jpg/revision/latest?cb=20210805164026",
+      "name": "Toy Rex",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero993-portrait.png/revision/latest?cb=20220525170308",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727163572008,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/1733450928535.jpg",
+      "name": "Sunken Predator",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/1733450928535.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1733470186744,
+      "type": "Epic"
+    }
+  ]
+}

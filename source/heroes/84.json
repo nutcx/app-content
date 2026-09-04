@@ -1,0 +1,357 @@
+{
+  "heroId": 84,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Ling_%28Fiery_Dance%29.jpg/revision/latest?cb=20200528124647",
+      "name": "Fiery Dance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Ling_%28Fiery_Dance%29.jpg/revision/latest?cb=20200528124647",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ling%20Normal%20to%20DRAGONTAMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LING%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ling%20Normal%20to%20MWORLD.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ling%20Basic%20to%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LING%20BASIC%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LING%20BASIC%20TO%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Ling_%28Cyan_Finch%29.jpg/revision/latest?cb=20240620010712",
+      "name": "Cyan Finch",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20240621034004",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Ling%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Ling%20Dragon%20Tamer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/ling_def_specialN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LING%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Ling%20Mworld.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Ling%20Kungfu.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Ling%20NeoBeast.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LING%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANIME%20Ling%20Giyu%20Demon%20Slayer.zip",
+            "targetCategory": 1,
+            "targetSkinId": 30
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANIME%20Ling%20Kokoshibo%20DemonSlay.zip",
+            "targetCategory": 1,
+            "targetSkinId": 31
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Anime%20Ling%20X%20Sasuke.zip",
+            "targetCategory": 1,
+            "targetSkinId": 32
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Mafia%20Soldier.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727368796562,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Ling_%28Street_Punk%29.jpg/revision/latest?cb=20200528124628",
+      "name": "Street Punk",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Ling_%28Street_Punk%29.jpg/revision/latest?cb=20200528124628",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ling%20Starlight%20to%20DRAGONTAMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LING%20STARLIGHT%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ling%20Starlight%20to%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LING%20STARLIGHT%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LING%20STARLIGHT%20TO%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727368815556,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Ling_%28Night_Shade%29.jpg/revision/latest?cb=20211207174412",
+      "name": "NightShade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Ling_%28Night_Shade%29.jpg/revision/latest?cb=20211207174412",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LING%20DTAMER%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ling%20DTAMER%20to%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LING%20DTAMER%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LING%20DTAMER%20TO%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727368830484,
+      "type": "Dragon Tamer"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Ling_%28Cosmo_Guard%29.jpg/revision/latest?cb=20230819032307",
+      "name": "Cosmo Guard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Ling_%28Cosmo_Guard%29.jpg/revision/latest?cb=20230819032307",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ling%20Special%20to%20DRAGONTAMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LING%20SPECIAL%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ling%20Special%20to%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LING%20SPECIAL%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LING%20SPECIAL%20TO%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727368861832,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LING%20COLLECTOR.jpg",
+      "name": "Serene Plume",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LING%20COLLECTOR.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727368878989,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Ling_%28M-World_Ling%29.jpg/revision/latest?cb=20220408062534",
+      "name": "M-World Ling",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Ling_%28M-World_Ling%29.jpg/revision/latest?cb=20220408062534",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LING%20MWORLD%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LING%20MWORDS%20TO%20ALLSTAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727368901786,
+      "type": "MWorld"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Ling_%28Lord_Shen%29.jpg/revision/latest?cb=20220804115101",
+      "name": "Lord Shen",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Ling_%28Lord_Shen%29.jpg/revision/latest?cb=20220804115101",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Ling%20KungFu%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1733295704250,
+      "type": "Kung Fu Panda"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Ling_%28Neobeast_Ling%29.jpg/revision/latest?cb=20250301020408",
+      "name": "Neobeast Ling",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Ling_%28Neobeast_Ling%29.jpg/revision/latest?cb=20250301020408",
+      "skinId": 7,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Ling%20NeoBeast%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1742527177062,
+      "type": "Neobeast"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LING%20ALL%20STAR.jpg",
+      "name": "Phantom Current",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LING%20ALL%20STAR.jpg",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1775950039559,
+      "type": "All Stars"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Ling%20Giyu.jpeg",
+      "name": "Giyu Tomioka",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Ling%20Giyu.jpeg",
+      "skinId": 30,
+      "source": null,
+      "timestamp": 1728475526076,
+      "type": "Anime|DemonSlayer"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Ling%20kokoshibu.jpeg",
+      "name": "Kokushibo",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Ling%20kokoshibu.jpeg",
+      "skinId": 31,
+      "source": null,
+      "timestamp": 1728475569939,
+      "type": "Anime|DemonSlayer"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/hq720.jpg",
+      "name": "Sasuke Uchiha",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/hq720.jpg",
+      "skinId": 32,
+      "source": null,
+      "timestamp": 1728658640349,
+      "type": "Anime|Naruto"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/Rj1QmmC/Mafia1.jpg",
+      "name": "Mafia Soldier",
+      "portrait": "https://i.ibb.co/Rj1QmmC/Mafia1.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727960197634,
+      "type": "Weird"
+    }
+  ]
+}

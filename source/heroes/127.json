@@ -1,0 +1,68 @@
+{
+  "heroId": 127,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250414_032655.jpg",
+      "name": "Ardent Roar",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250414_032655.jpg",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LUCAS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20NARUTO%20BASIC%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Lukas_%28Beast_of_Light%29.jpg/revision/latest?cb=20241202102211",
+      "name": "Beast of Light",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest?cb=20241201052822",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LUCAS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LUCAS%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LUCAS%20X%20NARUTO.zip",
+            "targetCategory": 1,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1736780737277,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Lukas_%28Naruto_Uzumaki%29.jpg/revision/latest?cb=20250411100302",
+      "name": "Naruto Uzumaki",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Lukas_%28Naruto_Uzumaki%29.jpg/revision/latest?cb=20250411100302",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1744537045113,
+      "type": "Naruto Shippuden"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20LUCAS%20NARUTO.jpg",
+      "name": "Uzumaki Naruto",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20LUCAS%20NARUTO.jpg",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1736781052446,
+      "type": "Anime|Naruto"
+    }
+  ]
+}

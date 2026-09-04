@@ -1,0 +1,123 @@
+{
+  "heroId": 41,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Gatotkaca_%28Mighty_Guardian%29.jpg/revision/latest?cb=20241128083620",
+      "name": "Mighty Guardian",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Gatotkaca_%28Mighty_Guardian%29.jpg/revision/latest?cb=20241128083620",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/GATOTKACA%20BASIC%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gatot%20Basic%20to%20EPiC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gatot%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Gatotkaca_%28Iron_Steel%29.jpg/revision/latest?cb=20231029221857",
+      "name": "Iron Steel",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest?cb=20220525165152",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/GATOTKACA%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20EPIC1.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gatotkaca%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20GATOTKACA%20X%20HULK.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Gatotkaca%20X%20Venom%20Marvel.zip",
+            "targetCategory": 2,
+            "targetSkinId": 16
+          }
+        ]
+      },
+      "timestamp": 1727282886522,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20GATOT%20LUCKYBOX%20NEW.jpg",
+      "name": "Sentinel",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20GATOT%20LUCKYBOX%20NEW.jpg",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727282902491,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Gatotkaca_%28Tide_Preserver%29.jpg/revision/latest?cb=20240123101059",
+      "name": "Tide Preserver",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Gatotkaca_%28Tide_Preserver%29.jpg/revision/latest?cb=20240123101059",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727282915179,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gatotkaca_%28Nutcracker_Monarch%29.jpg/revision/latest?cb=20240724133448",
+      "name": "Nutcracker Monarch",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gatotkaca_%28Nutcracker_Monarch%29.jpg/revision/latest?cb=20240724133448",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727282978208,
+      "type": "Starlight"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20GATOTKACA%20HULK.jpg",
+      "name": "Hulk",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20GATOTKACA%20HULK.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771301837473,
+      "type": "Weird"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20Gatotkaca%20VENOM.jpg",
+      "name": "Venom",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20Gatotkaca%20VENOM.jpg",
+      "skinId": 16,
+      "source": null,
+      "timestamp": 1773067932072,
+      "type": "Weird"
+    }
+  ]
+}

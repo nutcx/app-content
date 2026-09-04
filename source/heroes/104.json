@@ -1,0 +1,88 @@
+{
+  "heroId": 104,
+  "skins": [
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Gloo_%28Swamp_Spirits%29.jpg/revision/latest?cb=20220218134437",
+      "name": "Swamp Spirits",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png/revision/latest?cb=20240602231141",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GLOO%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GLOO%20NORMAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GLOO%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Gloo%20Patrick.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Gloo/Gloo%20Default/snowgloo%20default.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727283110217,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Gloo_%28Verdant_Enchanter%29.png/revision/latest?cb=20230109180041",
+      "name": "Verdant Enchanter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Gloo_%28Verdant_Enchanter%29.png/revision/latest?cb=20230109180041",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GLOO%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gloo%20Normal%20to%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727283129304,
+      "type": "Normal"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Gloo_%28Jellyman%29.jpg/revision/latest?cb=20230819040938",
+      "name": "Jellyman",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Gloo_%28Jellyman%29.jpg/revision/latest?cb=20230819040938",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727283139170,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20GLOO%20PATRICK.jpg",
+      "name": "Patrick Star",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20GLOO%20PATRICK.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1767611181544,
+      "type": "Sponge Bob"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/snowgloo.jpg",
+      "name": "Abominable Snowgloo",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/snowgloo.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1785200217405,
+      "type": "Elite"
+    }
+  ]
+}

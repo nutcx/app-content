@@ -1,0 +1,363 @@
+{
+  "heroId": 21,
+  "skins": [
+    {
+      "category": -2,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
+      "name": "Summer Festival",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hayabusa_%28Spacetime_Shadow%29.jpg/revision/latest?cb=20230622005841",
+      "name": "Spacetime Shadow",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hayabusa_%28Spacetime_Shadow%29.jpg/revision/latest?cb=20230622005841",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20SUMMER.zip",
+            "targetCategory": -2,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Basic%20to%20Kakashi.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hayabusa_%28Future_Enforcer%29.jpg/revision/latest?cb=20211021140408",
+      "name": "Future Enforcer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hayabusa_%28Future_Enforcer%29.jpg/revision/latest?cb=20211021140408",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Elit%20Police%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Elit%20Police%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Elit%20Future%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Elit%20Future%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Elite%20FutureEn%20to%20Kakashi.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
+      "name": "Summer Festival",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20EXORCIST.zip",
+            "targetCategory": -1,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Summer%20to%20Kakashi.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
+      "name": "Exorcist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Techie_Ninja.jpg/revision/latest?cb=20230622010420",
+      "name": "Techie Ninja",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Techie_Ninja.jpg/revision/latest?cb=20230622010420",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Elit%20Techie%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Elit%20Techie%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Elit%20Techie%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Techie%20to%20Kakashi.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_xoEkWZi1uqCs6f-5s4GCAdvphTDZDevYWCkhBTHGa2m9S4A9i0-TyYza77lmKVh_7QsaTjI3JF3o3JEdU2FPeyzsMosacqbZ4LnDkQo1uQmEeCRpnXClDgySSKio8T9uypoWOSOgq3m9HNUlr9pQoIcDPlD-wPexYDlg53SDMZ21fvKP5GjJBh4F-A/s1920/hayabusa-revamp-wallpaper-hd-mobile-legends.jpg",
+      "name": "Crimson Shadow",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/hayabusa_def_summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Hayabusa%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Hayabusa%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/hayabusa_def_starl.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Hayabusa%2011Eleven.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Hayabusa%20Exorcist.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Kakashi.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANIME%20Hayabusa%20Uchiha.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J17%20HAYABUSA%20MINATO.zip",
+            "targetCategory": 1,
+            "targetSkinId": 16
+          }
+        ]
+      },
+      "timestamp": 1727114503046,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCEQ1a2H_KOnXEffMGmQ6LqDb1UL0hmY-9EJipQ8E6WFAfNH2EbMVXRg-hSPoz3EyYrsW2d60ZVrhVBVS2DeHV2ezMbxSvlQHbABp_fzmxxXiUEXCND8MYO40Tqe92kJkFehR6uYqXLFRkCHX4hnQ-al51qngxCz33xrWfauXEQuJrfWownZ3jHL7skg/s1219/hayabusa-sushi-master-summer-skin-wallpaper-hd.jpg",
+      "name": "Sushi Master",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCYxjonvDYBULg740z25DmXfZcWq-sQwMy8ufdW7llIWBdunk05Jj2UDxW95UgjJ2dpOQWML9r-brgiYQw_X5NnyaxL5qkNhlomnyWh02ZljNb076krn16YvfR4Z0fIe5RIxnShiymy5mrHOx73GMXsIcvNMAGrabMaddgnac9CxaPqUFMXjcVbHP8QQ/s1080/hayabusa-sushi-master-summer-revamp-skin-wallpaper-hd.jpg",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727114543512,
+      "type": "Summer"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEjPBdSNggnLp8rP4LQO5YJK285P7hlRHsT2he1ONFoFhZAzk2yfrMNxGUt4hYj3y3lIuMAesoyFuj9-va4oNUO3hggZJ0m-DIUl7TAt_NPI9n8lodwaF7f4tfWY0XJnj4zEpRdDSGBmecHdtWJqeuHBNu8zQOb0eYgm4ooHJFhSKhryVQFPeRxHnyG7XA=s1920",
+      "name": "Experiment21",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgr8cfHx7cN0TP3NVO-mnE3lEFpn33-L-52AYKCiGZI0rkkv6_rws-L0IsP1oqfM-I2iIm_A9gE89mWuoix6Q9-1XFhqAbhjMhE2a_C-eQBW3DO6stcuQmcW4bsk0TOvabtJWMMleO19pbmkig2naEHdp2Gjz4D0H5Rfe_6T1o0OiFurlRY17Z_BgnelA=s1080",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727114630661,
+      "type": "Annual Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEivygImLnikACiIJv4ryMIFE47z2H0Z28wOTuNiEARr1Bn9C42u0ycGOnslF5C5pfRclycMb3la2HfVX0cYSxE_dH8tJDy-PJXPhhFqaWJlBB6PcZwUH-ujuHPmfB7__X30t4luAKuMRsiLnkOp2sZhs5mlWYIK_74_JVpJW9KhhR7feG49YgK6wKUrfg=s1920",
+      "name": "Shadow of Obscurity",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEil5BNksUyDNyQW8jxeZ4yM0UXY6rpnPWe21JF6_9cHXdi2OH7hYLDe8HurSL8ZmcXXBYlQ7ZIe3wkcIQvpN--dbi5CqFrqMdJAqHvDYyC4UHzcfD-OVdQzu9Tc5W26_fclbAu4EXTkLXxMmPt7VI-pllHwn4Grorun4iZtwWgj6sMrWMjUz678bHMnSQ=s1080",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Luckybox%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Luckybox%20to%20Kakashi.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727114674003,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEiV83KDEM5McxyHZj4Q_SaAi4iu7TfQPhGZ0_ScC3641YD1o4jlS5C7rx9ofOK9WY7r047YI1zgkcBKnEUY9bE-_m1rhhe5OHmiDlJdPcbKkm0jbKcGh_nVujAToQlzWH07GAyXo9ZaEelivY-ky7tO44h9Yrb3SvIcUqNIJSFUyM5z6ed9OMWj9lzPcw=s1920",
+      "name": "Biological Weapon",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEhDwxxgQqWxaptEAS2LO7WPHKDWDV9FPBZEego7I1J5nGFFSQDyklcB3ErAt3UIBWSCeuOGphenCA1S5CHoUyz-CONpEtkuLawGOfDcLomXipE57sad11w-_rL0tkEX32i-IPYSMagL2kbqXb-16j7rhJVbxfNOl85vh7ik6ZmYdGhf6-PkcV0ZgWU6Sg=s1080",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Starlight%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Starlight%20to%20Kakashi.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727114749801,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/a/AVvXsEgM6T49GUeCtdymIrdkObTK7pN_Vvd8azp2fl_WNwE_rAc8B4DyuNFAVFQJvzsPLRZxn6NDWADu2isVQxRBBqvV_yaXbbdXr_42rpuGPwAZCTHBX7xEvmvNos0M9JXxrlkXg05wG8FMUaPKgNOSivRk1GwsqP8nxR72bCFKQIxSeMLiv5TKQ_vcgSHabQ=s1920",
+      "name": "Shura",
+      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEg74tlEKBPoJEXBcRTVx6R_cXAurdRM_gasXZhZFprKgbV9XwkVOweb_Q4e8xZOdAYV2dIGl1gJgI6ITcEiL_zdp2wmXyQdneJyFbOTYFbj2RvLzFqiSXnSokhfP_xd42lzH7qTwJeJDSnIx498FBnPJFrnl-l09_B_ZRgacWrYkUE1BbQduTuA9okFZQ=s1080",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727114799142,
+      "type": "11.11"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKAf4djYI7bDjfQwCN20COxNLQY_EPqCy11rxBWB3TuEx-QRiTbqYwx0DlAEyBLa-sgth33CBbfO8xmS-0EMPKlXSoSeS_uMQHq-w4ryk9eZr3GENTP2ch4TASnwQbA8uHAIyNHk-ufXW7rmn4XZlAoCmm1zt46QYUKJNziT4fTwKdsVKXd3HnQqNDl3KP/s1780/hayabusa-exorcist-wallpaper.png",
+      "name": "Exorcist Hayabusa",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYKcSroPtTNiZ2RmvksoH-OrTX7_VjnXCobMa3Gm44V8F2nzJ8KWY_cz4Pf-7iNEAUS2RREtcgGcRU1vBk8c22zJnwsertfgZ7fYWtOh2OiIFOyfqiGH_1NIv1DXeFfJoWghJM9fF3EkxmgUBrM3pdw3lq3YJOIpAprdvEIT4nx9Ea2L8HVJ8y1wWJ_zqL/s1560/gambar-hayabusa-exorcist.png",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727114876275,
+      "type": "Exorcists"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hayabusa_%28Kakashi_Hatake%29.jpg/revision/latest?cb=20250411100234",
+      "name": "Kakashi Hatake",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hayabusa_%28Kakashi_Hatake%29.jpg/revision/latest?cb=20250411100234",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1744537383799,
+      "type": "Naruto Shippuden"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Hayabusa%20Uchiha.jpg",
+      "name": "Itachi Uchiha",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Hayabusa%20Uchiha.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1728475684924,
+      "type": "Anime|Naruto"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250117_173358.jpg",
+      "name": "Namikaze Minato",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250117_173358.jpg",
+      "skinId": 16,
+      "source": null,
+      "timestamp": 1737111818967,
+      "type": "Anime|Naruto"
+    }
+  ]
+}

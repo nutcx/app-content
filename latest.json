@@ -1,0 +1,14 @@
+{
+  "pointerFormat": 1,
+  "channel": "stable",
+  "contentVersion": "1001.0",
+  "release": 1001,
+  "revision": 0,
+  "manifest": {
+    "path": "versions/1001.0/manifest.json",
+    "size": 344,
+    "sha256": "c1651a883ae52443be9a09c0ea2e191a8088107d3ec638ef512192cd26de2025",
+    "signaturePath": "versions/1001.0/manifest.json.sig"
+  },
+  "publishedAt": "2026-09-04T18:47:38Z"
+}

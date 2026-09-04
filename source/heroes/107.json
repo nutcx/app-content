@@ -1,0 +1,195 @@
+{
+  "heroId": 107,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Natan_%28Time_Wielder%29.jpg/revision/latest?cb=20231104062711",
+      "name": "Time Wielder",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Natan_%28Time_Wielder%29.jpg/revision/latest?cb=20231104062711",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/nathan_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natan%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Natan%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Natan%20Basic%20to%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20NORMAL%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Natan_%28Spacetime_Walker%29.jpg/revision/latest?cb=20220218134405",
+      "name": "Spacetime Walker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1071-portrait.png/revision/latest?cb=20220525171604",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/nathan_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/All-Skins/raw/main/Natan%20Elite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v21/raw/main/Natan%20-%20Default%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Natan%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/NATAN%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Natan%20MSC2025.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NOLAN%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727372169675,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Natan_%28Chaos_Hunter%29.jpg/revision/latest?cb=20220219033338",
+      "name": "Chaos Hunter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Natan_%28Chaos_Hunter%29.jpg/revision/latest?cb=20220219033338",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/nathan_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natan%20Elite%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natan%20Elite%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Natan%20Elite%20to%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20ELITE%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727372180069,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Natan_%28Captain_Chrono%29.jpg/revision/latest?cb=20220814094251",
+      "name": "Captain Chrono",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Natan_%28Captain_Chrono%29.jpg/revision/latest?cb=20220814094251",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20STARLIGHT%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727372195230,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Natan_%28Tidal_Lord.jpg/revision/latest?cb=20230308111027",
+      "name": "Tidal Lord",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Natan_%28Tidal_Lord.jpg/revision/latest?cb=20230308111027",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727372206179,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Natan_%28Temporal_Vortex%29.jpg/revision/latest?cb=20240125070727",
+      "name": "Temporal Vortex",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Natan_%28Temporal_Vortex%29.jpg/revision/latest?cb=20240125070727",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/nathan_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natan%20Special%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Natan%20Special%20to%20MSC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20SPECIAL%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727372227724,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1750344439783.jpg",
+      "name": "Archon of Knowledge",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1750344439783.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1750344781233,
+      "type": "MSC 2025"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20NATAN%20COVENANT.png",
+      "name": "Saguine Steward",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20NATAN%20COVENANT.png",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1770124429393,
+      "type": "Covenant"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "heroId": 74,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Minsitthar_%28King_of_War%29.jpg/revision/latest?cb=20181124125214",
+      "name": "King of War",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Minsitthar_%28King_of_War%29.jpg/revision/latest?cb=20181124125214",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MINSITHAR%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Minsi%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Minsi%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Minsitthar_%28Courageous_Warrior%29.jpg/revision/latest?cb=20230622001705",
+      "name": "Courageous Warrior",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MINSITHAR%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MINSITTHAR%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Minsithar%20Elite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727370993095,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Minsitthar_%28Crimson_Lion%29.jpg/revision/latest?cb=20240126081201",
+      "name": "Crimson Lion",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Minsitthar_%28Crimson_Lion%29.jpg/revision/latest?cb=20240126081201",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727371004081,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Minsitthar_%28Sol_Invictus%29.jpg/revision/latest?cb=20240126074854",
+      "name": "Sol Invictus",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Minsitthar_%28Sol_Invictus%29.jpg/revision/latest?cb=20240126074854",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727371020450,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20MINSITHAR%20ELITE.jpg",
+      "name": "Golden Marshal",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20MINSITHAR%20ELITE.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1756745782595,
+      "type": "Elite"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "heroId": 90,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Silvanna_%28Hallowed_Lance%29.jpg/revision/latest?cb=20200324160836",
+      "name": "Hallowed Lance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Silvanna_%28Hallowed_Lance%29.jpg/revision/latest?cb=20200324160836",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Silvanna%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Silvanna%20Basic%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Silvana%20Basic%20to%20Meowkin.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Silvanna_%28Future_Cop%29.jpg/revision/latest?cb=20231104054045",
+      "name": "Future Cop",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Silvanna_%28Future_Cop%29.jpg/revision/latest?cb=20231104054045",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Silvanna%20Elite%20Future%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Silvanna%20Elite%20Future%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Silvana%20Elite%20Cop%20to%20Meowskin.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Silvanna_%28Midnight_Justice%29.jpg/revision/latest?cb=20200526103346",
+      "name": "Midnight Justice",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Silvanna_%28Midnight_Justice%29.jpg/revision/latest?cb=20200526103346",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Silvana%20Elite%20to%20Fatcat.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Silvanna_%28Imperial_Knightess%29.jpg/revision/latest?cb=20200816042744",
+      "name": "Imperial Knightess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/silvanna_def_collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/silvanna_def_ElverdantN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20VALETINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Silvana%20Meowskin.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Granny.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727376688563,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Silvanna_%28Queen_Frost%29.jpg/revision/latest?cb=20220216160730",
+      "name": "Queen Frost",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Silvanna_%28Queen_Frost%29.jpg/revision/latest?cb=20220216160730",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727376698497,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Silvanna_%28Verdant_Lancer%29.jpg/revision/latest?cb=20240826025457",
+      "name": "Verdant Lancer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Silvanna_%28Verdant_Lancer%29.jpg/revision/latest?cb=20240826025457",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727376712735,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Silvanna_%28Alluring_Mystique%29.jpg/revision/latest?cb=20240213092500",
+      "name": "Alluring Mystique",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Silvanna_%28Alluring_Mystique%29.jpg/revision/latest?cb=20240213092500",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727376728331,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Silvana%20Fatcat.jpg",
+      "name": "Meowkin Warden",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Silvana%20Fatcat.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1748509450880,
+      "type": "Mystic Meow"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/HXqSvsc/Granny.png",
+      "name": "Granny",
+      "portrait": "https://i.ibb.co/HXqSvsc/Granny.png",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727959393470,
+      "type": "Weird"
+    }
+  ]
+}

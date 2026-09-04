@@ -1,0 +1,87 @@
+{
+  "heroId": 125,
+  "skins": [
+    {
+      "category": -2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Zhuxin_P.ACE_Zhuxin.png/revision/latest?cb=20251208014921",
+      "name": "P.A.C.E Zhuxin",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Zhuxin_P.ACE_Zhuxin.png/revision/latest?cb=20251208014921",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Zhuxin_%28Ethereal_Serenity%29.jpg/revision/latest?cb=20250304064647",
+      "name": "Ethereal Serenity",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Zhuxin_%28Ethereal_Serenity%29.jpg/revision/latest?cb=20250304064647",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ZHUXIN%20BASIC%20TO%20PACE.zip",
+            "targetCategory": -2,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Zhuxin_Beacon_of_Spirits.jpg/revision/latest?cb=20251208095315",
+      "name": "Beacon of Spirit",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero1251-portrait.png/revision/latest?cb=20241021140847",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ZHUXIN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ZHUXIN%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Zhuxin%20Aniversary.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1736713155920,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Zhuxin_%28Emberwisp_Mystic%29.jpg/revision/latest?cb=20241229022651",
+      "name": "Emberbwisp Mystic",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Zhuxin_%28Emberwisp_Mystic%29.jpg/revision/latest?cb=20241229022651",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ZHUXIN%20STARLIGHT%20TO%20PACE.zip",
+            "targetCategory": -2,
+            "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 1736713181569,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20ZHUXIN%20ANNIV.jpg",
+      "name": "P.ACE Zhuxin",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20ZHUXIN%20ANNIV.jpg",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1756745888716,
+      "type": "9th Pace"
+    }
+  ]
+}

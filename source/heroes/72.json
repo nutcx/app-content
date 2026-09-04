@@ -1,0 +1,159 @@
+{
+  "heroId": 72,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
+      "name": "Lord Wraith",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20BASIC%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20THAMUZ%20BASIC%20TO%20NEXUS%20SEA.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Thamuz_%28Liquid_Fire%29.jpg/revision/latest?cb=20200512123744",
+      "name": "Liquid Fire",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Thamuz_%28Liquid_Fire%29.jpg/revision/latest?cb=20200512123744",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20ELITE%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20ELITE%20TO%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Thamuz_%28Lord_Lava%3B_unreleased_revamp%29.jpg/revision/latest?cb=20250629033052",
+      "name": "Lord Lava",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20250917080630",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/THAMUZ%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20KUNGFU%20PANDA%20DEFAULT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/THAMUZ%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FIX%20THAMUZ%20NEXUS%20SEA.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727377188168,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Thamuz_%28Abyssal_Reaper%29.jpg/revision/latest?cb=20200512123650",
+      "name": "Abyssal Reaper",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Thamuz_%28Abyssal_Reaper%29.jpg/revision/latest?cb=20200512123650",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20SPECIAL%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 1727377202962,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Thamuz_%28General_Kai%29.jpg/revision/latest?cb=20220804115108",
+      "name": "General Kai",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Thamuz_%28General_Kai%29.jpg/revision/latest?cb=20220804115108",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20KUNGFU%20PANDA%20TO%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727377211564,
+      "type": "Kung Fu Panda"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Thamuz_%28Sanctified_Flame%29.jpg/revision/latest?cb=20230825080356",
+      "name": "Sanctified Flame",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Thamuz_%28Sanctified_Flame%29.jpg/revision/latest?cb=20230825080356",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20STARLIGHT%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20STARLIGHT%20TO%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727377235549,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "name": "The Annihilator",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20THAMUZ%20NEXUS%20SEA.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1756746127998,
+      "type": "Nexus Sea"
+    }
+  ]
+}

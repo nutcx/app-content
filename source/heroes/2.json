@@ -1,0 +1,199 @@
+{
+  "heroId": 2,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Balmond_%28Power_Source%29.jpg/revision/latest?cb=20200606083654",
+      "name": "Power Source",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Balmond_%28Power_Source%29.jpg/revision/latest?cb=20200606083654",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/BALMOND%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BALMOND%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BALMOND%20BASIC%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BAMOND%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Balmond_%28Savage_Hunter%29.jpg/revision/latest?cb=20200606084003",
+      "name": "Savage Hunter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Balmond_%28Savage_Hunter%29.jpg/revision/latest?cb=20200606084003",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/BALMOND%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Balmond%20Savage%20Hunter%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BALMOND%20ELITE%20SVAGE%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Balmond_%28Ghoul%27s_Fury%29.jpg/revision/latest?cb=20200606083741",
+      "name": "Ghoul Fury",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Balmond_%28Ghoul%27s_Fury%29.jpg/revision/latest?cb=20200606083741",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/BALMOND%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Balmond%20Elite%20Ghouls%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BALMOND%20ELITE%20GHOUL%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Balmond_%28Savage_Pointguard%29.jpg/revision/latest?cb=20200606083850",
+      "name": "PointGuard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Balmond_%28Savage_Pointguard%29.jpg/revision/latest?cb=20200606083850",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/BALMOND%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BALMOND%20SPECIAL%20POINTGUARD%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Balmond_%28Bloody_Beast%29.jpg/revision/latest?cb=20210823114425",
+      "name": "Bloody Beast",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20251110110543",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1021.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BALMOND%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BALMOND%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BALMOND%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/O14%20Balmond%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BALMOND%20X%20BIG%20SMOKE.zip",
+            "targetCategory": 2,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727163145444,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Balmond_%28God_of_Mountains%29.jpg/revision/latest?cb=20211215200445",
+      "name": "God of Mountains",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727163161106,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Balmond_%28Bioroid%29.jpg/revision/latest?cb=20220402034119",
+      "name": "Bioroid",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb=20220525164316",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727163176926,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Balmond_%28Infernal_Warlord%29.jpg/revision/latest?cb=20230810191314",
+      "name": "Infernal Warlord",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727163223607,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Balmond_%28Razor_Edge%29.jpg/revision/latest?cb=20250216044444",
+      "name": "Razor Edge",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Balmond_%28Razor_Edge%29.jpg/revision/latest?cb=20250216044444",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/BALMOND%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/BALMOND%20SPECIAL%20RZOREDGE%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1728901998890,
+      "type": "Special"
+    },
+    {
+      "category": 2,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BALMOND%20X%20BIGSMOKE.jpg",
+      "name": "Big Smoke",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BALMOND%20X%20BIGSMOKE.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1771718186366,
+      "type": "Weird"
+    }
+  ]
+}

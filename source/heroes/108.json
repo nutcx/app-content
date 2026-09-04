@@ -1,0 +1,88 @@
+{
+  "heroId": 108,
+  "skins": [
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Aulus_%28Warrior_of_Ferocity%29.jpg/revision/latest?cb=20211213141917",
+      "name": "Warrior of Ferocity",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/AULUS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/AULUS%20NORMAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/AULUS%20ELITE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/AULUS%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Aulus%20Season.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727162425754,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Aulus_%28Berserker%29.jpg/revision/latest?cb=20210906163845",
+      "name": "Berserker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/AULUS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aulus%20Basic%20to%20ELITE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727162433619,
+      "type": "Normal"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Aulus_%28Barren_Pioneer%29.jpg/revision/latest?cb=20221228191312",
+      "name": "Barren Pioneer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727162453952,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Aulus_%28War_Lion%29.png/revision/latest?cb=20221227130745",
+      "name": "War Lion",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1084-portrait.png/revision/latest?cb=20221216103149",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727162465211,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Aulus_%28Ironmane_Reaver%29.jpg/revision/latest?cb=20240831031242",
+      "name": "Ironmane Reaver",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero1085-portrait.png/revision/latest?cb=20240920034710",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727162501949,
+      "type": "Season34"
+    }
+  ]
+}

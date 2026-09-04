@@ -1,0 +1,214 @@
+{
+  "heroId": 61,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Chang%27e_%28Moonstruck%29.jpg/revision/latest?cb=20180604072054",
+      "name": "Moonstruck",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Chang%27e_%28Moonstruck%29.jpg/revision/latest?cb=20180604072054",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/change_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/ChangE/Chang.E.Luckybox.Revamp.Script.Basic.-.Nutx.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHANGE%20BASIC%20TO%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Change%20Elite%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Change%20Basic%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Chang%27e_%28Crimson_Moon%29.jpg/revision/latest?cb=20200427093655",
+      "name": "Crimson Moon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Chang%27e_%28Crimson_Moon%29.jpg/revision/latest?cb=20200427093655",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/change_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHANGE%20ELITE%20TO%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Change%20Elite%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Change%20Elite%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Chang%27e_%28Floral_Elfo%29.jpg/revision/latest?cb=20210129135549",
+      "name": "Floral Elfo",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Chang%27e_%28Floral_Elfo%29.jpg/revision/latest?cb=20210129135549",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/change_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHANGE%20SPECIAL%20TO%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Change%20Special%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Chang%27e_%28Moon_Palace_Immortal%29.jpg/revision/latest?cb=20200427092750",
+      "name": "Moon Palace Immortal",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero611-portrait.png/revision/latest?cb=20240121134835",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/change_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/ChangE/Chang.E.Luckybox.Revamp.Script.Default.-.Nutx.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CHANGE%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/change_def_epicvine.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHANGE%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Change%20LunarFest.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CHANGE%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 1727236346084,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Chang%27e_%28Lunar_Magic%29.jpg/revision/latest?cb=20200606084724",
+      "name": "Lunar Magic",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest?cb=20220525165543",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727236365167,
+      "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Chang%27e_%28Strawberry_Parfait%29.jpg/revision/latest?cb=20210117022240",
+      "name": "Strawberry Parfait",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero616-portrait.png/revision/latest?cb=20220525165544",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHANGE%20STARLIGHT%20TO%20SANRIO.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHANGE%20STARLIGHT%20TO%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727236379386,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Chang%27e_%28Vine_Cradle%29.jpg/revision/latest?cb=20220115052941",
+      "name": "Vine Cradle",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero617-portrait.png/revision/latest?cb=20220525165545",
+      "skinId": 5,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHANGE%20EPIC%20TO%20SANRIO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727236399881,
+      "type": "Epic"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Chang%27e_%28Moon_Artist%29.jpg/revision/latest?cb=20220216164736",
+      "name": "Moon Artist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest?cb=20220525165546",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727236405550,
+      "type": "Sanrio Characters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chang%27e_%28New_Moon%29.jpg/revision/latest?cb=20230308110809",
+      "name": "New Moon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero619-portrait.png/revision/latest?cb=20221216103139",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727236410369,
+      "type": "LunarFest"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Chang%27e_%28Tech_Tensai%29.jpg/revision/latest?cb=20240126073209",
+      "name": "Tech Tensai",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest?cb=20240130070359",
+      "skinId": 8,
+      "source": null,
+      "timestamp": 1727236414396,
+      "type": "Aspirants"
+    }
+  ]
+}

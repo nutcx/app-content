@@ -1,0 +1,363 @@
+{
+  "heroId": 79,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Granger_%28Bardic_Whisper%29.jpg/revision/latest?cb=20211010075700",
+      "name": "Bardic Whisper",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Granger_%28Bardic_Whisper%29.jpg/revision/latest?cb=20211010075700",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Normal%20FX%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Normal%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Normal%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J17%20GRANGER%20BASIC%20TO%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Normal%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Normal%20to%20Valentine.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20BASIC%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GRANGER%20BASIC%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Granger_%28Doomsday_Terminator%29.jpg/revision/latest?cb=20211010075422",
+      "name": "Doomsday Terminator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Granger_%28Doomsday_Terminator%29.jpg/revision/latest?cb=20211010075422",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Elite%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J17%20GRANGER%20ELITE%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Elite%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20ELITE%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GRANGER%20ELITE%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Granger_%28Death_Chanter%29.jpg/revision/latest?cb=20211010075210",
+      "name": "Death Chanter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png/revision/latest?cb=20240922103730",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Granger%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/Mexi23/Mm/raw/main/granger_def_LB.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/N10%20Granger%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F8%20Granger%20Legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J17%20GRANGER%20MEGATRON%20FIX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Granger%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20GRANGER%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/GRANGER%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20M7.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GRANGER%20SOUL%20VESSELS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Granger%20-%20Kisaki.zip",
+            "targetCategory": 1,
+            "targetSkinId": 30
+          },
+          {
+            "archive": "https://github.com/azizboy2007/v22/raw/main/Thomas%20Shelby.zip",
+            "targetCategory": 2,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727283590211,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Granger_%28Biosoldier%29.jpg/revision/latest?cb=20211010075513",
+      "name": "Biosoldier",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Granger_%28Biosoldier%29.jpg/revision/latest?cb=20211010075513",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Starlight%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Starlight%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20STARLIGHT%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727283604604,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Granger_%28Lightborn_-_Overrider%29.jpg/revision/latest?cb=20211010075446",
+      "name": "Lightborn - Override",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Granger_%28Lightborn_-_Overrider%29.jpg/revision/latest?cb=20211010075446",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20LIGHTBORN%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727283619400,
+      "type": "Lightborn"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Granger_%28Agent_Z%29.jpg/revision/latest?cb=20211215200940",
+      "name": "Agent Z",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Granger_%28Agent_Z%29.jpg/revision/latest?cb=20211215200940",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727283628645,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Granger_%28Starfall_Knight%29.jpg/revision/latest?cb=20211010075548",
+      "name": "Starfall Night",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Granger_%28Starfall_Knight%29.jpg/revision/latest?cb=20211010075548",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727283638399,
+      "type": "Legend"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Granger_%28Megatron%29.jpg/revision/latest?cb=20211010075603",
+      "name": "Megatron",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Granger_%28Megatron%29.jpg/revision/latest?cb=20211010075603",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727283665636,
+      "type": "Transformers"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Granger_%28Hellbringer%29.jpg/revision/latest?cb=20211221013521",
+      "name": "Hellbringer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Granger_%28Hellbringer%29.jpg/revision/latest?cb=20211221013521",
+      "skinId": 6,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Create%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20SPECIAL%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727283677591,
+      "type": "Create"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Granger_%28Exorcist_Granger%29.jpg/revision/latest?cb=20240520065747",
+      "name": "Exorcist Granger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Granger_%28Exorcist_Granger%29.jpg/revision/latest?cb=20240520065747",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727283696611,
+      "type": "Exorcists"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Granger_%28Alluring_Enigma%29.jpg/revision/latest?cb=20240213092822",
+      "name": "Alluring Enigma",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Granger_%28Alluring_Enigma%29.jpg/revision/latest?cb=20240213092822",
+      "skinId": 8,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Valentine%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20VALENTINE%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          }
+        ]
+      },
+      "timestamp": 1727283710657,
+      "type": "Valentine"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20GRANGER%20M7.jpg",
+      "name": "Thunder Ascendant",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20GRANGER%20M7.jpg",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1765181902909,
+      "type": "M7"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Granger_%28Cosmic_Finality%29.jpg/revision/latest?cb=20251130124747",
+      "name": "Cosmic Finality",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Granger_%28Cosmic_Finality%29.jpg/revision/latest?cb=20251130124747",
+      "skinId": 10,
+      "source": null,
+      "timestamp": 1765181907027,
+      "type": "Prime"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GRANGER%20SOULV.png",
+      "name": "Soul Vessels",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GRANGER%20SOULV.png",
+      "skinId": 11,
+      "source": null,
+      "timestamp": 1771312328144,
+      "type": "Soul Vessels"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20kisaki.jpeg",
+      "name": "Tetta Kisaki",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20kisaki.jpeg",
+      "skinId": 30,
+      "source": null,
+      "timestamp": 1728790915049,
+      "type": "Anime|TokyoRevenge"
+    },
+    {
+      "category": 2,
+      "landscape": "https://i.ibb.co/1MnQw47/Thomas.jpg",
+      "name": "Thomas Shelby",
+      "portrait": "https://i.ibb.co/1MnQw47/Thomas.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727960319517,
+      "type": "Weird"
+    }
+  ]
+}

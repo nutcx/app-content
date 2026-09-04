@@ -1,0 +1,239 @@
+{
+  "heroId": 89,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Wanwan_%28Darting_Star%29.jpg/revision/latest?cb=20200427120044",
+      "name": "Darting Star",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Wanwan_%28Darting_Star%29.jpg/revision/latest?cb=20200427120044",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/wan_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20BASIC%20TO%20MWORLD.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20BASIC%20TO%2011.11.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Wanwan%20Basic%20to%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Wanwan_%28Shoujo_Commander%29.jpg/revision/latest?cb=20200427114546",
+      "name": "Shouju Commander",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Wanwan_%28Shoujo_Commander%29.jpg/revision/latest?cb=20200427114546",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/wan_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Wanwan%20Elite%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20ELITE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20ELITE%20TO%20MWORLD.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20ELITE%20TO%2011.11.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Wanwan%20Elite%20to%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Wanwan_%28Agile_Tiger%29.jpg/revision/latest?cb=20200816043051",
+      "name": "Agile Tiger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png/revision/latest?cb=20250117142006",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/wan_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20Wanwan%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Wanwan%20E%20girl.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20MWORLD.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%2011.11.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Wanwan%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727378632112,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Wanwan_%28Teen_Pop%29.jpg/revision/latest?cb=20200801090948",
+      "name": "Teen Pop",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Wanwan_%28Teen_Pop%29.jpg/revision/latest?cb=20200801090948",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/wan_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20STARLIGHT%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20STARLIGHT%20TO%20MWORLD.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Wanwan%20Starlight%20to%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727378640274,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Wanwan_%28Pixel_Blast%29.jpg/revision/latest?cb=20211215193417",
+      "name": "Pixel Blast",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Wanwan_%28Pixel_Blast%29.jpg/revision/latest?cb=20211215193417",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727378647956,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Wanwan_%28E-girl%29.jpg/revision/latest?cb=20210814151605",
+      "name": "E Girl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Wanwan_%28E-girl%29.jpg/revision/latest?cb=20210814151605",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/wan_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20MPL%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20MPL%20TO%20MWORLD.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20MPL%20TO%2011.11.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727378657817,
+      "type": "mpl"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Wanwan_%28M-World_Wanwan%29.jpg/revision/latest?cb=20220408062529",
+      "name": "MWorld Wanwan",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Wanwan_%28M-World_Wanwan%29.jpg/revision/latest?cb=20220408062529",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20MWORLD%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/WANWAN%20MWORLD%20TO%2011.11.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Wanwan%20MWorld%20to%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727378667761,
+      "type": "MWorld"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Wanwan_%28Flying_Swallow%29.jpg/revision/latest?cb=20231029205754",
+      "name": "Flying Swallow",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Wanwan_%28Flying_Swallow%29.jpg/revision/latest?cb=20231029205754",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727378690174,
+      "type": "11.11"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/wanwan-summer-splash-6744643382-1280x720sr.jpg",
+      "name": "Summer Splash",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/wanwan-summer-splash-6744643382-1280x720sr.jpg",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1752801679903,
+      "type": "Summer"
+    }
+  ]
+}

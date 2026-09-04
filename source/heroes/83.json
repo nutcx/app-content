@@ -1,0 +1,157 @@
+{
+  "heroId": 83,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/X.Borg_%28Blue_Storm%29.jpg/revision/latest?cb=20200427091448",
+      "name": "Blue Storm",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/X.Borg_%28Blue_Storm%29.jpg/revision/latest?cb=20200427091448",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/XBORG%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Xborg%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Xborg%20Basic%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Xborg%20Basic%20to%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F7%20XBORG%20BASIC%20TO%20MCGG.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/X.Borg_%28Moto_Drifter%29.jpg/revision/latest?cb=20200427091153",
+      "name": "Moto Drifter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/X.Borg_%28Moto_Drifter%29.jpg/revision/latest?cb=20200427091153",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/XBORG%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Xborg%20Elite%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Xborg%20Elite%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Xborg%20Elite%20to%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/X.Borg_%28Firaga_Armor%29.jpg/revision/latest?cb=20231009020959",
+      "name": "Firaga Armor",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20230826055048",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/XBORG%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/fighterD/raw/main/xb_def_starN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/XBORG%2011.11.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Xborg%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F7%20XBORG%20MCGG.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/Xborg%20Metro%20Zero.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 1727378877234,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/X.Borg_%28Graffiti_Fashion%29.jpg/revision/latest?cb=20200601090004",
+      "name": "Graffiti Fashion",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/X.Borg_%28Graffiti_Fashion%29.jpg/revision/latest?cb=20200601090004",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727378899993,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/X.Borg_%28Tesla_Maniac%29.jpg/revision/latest?cb=20211215020408",
+      "name": "Tesla Maniac",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/X.Borg_%28Tesla_Maniac%29.jpg/revision/latest?cb=20211215020408",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727378908074,
+      "type": "11.11"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/X.Borg_%28Bumblebee%29.jpg/revision/latest?cb=20211215015544",
+      "name": "Bumblebee",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/X.Borg_%28Bumblebee%29.jpg/revision/latest?cb=20211215015544",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727378915539,
+      "type": "Transformers"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20XB%20MCGG.jpg",
+      "name": "Pecados Rioter",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20XB%20MCGG.jpg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1740338711886,
+      "type": "MCGG"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1120098919994100.jpeg",
+      "name": "Invoker's Frame",
+      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1120098919994100.jpeg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1754320499023,
+      "type": "Metro Zero"
+    }
+  ]
+}

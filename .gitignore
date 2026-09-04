@@ -1,0 +1,11 @@
+# Generated local work
+.work/
+
+# Release signing material must never be committed.
+.keys/
+*.pem
+*.key
+
+# Interrupted downloads or publications
+*.tmp
+*.download

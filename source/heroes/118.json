@@ -1,0 +1,98 @@
+{
+  "heroId": 118,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Joy_%28Feline_Ranger%29.jpg/revision/latest?cb=20221205091859",
+      "name": "Feline Ranger",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Joy_%28Feline_Ranger%29.jpg/revision/latest?cb=20221205091859",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Joy%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20JOY%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Joy_%28Flash_of_Miracle%29.png/revision/latest?cb=20221024200222",
+      "name": "Flash of Miracle",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20240501100807",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Joy%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Joy%20Elite.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Joy%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Joy%20Champion.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Joy%20Neobeast.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727363108494,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Joy_%28Royal_Protector%29.jpg/revision/latest?cb=20240411082143",
+      "name": "Royal Protector",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Joy_%28Royal_Protector%29.jpg/revision/latest?cb=20240411082143",
+      "skinId": 1,
+      "source": null,
+      "timestamp": 1727363128081,
+      "type": "Elite"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20JOY%20STARLIGHT.jpg",
+      "name": "Exostar Scout",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20JOY%20STARLIGHT.jpg",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1741503498234,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20JOY%20CHAMPION.jpg",
+      "name": "Onic PH",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20JOY%20CHAMPION.jpg",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1756746144689,
+      "type": "Champion"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20JOY%20NEOBEAST.png",
+      "name": "Neobeast Joy",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20JOY%20NEOBEAST.png",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1773494432257,
+      "type": "Neobeast"
+    }
+  ]
+}

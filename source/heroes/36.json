@@ -1,0 +1,161 @@
+{
+  "heroId": 36,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Aurora_%28Nature%27s_Throne%29.jpg/revision/latest?cb=20241128083651",
+      "name": "Nature Throne",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Aurora_%28Nature%27s_Throne%29.jpg/revision/latest?cb=20241128083651",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aurora%20Basic%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20AURORA%20BASIC%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aurora%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Aurora_%28Maiden_of_the_Glacier%29.jpg/revision/latest?cb=20240131121029",
+      "name": "Maiden of the Glacier",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20240131102638",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/AURORA%20LUNAR%20FEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Aurora%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20AURORA%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AURORA%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Aurora%20X%20Aokiji%20Onepiece.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1727162669423,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Heartbreak_Empress_wall.png/revision/latest?cb=20180529055107",
+      "name": "Heartbreak Empress",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero363-portrait.png/revision/latest?cb=20240212112411",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aurora%20Starlight%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20AURORA%20STARLIGHT%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727162676835,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Foxy_Lady_%28revamp%29_wall.jpg/revision/latest?cb=20220213165648",
+      "name": "Foxy Lady",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero364-portrait.png/revision/latest?cb=20220525165103",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20AURORA%20LUNAR%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 1727162684585,
+      "type": "LunarFest"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Aurora_Aquarius_Revamped.jpg/revision/latest?cb=20230508131315",
+      "name": "Aquarius",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest?cb=20240212110806",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727162692584,
+      "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20AURORA.png",
+      "name": "Kula Diamond",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20AURORA.png",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727162697528,
+      "type": "King of Fighters"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/FB_IMG_1727684487684.jpg",
+      "name": "Veil of the Celestials",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/FB_IMG_1727684487684.jpg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727162710667,
+      "type": "Collector"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20AURORA%20X%20ONEPIECE.jpg",
+      "name": "Aokiji",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20AURORA%20X%20ONEPIECE.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1773068103217,
+      "type": "Anime|OnePiece"
+    }
+  ]
+}

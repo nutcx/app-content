@@ -1,0 +1,186 @@
+{
+  "heroId": 12,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Bruno_%28Vanguard_Elite%29.png/revision/latest?cb=20180612072100",
+      "name": "Vanguard Elite",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Bruno_%28Vanguard_Elite%29.png/revision/latest?cb=20180612072100",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Bruno%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bruno%20Elite%20Vanguard%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bruno%20Elite%20Vanguard%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bruno%20Elite%20Vanguard%20to%20HALOSTRIKE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Bruno_%28Street_Football%29.jpg/revision/latest?cb=20201119070651",
+      "name": "Street Football",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Bruno_%28Street_Football%29.jpg/revision/latest?cb=20201119070651",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Bruno%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bruno%20St%20Fotball%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Bruno_%28Mech_Protector%29.jpg/revision/latest?cb=20231009020353",
+      "name": "The Protector",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20240605133847",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Bruno%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/BRUNO%20SPECIAL%20BEST%20DJ.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Bruno%20The%20Falcon(Special).zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/BRUNO%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/V40script/raw/main/Bruno%20starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/BRUNO%20NEYMAR%20JR(halo%20strike)%201.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Bruno%20NeymarJR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Bruno.Collector.Script.Replace.Default.Unfinished.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          }
+        ]
+      },
+      "timestamp": 1727229694256,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(92).jpeg",
+      "name": "Best DJ",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(92).jpeg",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Bruno%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bruno%20Best%20DJ%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bruno%20Best%20DJ%20to%20HALOSTRIKE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 1727229822538,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Bruno_%28The_Falcon%29.jpg/revision/latest?cb=20210726042236",
+      "name": "The Falcon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest?cb=20220525164551",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727229828001,
+      "type": "Special"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Bruno_%28Firebolt%29.jpg/revision/latest?cb=20220226091107",
+      "name": "Firebolt",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest?cb=20220525164552",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1727229832900,
+      "type": "Dawning Stars"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Bruno_%28Street_Hype%29.jpg/revision/latest?cb=20240122031638",
+      "name": "Street Hype",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest?cb=20240114091333",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1727229837930,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Bruno_%28Halo_Striker%29.jpg/revision/latest?cb=20221111142411",
+      "name": "Halo Striker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
+      "skinId": 6,
+      "source": null,
+      "timestamp": 1727230018069,
+      "type": "Neymar Jr"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Bruno_%28Neymar_Jr%29.jpg/revision/latest?cb=20221111142415",
+      "name": "Neymar Jr",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero129-portrait.png/revision/latest?cb=20221103134235",
+      "skinId": 7,
+      "source": null,
+      "timestamp": 1727230025406,
+      "type": "Neymar Jr"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/1788083275192.jpg",
+      "name": "The Purifier",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/1788083275192.jpg",
+      "skinId": 9,
+      "source": null,
+      "timestamp": 1788083355422,
+      "type": "Collector"
+    }
+  ]
+}

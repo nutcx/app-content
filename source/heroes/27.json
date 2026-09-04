@@ -1,0 +1,234 @@
+{
+  "heroId": 27,
+  "skins": [
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Sun_%28Battle_Buddha%29.jpg/revision/latest?cb=20231104052143",
+      "name": "Battle Buddha",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Sun_%28Battle_Buddha%29.jpg/revision/latest?cb=20231104052143",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20ELITE%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Sun%20Elite%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20ELITE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20Sun%20Elite%20to%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/CCTitans/Sun.Collector.Titan.Replace.Elite.-.K4IJ1.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Sun_%28Street_Legend%29.jpg/revision/latest?cb=20231104051956",
+      "name": "Street Legend",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Sun_%28Street_Legend%29.jpg/revision/latest?cb=20231104051956",
+      "skinId": 2,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Sun%20Special%20Street%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20SUN%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20Sun%20StreetLeg%20to%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Sun_%28Celestial_Outlaw%29.jpg/revision/latest?cb=20231104052016",
+      "name": "Celestial Outlaw",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Sun_%28Celestial_Outlaw%29.jpg/revision/latest?cb=20231104052016",
+      "skinId": 3,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20CELESTIALOUT%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20CELESTIALOUT%20TO%20LUNAR%20FEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Sun_%28Rock_Star%29.jpg/revision/latest?cb=20231104051945",
+      "name": "Rock Star",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Sun_%28Rock_Star%29.jpg/revision/latest?cb=20231104051945",
+      "skinId": 4,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20SPECIAL%20ROCK%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20Sun%20RockStar%20to%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Sun_%28Monkey_King%29.jpg/revision/latest?cb=20240202094809",
+      "name": "Monkey King",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146",
+      "skinId": 0,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20Sun%20Annual%20Star.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/CCTitans/Sun.Collector.Titan.Replace.Default.-.K4IJ1.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Sun%20%C3%97%20Naruto.zip",
+            "targetCategory": 1,
+            "targetSkinId": 20
+          }
+        ]
+      },
+      "timestamp": 1727376853827,
+      "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Sun_%28Simian_Curse%29.jpg/revision/latest?cb=20231104052006",
+      "name": "Simian Curse",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Sun_%28Simian_Curse%29.jpg/revision/latest?cb=20231104052006",
+      "skinId": 1,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20STARLIGHT%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 1727376865802,
+      "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sun_%28Spring_Blessings%29.jpg/revision/latest?cb=20231104052030",
+      "name": "Spring Blessings",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sun_%28Spring_Blessings%29.jpg/revision/latest?cb=20231104052030",
+      "skinId": 2,
+      "source": null,
+      "timestamp": 1727376877048,
+      "type": "LunarFest"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Sun_%28Wicked_Flames%29.jpg/revision/latest?cb=20220630091238",
+      "name": "Wicked Flames",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Sun_%28Wicked_Flames%29.jpg/revision/latest?cb=20220630091238",
+      "skinId": 3,
+      "source": null,
+      "timestamp": 1727376887829,
+      "type": "Collector"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Sun%20Collector.jpeg",
+      "name": "Queller of Chaos",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Sun%20Collector.jpeg",
+      "skinId": 4,
+      "source": null,
+      "timestamp": 1760855970226,
+      "type": "Annual Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/sun-titans-collector-skin-v0-j5zdgc6b87ch1.jpeg",
+      "name": "Celestial Rebel",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/sun-titans-collector-skin-v0-j5zdgc6b87ch1.jpeg",
+      "skinId": 5,
+      "source": null,
+      "timestamp": 1784419308506,
+      "type": "Collector Titans"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_180354.jpg",
+      "name": "Naruto",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_180354.jpg",
+      "skinId": 20,
+      "source": null,
+      "timestamp": 1727812672714,
+      "type": "Anime|Naruto"
+    }
+  ]
+}
