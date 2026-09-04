@@ -21,7 +21,7 @@
   "statistics": {
     "correctedBackupArchives": 1,
     "correctedMalformedSchemeArchives": 1,
-    "correctedRouteArchives": 24,
+    "correctedRouteArchives": 25,
     "correctedUpgradeDataBaseIds": 1,
     "correctedUpgradeDataHeroes": 19,
     "correctedUpgradeDataNames": 159,
@@ -38,7 +38,7 @@
     "replacedUpgradeSourceIds": 176,
     "replacedUpgradeTargetIds": 1092,
     "resolvedBackupArchiveConflicts": 1,
-    "resolvedRouteConflicts": 24,
+    "resolvedRouteConflicts": 25,
     "selectedUpgradeDataRetainedCategories": 29,
     "skinRouteCandidates": 813,
     "unmatchedUpgradeSources": 273,

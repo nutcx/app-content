@@ -372,7 +372,7 @@
     {
       "heroId": 74,
       "path": "heroes/74.json",
-      "sha256": "48935b090950f814682b88872ff6d55f71a0f65ae25a7024f6a91bb6eeea8444"
+      "sha256": "2784d9c9962ee4dec757c091236dc890aa1b3ce7100103373c3b7b074f9cc676"
     },
     {
       "heroId": 75,
@@ -657,7 +657,7 @@
   ],
   "migrationReport": {
     "path": "migration-report.json",
-    "sha256": "c404e0a5f6a49f8f6808d831cec4f7c236a15f8ae1c00adc682d56f31cdcd772"
+    "sha256": "7051e338c82836c852333658633c53f8f144d7da62db18d7ba9b82b928663fc1"
   },
   "migrationReview": {
     "path": "migration-review.json",
