@@ -8,7 +8,7 @@ byte.
 There is deliberately no schema-v1 compatibility reader. IDs are nonnegative signed
 32-bit integers, categories and preparation types are signed 32-bit integers,
 timestamps are nonnegative signed 64-bit integers, and archive values are either
-empty strings or safe relative/HTTP(S) ZIP references.
+empty strings or absolute HTTPS URLs whose path ends in `.zip`.
 
 ## `heroes.json`
 
