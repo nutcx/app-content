@@ -1,8 +1,4 @@
 {
-  "battleEffects": {
-    "path": "battle-effects.json",
-    "sha256": "54044406c73d7c88761425651988bf106600a914feac2f0bb1af985119ba48f2"
-  },
   "heroes": [
     {
       "heroId": 1,
@@ -657,18 +653,18 @@
   ],
   "migrationReport": {
     "path": "migration-report.json",
-    "sha256": "7051e338c82836c852333658633c53f8f144d7da62db18d7ba9b82b928663fc1"
+    "sha256": "8ea8c98e62b551deea67cfd0a9a1e06b679de63a859c7c28aabc0f008b563d7f"
   },
   "migrationReview": {
     "path": "migration-review.json",
-    "sha256": "458939175ccdf6a1774de02c18fbb294bcbd01aa0b06e2a6da08ed107e2f2d6b"
+    "sha256": "cd72f7cf2945c66f808a7f06ae92312f999a1fef299ed48f3f33044ea1bfddb1"
   },
   "preparations": {
     "path": "preparations.json",
-    "sha256": "f378b7621d7b245dcb7ef9bb5194561fe10f1a432b4074f1253f6fa01eabce13"
+    "sha256": "351ba05c0676261589dc3896a128d8306057a7ee79829936299c32ec3b843ac2"
   },
   "publishable": true,
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "skinTags": {
     "path": "skin-tags.json",
     "sha256": "bf68e16a6bc64128c039c0f397c56092c19430661d31156b4db7aa5646b85331"

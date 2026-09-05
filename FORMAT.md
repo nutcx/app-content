@@ -68,10 +68,9 @@ compression would not strictly reduce an entry's size.
 
 Each entry's uncompressed payload is the exact UTF-8 JSON document consumed by the
 application. The bundle does not contain another archive or an extracted canonical
-repository tree. Container version 1 uses these four logical entries:
+repository tree. Content schema 3 uses these three logical entries:
 
 ```text
-battle-effects.json
 heroes.json
 preparations.json
 skin-tags.json
@@ -84,12 +83,12 @@ resulting JSON bytes directly. No filesystem extraction is required.
 Migration reports, editor review files, Git metadata, and signing secrets are not
 runtime entries.
 
-Version 1 content bundles contain exactly these four unique, case-sensitive entry
+Schema 3 content bundles contain exactly these three unique, case-sensitive entry
 paths. Their JSON contracts are defined in [PAYLOADS.md](PAYLOADS.md).
 
 ## Version 1 limits
 
-- Required runtime entries: exactly the four paths above; the binary parser rejects
+- Required runtime entries: exactly the three paths above; the binary parser rejects
   declared counts above 64 before allocating directory records.
 - UTF-8 entry path: at most 1,024 bytes.
 - Directory: at most 65,536 bytes.
@@ -209,8 +208,8 @@ The immutable version manifest identifies the bundle:
   "release": 1001,
   "revision": 0,
   "formatVersion": "1.0",
-  "schemaVersion": 2,
-  "minimumAppVersionCode": 6,
+  "schemaVersion": 3,
+  "minimumAppVersionCode": 7,
   "asset": {
     "path": "versions/1001.0/assets/Document.mlbytes",
     "size": 123456,

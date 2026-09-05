@@ -1,7 +1,6 @@
 {
   "blockers": [],
   "inputCounts": {
-    "battleEffects": 161,
     "preparations": 26,
     "skins": 943,
     "tags": 16,
@@ -9,7 +8,6 @@
     "upgradeSkins": 504
   },
   "outputCounts": {
-    "battleEffects": 161,
     "heroes": 130,
     "preparations": 26,
     "skins": 1257,
@@ -17,7 +15,7 @@
     "upgradeRoutes": 2154
   },
   "publishable": true,
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "statistics": {
     "correctedBackupArchives": 1,
     "correctedMalformedSchemeArchives": 1,
@@ -32,9 +30,8 @@
     "imageDisambiguatedMatches": 16,
     "matchedUpgradeSources": 231,
     "matchedUpgradeTargets": 1310,
-    "normalizedGithubBlobArchives": 5,
-    "normalizedSignedPreparationTypes": 1,
-    "omittedInvalidArchives": 103,
+    "normalizedGithubBlobArchives": 4,
+    "omittedInvalidArchives": 102,
     "replacedUpgradeSourceIds": 176,
     "replacedUpgradeTargetIds": 1092,
     "resolvedBackupArchiveConflicts": 1,
@@ -3478,21 +3475,12 @@
       "source": "upgradeData"
     },
     {
-      "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20M4%20Glory.gif",
-      "effectType": 5,
-      "issue": "invalidArchiveOmitted",
-      "kind": "battleEffect",
-      "name": "M4 Glory",
-      "row": 127
-    },
-    {
       "archive": ".",
       "issue": "invalidArchiveOmitted",
       "kind": "preparationItem",
       "name": "Seal of Anvil",
-      "preparationId": 4,
+      "preparationId": 6,
       "preparationName": "M1 Glory 2019",
-      "preparationType": 1,
       "row": 7
     },
     {
@@ -3500,9 +3488,8 @@
       "issue": "invalidArchiveOmitted",
       "kind": "preparationItem",
       "name": "Seal of Anvil",
-      "preparationId": 7,
+      "preparationId": 9,
       "preparationName": "M2 Glory",
-      "preparationType": 1,
       "row": 10
     },
     {
@@ -3510,9 +3497,8 @@
       "issue": "invalidArchiveOmitted",
       "kind": "preparationItem",
       "name": "Seal of Anvil",
-      "preparationId": 11,
+      "preparationId": 13,
       "preparationName": "5th Anniversary",
-      "preparationType": 1,
       "row": 14
     },
     {
@@ -3520,9 +3506,8 @@
       "issue": "invalidArchiveOmitted",
       "kind": "preparationItem",
       "name": "M4 Glory",
-      "preparationId": 0,
+      "preparationId": 25,
       "preparationName": "Classic",
-      "preparationType": 5,
       "row": 3
     }
   ]

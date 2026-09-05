@@ -7,55 +7,46 @@
         {
           "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Alucard_Nutx_Skin06.zip",
           "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/alu.png",
-          "name": "Obsidian Blade",
-          "type": 4
+          "name": "Obsidian Blade"
         },
         {
           "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Balancemagic_Nutx_Skin08.zip",
           "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/lunox.png",
-          "name": "Divine Goddess",
-          "type": 4
+          "name": "Divine Goddess"
         },
         {
           "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Freya_Nutx_Skin09.zip",
           "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/freya.png",
-          "name": "Galactic Vanquisher",
-          "type": 4
+          "name": "Galactic Vanquisher"
         },
         {
           "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Qiangseng_Nutx_Skin08.zip",
           "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/js.png",
-          "name": "Sovereign of Realms",
-          "type": 4
+          "name": "Sovereign of Realms"
         },
         {
           "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Shikongjianhao_Nutx_Skin03.zip",
           "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/saber.png",
-          "name": "Codename - Storm",
-          "type": 4
+          "name": "Codename - Storm"
         },
         {
           "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Franco_Nutx_Skin08.zip",
           "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/franco.png",
-          "name": "King of Hell",
-          "type": 4
+          "name": "King of Hell"
         },
         {
           "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Warrior_Nutx_Skin08.zip",
           "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/alpha.png",
-          "name": "Revenant of Roses",
-          "type": 4
+          "name": "Revenant of Roses"
         },
         {
           "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Mage_Nutx_Skin03.zip",
           "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/gord.png",
-          "name": "Conqueror",
-          "type": 4
+          "name": "Conqueror"
         }
       ],
       "name": "Radiant Kits - Default",
-      "preparationId": 0,
-      "type": -1
+      "preparationId": 0
     },
     {
       "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/Emote%20Backup.zip",
@@ -64,499 +55,416 @@
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/kof%20guinivere.zip",
           "image": "https://i.ibb.co/0F793yT/Feel-Energetic.png",
-          "name": "Feel Energetic!",
-          "type": 1
+          "name": "Feel Energetic!"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/kof%20karina.zip",
           "image": "https://i.ibb.co/dDxHq8V/Hello.png",
-          "name": "Hello!",
-          "type": 1
+          "name": "Hello!"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/kof%20chou.zip",
           "image": "https://i.ibb.co/4Vg21TX/Am-I-Scary.png",
-          "name": "Am I Scary?",
-          "type": 1
+          "name": "Am I Scary?"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/kof%20dyroth.zip",
           "image": "https://i.ibb.co/McRGBzx/Smile-Killer.png",
-          "name": "Smile Killer",
-          "type": 1
+          "name": "Smile Killer"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/kof%20gus.zip",
           "image": "https://i.ibb.co/KqMLRZj/Fire-Master.png",
-          "name": "Fire Master",
-          "type": 1
+          "name": "Fire Master"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/kof%20aurora.zip",
           "image": "https://i.ibb.co/7zy97Sz/Art-of-Ice.png",
-          "name": "Art of Ice",
-          "type": 1
+          "name": "Art of Ice"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/here%20come.zip",
           "image": "https://i.ibb.co/GvBqT5w/Here-I-come.png",
-          "name": "Here Come!",
-          "type": 1
+          "name": "Here Come!"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20shesh%20emote.zip",
           "image": "https://i.ibb.co/ZzrHQQ8/Shesh.png",
-          "name": "ECHO PH@2022",
-          "type": 1
+          "name": "ECHO PH@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v25/raw/main/PanikPanik.zip",
           "image": "https://i.ibb.co/1r7GxCk/panikpanik.png",
-          "name": "AURA ID@2022",
-          "type": 1
+          "name": "AURA ID@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v25/raw/main/rata%20woi.zip",
           "image": "https://i.ibb.co/wYHK5hC/rata-woi.png",
-          "name": "RBL ID@2022",
-          "type": 1
+          "name": "RBL ID@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v25/raw/main/Easy%20Bro.zip",
           "image": "https://i.ibb.co/p4vryJ8/Easy-bro.png",
-          "name": "BTR ID@2022",
-          "type": 1
+          "name": "BTR ID@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v26/raw/main/GEEK%20FAM%20-%20YOU%20SURE%20BRO.zip",
           "image": "https://github.com/azizboy2007/OptimizedImage/raw/main/Geek.png",
-          "name": "GEEK ID@2022",
-          "type": 1
+          "name": "GEEK ID@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v25/raw/main/gg%20ez.zip",
           "image": "https://github.com/azizboy2007/OptimizedImage/raw/main/1661678120772.png",
-          "name": "NXPE PH@2022",
-          "type": 1
+          "name": "NXPE PH@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v26/raw/main/RRQ%20ID%202022.zip",
           "image": "https://github.com/azizboy2007/OptimizedImage/raw/main/RRQ.png",
-          "name": "RRQ ID@2022",
-          "type": 1
+          "name": "RRQ ID@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v26/raw/main/Tutor%20Dee.zip",
           "image": "https://github.com/azizboy2007/OptimizedImage/raw/main/Evos.png",
-          "name": "EVOS ID@2022",
-          "type": 1
+          "name": "EVOS ID@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v26/raw/main/ONIC%20INDONESIA%20-%20SEHAT%20NGAB.zip",
           "image": "https://i.ibb.co/LYHYR6d/ONIC-ID-2022.png",
-          "name": "ONIC ID@2022",
-          "type": 1
+          "name": "ONIC ID@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v25/raw/main/de%20de%20Turo%20De.zip",
           "image": "https://i.ibb.co/sKkV355/dede-turo-de.png",
-          "name": "AE ID@2022",
-          "type": 1
+          "name": "AE ID@2022"
         },
         {
           "archive": "https://github.com/azizboy2007/v26/raw/main/DOGE.zip",
           "image": "https://i.ibb.co/0sFSy1p/Doge.png",
-          "name": "Doge",
-          "type": 1
+          "name": "Doge"
         },
         {
           "archive": "https://github.com/azizboy2007/v26/raw/main/CHOOXTV.zip",
           "image": "https://i.ibb.co/m5j23q5/ChooxTv.png",
-          "name": "Choox Tv",
-          "type": 1
+          "name": "Choox Tv"
         },
         {
           "archive": "https://github.com/azizboy2007/v26/raw/main/ALKYUBI.zip",
           "image": "https://i.ibb.co/WGBTpDt/Al-Kyuubi.png",
-          "name": "Al Kyubi",
-          "type": 1
+          "name": "Al Kyubi"
         },
         {
           "archive": "https://github.com/azizboy2007/v25/raw/main/iiyak%20nayan.zip",
           "image": "https://i.ibb.co/8XcKqKm/Mock.png",
-          "name": "Iiyak nayan!",
-          "type": 1
+          "name": "Iiyak nayan!"
         },
         {
           "archive": "https://github.com/azizboy2007/v25/raw/main/Gfour.zip",
           "image": "https://i.ibb.co/VQsbDM3/Gosu-General-1.png",
-          "name": "Gosu General",
-          "type": 1
+          "name": "Gosu General"
         },
         {
           "archive": "https://github.com/azizboy2007/v25/raw/main/solo%20dazki%20dakondaki.zip",
           "image": "https://i.ibb.co/jg15fBS/Soloz.png",
-          "name": "Soloz",
-          "type": 1
+          "name": "Soloz"
         },
         {
           "archive": "https://github.com/azizboy2007/v26.2-/raw/main/Hold%20Up.zip",
           "image": "https://i.ibb.co/W2cCJ25/Hold-up.png",
-          "name": "Hold Up",
-          "type": 1
+          "name": "Hold Up"
         },
         {
           "archive": "https://github.com/azizboy2007/v26.2-/raw/main/sori%20uwu.zip",
           "image": "https://i.ibb.co/p45CTK1/Soriwuw.png",
-          "name": "Sorry Uwu",
-          "type": 1
+          "name": "Sorry Uwu"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20tnc%20hey%20you.zip",
           "image": "https://i.ibb.co/9h5V28n/Hart.png",
-          "name": "Iloveyou",
-          "type": 1
+          "name": "Iloveyou"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/Blacklist%20PH.zip",
           "image": "https://i.ibb.co/tqQXbjZ/Black-list.png",
-          "name": "2021@Blacklist PH",
-          "type": 1
+          "name": "2021@Blacklist PH"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/omega%20ph.zip",
           "image": "https://i.ibb.co/0sLJ9hq/Omega.png",
-          "name": "2021@OMEGA PH",
-          "type": 1
+          "name": "2021@OMEGA PH"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/rsg%20ph.zip",
           "image": "https://i.ibb.co/GVwsR1G/Rsg.png",
-          "name": "2021@ RSG PH",
-          "type": 1
+          "name": "2021@ RSG PH"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/nxpe%20ph.zip",
           "image": "https://i.ibb.co/T2LqWqG/Nxpe.png",
-          "name": "2021@ NXPE PH",
-          "type": 1
+          "name": "2021@ NXPE PH"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/tnc%20ph.zip",
           "image": "https://i.ibb.co/RvXs60D/Tnc.png",
-          "name": "2021@TNC PH",
-          "type": 1
+          "name": "2021@TNC PH"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/Bren%20PH.zip",
           "image": "https://i.ibb.co/pb4BFHk/Bren-Esport.png",
-          "name": "2021@BREN PH",
-          "type": 1
+          "name": "2021@BREN PH"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/onic%20ph.zip",
           "image": "https://i.ibb.co/TKgXds8/Onic.png",
-          "name": "2021@ONIC PH",
-          "type": 1
+          "name": "2021@ONIC PH"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/echo%20ph.zip",
           "image": "https://i.ibb.co/sPytQJf/Echo-Ph.png",
-          "name": "2021@ECHO PH",
-          "type": 1
+          "name": "2021@ECHO PH"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/altergo%20ego%20id.zip",
           "image": "https://i.ibb.co/LQGhSVx/AE-ID-2021.png",
-          "name": "Altergo Ego Id",
-          "type": 1
+          "name": "Altergo Ego Id"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/aura%20id.zip",
           "image": "https://i.ibb.co/r4dGcG6/AURA-ID-2021.png",
-          "name": "Aura ID",
-          "type": 1
+          "name": "Aura ID"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/btr%20id.zip",
           "image": "https://i.ibb.co/Mn5yZ4q/BTR-ID-2021.png",
-          "name": "BTR ID",
-          "type": 1
+          "name": "BTR ID"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/evos%20id.zip",
           "image": "https://i.ibb.co/rvQq8kw/EVOS-ID-2021.png",
-          "name": "EVOS ID",
-          "type": 1
+          "name": "EVOS ID"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/geek%20id.zip",
           "image": "https://i.ibb.co/wz6f5Gh/GEEK-ID-2021.png",
-          "name": "Geek Fam ID",
-          "type": 1
+          "name": "Geek Fam ID"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/rebellion%20id.zip",
           "image": "https://i.ibb.co/9H3BW9k/RBG-ID-2021.png",
-          "name": "Rebellion ID",
-          "type": 1
+          "name": "Rebellion ID"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/onic%20id.zip",
           "image": "https://i.ibb.co/qpmF07Q/ONIC-ID-2021.png",
-          "name": "ONIC ID",
-          "type": 1
+          "name": "ONIC ID"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/rrq%20id.zip",
           "image": "https://i.ibb.co/wrdBM9V/RRQ-ID-2021.png",
-          "name": "RRQ ID",
-          "type": 1
+          "name": "RRQ ID"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/Layla%20LOL.zip",
           "image": "https://i.ibb.co/ySXXJtk/LOL.png",
-          "name": "LOL",
-          "type": 1
+          "name": "LOL"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/Layla%20HeartBreaking.zip",
           "image": "https://i.ibb.co/YWsfF5j/Heartbreaking.png",
-          "name": "Heart Breaking",
-          "type": 1
+          "name": "Heart Breaking"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/Layla%20Carry%20me.zip",
           "image": "https://i.ibb.co/k5nkNYP/Carry-Me-to-the-End.png",
-          "name": "Carry Me",
-          "type": 1
+          "name": "Carry Me"
         },
         {
           "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/Layla%20HitMe.zip",
           "image": "https://i.ibb.co/0nvCZ9K/Come-Hit-Me.png",
-          "name": "Hit Me",
-          "type": 1
+          "name": "Hit Me"
         },
         {
           "archive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Emote%20-%20Be%20Happy.zip",
           "image": "https://i.ibb.co/LY4PBgm/Be-happy.png",
-          "name": "Be Happy",
-          "type": 1
+          "name": "Be Happy"
         },
         {
           "archive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Emote%20-%20Long%20Legged.zip",
           "image": "https://i.ibb.co/SyR8NWk/Long-Legged.png",
-          "name": "Long Legged",
-          "type": 1
+          "name": "Long Legged"
         },
         {
           "archive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Emote%20-%20Our%20Song.zip",
           "image": "https://i.ibb.co/y4rSGLQ/Our-Song.png",
-          "name": "Our Song",
-          "type": 1
+          "name": "Our Song"
         },
         {
           "archive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Emote%20-%20Welcome%20to%20my%20Realm.zip",
           "image": "https://i.ibb.co/9NSpVGr/Welcome-to-my-realm.png",
-          "name": "My Realm",
-          "type": 1
+          "name": "My Realm"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20eren%20emote.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG_20241026_053451_486.png",
-          "name": "Freedom!",
-          "type": 1
+          "name": "Freedom!"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20ITADORI.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/Ui_SD_gnf_0422-CAB-57e0d61d3b369a6800f767efa7fed4b6-12514033041653915582.png",
-          "name": "Delighted",
-          "type": 1
+          "name": "Delighted"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20SUKUNA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG_20241026_055144_479.png",
-          "name": "Let's Fight",
-          "type": 1
+          "name": "Let's Fight"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20JJK%20GOJO.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG_20241026_054359_058.png",
-          "name": "Nice Job!",
-          "type": 1
+          "name": "Nice Job!"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20MEGUMI.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG_20241026_054910_422.png",
-          "name": "Zip It!",
-          "type": 1
+          "name": "Zip It!"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20MEGUMI.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG_20241026_054731_179.png",
-          "name": "Melancholy",
-          "type": 1
+          "name": "Melancholy"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Gojo%20putanginanyo.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG_20241026_054359_058.png",
-          "name": "Put@ng Ina Nyo",
-          "type": 1
+          "name": "Put@ng Ina Nyo"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20Chou%20Itll%20Work.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20ITLL%20WORK.png",
-          "name": "It'll Work",
-          "type": 1
+          "name": "It'll Work"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20Anpu%20Sepuh.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20ANPU%20SEPUH.png",
-          "name": "Puh Sepuh",
-          "type": 1
+          "name": "Puh Sepuh"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/BINI%20Aiah.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/IMGBB%20AIAH.png",
-          "name": "BINI Aiah",
-          "type": 1
+          "name": "BINI Aiah"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/AAA%20KING%20FEAR%20ANO%20G.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/20241029_173953.png",
-          "name": "Ano G?",
-          "type": 1
+          "name": "Ano G?"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20DORA%20NERF.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/20241031_030328.png",
-          "name": "Doraemon Nerf",
-          "type": 1
+          "name": "Doraemon Nerf"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20NOBITA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/20241102_212457.png",
-          "name": "Nobita Nobi",
-          "type": 1
+          "name": "Nobita Nobi"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Slayer%20Imot.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/20241118_233014.png",
-          "name": "Slayer Imot",
-          "type": 1
+          "name": "Slayer Imot"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/EMOTI%20DUT%20PAPATAYINKITA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/20241031_060540.png",
-          "name": "Papatayin Kita!",
-          "type": 1
+          "name": "Papatayin Kita!"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/HINDE%20NKO%20KUP%40L.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/HINDI%20NAKO%20KUPAL.png",
-          "name": "Hindi Nako Kup@l",
-          "type": 1
+          "name": "Hindi Nako Kup@l"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/BOSSING%20EMOTE.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/IMGBB%20BOSSING.png",
-          "name": "Bossing!",
-          "type": 1
+          "name": "Bossing!"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Kupal%20Kaba.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/1730985498531.png",
-          "name": "Kup@l Kaba?",
-          "type": 1
+          "name": "Kup@l Kaba?"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20URADA%20ASAR%202025.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20ASAR.png",
-          "name": "ASAR V1",
-          "type": 1
+          "name": "ASAR V1"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/asar.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250201_134548.png",
-          "name": "ASAAAR!",
-          "type": 1
+          "name": "ASAAAR!"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/hapart.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250201_134446.png",
-          "name": "HAPART",
-          "type": 1
+          "name": "HAPART"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F1%20FIX%20URADA%20ASAR.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20ASARRRRR.png",
-          "name": "Urada - Asaar!",
-          "type": 1
+          "name": "Urada - Asaar!"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F1%20Ma%20Ano%20Ulam.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20MAANOULAM.png",
-          "name": "Ma Ano Ulam?",
-          "type": 1
+          "name": "Ma Ano Ulam?"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Ehey%20TikTok%20Reels.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Urada%20-%20Tiktok%20Reels.png",
-          "name": "TikTok Reels",
-          "type": 1
+          "name": "TikTok Reels"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20TLPH%202025.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Battle_Emote_-_TLPH-PH%402025.png/revision/latest?cb=20250321125127",
-          "name": "TLPH 2025",
-          "type": 1
+          "name": "TLPH 2025"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20TLID%202025.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Battle_Emote_-_TLID-ID%402025.png/revision/latest?cb=20250321125119",
-          "name": "TLID 2025",
-          "type": 1
+          "name": "TLID 2025"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20NAVI%20ID%202025.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Battle_Emote_-_NAVI-ID%402025.png/revision/latest?cb=20250321125119",
-          "name": "NAVI ID 2025",
-          "type": 1
+          "name": "NAVI ID 2025"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F21%20AkoSiRai.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20AkoSiRai.png",
-          "name": "Iam Rai",
-          "type": 1
+          "name": "Iam Rai"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F21%20NothingHappen.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20NothingHappen.png",
-          "name": "Nothing Happened!",
-          "type": 1
+          "name": "Nothing Happened!"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20AnoHindiNyokoMapipitas.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20AnoTrippings.png",
-          "name": "Are you okay?",
-          "type": 1
+          "name": "Are you okay?"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/BOSS%20Araayy%20kooh.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250615_213140.png",
-          "name": "Aray koh!",
-          "type": 1
+          "name": "Aray koh!"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/EMOTE%20KINGKONG.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20KINGKONG.png",
-          "name": "K1NG KONG",
-          "type": 1
+          "name": "K1NG KONG"
         }
       ],
       "name": "Genius!",
-      "preparationId": 0,
-      "type": 0
+      "preparationId": 1
     },
     {
       "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/KLASIK%20BACKUP.zip",
@@ -565,289 +473,241 @@
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/KLASIK%20SEAL%20OF%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil Crawlers",
-          "type": 1
+          "name": "Seal of Anvil Crawlers"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20DEWA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20DEWA.png",
-          "name": "DEWA",
-          "type": 1
+          "name": "DEWA"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ZZ%20Recall%20Evos.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20EVOS.png",
-          "name": "EVOS",
-          "type": 1
+          "name": "EVOS"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ZZ%20Recall%20FNOP.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FNOP.png",
-          "name": "FNOP",
-          "type": 1
+          "name": "FNOP"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/KLASIK%20RSG%20PH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RSG.png",
-          "name": "RSG",
-          "type": 1
+          "name": "RSG"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/KLASIK%20LTID.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLID.png",
-          "name": "TLID",
-          "type": 1
+          "name": "TLID"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/KLASIK%20RORA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RORA.png",
-          "name": "RORA",
-          "type": 1
+          "name": "RORA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20FCAP.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FCAP.png",
-          "name": "FCAP",
-          "type": 1
+          "name": "FCAP"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ZZ%20Recall%20Geek.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20GEEK.png",
-          "name": "GEEK",
-          "type": 1
+          "name": "GEEK"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ZZ%20Recall%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ZZ%20Recall%20TNC%20Recall.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TNC.png",
-          "name": "TNC",
-          "type": 1
+          "name": "TNC"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ZZ%20Recall%20Omega%20Recall.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20OMEGA.png",
-          "name": "Omega",
-          "type": 1
+          "name": "Omega"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ZZ%20Recall%20RBL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RBL.png",
-          "name": "RBL",
-          "type": 1
+          "name": "RBL"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Avatar%20of%20Time.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20AVATAR%20OF%20TIME.png",
-          "name": "Avatar of Time",
-          "type": 1
+          "name": "Avatar of Time"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20CyberDragon.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20CYBER%20DRAGON.png",
-          "name": "Cyber Dragon",
-          "type": 1
+          "name": "Cyber Dragon"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Dashing%20Cat.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20DASHING%20CAT.png",
-          "name": "Dashing Cat",
-          "type": 1
+          "name": "Dashing Cat"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Ducati.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20DUCATI.png",
-          "name": "Ducati",
-          "type": 1
+          "name": "Ducati"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Ethereal%20Butterfly.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20ETHEREAL%20BUTTERFLY.png",
-          "name": "Ethereal Butterfly",
-          "type": 1
+          "name": "Ethereal Butterfly"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Foreboding.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20FOREBODING.png",
-          "name": "Foreboding Return",
-          "type": 1
+          "name": "Foreboding Return"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Fortification.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20FORTIFICATION.png",
-          "name": "Fortification",
-          "type": 1
+          "name": "Fortification"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20KOF.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20KOF.png",
-          "name": "King of Fighter",
-          "type": 1
+          "name": "King of Fighter"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Neobeast.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20NEO%20BEAST.png",
-          "name": "Neo Beast",
-          "type": 1
+          "name": "Neo Beast"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Orochi.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20OROCHI.png",
-          "name": "Orochi",
-          "type": 1
+          "name": "Orochi"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Rythmetic%20Echo.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20RYTHMETIC%20ECHO.png",
-          "name": "Rythmetic Echo",
-          "type": 1
+          "name": "Rythmetic Echo"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/KLASIK%20SHADOW%20KNIGHT.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20SHADOW%20KNIGHT.png",
-          "name": "Shadow Knight",
-          "type": 1
+          "name": "Shadow Knight"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Shadow%20Wisdom.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20SHADOW%20WISDOM.png",
-          "name": "Shadow Wisdom",
-          "type": 1
+          "name": "Shadow Wisdom"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Snowman.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20SNOWMAN.png",
-          "name": "Snowman",
-          "type": 1
+          "name": "Snowman"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Super%20Return.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20SUPER%20RETURN.png",
-          "name": "Super Return",
-          "type": 1
+          "name": "Super Return"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20The%20Return%20of%20EXORCIST.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20THE%20RETURN%20OF%20KOF.png",
-          "name": "Return of Exorcist",
-          "type": 1
+          "name": "Return of Exorcist"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Wings%20of%20Judgment.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20WINGS%20OF%20JUDGEMENT.png",
-          "name": "Wings of Judgement",
-          "type": 1
+          "name": "Wings of Judgement"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Wonder%20Park.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20WONDERPARK.png",
-          "name": "Wonder Park",
-          "type": 1
+          "name": "Wonder Park"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Summer%20Gala.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20SUMMER%20GALA.png",
-          "name": "Summer Gala",
-          "type": 1
+          "name": "Summer Gala"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20DEFAULT%20KINSHIN.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20RECALL%20KINSHIN.png",
-          "name": "Kinshin",
-          "type": 1
+          "name": "Kinshin"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20CLASSIC%20TO%20HXH.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20HXH.png",
-          "name": "HXH",
-          "type": 1
+          "name": "HXH"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20CLASSIC%20TO%20CONVERGING%20BLADE.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20CONV%20BLADE.png",
-          "name": "Converg Blade",
-          "type": 1
+          "name": "Converg Blade"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20NEOBEAST%20V2.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20NEOBEAST%20V2.png",
-          "name": "Neobeast V2",
-          "type": 1
+          "name": "Neobeast V2"
         },
         {
           "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20NARUTO%20V1.zip",
           "image": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20IMG%20NARUTO.jpg",
-          "name": "MLBB x Naruto",
-          "type": 1
+          "name": "MLBB x Naruto"
         },
         {
           "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Recall%20Big%20SOAC.zip",
           "image": "https://github.com/azizboy2007/ZXHub-F1/raw/main/20250508_205038.png",
-          "name": "Big Seal of Anvil",
-          "type": 1
+          "name": "Big Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/SEAL%20ANVIL%20BIG%20TUNGTUNGSAHUR.zip",
           "image": "https://github.com/azizboy2007/ZXHub-F1/raw/main/20250511_043037.png",
-          "name": "Tung Tung Sahur",
-          "type": 1
+          "name": "Tung Tung Sahur"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20FIRECROWN%20CLASSIC.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ANNUAL%20STARLIGHT%20CLAASIC.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ANNUALSTAR.png",
-          "name": "AnnualStarlight",
-          "type": 1
+          "name": "AnnualStarlight"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20NAVI%20TO%20DEFAULT.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20NAVI.png",
-          "name": "Navi",
-          "type": 1
+          "name": "Navi"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20M6%20CLASSIC.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20M6.png",
-          "name": "M6",
-          "type": 1
+          "name": "M6"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20DASHING%20CAT%20CLASSIC.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20DASHINGCAT.png",
-          "name": "Dashing Cat",
-          "type": 1
+          "name": "Dashing Cat"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20CLASSIC.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20CLASSIC.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ZEUS%20TO%20CLASSIC.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ZEUS.png",
-          "name": "Zeus",
-          "type": 1
+          "name": "Zeus"
         }
       ],
       "name": "Classic",
-      "preparationId": 0,
-      "type": 1
+      "preparationId": 2
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -856,43 +716,36 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Light%20and%20Dark%20to%20FIRECROWN.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20LightDark%20to%20GEEKID.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20GEEK.png",
-          "name": "GEEKID",
-          "type": 1
+          "name": "GEEKID"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20LightDark%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20LightDark%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20LIGHTDARK%20TO%20NEOBEAST%20V2.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20NEOBEAST%20V2.png",
-          "name": "Neobeast V2",
-          "type": 1
+          "name": "Neobeast V2"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20LGHTDARK.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         }
       ],
       "name": "Light & Dark",
-      "preparationId": 1,
-      "type": 1
+      "preparationId": 3
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -901,61 +754,51 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Halloween%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Halloween%20to%20GEEKID.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20GEEK.png",
-          "name": "GEEKID",
-          "type": 1
+          "name": "GEEKID"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Halloween%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20HALLOWEEN%20TO%20HXH.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20HXH.png",
-          "name": "HXH",
-          "type": 1
+          "name": "HXH"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20HALLOWEEN%20TO%20NEOBEAST%20V2.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20NEOBEAST%20V2.png",
-          "name": "Neobeast V2",
-          "type": 1
+          "name": "Neobeast V2"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ANNUALSTARLGHT%20TO%20HALLOWEEN.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ANNUALSTAR.png",
-          "name": "Annual Starlight",
-          "type": 1
+          "name": "Annual Starlight"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20TO%20HALOWEEN.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20FIRECROWN%20TO%20HALLOWEEN.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ZEUS%20TO%20HALLOWEEN.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ZEUS.png",
-          "name": "Zeus",
-          "type": 1
+          "name": "Zeus"
         }
       ],
       "name": "Halloween",
-      "preparationId": 2,
-      "type": 1
+      "preparationId": 4
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -964,133 +807,111 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20FIRECROWN.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20EVOS.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20EVOS.png",
-          "name": "EVOS",
-          "type": 1
+          "name": "EVOS"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20FNOP.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FNOP.png",
-          "name": "FNOP",
-          "type": 1
+          "name": "FNOP"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20GEEKID.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20GEEK.png",
-          "name": "GEEKID",
-          "type": 1
+          "name": "GEEKID"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20RSG.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RSG.png",
-          "name": "RSG",
-          "type": 1
+          "name": "RSG"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20RORA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RORA.png",
-          "name": "RORA",
-          "type": 1
+          "name": "RORA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20DEWA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20DEWA.png",
-          "name": "DEWA",
-          "type": 1
+          "name": "DEWA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20SNOWMAN.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20SNOWMAN.png",
-          "name": "Snowman",
-          "type": 1
+          "name": "Snowman"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20FCAP.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FCAP.png",
-          "name": "FCAP",
-          "type": 1
+          "name": "FCAP"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrientalFg%20to%20RBL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RBL.png",
-          "name": "RBL",
-          "type": 1
+          "name": "RBL"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20Super%20Return.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20SUPER%20RETURN.png",
-          "name": "Super Return",
-          "type": 1
+          "name": "Super Return"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrientalFg%20to%20TLID.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLID.png",
-          "name": "TLID",
-          "type": 1
+          "name": "TLID"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20OrrientalFg%20to%20TNC.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TNC.png",
-          "name": "TNC",
-          "type": 1
+          "name": "TNC"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20OrrientalFg%20to%20KINSHIN.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20RECALL%20KINSHIN.png",
-          "name": "Kinshin",
-          "type": 1
+          "name": "Kinshin"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20ORRIENTALFG%20TO%20HXH.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20HXH.png",
-          "name": "HXH",
-          "type": 1
+          "name": "HXH"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20ORRIENTALFG%20TO%20CONVERGING%20BLADE.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20CONV%20BLADE.png",
-          "name": "Converg Blade",
-          "type": 1
+          "name": "Converg Blade"
         },
         {
           "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20ORIENTAL%20FG%20TO%20NARUTO.zip",
           "image": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20IMG%20NARUTO.jpg",
-          "name": "MLBB x Naruto",
-          "type": 1
+          "name": "MLBB x Naruto"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20M6%20TO%20ORIENTALFG.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20M6.png",
-          "name": "M6",
-          "type": 1
+          "name": "M6"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20ORIENTAL.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         }
       ],
       "name": "Oriental Fighter",
-      "preparationId": 3,
-      "type": 1
+      "preparationId": 5
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1099,13 +920,11 @@
         {
           "archive": "",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         }
       ],
       "name": "M1 Glory 2019",
-      "preparationId": 4,
-      "type": 1
+      "preparationId": 6
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1114,25 +933,21 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20515Party2021%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20515Party%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Party%20King%20to%20FIRECROWN.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         }
       ],
       "name": "Party King",
-      "preparationId": 5,
-      "type": 1
+      "preparationId": 7
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1141,37 +956,31 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Blazing%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Blazing%20West%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Blazing%20West%20to%20FIRECROWN.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20BLAZING%20WEST%20TO%20NEOBEAST%20V2.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20NEOBEAST%20V2.png",
-          "name": "Neobeast V2",
-          "type": 1
+          "name": "Neobeast V2"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20BLAZING.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spogebob",
-          "type": 1
+          "name": "Spogebob"
         }
       ],
       "name": "Blazing West",
-      "preparationId": 6,
-      "type": 1
+      "preparationId": 8
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1180,13 +989,11 @@
         {
           "archive": "",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         }
       ],
       "name": "M2 Glory",
-      "preparationId": 7,
-      "type": 1
+      "preparationId": 9
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1195,25 +1002,21 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20PartyStar%20to%20FIRECROWN.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20PartyKing515%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20PartyKing515%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         }
       ],
       "name": "Party Star",
-      "preparationId": 8,
-      "type": 1
+      "preparationId": 10
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1222,97 +1025,81 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Starwars%20to%20GEEK%20ID.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20GEEK.png",
-          "name": "GEEKID",
-          "type": 1
+          "name": "GEEKID"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Starwars%20to%20RSG.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RSG.png",
-          "name": "RSG",
-          "type": 1
+          "name": "RSG"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Starwars%20to%20FNOP.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FNOP.png",
-          "name": "FNOP",
-          "type": 1
+          "name": "FNOP"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/%20Recall%20Starwars%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Starwars%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Starwars%20to%20DEWA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20DEWA.png",
-          "name": "DEWA",
-          "type": 1
+          "name": "DEWA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Starwars%20to%20FIRECROWN.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Starwars%20to%20KINSHIN.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20RECALL%20KINSHIN.png",
-          "name": "Kinshin",
-          "type": 1
+          "name": "Kinshin"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20STARWARS%20TO%20NEOBEAST%20V2.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20NEOBEAST%20V2.png",
-          "name": "Neobeast v2",
-          "type": 1
+          "name": "Neobeast v2"
         },
         {
           "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20STARWARS%20TO%20NARUTO.zip",
           "image": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20IMG%20NARUTO.jpg",
-          "name": "MLBB x Naruto",
-          "type": 1
+          "name": "MLBB x Naruto"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALLANNUALSTAR%20TO%20STARWARS.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ANNUALSTAR.png",
-          "name": "Annual Starlight",
-          "type": 1
+          "name": "Annual Starlight"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20DASHING%20CAT%20TO%20STRWRS.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20DASHINGCAT.png",
-          "name": "Dashing Cat",
-          "type": 1
+          "name": "Dashing Cat"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20TO%20STARWARS.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ZEUS%20TO%20STARWARS.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ZEUS.png",
-          "name": "Zeus",
-          "type": 1
+          "name": "Zeus"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20STARWARS.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         }
       ],
       "name": "Starwars",
-      "preparationId": 9,
-      "type": 1
+      "preparationId": 11
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1321,19 +1108,16 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Transformer%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Transformer%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         }
       ],
       "name": "Transformer",
-      "preparationId": 10,
-      "type": 1
+      "preparationId": 12
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1342,43 +1126,36 @@
         {
           "archive": "",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%205TH%20ANNIV%20TO%20CONVERGING%20BLADE.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20CONV%20BLADE.png",
-          "name": "Converg Blade",
-          "type": 1
+          "name": "Converg Blade"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ANNUALSTAR%20TO%20ANNIV.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ANNUALSTAR.png",
-          "name": "Annual Starlight",
-          "type": 1
+          "name": "Annual Starlight"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20TO%20ANNIV.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/REVAMP%20FIRECROWN%20TO%205TH%20ANNIV.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ZEUS%20TO%205THANNIV.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ZEUS.png",
-          "name": "Zeus",
-          "type": 1
+          "name": "Zeus"
         }
       ],
       "name": "5th Anniversary",
-      "preparationId": 11,
-      "type": 1
+      "preparationId": 13
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1387,67 +1164,56 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M3%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M3%20to%20EVOS.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20EVOS.png",
-          "name": "EVOS",
-          "type": 1
+          "name": "EVOS"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M3%20to%20FNOP.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FNOP.png",
-          "name": "FNOP",
-          "type": 1
+          "name": "FNOP"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M3%20to%20RSG.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RSG.png",
-          "name": "RSG",
-          "type": 1
+          "name": "RSG"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M3%20to%20DEWA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20DEWA.png",
-          "name": "DEWA",
-          "type": 1
+          "name": "DEWA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20M3%20to%20KINSHIN.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20RECALL%20KINSHIN.png",
-          "name": "Kinshin",
-          "type": 1
+          "name": "Kinshin"
         },
         {
           "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20M3%20TO%20NARUTO.zip",
           "image": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20IMG%20NARUTO.jpg",
-          "name": "MLBB X Naruto",
-          "type": 1
+          "name": "MLBB X Naruto"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ZEUS%20TO%20M3.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ZEUS.png",
-          "name": "Zeus",
-          "type": 1
+          "name": "Zeus"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20TO%20M3.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20FIRECROWN%20TO%20M3.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         }
       ],
       "name": "M3 Glorious Return",
-      "preparationId": 12,
-      "type": 1
+      "preparationId": 14
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1456,37 +1222,31 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20515Shuttle%20to%20FIRECROWN.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20515Mworld%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20515MWorld%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20515%20TO%20NEOBEAST%20V2.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20NEOBEAST%20V2.png",
-          "name": "Neobeast V2",
-          "type": 1
+          "name": "Neobeast V2"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20515.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         }
       ],
       "name": "515 Shuttle!",
-      "preparationId": 13,
-      "type": 1
+      "preparationId": 15
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1495,115 +1255,96 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Atomic%20Pop%20to%20RSG.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RSG.png",
-          "name": "RSG",
-          "type": 1
+          "name": "RSG"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Atomic%20Pop%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Atomic%20Pop%20to%20GEEKID.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20GEEK.png",
-          "name": "GEEKID",
-          "type": 1
+          "name": "GEEKID"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Atomic%20to%20FNOP.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FNOP.png",
-          "name": "FNOP",
-          "type": 1
+          "name": "FNOP"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20AtomicPop%20to%20RORA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RORA.png",
-          "name": "RORA",
-          "type": 1
+          "name": "RORA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20AtomicPop%20to%20DEWA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20DEWA.png",
-          "name": "DEWA",
-          "type": 1
+          "name": "DEWA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20AtomicPop%20to%20TLPH.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20TLPH.png",
-          "name": "TLPH",
-          "type": 1
+          "name": "TLPH"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20AtomicPop%20to%20EVOS.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20EVOS.png",
-          "name": "EVOS",
-          "type": 1
+          "name": "EVOS"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20AtomicPop%20to%20KINSHIN.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20RECALL%20KINSHIN.png",
-          "name": "Kinshin",
-          "type": 1
+          "name": "Kinshin"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20ATOMIC%20TO%20HXH.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20HXH.png",
-          "name": "HXH",
-          "type": 1
+          "name": "HXH"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20ATOMIC%20POP%20TO%20NEOBEAST%20V2.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20NEOBEAST%20V2.png",
-          "name": "Neobeast V2",
-          "type": 1
+          "name": "Neobeast V2"
         },
         {
           "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20ATOMIC%20POP%20TO%20NARUTO.zip",
           "image": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20IMG%20NARUTO.jpg",
-          "name": "MLBB X Naruto",
-          "type": 1
+          "name": "MLBB X Naruto"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20FIRECROWN%20TO%20ATOMICPOP.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20M6%20TO%20ATOMIC.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20M6.png",
-          "name": "M6",
-          "type": 1
+          "name": "M6"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20TO%20ATOMICPOP.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20ATOMIC%20POP.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ZEUS%20TO%20ATOMICPOP.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ZEUS.png",
-          "name": "Zeus",
-          "type": 1
+          "name": "Zeus"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ANNUALSTAR%20TO%20ATOMICPOP.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ANNUALSTAR.png",
-          "name": "Annual Starlight",
-          "type": 1
+          "name": "Annual Starlight"
         }
       ],
       "name": "Atomic Pop",
-      "preparationId": 14,
-      "type": 1
+      "preparationId": 16
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1612,13 +1353,11 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Stellar%20Brilliance%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         }
       ],
       "name": "Stellar Briliance",
-      "preparationId": 15,
-      "type": 1
+      "preparationId": 17
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1627,97 +1366,81 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M4%20to%20DEWA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20DEWA.png",
-          "name": "DEWA",
-          "type": 1
+          "name": "DEWA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M4%20to%20FNOP.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FNOP.png",
-          "name": "FNOP",
-          "type": 1
+          "name": "FNOP"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M4%20to%20RORA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RORA.png",
-          "name": "RORA",
-          "type": 1
+          "name": "RORA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M4%20to%20RSG.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RSG.png",
-          "name": "RSG",
-          "type": 1
+          "name": "RSG"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M4%20to%20EVOS.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20EVOS.png",
-          "name": "EVOS",
-          "type": 1
+          "name": "EVOS"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M4%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20M4%20to%20KINSHIN.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20RECALL%20KINSHIN.png",
-          "name": "Kinshin",
-          "type": 1
+          "name": "Kinshin"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20M4%20TO%20HXH.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20HXH.png",
-          "name": "HXH",
-          "type": 1
+          "name": "HXH"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20M4%20TO%20NEOBEAST.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20NEOBEAST%20V2.png",
-          "name": "Neobeast V2",
-          "type": 1
+          "name": "Neobeast V2"
         },
         {
           "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20M4%20TO%20NARUTO.zip",
           "image": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20IMG%20NARUTO.jpg",
-          "name": "MLBB X Naruto",
-          "type": 1
+          "name": "MLBB X Naruto"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20NAVI%20TO%20M4.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20NAVI.png",
-          "name": "Navi",
-          "type": 1
+          "name": "Navi"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20M4.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20TO%20M4.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20FIRECROWN%20TO%20M4.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ZEUS%20TO%20M4.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ZEUS.png",
-          "name": "Zeus",
-          "type": 1
+          "name": "Zeus"
         }
       ],
       "name": "M4",
-      "preparationId": 16,
-      "type": 1
+      "preparationId": 18
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1726,85 +1449,71 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M5%20to%20DEWA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20DEWA.png",
-          "name": "DEWA",
-          "type": 1
+          "name": "DEWA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M5%20to%20EVOS.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20EVOS.png",
-          "name": "EVOS",
-          "type": 1
+          "name": "EVOS"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M5%20to%20RORA.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20RORA.png",
-          "name": "RORA",
-          "type": 1
+          "name": "RORA"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20M5%20to%20SEAL%20ANVIL.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20SEAL%20OF%20ANVIL.png",
-          "name": "Seal of Anvil",
-          "type": 1
+          "name": "Seal of Anvil"
         },
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20M5%20to%20KINSHIN.zip",
           "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20RECALL%20KINSHIN.png",
-          "name": "Kinshin",
-          "type": 1
+          "name": "Kinshin"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20M5%20TO%20HXH.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20HXH.png",
-          "name": "HXH",
-          "type": 1
+          "name": "HXH"
         },
         {
           "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20M5%20TO%20NEOBEAST%20V2.zip",
           "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/RECALL%20IMG%20NEOBEAST%20V2.png",
-          "name": "Neobeast V2",
-          "type": 1
+          "name": "Neobeast V2"
         },
         {
           "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20M5%20TO%20NARUTO.zip",
           "image": "https://github.com/azizboy2007/ZXHub-F1/raw/main/RECALL%20IMG%20NARUTO.jpg",
-          "name": "MLBB x Naruto",
-          "type": 1
+          "name": "MLBB x Naruto"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20NAVI%20TO%20M5.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20NAVI.png",
-          "name": "Navi",
-          "type": 1
+          "name": "Navi"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20TO%20M5.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20FIRECROWN%20TO%20M5.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20M5.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20ZEUS%20TO%20M5.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20ZEUS.png",
-          "name": "Zeus",
-          "type": 1
+          "name": "Zeus"
         }
       ],
       "name": "M5",
-      "preparationId": 17,
-      "type": 1
+      "preparationId": 19
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1813,31 +1522,26 @@
         {
           "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20Sparkle%20to%20EVOS.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20EVOS.png",
-          "name": "EVOS",
-          "type": 1
+          "name": "EVOS"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20DASHING%20CAT%20TO%20SPARKLE.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20DASHINGCAT.png",
-          "name": "Dashing Cat",
-          "type": 1
+          "name": "Dashing Cat"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20NAVI%20TO%20SPARK.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20NAVI.png",
-          "name": "Navi",
-          "type": 1
+          "name": "Navi"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20SPARKLE.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         }
       ],
       "name": "Sparkle",
-      "preparationId": 18,
-      "type": 1
+      "preparationId": 20
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1846,31 +1550,26 @@
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20NAVI%20TO%20M6.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20NAVI.png",
-          "name": "Navi",
-          "type": 1
+          "name": "Navi"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20M6.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20TO%20M6.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20FIRECROWN%20TO%20M6.zip",
           "image": "https://github.com/azizboy2007/CHIN-11/raw/main/RECALL%20FIRE%20CROWN.png",
-          "name": "Fire Crown",
-          "type": 1
+          "name": "Fire Crown"
         }
       ],
       "name": "M6",
-      "preparationId": 19,
-      "type": 1
+      "preparationId": 21
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1879,25 +1578,21 @@
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20DASHING%20CAT%20TO%20M7.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20DASHINGCAT.png",
-          "name": "Dashing Cat",
-          "type": 1
+          "name": "Dashing Cat"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20NAVI%20TO%20M7.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20NAVI.png",
-          "name": "Navi",
-          "type": 1
+          "name": "Navi"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SOULV%20TO%20M7.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SOULV.png",
-          "name": "Soul Vessels",
-          "type": 1
+          "name": "Soul Vessels"
         }
       ],
       "name": "M7",
-      "preparationId": 20,
-      "type": 1
+      "preparationId": 22
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1906,25 +1601,21 @@
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20DASHING%20CAT%20TO%20GOLDNMONTH.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20DASHINGCAT.png",
-          "name": "Dashing Cat",
-          "type": 1
+          "name": "Dashing Cat"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20NAVI%20TO%20GOLDEN%20MONTH.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20NAVI.png",
-          "name": "Navi",
-          "type": 1
+          "name": "Navi"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/RECALL%20SPONGEBOB%20TO%20GOLDENMONTH.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20RECALL%20SPONGEBOB.png",
-          "name": "Spongebob",
-          "type": 1
+          "name": "Spongebob"
         }
       ],
       "name": "Golden Month",
-      "preparationId": 21,
-      "type": 1
+      "preparationId": 23
     },
     {
       "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Elimination%20backup.zip",
@@ -1933,115 +1624,96 @@
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Elimination%20m2%20Bren.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/M2_Champion_Elimination_Effect.png/revision/latest?cb=20211204083823",
-          "name": "M2 Champion",
-          "type": 1
+          "name": "M2 Champion"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Elimination%20of%20the%20Storm.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Elimination_of_the_Storm_Elimination_Effect.png/revision/latest?cb=20211204050913",
-          "name": "Elimination of the Storm",
-          "type": 1
+          "name": "Elimination of the Storm"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Elimination%20of%20the%20Future.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Elimination_of_the_Future_Elimination_Effect.png/revision/latest?cb=20210712121922",
-          "name": "Elimination of Future",
-          "type": 1
+          "name": "Elimination of Future"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Elimination%20Enticing%20Takedown.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Enticing_Takedown_Elimination_Effect.png/revision/latest?cb=20220115045440",
-          "name": "Enticing Takedown",
-          "type": 1
+          "name": "Enticing Takedown"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Elimination%20Hello%20Kitty.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Knockout_Uh%2C_Next_Time_Elimination_Effect.png/revision/latest?cb=20220307094032",
-          "name": "Knockout: Uh, Next Time",
-          "type": 1
+          "name": "Knockout: Uh, Next Time"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Elimination%20of%20The%20Sword.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/The_Elimination_of_The_Sword_Elimination_Effect.png/revision/latest?cb=20211204075444",
-          "name": "Elimination of the Sword",
-          "type": 1
+          "name": "Elimination of the Sword"
         },
         {
           "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Elimination%20Moscov%20Abyss.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Foreboding_Takedown_Elimination_Effect.png/revision/latest?cb=20220626162857",
-          "name": "Foreboding Takedown",
-          "type": 1
+          "name": "Foreboding Takedown"
         },
         {
           "archive": "https://github.com/azizboy2007/Elimination/raw/main/Script%20Elimination%20%5BStar%202020%5D.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/STAR_Elimination_Effect.png/revision/latest?cb=20211204051059",
-          "name": "STAR",
-          "type": 1
+          "name": "STAR"
         },
         {
           "archive": "https://github.com/azizboy2007/Elimination/raw/main/Script%20Elimination%20Abyss%5BAlpha%5D.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Darkest_Takedown_Elimination_Effect.png/revision/latest?cb=20211204083749",
-          "name": "Darkest Takedown",
-          "type": 1
+          "name": "Darkest Takedown"
         },
         {
           "archive": "https://github.com/azizboy2007/Elimination/raw/main/Script%20Elimination%20Super%20Kill%20%5BBruno%5D.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Super_Kill_Elimination_Effect.png/revision/latest?cb=20211204080135",
-          "name": "Super Kill",
-          "type": 1
+          "name": "Super Kill"
         },
         {
           "archive": "https://github.com/azizboy2007/Elimination/raw/main/Script%20Elimination%20%5BCalamity%20End%5D.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Calamity%27s_End_Elimination_Effect.png/revision/latest?cb=20211204075354",
-          "name": "Calamity Ends",
-          "type": 1
+          "name": "Calamity Ends"
         },
         {
           "archive": "https://github.com/azizboy2007/Elimination/raw/main/Script%20Elimination%20%5BM3%5D.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/M3_Glorious_Takedown_Elimination_Effect.png/revision/latest?cb=20211204083758",
-          "name": "M3 Takedown",
-          "type": 1
+          "name": "M3 Takedown"
         },
         {
           "archive": "https://github.com/azizboy2007/Elimination/raw/main/Script%20Elimination%20Knockout%5BTransformer%5D.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Knockout_Elimination_Effect.png/revision/latest?cb=20210907052054",
-          "name": "Knockout",
-          "type": 1
+          "name": "Knockout"
         },
         {
           "archive": "https://github.com/azizboy2007/Elimination/raw/main/Script%20Elimination%20Thunder%20Strikes%20%5BChou%5D.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Thunder_Strikes_Elimination_Effect.png/revision/latest?cb=20211204075809",
-          "name": "Thunder Strikes",
-          "type": 1
+          "name": "Thunder Strikes"
         },
         {
           "archive": "https://github.com/azizboy2007/Elimination/raw/main/Script%20Elimination%20%5BMCL%5D.zip",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Champion%27s_Domination_Elimination_Effect.png/revision/latest?cb=20211204075721",
-          "name": "Champion Domination",
-          "type": 1
+          "name": "Champion Domination"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ELIMINATION%20KINSHIN%20DENSETSU.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/20260208_221253.jpg",
-          "name": "Kinshin Densetsu",
-          "type": 1
+          "name": "Kinshin Densetsu"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ELIMINATION%20SPONGE%20TO%20CLASSIC.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ELIM%20SPONGEBOB.png",
-          "name": "SpongeBob",
-          "type": 1
+          "name": "SpongeBob"
         },
         {
           "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ELIMINATION%20SHADOW%20WISDOM.zip",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ELIMIN%20SHADOW%20WISDOM.png",
-          "name": "Shadow Wisdom",
-          "type": 1
+          "name": "Shadow Wisdom"
         }
       ],
       "name": "Classic",
-      "preparationId": 0,
-      "type": 3
+      "preparationId": 24
     },
     {
       "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Backup%20Trail.zip",
@@ -2050,145 +1722,121 @@
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Fied%20Hunter.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Field%20Hunter.gif",
-          "name": "Field Hunter",
-          "type": 1
+          "name": "Field Hunter"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Modena%20Butterfly.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Modena%20Butterfly.gif",
-          "name": "Modena Butterfly",
-          "type": 1
+          "name": "Modena Butterfly"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Obsidian%20Blade.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Obsidian%20Blade.gif",
-          "name": "Obsidian Blade",
-          "type": 1
+          "name": "Obsidian Blade"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Conqueror.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Conqueror.gif",
-          "name": "Conqueror",
-          "type": 1
+          "name": "Conqueror"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Cosmic%20Gleam.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Cosmic%20Gleam.gif",
-          "name": "Cosmic Gleam",
-          "type": 1
+          "name": "Cosmic Gleam"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/King%20of%20Hell.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20King%20of%20Hell.gif",
-          "name": "King of Hell",
-          "type": 1
+          "name": "King of Hell"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Stellar%20Briliance.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Stellar%20Briliance.gif",
-          "name": "Stellar Briliance",
-          "type": 1
+          "name": "Stellar Briliance"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Iron%20Hound.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Iron%20Hound.gif",
-          "name": "Iron Hound",
-          "type": 1
+          "name": "Iron Hound"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Star%20Eforcer.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Star%20Eforcer.gif",
-          "name": "Star Enforcer",
-          "type": 1
+          "name": "Star Enforcer"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Ancient%20Warden.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Ancient%20Warden.gif",
-          "name": "Ancient Warden",
-          "type": 1
+          "name": "Ancient Warden"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Sanctified%20Flame.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Sanctified%20Flame.gif",
-          "name": "Sanctified Flame",
-          "type": 1
+          "name": "Sanctified Flame"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Violet%20Spear.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Violet%20Spear.gif",
-          "name": "Violet Spear",
-          "type": 1
+          "name": "Violet Spear"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Crimson%20Lion.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Crimson%20Warrior.gif",
-          "name": "Crimson Warrior",
-          "type": 1
+          "name": "Crimson Warrior"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Eternal%20Guardian.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Eternal%20Guardian.gif",
-          "name": "Eternal Guardian",
-          "type": 1
+          "name": "Eternal Guardian"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Devine%20Goddess.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Devine%20Goddess.gif",
-          "name": "Devine Goddess",
-          "type": 1
+          "name": "Devine Goddess"
         },
         {
           "archive": "",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20M4%20Glory.gif",
-          "name": "M4 Glory",
-          "type": 1
+          "name": "M4 Glory"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Infernal%20Blaze.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Infernal%20Blaze.gif",
-          "name": "Infernal Blaze",
-          "type": 1
+          "name": "Infernal Blaze"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/M6%20Glory.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20M6%20Glory.gif",
-          "name": "M6 Glory",
-          "type": 1
+          "name": "M6 Glory"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Cosmic%20Blaze.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Claude%20Prime.gif",
-          "name": "Claude Prime",
-          "type": 1
+          "name": "Claude Prime"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Johnson%20Legend%20Trail.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Johnson%20Legend.gif",
-          "name": "Johnson Legend",
-          "type": 1
+          "name": "Johnson Legend"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Melissa%20Starlight.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20Melissa%20Starlight.gif",
-          "name": "Melissa Starlight",
-          "type": 1
+          "name": "Melissa Starlight"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/M5%20Glory.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20M5%20Glory.gif",
-          "name": "M5 Glory",
-          "type": 1
+          "name": "M5 Glory"
         },
         {
           "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Yuzhong%20Prime.zip",
           "image": "https://github.com/azizboy2007/Trail-Effect/raw/main/IMG%20YuzhongPrime.gif",
-          "name": "Yuzhong Prime",
-          "type": 1
+          "name": "Yuzhong Prime"
         }
       ],
       "name": "Classic",
-      "preparationId": 0,
-      "type": 5
+      "preparationId": 25
     }
   ]
 }

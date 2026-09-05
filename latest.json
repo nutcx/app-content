@@ -1,14 +1,14 @@
 {
   "pointerFormat": 1,
   "channel": "stable",
-  "contentVersion": "1001.1",
+  "contentVersion": "1001.2",
   "release": 1001,
-  "revision": 1,
+  "revision": 2,
   "manifest": {
-    "path": "versions/1001.1/manifest.json",
+    "path": "versions/1001.2/manifest.json",
     "size": 344,
-    "sha256": "0eee772f91cd995720d38fbf3c2213004dc77c5a60ab8346ca1a966cda27a5f6",
-    "signaturePath": "versions/1001.1/manifest.json.sig"
+    "sha256": "c99acbdd29e074f3e9245383733aaf0ea5b64b86aaec2d94c6908e8d5318ff65",
+    "signaturePath": "versions/1001.2/manifest.json.sig"
   },
-  "publishedAt": "2026-09-04T19:18:05Z"
+  "publishedAt": "2026-09-05T02:13:19Z"
 }

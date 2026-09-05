@@ -1,0 +1,14 @@
+{
+  "manifestFormat": 1,
+  "contentVersion": "1001.2",
+  "release": 1001,
+  "revision": 2,
+  "formatVersion": "1.0",
+  "schemaVersion": 3,
+  "minimumAppVersionCode": 7,
+  "asset": {
+    "path": "versions/1001.2/assets/Document.mlbytes",
+    "size": 111674,
+    "sha256": "48c482874b524cc2e806e7367b3f318f30aaebe32c4f396ce7b2dee2845ea882"
+  }
+}
