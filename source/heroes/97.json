@@ -6,37 +6,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
       "name": "Vessel of Pride",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "skinId": 1,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "name": "Vessel of Pride",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "skinId": 2,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "name": "Vessel of Pride",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "skinId": 4,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "name": "Vessel of Pride",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "skinId": 7,
+      "skinId": 1268944472,
       "source": null,
       "timestamp": 0,
       "type": ""
@@ -46,14 +16,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Benedetta%28Honor_Blade%29.jpg/revision/latest?cb=20230926170412",
       "name": "Honor Blade",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Benedetta%28Honor_Blade%29.jpg/revision/latest?cb=20230926170412",
-      "skinId": 1,
+      "skinId": 1415413887,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20BASIC%20TO%20SOULV.zip",
             "targetCategory": -2,
-            "targetSkinId": 7
+            "targetSkinId": 1268944472
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20STARLIGHT.zip",
@@ -161,7 +131,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20STARLIGHT%20TO%20SOULV.zip",
             "targetCategory": -2,
-            "targetSkinId": 2
+            "targetSkinId": 1268944472
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20STARLIGHT%20TO%20COVENANT.zip",
@@ -185,7 +155,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20COLLECTOR%20TO%20SOULV.zip",
             "targetCategory": -2,
-            "targetSkinId": 1
+            "targetSkinId": 1268944472
           }
         ]
       },
@@ -204,7 +174,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20SPECIAL%20TO%20SOULV.zip",
             "targetCategory": -2,
-            "targetSkinId": 4
+            "targetSkinId": 1268944472
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Special%20to%20STARLIGHT.zip",
@@ -253,7 +223,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20MPL%20TO%20SOULV.zip",
             "targetCategory": -2,
-            "targetSkinId": 2
+            "targetSkinId": 1268944472
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20MPL%20TO%20COVENANT.zip",

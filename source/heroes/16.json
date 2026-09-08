@@ -6,17 +6,31 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
       "name": "Glorious General",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
-      "skinId": 2,
-      "source": null,
+      "skinId": 1219514193,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Glorius%20to%20LuckyBox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Glorius%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
       "timestamp": 0,
       "type": ""
     },
     {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
-      "name": "Glorious General",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
-      "skinId": 3,
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Zilong_%28Dragon_of_Prosperity%29.jpg/revision/latest?cb=20240126073647",
+      "name": "Lunar Fest",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Zilong_%28Dragon_of_Prosperity%29.jpg/revision/latest?cb=20240126073647",
+      "skinId": 494687747,
       "source": null,
       "timestamp": 0,
       "type": ""
@@ -26,19 +40,19 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Zilong_%28Elite_Warrior%29.jpg/revision/latest?cb=20240128041555",
       "name": "Elite Warrior",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Zilong_%28Elite_Warrior%29.jpg/revision/latest?cb=20240128041555",
-      "skinId": 1,
+      "skinId": 952628480,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Glorius.zip",
             "targetCategory": -2,
-            "targetSkinId": 3
+            "targetSkinId": 1219514193
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20LunarFest.zip",
             "targetCategory": -1,
-            "targetSkinId": 5
+            "targetSkinId": 494687747
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Christmas.zip",
@@ -65,14 +79,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Zilong_%28Blazing_Lancer%29.png/revision/latest?cb=20180525135543",
       "name": "Blazing Lancer",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Zilong_%28Blazing_Lancer%29.png/revision/latest?cb=20180525135543",
-      "skinId": 2,
+      "skinId": 1285713344,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Blazing%20to%20Glorius.zip",
             "targetCategory": -2,
-            "targetSkinId": 3
+            "targetSkinId": 1219514193
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Blazing%20to%20LuckyBox.zip",
@@ -96,34 +110,10 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
-      "name": "Glorious General",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
-      "skinId": 3,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Glorius%20to%20LuckyBox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Glorius%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Loyal_Spear_wall.jpg/revision/latest?cb=20240303042358",
       "name": "Loyal Spear",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Loyal_Spear_wall.jpg/revision/latest?cb=20240303042358",
-      "skinId": 4,
+      "skinId": 1707260220,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
         "upgrades": [
@@ -144,16 +134,6 @@
           }
         ]
       },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Zilong_%28Dragon_of_Prosperity%29.jpg/revision/latest?cb=20240126073647",
-      "name": "Lunar Fest",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Zilong_%28Dragon_of_Prosperity%29.jpg/revision/latest?cb=20240126073647",
-      "skinId": 5,
-      "source": null,
       "timestamp": 0,
       "type": ""
     },
@@ -267,7 +247,7 @@
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Christmas%20to%20Glorius.zip",
             "targetCategory": -2,
-            "targetSkinId": 2
+            "targetSkinId": 1219514193
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Christmas%20to%20Collector.zip",

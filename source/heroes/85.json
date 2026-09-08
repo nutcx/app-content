@@ -3,17 +3,27 @@
   "skins": [
     {
       "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Dyrroth_%28Gon%29.jpg/revision/latest?cb=20241208031721",
+      "name": "Gon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Dyrroth_%28Gon%29.jpg/revision/latest?cb=20241208031721",
+      "skinId": 250560970,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dyrroth_%28Scalebore%29.jpg/revision/latest?cb=20200427090440",
       "name": "Scalebore",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dyrroth_%28Scalebore%29.jpg/revision/latest?cb=20200427090440",
-      "skinId": 1,
+      "skinId": 700015498,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F3%20DYROTH%20BASIC%20TO%20HXH.zip",
             "targetCategory": -1,
-            "targetSkinId": 4
+            "targetSkinId": 250560970
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20BASIC%20TO%20KOF.zip",
@@ -32,16 +42,6 @@
           }
         ]
       },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Dyrroth_%28Gon%29.jpg/revision/latest?cb=20241208031721",
-      "name": "Gon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Dyrroth_%28Gon%29.jpg/revision/latest?cb=20241208031721",
-      "skinId": 4,
-      "source": null,
       "timestamp": 0,
       "type": ""
     },
@@ -151,7 +151,7 @@
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20HXH.zip",
             "targetCategory": -1,
-            "targetSkinId": 4
+            "targetSkinId": 250560970
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20STARLIGHT%20TO%20KOF.zip",

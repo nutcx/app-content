@@ -3,39 +3,10 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Harith_%28Savannah_Cat%29.jpg/revision/latest?cb=20240326070101",
-      "name": "Savannah Cat",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Harith_%28Savannah_Cat%29.jpg/revision/latest?cb=20240326070101",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Champion.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Basic%20to%20HXH(New).zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Harith_%28Stardust%29.jpg/revision/latest?cb=20240326070113",
       "name": "Stardust",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Harith_%28Stardust%29.jpg/revision/latest?cb=20240326070113",
-      "skinId": 2,
+      "skinId": 1646279735,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
         "upgrades": [
@@ -51,6 +22,35 @@
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Elite%20to%20HXH(New).zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Harith_%28Savannah_Cat%29.jpg/revision/latest?cb=20240326070101",
+      "name": "Savannah Cat",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Harith_%28Savannah_Cat%29.jpg/revision/latest?cb=20240326070101",
+      "skinId": 1713571140,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Champion.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Basic%20to%20HXH(New).zip",
             "targetCategory": 0,
             "targetSkinId": 6
           }

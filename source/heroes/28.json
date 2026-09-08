@@ -6,19 +6,19 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Alpha_%28Fierce_Dragon%29.jpg/revision/latest?cb=20210519161243",
       "name": "Fierce of Dragon",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Alpha_%28Fierce_Dragon%29.jpg/revision/latest?cb=20210519161243",
-      "skinId": 1,
+      "skinId": 494269734,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20COLL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 4
-          },
-          {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20ALPHA%20BASIC%20TO%20NEWEPIC.zip",
             "targetCategory": -1,
-            "targetSkinId": 6
+            "targetSkinId": 1020709830
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20COLL.zip",
+            "targetCategory": -1,
+            "targetSkinId": 1074891229
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20LUCKYBOX.zip",
@@ -47,30 +47,10 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
-      "name": "Mecha King Perseus",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
-      "skinId": 2,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
-      "name": "Mecha King Perseus",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
-      "skinId": 4,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALPHA%20NEWEPIC.jpg",
       "name": "Dreaming Monarch",
       "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALPHA%20NEWEPIC.jpg",
-      "skinId": 6,
+      "skinId": 1020709830,
       "source": null,
       "timestamp": 0,
       "type": ""
@@ -80,7 +60,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
       "name": "Mecha King Perseus",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
-      "skinId": 7,
+      "skinId": 1074891229,
       "source": {
         "backupArchive": "",
         "upgrades": [
@@ -184,7 +164,7 @@
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Season%20to%20COLL.zip",
             "targetCategory": -1,
-            "targetSkinId": 2
+            "targetSkinId": 1074891229
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Season%20to%20ABYSS.zip",
@@ -213,7 +193,7 @@
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Special%20to%20COLL.zip",
             "targetCategory": -1,
-            "targetSkinId": 2
+            "targetSkinId": 1074891229
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Special%20to%20ABYSS.zip",

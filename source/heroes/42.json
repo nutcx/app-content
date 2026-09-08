@@ -3,34 +3,10 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
-      "name": "Naughty Joker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
       "name": "Royal Magister",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
-      "skinId": 2,
+      "skinId": 388130112,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
         "upgrades": [
@@ -41,6 +17,30 @@
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Starlight%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
+      "name": "Naughty Joker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
+      "skinId": 815032019,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20COLL.zip",
             "targetCategory": 0,
             "targetSkinId": 3
           }

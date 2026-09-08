@@ -3,39 +3,10 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Layla_%28Green_Flash%29.jpg/revision/latest?cb=20201107031121",
-      "name": "Greenflash",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Layla_%28Green_Flash%29.jpg/revision/latest?cb=20201107031121",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Basic%20to%20ASPIRANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Basic%20to%20STARLIGHT(TWILIGHT).zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Basic%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Layla_%28Bunny_Babe%29.jpg/revision/latest?cb=20201107034343",
       "name": "Bunny Babe",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Layla_%28Bunny_Babe%29.jpg/revision/latest?cb=20201107034343",
-      "skinId": 2,
+      "skinId": 902173968,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
         "upgrades": [
@@ -54,7 +25,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Layla_%28Classic_Malefic_Gunner%29.jpg/revision/latest?cb=20201107040255",
       "name": "Classic Malefic Gunner",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Layla_%28Classic_Malefic_Gunner%29.jpg/revision/latest?cb=20201107040255",
-      "skinId": 3,
+      "skinId": 1248190800,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
         "upgrades": [
@@ -65,6 +36,35 @@
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Classic%20MG%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Layla_%28Green_Flash%29.jpg/revision/latest?cb=20201107031121",
+      "name": "Greenflash",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Layla_%28Green_Flash%29.jpg/revision/latest?cb=20201107031121",
+      "skinId": 1828663665,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Basic%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Basic%20to%20STARLIGHT(TWILIGHT).zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Layla%20Basic%20to%20COLLECTOR.zip",
             "targetCategory": 0,
             "targetSkinId": 7
           }

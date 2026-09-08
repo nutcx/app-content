@@ -6,7 +6,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Zhuxin_P.ACE_Zhuxin.png/revision/latest?cb=20251208014921",
       "name": "P.A.C.E Zhuxin",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Zhuxin_P.ACE_Zhuxin.png/revision/latest?cb=20251208014921",
-      "skinId": 1,
+      "skinId": 1105567477,
       "source": null,
       "timestamp": 0,
       "type": ""
@@ -16,14 +16,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Zhuxin_%28Ethereal_Serenity%29.jpg/revision/latest?cb=20250304064647",
       "name": "Ethereal Serenity",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Zhuxin_%28Ethereal_Serenity%29.jpg/revision/latest?cb=20250304064647",
-      "skinId": 1,
+      "skinId": 478252575,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ZHUXIN%20BASIC%20TO%20PACE.zip",
             "targetCategory": -2,
-            "targetSkinId": 1
+            "targetSkinId": 1105567477
           }
         ]
       },
@@ -66,7 +66,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ZHUXIN%20STARLIGHT%20TO%20PACE.zip",
             "targetCategory": -2,
-            "targetSkinId": 1
+            "targetSkinId": 1105567477
           }
         ]
       },

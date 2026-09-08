@@ -3,104 +3,50 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Fanny_%28Campus_Youth%29.jpg/revision/latest?cb=20211010130708",
-      "name": "Campus Youth",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Fanny_%28Campus_Youth%29.jpg/revision/latest?cb=20211010130708",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Fanny_%28Imperial_Warrior%29.jpg/revision/latest?cb=20220214152431",
+      "name": "Imperial Warrior",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Fanny_%28Imperial_Warrior%29.jpg/revision/latest?cb=20220214152431",
+      "skinId": 399325403,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/FANNY%20FULL%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20LUCKYBOX.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20Warrior%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 1
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20Summer.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20Warrior%20to%20SUMMER.zip",
             "targetCategory": 0,
             "targetSkinId": 3
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20Lightborn.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20Warrior%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 4
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20CHRISTMAS.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20to%20CHRISTMAS.zip",
             "targetCategory": 0,
             "targetSkinId": 5
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20ASPIRANT.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20to%20ASPIRANT.zip",
             "targetCategory": 0,
             "targetSkinId": 7
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20VALENTINE.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20to%20VALENTINE.zip",
             "targetCategory": 0,
             "targetSkinId": 8
           },
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/fanny%20elite%20to%20aot.zip",
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/fanny%20topup%20to%20aot.zip",
             "targetCategory": 0,
             "targetSkinId": 9
           },
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20ELITE%20TO%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 12
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Fanny_%28Punk_Princess%29.jpg/revision/latest?cb=20211010124113",
-      "name": "Punk Princess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Fanny_%28Punk_Princess%29.jpg/revision/latest?cb=20211010124113",
-      "skinId": 2,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/FANNY%20FULL%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20SUMMER.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20LIGHTBORN.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20CHRISTMAS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20ASPIRANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20VALENTINE.zip",
-            "targetCategory": 0,
-            "targetSkinId": 8
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/fanny%20season%20to%20aot.zip",
-            "targetCategory": 0,
-            "targetSkinId": 9
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20SEASON%20TO%20LEGEND.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20TOP%20UP%20TO%20LEGEND.zip",
             "targetCategory": 0,
             "targetSkinId": 12
           }
@@ -114,7 +60,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Fanny_%28Royal_Cavalry%29.jpg/revision/latest?cb=20211010124325",
       "name": "Royal Cavalry",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Fanny_%28Royal_Cavalry%29.jpg/revision/latest?cb=20211010124325",
-      "skinId": 3,
+      "skinId": 802748894,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/FANNY%20FULL%20BACKUP.zip",
         "upgrades": [
@@ -165,50 +111,104 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Fanny_%28Imperial_Warrior%29.jpg/revision/latest?cb=20220214152431",
-      "name": "Imperial Warrior",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Fanny_%28Imperial_Warrior%29.jpg/revision/latest?cb=20220214152431",
-      "skinId": 6,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Fanny_%28Punk_Princess%29.jpg/revision/latest?cb=20211010124113",
+      "name": "Punk Princess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Fanny_%28Punk_Princess%29.jpg/revision/latest?cb=20211010124113",
+      "skinId": 1693325581,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/FANNY%20FULL%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20Warrior%20to%20LUCKYBOX.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 1
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20Warrior%20to%20SUMMER.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20SUMMER.zip",
             "targetCategory": 0,
             "targetSkinId": 3
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20Warrior%20to%20LUCKYBOX.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20LIGHTBORN.zip",
             "targetCategory": 0,
             "targetSkinId": 4
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20to%20CHRISTMAS.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20CHRISTMAS.zip",
             "targetCategory": 0,
             "targetSkinId": 5
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20to%20ASPIRANT.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20ASPIRANT.zip",
             "targetCategory": 0,
             "targetSkinId": 7
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Imperial%20to%20VALENTINE.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Season%20to%20VALENTINE.zip",
             "targetCategory": 0,
             "targetSkinId": 8
           },
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/fanny%20topup%20to%20aot.zip",
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/fanny%20season%20to%20aot.zip",
             "targetCategory": 0,
             "targetSkinId": 9
           },
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20TOP%20UP%20TO%20LEGEND.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20SEASON%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 12
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Fanny_%28Campus_Youth%29.jpg/revision/latest?cb=20211010130708",
+      "name": "Campus Youth",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Fanny_%28Campus_Youth%29.jpg/revision/latest?cb=20211010130708",
+      "skinId": 2050631223,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/FANNY%20FULL%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20Lightborn.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20CHRISTMAS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Fanny%20Elite%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/fanny%20elite%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 9
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20ELITE%20TO%20LEGEND.zip",
             "targetCategory": 0,
             "targetSkinId": 12
           }

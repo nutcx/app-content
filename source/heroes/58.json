@@ -3,10 +3,39 @@
   "skins": [
     {
       "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Martis_%28Searing_Maw%29.jpg/revision/latest?cb=20231029213011",
+      "name": "Searing Maw",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Martis_%28Searing_Maw%29.jpg/revision/latest?cb=20231029213011",
+      "skinId": 1451439185,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Starlight%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/martis%20old%20star%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Martis_%28Tyrant%29.jpg/revision/latest?cb=20231029212959",
       "name": "Tyrant",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Martis_%28Tyrant%29.jpg/revision/latest?cb=20231029212959",
-      "skinId": 1,
+      "skinId": 2140011307,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
         "upgrades": [
@@ -29,35 +58,6 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Normal%20to%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 6
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Martis_%28Searing_Maw%29.jpg/revision/latest?cb=20231029213011",
-      "name": "Searing Maw",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Martis_%28Searing_Maw%29.jpg/revision/latest?cb=20231029213011",
-      "skinId": 2,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Starlight%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Martis%20Starlight%20to%20ZODIAC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/martis%20old%20star%20to%20aot.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
           }
         ]
       },

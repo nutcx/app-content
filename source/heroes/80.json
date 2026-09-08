@@ -3,17 +3,27 @@
   "skins": [
     {
       "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "name": "Daybreak Halo",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "skinId": 102949340,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Guinevere_%28Fleur_de_Bleau%29.jpg/revision/latest?cb=20200427085943",
       "name": "Fleur de Bleau",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Guinevere_%28Fleur_de_Bleau%29.jpg/revision/latest?cb=20200427085943",
-      "skinId": 1,
+      "skinId": 488119948,
       "source": {
         "backupArchive": "https://github.com/Meow00001/Files/raw/main/Guinevere/Guinevere%20Basic/Guinevere%20Basic%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/Meow00001/Files/raw/main/Guinevere/Guinevere%20Basic/Guinevere%20Basic%20to%20Aspirant.zip",
             "targetCategory": -1,
-            "targetSkinId": 7
+            "targetSkinId": 102949340
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Normal%20to%20STARLIGHT.zip",
@@ -67,56 +77,6 @@
           }
         ]
       },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
-      "name": "Daybreak Halo",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
-      "skinId": 2,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
-      "name": "Daybreak Halo",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
-      "skinId": 4,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
-      "name": "Daybreak Halo",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
-      "skinId": 5,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
-      "name": "Daybreak Halo",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
-      "skinId": 6,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
-      "name": "Daybreak Halo",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
-      "skinId": 7,
-      "source": null,
       "timestamp": 0,
       "type": ""
     },
@@ -236,7 +196,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20GUINEVERE%20STARLIGHT%20TO%20ASPIRANTS.zip",
             "targetCategory": -1,
-            "targetSkinId": 4
+            "targetSkinId": 102949340
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Starlight%20to%20KOF.zip",
@@ -270,7 +230,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20GUINEVERE%20AMETHYST%20DANCE%20TO%20ASPIRANTS.zip",
             "targetCategory": -1,
-            "targetSkinId": 5
+            "targetSkinId": 102949340
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Amethyst%20Dance%20to%20KOF.zip",
@@ -328,7 +288,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20GUINEVERE%20SPECIAL%20SAKURA%20TO%20ASPIRANTS.zip",
             "targetCategory": -1,
-            "targetSkinId": 5
+            "targetSkinId": 102949340
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Sakura%20to%20KOF.zip",
@@ -362,7 +322,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20GUINEVERE%20SUMMER%20TO%20ASPIRANTS.zip",
             "targetCategory": -1,
-            "targetSkinId": 6
+            "targetSkinId": 102949340
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Summer%20to%20LUCKYBOX.zip",
@@ -396,7 +356,7 @@
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20GUINEVERE%20ELITE%20FIRST%20PURCHASE%20TO%20ASPIRANTS.zip",
             "targetCategory": -1,
-            "targetSkinId": 2
+            "targetSkinId": 102949340
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Elite%20Topup%20to%20KOF.zip",

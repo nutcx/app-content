@@ -6,8 +6,37 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20220214005924",
       "name": "Sweet Fantacy",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20220214005924",
-      "skinId": 2,
+      "skinId": 1223531927,
       "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Alucard_%28Empire_Agent%29.jpg/revision/latest?cb=20230201105507",
+      "name": "Empire Agent",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Alucard_%28Empire_Agent%29.jpg/revision/latest?cb=20230201105507",
+      "skinId": 518249275,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20EMPIRE%20AGENT%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Empire%20Agent%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Empire%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
       "timestamp": 0,
       "type": ""
     },
@@ -16,14 +45,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Alucard_%28Lone_Hero%29.jpg/revision/latest?cb=20230201105518",
       "name": "Lone Hero",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Alucard_%28Lone_Hero%29.jpg/revision/latest?cb=20230201105518",
-      "skinId": 1,
+      "skinId": 779288853,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Normal%20to%20VALENTINE.zip",
             "targetCategory": -2,
-            "targetSkinId": 2
+            "targetSkinId": 1223531927
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20BASIC%20TO%20LEGEND.zip",
@@ -57,32 +86,17 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Alucard_%28Fiery_Inferno%29.jpg/revision/latest?cb=20230201105513",
-      "name": "Fiery Inferno",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Alucard_%28Fiery_Inferno%29.jpg/revision/latest?cb=20230201105513",
-      "skinId": 2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
+      "name": "Lightborn Striker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
+      "skinId": 930969832,
       "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
+        "backupArchive": "",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20SEASON%20TO%20LEGEND.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LIGHTBORN%20TO%20LEGEND.zip",
             "targetCategory": 0,
             "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Season%20to%20LIGHTBORN.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Season%20to%20STARWARS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Season%20to%20Luckybox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
           }
         ]
       },
@@ -94,7 +108,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Alucard_%28Viscount%29.jpg/revision/latest?cb=20230201105535",
       "name": "Viscount",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Alucard_%28Viscount%29.jpg/revision/latest?cb=20230201105535",
-      "skinId": 3,
+      "skinId": 1124425238,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
         "upgrades": [
@@ -125,58 +139,10 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Alucard_%28Empire_Agent%29.jpg/revision/latest?cb=20230201105507",
-      "name": "Empire Agent",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Alucard_%28Empire_Agent%29.jpg/revision/latest?cb=20230201105507",
-      "skinId": 4,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20EMPIRE%20AGENT%20TO%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Empire%20Agent%20to%20LIGHTBORN.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Empire%20to%20Luckybox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
-      "name": "Lightborn Striker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
-      "skinId": 7,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LIGHTBORN%20TO%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20250601064155",
       "name": "Child of Fall",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20250601064155",
-      "skinId": 8,
+      "skinId": 1341675579,
       "source": {
         "backupArchive": "",
         "upgrades": [
@@ -184,6 +150,40 @@
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LUCKYBOX%20TO%20LEGEND.zip",
             "targetCategory": 0,
             "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Alucard_%28Fiery_Inferno%29.jpg/revision/latest?cb=20230201105513",
+      "name": "Fiery Inferno",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Alucard_%28Fiery_Inferno%29.jpg/revision/latest?cb=20230201105513",
+      "skinId": 1587672922,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20SEASON%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Season%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Season%20to%20STARWARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Alucard%20Season%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
           }
         ]
       },

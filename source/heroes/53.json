@@ -3,59 +3,10 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
-      "name": "Royal Muskeeter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Lesley%20Basic%20to%20Meowskin.zip",
-            "targetCategory": -1,
-            "targetSkinId": 7
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LESLEY%20BASIC%20TO%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20ANNUAL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Lesley%20Basic%20to%20ASPIRANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Basic%20to%20Covenant.zip",
-            "targetCategory": 0,
-            "targetSkinId": 8
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Lesley_%28General_Rosa%29.jpg/revision/latest?cb=20180609232251",
       "name": "General Rosa",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Lesley_%28General_Rosa%29.jpg/revision/latest?cb=20180609232251",
-      "skinId": 2,
+      "skinId": 190829300,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
         "upgrades": [
@@ -99,7 +50,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Lesley_%28Cheergunner%29.jpg/revision/latest?cb=20210520070016",
       "name": "Cheergunner",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Lesley_%28Cheergunner%29.jpg/revision/latest?cb=20210520070016",
-      "skinId": 3,
+      "skinId": 660972019,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
         "upgrades": [
@@ -133,7 +84,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
       "name": "Dangerous Liason",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
-      "skinId": 5,
+      "skinId": 787264848,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
         "upgrades": [
@@ -172,8 +123,57 @@
       "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Lesley%20Fatcat.jpg",
       "name": "Fatcat Lesley",
       "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Lesley%20Fatcat.jpg",
-      "skinId": 7,
+      "skinId": 1936730526,
       "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
+      "name": "Royal Muskeeter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
+      "skinId": 2101011816,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Lesley%20Basic%20to%20Meowskin.zip",
+            "targetCategory": -1,
+            "targetSkinId": 1936730526
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LESLEY%20BASIC%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Lesley%20Basic%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Basic%20to%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
       "timestamp": 0,
       "type": ""
     },

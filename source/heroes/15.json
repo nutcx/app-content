@@ -3,35 +3,11 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
-      "name": "Flame Red Lips",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/EUDORA%20BASIC%20TO%20COEVENANT.zip",
-            "targetCategory": -1,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20ATOMIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Basic%20to%20Luckybox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
+      "name": "cove",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
+      "skinId": 438516450,
+      "source": null,
       "timestamp": 0,
       "type": ""
     },
@@ -40,7 +16,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Eudora_%28Countess_Scarlet%29.jpg/revision/latest?cb=20200621043521",
       "name": "Countess Scarlet",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Eudora_%28Countess_Scarlet%29.jpg/revision/latest?cb=20200621043521",
-      "skinId": 2,
+      "skinId": 536915128,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
         "upgrades": [
@@ -61,11 +37,35 @@
     },
     {
       "category": -1,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
-      "name": "cove",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
-      "skinId": 4,
-      "source": null,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
+      "name": "Flame Red Lips",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
+      "skinId": 857120528,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/EUDORA%20BASIC%20TO%20COEVENANT.zip",
+            "targetCategory": -1,
+            "targetSkinId": 438516450
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20ATOMIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Basic%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
       "timestamp": 0,
       "type": ""
     },

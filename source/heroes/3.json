@@ -3,22 +3,36 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Saber_%28Golden_Flash%29.jpg/revision/latest?cb=20201009123849",
-      "name": "Golden Flash",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Saber_%28Golden_Flash%29.jpg/revision/latest?cb=20201009123849",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Saber_%28Force_Warrior%29.jpg/revision/latest?cb=20200419032828",
+      "name": "Force Warrior",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Saber_%28Force_Warrior%29.jpg/revision/latest?cb=20200419032828",
+      "skinId": 1314073219,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20BASIC%20TO%20VALENTINE.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20STARLIGHT%20FORCE%20WAR%20TO%20LEGEND.zip",
             "targetCategory": 0,
             "targetSkinId": 2
-          },
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Saber_%28Silver_Edge%29.jpg/revision/latest?cb=20211221013434",
+      "name": "Silver Edge",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Saber_%28Silver_Edge%29.jpg/revision/latest?cb=20211221013434",
+      "skinId": 1330138823,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Saber%20Basic%20to%20LUCKYBOX.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20SILVER%20EDGE%20TO%20LEGEND.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 2
           }
         ]
       },
@@ -30,7 +44,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Saber_%28Fullmetal_Ronin%29.png/revision/latest?cb=20180531080207",
       "name": "Fullmetal Ronin",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Saber_%28Fullmetal_Ronin%29.png/revision/latest?cb=20180531080207",
-      "skinId": 2,
+      "skinId": 1387659169,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
         "upgrades": [
@@ -51,36 +65,22 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Saber_%28Force_Warrior%29.jpg/revision/latest?cb=20200419032828",
-      "name": "Force Warrior",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Saber_%28Force_Warrior%29.jpg/revision/latest?cb=20200419032828",
-      "skinId": 3,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Saber_%28Golden_Flash%29.jpg/revision/latest?cb=20201009123849",
+      "name": "Golden Flash",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Saber_%28Golden_Flash%29.jpg/revision/latest?cb=20201009123849",
+      "skinId": 1549403169,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20STARLIGHT%20FORCE%20WAR%20TO%20LEGEND.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20BASIC%20TO%20VALENTINE.zip",
             "targetCategory": 0,
             "targetSkinId": 2
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Saber_%28Silver_Edge%29.jpg/revision/latest?cb=20211221013434",
-      "name": "Silver Edge",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Saber_%28Silver_Edge%29.jpg/revision/latest?cb=20211221013434",
-      "skinId": 6,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
+          },
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20SILVER%20EDGE%20TO%20LEGEND.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Saber%20Basic%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 4
           }
         ]
       },

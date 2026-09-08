@@ -3,15 +3,15 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Minotaur_%28Sacred_Hammer%29.jpg/revision/latest?cb=20231029215114",
-      "name": "Sacred Hammer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Minotaur_%28Sacred_Hammer%29.jpg/revision/latest?cb=20231029215114",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Minotaur_%28Orbiter%29.jpg/revision/latest?cb=20231029214828",
+      "name": "Orbiter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Minotaur_%28Orbiter%29.jpg/revision/latest?cb=20231029214828",
+      "skinId": 446415789,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Minotour%20Elite%20Sacred%20to%20ZODIAC.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Minotour%20Season%20to%20ZODIAC.zip",
             "targetCategory": 0,
             "targetSkinId": 1
           }
@@ -25,7 +25,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Minotaur_%28Bursting_Yama%29.jpg/revision/latest?cb=20231029214752",
       "name": "Bursting Yama",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Minotaur_%28Bursting_Yama%29.jpg/revision/latest?cb=20231029214752",
-      "skinId": 2,
+      "skinId": 797099993,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
         "upgrades": [
@@ -41,15 +41,15 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Minotaur_%28Orbiter%29.jpg/revision/latest?cb=20231029214828",
-      "name": "Orbiter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Minotaur_%28Orbiter%29.jpg/revision/latest?cb=20231029214828",
-      "skinId": 3,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Minotaur_%28Sacred_Hammer%29.jpg/revision/latest?cb=20231029215114",
+      "name": "Sacred Hammer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Minotaur_%28Sacred_Hammer%29.jpg/revision/latest?cb=20231029215114",
+      "skinId": 1064905937,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Minotour%20Season%20to%20ZODIAC.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Minotour%20Elite%20Sacred%20to%20ZODIAC.zip",
             "targetCategory": 0,
             "targetSkinId": 1
           }

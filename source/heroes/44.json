@@ -3,25 +3,34 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Grock_%28Grave_Guardian%29.jpg/revision/latest?cb=20240311120615",
-      "name": "Grave Guardian",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Grock_%28Grave_Guardian%29.jpg/revision/latest?cb=20240311120615",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Grock_%28V.E.N.O.M._Monitor_Lizard%29.jpg/revision/latest?cb=20240922131504",
+      "name": "Monitor Lizard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Grock_%28V.E.N.O.M._Monitor_Lizard%29.jpg/revision/latest?cb=20240922131504",
+      "skinId": 36131984,
       "source": {
-        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/grock_def_backup.zip",
+        "backupArchive": "",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Basic%20to%20VENOM.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20VENOM%20TO%20COLLECTOR.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
-          },
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wasteland_Psycho_.jpg/revision/latest?cb=20241225232212",
+      "name": "Wasteland Psycho",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wasteland_Psycho_.jpg/revision/latest?cb=20241225232212",
+      "skinId": 91984397,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Basic%20to%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20BASIC%20TO%20COLLECTOR.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20SPECIAL%20TO%20COLLECTOR.zip",
             "targetCategory": 0,
             "targetSkinId": 5
           }
@@ -35,7 +44,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Grock_%28Castle_Guard%29.jpg/revision/latest?cb=20240311120601",
       "name": "Castle Guard",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Grock_%28Castle_Guard%29.jpg/revision/latest?cb=20240311120601",
-      "skinId": 2,
+      "skinId": 529766286,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/grock_def_backup.zip",
         "upgrades": [
@@ -61,34 +70,25 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Grock_%28V.E.N.O.M._Monitor_Lizard%29.jpg/revision/latest?cb=20240922131504",
-      "name": "Monitor Lizard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Grock_%28V.E.N.O.M._Monitor_Lizard%29.jpg/revision/latest?cb=20240922131504",
-      "skinId": 5,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Grock_%28Grave_Guardian%29.jpg/revision/latest?cb=20240311120615",
+      "name": "Grave Guardian",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Grock_%28Grave_Guardian%29.jpg/revision/latest?cb=20240311120615",
+      "skinId": 1953233966,
       "source": {
-        "backupArchive": "",
+        "backupArchive": "https://github.com/Mexi23/TankD/raw/main/grock_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20VENOM%20TO%20COLLECTOR.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Basic%20to%20VENOM.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wasteland_Psycho_.jpg/revision/latest?cb=20241225232212",
-      "name": "Wasteland Psycho",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wasteland_Psycho_.jpg/revision/latest?cb=20241225232212",
-      "skinId": 7,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
+            "targetSkinId": 1
+          },
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20SPECIAL%20TO%20COLLECTOR.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20BASIC%20TO%20COLLECTOR.zip",
             "targetCategory": 0,
             "targetSkinId": 5
           }

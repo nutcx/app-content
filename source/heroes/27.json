@@ -3,10 +3,63 @@
   "skins": [
     {
       "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Sun_%28Celestial_Outlaw%29.jpg/revision/latest?cb=20231104052016",
+      "name": "Celestial Outlaw",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Sun_%28Celestial_Outlaw%29.jpg/revision/latest?cb=20231104052016",
+      "skinId": 1126072758,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20CELESTIALOUT%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20CELESTIALOUT%20TO%20LUNAR%20FEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Sun_%28Street_Legend%29.jpg/revision/latest?cb=20231104051956",
+      "name": "Street Legend",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Sun_%28Street_Legend%29.jpg/revision/latest?cb=20231104051956",
+      "skinId": 1308860675,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Sun%20Special%20Street%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20SUN%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20Sun%20StreetLeg%20to%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Sun_%28Battle_Buddha%29.jpg/revision/latest?cb=20231104052143",
       "name": "Battle Buddha",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Sun_%28Battle_Buddha%29.jpg/revision/latest?cb=20231104052143",
-      "skinId": 1,
+      "skinId": 1346908149,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
         "upgrades": [
@@ -42,63 +95,10 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Sun_%28Street_Legend%29.jpg/revision/latest?cb=20231104051956",
-      "name": "Street Legend",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Sun_%28Street_Legend%29.jpg/revision/latest?cb=20231104051956",
-      "skinId": 2,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Sun%20Special%20Street%20to%20LUNARFEST.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20SUN%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20Sun%20StreetLeg%20to%20Annual.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Sun_%28Celestial_Outlaw%29.jpg/revision/latest?cb=20231104052016",
-      "name": "Celestial Outlaw",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Sun_%28Celestial_Outlaw%29.jpg/revision/latest?cb=20231104052016",
-      "skinId": 3,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20CELESTIALOUT%20TO%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/SUN%20CELESTIALOUT%20TO%20LUNAR%20FEST.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Sun_%28Rock_Star%29.jpg/revision/latest?cb=20231104051945",
       "name": "Rock Star",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Sun_%28Rock_Star%29.jpg/revision/latest?cb=20231104051945",
-      "skinId": 4,
+      "skinId": 1675692181,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
         "upgrades": [

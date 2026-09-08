@@ -6,7 +6,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Wisteria_Count%2C_%26_Wisteria_Countess_wall.jpg/revision/latest?cb=20200824133424",
       "name": "Wisteria Count",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Wisteria_Count%2C_%26_Wisteria_Countess_wall.jpg/revision/latest?cb=20200824133424",
-      "skinId": 1,
+      "skinId": 1192184940,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
         "upgrades": [
@@ -42,39 +42,10 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
-      "name": "Magician Girl",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
-      "skinId": 2,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20HXH(Updated).zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20ELITE%20TO%20SOULV.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Phantom_Countess_%26_Phantom_Count_wall.jpg/revision/latest?cb=20210214041829",
       "name": "Phantom Countless",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Phantom_Countess_%26_Phantom_Count_wall.jpg/revision/latest?cb=20210214041829",
-      "skinId": 3,
+      "skinId": 1315212573,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
         "upgrades": [
@@ -95,6 +66,35 @@
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20VALENTINE%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
+      "name": "Magician Girl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
+      "skinId": 1604447714,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20HXH(Updated).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20ELITE%20TO%20SOULV.zip",
             "targetCategory": 0,
             "targetSkinId": 5
           }

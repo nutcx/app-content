@@ -6,44 +6,29 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Cyclops_SpongeBob.png/revision/latest?cb=20251208104112",
       "name": "SpongeBob",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Cyclops_SpongeBob.png/revision/latest?cb=20251208104112",
-      "skinId": 2,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Cyclops_SpongeBob.png/revision/latest?cb=20251208104112",
-      "name": "SpongeBob",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Cyclops_SpongeBob.png/revision/latest?cb=20251208104112",
-      "skinId": 3,
+      "skinId": 2055249738,
       "source": null,
       "timestamp": 0,
       "type": ""
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
-      "name": "Exorcist",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
+      "name": "Zombie Bambino",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
+      "skinId": 1056532772,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Cyclops%20Basic%20to%20SongeBob.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CYCLOPS%20SEASON%20TO%20SPONGEBOB.zip",
             "targetCategory": -2,
-            "targetSkinId": 3
+            "targetSkinId": 2055249738
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Basic%20to%20STARWARS.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Season%20to%20STARWARS.zip",
             "targetCategory": 0,
             "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Basic%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
           }
         ]
       },
@@ -55,14 +40,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Cyclops_%28Super_Adventurer%29.jpg/revision/latest?cb=20230902072945",
       "name": "Super Adventurer",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Cyclops_%28Super_Adventurer%29.jpg/revision/latest?cb=20230902072945",
-      "skinId": 2,
+      "skinId": 1572889205,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Cyclops%20Elite%20to%20SpongeBob.zip",
             "targetCategory": -2,
-            "targetSkinId": 2
+            "targetSkinId": 2055249738
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Elite%20to%20STARWARS.zip",
@@ -79,14 +64,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Cyclops_%28Deep_Sea_Rescuer%29.jpg/revision/latest?cb=20230902073009",
       "name": "Deep Sea Rescuer",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Cyclops_%28Deep_Sea_Rescuer%29.jpg/revision/latest?cb=20230902073009",
-      "skinId": 3,
+      "skinId": 1871527707,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CYCLOPS%20STARLIGHT%20TO%20SPONGE%20BOB.zip",
             "targetCategory": -2,
-            "targetSkinId": 2
+            "targetSkinId": 2055249738
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Starlight%20to%20STARWARS.zip",
@@ -100,22 +85,27 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
-      "name": "Zombie Bambino",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
-      "skinId": 4,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
+      "name": "Exorcist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
+      "skinId": 2100548984,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CYCLOPS%20SEASON%20TO%20SPONGEBOB.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Cyclops%20Basic%20to%20SongeBob.zip",
             "targetCategory": -2,
-            "targetSkinId": 2
+            "targetSkinId": 2055249738
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Season%20to%20STARWARS.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Basic%20to%20STARWARS.zip",
             "targetCategory": 0,
             "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
           }
         ]
       },

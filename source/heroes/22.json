@@ -3,25 +3,73 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20FREYA%20BASIC%20REVAMP.jpg",
-      "name": "Dark Rose",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20FREYA%20BASIC%20REVAMP.jpg",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Freya_%28Raven_Shogun%29.jpg/revision/latest?cb=20231029212115",
+      "name": "Raven Shogun",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Freya_%28Raven_Shogun%29.jpg/revision/latest?cb=20231029212115",
+      "skinId": 208747466,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/FREYA%20BASIC%20TO%20LUCKYBOX.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20EPIC%20TO%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 2
           },
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20BASIC%20TO%20STARLIGHT.zip",
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20epic%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Freya_%28Gladiator%29.jpg/revision/latest?cb=20231029212057",
+      "name": "Gladiator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Freya_%28Gladiator%29.jpg/revision/latest?cb=20231029212057",
+      "skinId": 367071512,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20ELITE%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/elite/main/FREYA%20ELITE%20TO%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 3
           },
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/FREYA%20BASIC%20TO%20LEGEND.zip",
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20elite%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
+      "name": "S.A.B.E.R Manhunter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
+      "skinId": 391909928,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20legend.zip",
             "targetCategory": 0,
             "targetSkinId": 7
           }
@@ -35,7 +83,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Zilong_%28Christmas_Carnival%29.jpg/revision/latest?cb=20240303042325",
       "name": "Christmas Carnival",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Zilong_%28Christmas_Carnival%29.jpg/revision/latest?cb=20240303042325",
-      "skinId": 2,
+      "skinId": 645168455,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
         "upgrades": [
@@ -61,49 +109,25 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Freya_%28Raven_Shogun%29.jpg/revision/latest?cb=20231029212115",
-      "name": "Raven Shogun",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Freya_%28Raven_Shogun%29.jpg/revision/latest?cb=20231029212115",
-      "skinId": 3,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20FREYA%20BASIC%20REVAMP.jpg",
+      "name": "Dark Rose",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20FREYA%20BASIC%20REVAMP.jpg",
+      "skinId": 1063612434,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20EPIC%20TO%20LUCKYBOX.zip",
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/FREYA%20BASIC%20TO%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 2
           },
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20epic%20to%20legend.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/1733767268114.jpg",
-      "name": "Dragon Hunter",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/1733767268114.jpg",
-      "skinId": 4,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20STARLIGHT%20TO%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20OG%20STAR%20TO%20STARLIGHT.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20BASIC%20TO%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 3
           },
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20starlight%20to%20legend.zip",
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/FREYA%20BASIC%20TO%20LEGEND.zip",
             "targetCategory": 0,
             "targetSkinId": 7
           }
@@ -117,7 +141,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Freya_%28Beach_Sweetheart%29.jpg/revision/latest?cb=20231029212024",
       "name": "Beach Sweetheart",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Freya_%28Beach_Sweetheart%29.jpg/revision/latest?cb=20231029212024",
-      "skinId": 5,
+      "skinId": 1911639295,
       "source": {
         "backupArchive": "",
         "upgrades": [
@@ -143,49 +167,25 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
-      "name": "S.A.B.E.R Manhunter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
-      "skinId": 7,
+      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/1733767268114.jpg",
+      "name": "Dragon Hunter",
+      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/1733767268114.jpg",
+      "skinId": 1920839017,
       "source": {
-        "backupArchive": "",
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/freya_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20luckybox.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20STARLIGHT%20TO%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 2
           },
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20legend.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Freya_%28Gladiator%29.jpg/revision/latest?cb=20231029212057",
-      "name": "Gladiator",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Freya_%28Gladiator%29.jpg/revision/latest?cb=20231029212057",
-      "skinId": 8,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20ELITE%20TO%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/elite/main/FREYA%20ELITE%20TO%20STARLIGHT.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20OG%20STAR%20TO%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 3
           },
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20elite%20to%20legend.zip",
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20starlight%20to%20legend.zip",
             "targetCategory": 0,
             "targetSkinId": 7
           }

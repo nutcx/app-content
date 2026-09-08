@@ -3,25 +3,15 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Silvanna_%28Hallowed_Lance%29.jpg/revision/latest?cb=20200324160836",
-      "name": "Hallowed Lance",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Silvanna_%28Hallowed_Lance%29.jpg/revision/latest?cb=20200324160836",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Silvanna_%28Midnight_Justice%29.jpg/revision/latest?cb=20200526103346",
+      "name": "Midnight Justice",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Silvanna_%28Midnight_Justice%29.jpg/revision/latest?cb=20200526103346",
+      "skinId": 27160880,
       "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20BACKUP.zip",
+        "backupArchive": "",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Silvanna%20Basic%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Silvanna%20Basic%20to%20VALENTINE.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Silvana%20Basic%20to%20Meowkin.zip",
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Silvana%20Elite%20to%20Fatcat.zip",
             "targetCategory": 0,
             "targetSkinId": 4
           }
@@ -35,7 +25,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Silvanna_%28Future_Cop%29.jpg/revision/latest?cb=20231104054045",
       "name": "Future Cop",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Silvanna_%28Future_Cop%29.jpg/revision/latest?cb=20231104054045",
-      "skinId": 2,
+      "skinId": 1521216483,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20BACKUP.zip",
         "upgrades": [
@@ -61,15 +51,25 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Silvanna_%28Midnight_Justice%29.jpg/revision/latest?cb=20200526103346",
-      "name": "Midnight Justice",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Silvanna_%28Midnight_Justice%29.jpg/revision/latest?cb=20200526103346",
-      "skinId": 3,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Silvanna_%28Hallowed_Lance%29.jpg/revision/latest?cb=20200324160836",
+      "name": "Hallowed Lance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Silvanna_%28Hallowed_Lance%29.jpg/revision/latest?cb=20200324160836",
+      "skinId": 1585395897,
       "source": {
-        "backupArchive": "",
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Silvana%20Elite%20to%20Fatcat.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Silvanna%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Silvanna%20Basic%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Silvana%20Basic%20to%20Meowkin.zip",
             "targetCategory": 0,
             "targetSkinId": 4
           }

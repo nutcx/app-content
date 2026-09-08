@@ -3,10 +3,34 @@
   "skins": [
     {
       "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
+      "name": "Starblazer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
+      "skinId": 931240419,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Anniv%20to%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Anniv%20to%20LEGEND%20(NEW).zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Johnson_%28Fire_Chief%29.jpg/revision/latest?cb=20241128083558",
       "name": "Fire Chief",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Johnson_%28Fire_Chief%29.jpg/revision/latest?cb=20241128083558",
-      "skinId": 1,
+      "skinId": 1970359044,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
         "upgrades": [
@@ -22,30 +46,6 @@
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Basic%20to%20LEGEND(FIX).zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
-      "name": "Starblazer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
-      "skinId": 4,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Anniv%20to%20Transformer.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Anniv%20to%20LEGEND%20(NEW).zip",
             "targetCategory": 0,
             "targetSkinId": 6
           }

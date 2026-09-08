@@ -3,39 +3,10 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ruby_%28Cat_Girl%29.jpg/revision/latest?cb=20241128083641",
-      "name": "Cat Girl",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ruby_%28Cat_Girl%29.jpg/revision/latest?cb=20241128083641",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Basic%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Basic%20to%20ASPIRANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Basic%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Ruby_%28Edelweiss%29.jpg/revision/latest?cb=20190809133611",
       "name": "Edelweiss",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Ruby_%28Edelweiss%29.jpg/revision/latest?cb=20190809133611",
-      "skinId": 2,
+      "skinId": 775319557,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
         "upgrades": [
@@ -54,7 +25,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Ruby_%28Hidden_Orchid_Butterfly%29.jpg/revision/latest?cb=20200824064403",
       "name": "Hidden Orchid Butterfly",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Ruby_%28Hidden_Orchid_Butterfly%29.jpg/revision/latest?cb=20200824064403",
-      "skinId": 3,
+      "skinId": 983548483,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
         "upgrades": [
@@ -62,6 +33,35 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Elite%20Hidden%20Orchid%20to%20ASPIRANT.zip",
             "targetCategory": 0,
             "targetSkinId": 3
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ruby_%28Cat_Girl%29.jpg/revision/latest?cb=20241128083641",
+      "name": "Cat Girl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ruby_%28Cat_Girl%29.jpg/revision/latest?cb=20241128083641",
+      "skinId": 1294607924,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Basic%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Ruby%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
           }
         ]
       },

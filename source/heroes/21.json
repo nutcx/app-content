@@ -6,47 +6,32 @@
       "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
       "name": "Summer Festival",
       "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
-      "skinId": 1,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hayabusa_%28Spacetime_Shadow%29.jpg/revision/latest?cb=20230622005841",
-      "name": "Spacetime Shadow",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hayabusa_%28Spacetime_Shadow%29.jpg/revision/latest?cb=20230622005841",
-      "skinId": 1,
+      "skinId": 442100126,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20SUMMER.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20EXORCIST.zip",
+            "targetCategory": -1,
+            "targetSkinId": 44283852
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20ANNUAL.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20ANNUAL.zip",
             "targetCategory": 0,
             "targetSkinId": 2
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20LUCKYBOX.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 3
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%2011.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%2011.zip",
             "targetCategory": 0,
             "targetSkinId": 5
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20EXORCIST.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Basic%20to%20Kakashi.zip",
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Summer%20to%20Kakashi.zip",
             "targetCategory": 0,
             "targetSkinId": 8
           }
@@ -57,10 +42,20 @@
     },
     {
       "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
+      "name": "Exorcist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
+      "skinId": 44283852,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hayabusa_%28Future_Enforcer%29.jpg/revision/latest?cb=20211021140408",
       "name": "Future Enforcer",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hayabusa_%28Future_Enforcer%29.jpg/revision/latest?cb=20211021140408",
-      "skinId": 2,
+      "skinId": 1101414226,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
         "upgrades": [
@@ -96,59 +91,10 @@
     },
     {
       "category": -1,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
-      "name": "Summer Festival",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
-      "skinId": 3,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20EXORCIST.zip",
-            "targetCategory": -1,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20ANNUAL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%2011.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Summer%20to%20Kakashi.zip",
-            "targetCategory": 0,
-            "targetSkinId": 8
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
-      "name": "Exorcist",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
-      "skinId": 4,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Techie_Ninja.jpg/revision/latest?cb=20230622010420",
       "name": "Techie Ninja",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Techie_Ninja.jpg/revision/latest?cb=20230622010420",
-      "skinId": 5,
+      "skinId": 1108154112,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
         "upgrades": [
@@ -169,6 +115,50 @@
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Techie%20to%20Kakashi.zip",
+            "targetCategory": 0,
+            "targetSkinId": 8
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hayabusa_%28Spacetime_Shadow%29.jpg/revision/latest?cb=20230622005841",
+      "name": "Spacetime Shadow",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hayabusa_%28Spacetime_Shadow%29.jpg/revision/latest?cb=20230622005841",
+      "skinId": 1368701743,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20SUMMER.zip",
+            "targetCategory": -2,
+            "targetSkinId": 442100126
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Basic%20to%20Kakashi.zip",
             "targetCategory": 0,
             "targetSkinId": 8
           }

@@ -6,7 +6,17 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
       "name": "K Dash",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Gusion_%28K%27%29.jpg/revision/latest?cb=20211011033239",
-      "skinId": 2,
+      "skinId": 1835814071,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
+      "name": "Naruto Shippuden",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
+      "skinId": 782182978,
       "source": null,
       "timestamp": 0,
       "type": ""
@@ -16,14 +26,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Gusion_%28Moonlight_Sonata%29.jpg/revision/latest?cb=20240128035646",
       "name": "Moonlight Sonata",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Gusion_%28Moonlight_Sonata%29.jpg/revision/latest?cb=20240128035646",
-      "skinId": 1,
+      "skinId": 1151683540,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20BASIC%20TO%20NARUTO.zip",
             "targetCategory": -1,
-            "targetSkinId": 8
+            "targetSkinId": 782182978
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%20VENOM.zip",
@@ -70,7 +80,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Gusion_%28Hairstylist%29.jpg/revision/latest?cb=20211011032854",
       "name": "Hairstylist",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Gusion_%28Hairstylist%29.jpg/revision/latest?cb=20211011032854",
-      "skinId": 2,
+      "skinId": 1576234034,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
         "upgrades": [
@@ -106,16 +116,6 @@
           }
         ]
       },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
-      "name": "Naruto Shippuden",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
-      "skinId": 8,
-      "source": null,
       "timestamp": 0,
       "type": ""
     },
@@ -421,7 +421,7 @@
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%2011%20to%20Kof.zip",
             "targetCategory": -2,
-            "targetSkinId": 2
+            "targetSkinId": 1835814071
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Gusion%2011.11%20to%20COLLECTOR.zip",

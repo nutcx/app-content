@@ -3,34 +3,10 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
-      "name": "Lord Wraith",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20BASIC%20TO%20KUNGFU.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20THAMUZ%20BASIC%20TO%20NEXUS%20SEA.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Thamuz_%28Liquid_Fire%29.jpg/revision/latest?cb=20200512123744",
       "name": "Liquid Fire",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Thamuz_%28Liquid_Fire%29.jpg/revision/latest?cb=20200512123744",
-      "skinId": 2,
+      "skinId": 675905860,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
         "upgrades": [
@@ -41,6 +17,30 @@
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20ELITE%20TO%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
+      "name": "Lord Wraith",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
+      "skinId": 1093503685,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20BASIC%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20THAMUZ%20BASIC%20TO%20NEXUS%20SEA.zip",
             "targetCategory": 0,
             "targetSkinId": 4
           }

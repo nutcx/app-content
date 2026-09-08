@@ -3,10 +3,68 @@
   "skins": [
     {
       "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Valir_%28Dictator%29.jpg/revision/latest?cb=20230829113825",
+      "name": "Dictator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Valir_%28Dictator%29.jpg/revision/latest?cb=20230829113825",
+      "skinId": 675298807,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Starlight%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Starlight%20to%20LEOIKKI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Starlight%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Valir_%28Shikigami_Summoner%29.jpg/revision/latest?cb=20230829113816",
+      "name": "Shikigami Summoner",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Valir_%28Shikigami_Summoner%29.jpg/revision/latest?cb=20230829113816",
+      "skinId": 1775130696,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Special%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Special%20to%20LEOIKKI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Special%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 6
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Valir_%28Pale_Flame%29.jpg/revision/latest?cb=20230829113807",
       "name": "Pale Flame",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Valir_%28Pale_Flame%29.jpg/revision/latest?cb=20230829113807",
-      "skinId": 1,
+      "skinId": 2106435446,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
         "upgrades": [
@@ -39,64 +97,6 @@
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/VALIR%20BASIC%20TO%20EPIC.zip",
             "targetCategory": 0,
             "targetSkinId": 7
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Valir_%28Shikigami_Summoner%29.jpg/revision/latest?cb=20230829113816",
-      "name": "Shikigami Summoner",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Valir_%28Shikigami_Summoner%29.jpg/revision/latest?cb=20230829113816",
-      "skinId": 2,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Special%20to%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Special%20to%20LEOIKKI.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Special%20to%20KOF.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Valir_%28Dictator%29.jpg/revision/latest?cb=20230829113825",
-      "name": "Dictator",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Valir_%28Dictator%29.jpg/revision/latest?cb=20230829113825",
-      "skinId": 3,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Starlight%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Starlight%20to%20LEOIKKI.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Valir%20Starlight%20to%20KOF.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
           }
         ]
       },

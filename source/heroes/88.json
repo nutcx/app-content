@@ -3,15 +3,15 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Masha_%28Winter_Guard%29.jpg/revision/latest?cb=20200427115759",
-      "name": "Winter Guard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Masha_%28Winter_Guard%29.jpg/revision/latest?cb=20200427115759",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Masha_%28Spirited_Gauntlet%29.png/revision/latest?cb=20221128145315",
+      "name": "Spirited Gauntlet",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Masha_%28Spirited_Gauntlet%29.png/revision/latest?cb=20221128145315",
+      "skinId": 505582493,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Masha%20Basic%20to%20KOF.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Masha%20Season%20to%20KOF.zip",
             "targetCategory": 0,
             "targetSkinId": 4
           }
@@ -22,15 +22,15 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Masha_%28Spirited_Gauntlet%29.png/revision/latest?cb=20221128145315",
-      "name": "Spirited Gauntlet",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Masha_%28Spirited_Gauntlet%29.png/revision/latest?cb=20221128145315",
-      "skinId": 3,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Masha_%28Winter_Guard%29.jpg/revision/latest?cb=20200427115759",
+      "name": "Winter Guard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Masha_%28Winter_Guard%29.jpg/revision/latest?cb=20200427115759",
+      "skinId": 768410012,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Masha%20Season%20to%20KOF.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Masha%20Basic%20to%20KOF.zip",
             "targetCategory": 0,
             "targetSkinId": 4
           }

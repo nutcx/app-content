@@ -10,13 +10,15 @@
   "outputCounts": {
     "heroes": 130,
     "preparations": 26,
-    "skins": 1257,
-    "skinsWithSources": 633,
+    "skins": 1238,
+    "skinsWithSources": 632,
     "upgradeRoutes": 2154
   },
   "publishable": true,
+  "retainedIdentityPolicy": "sha256-hero-category-normalized-name-v1",
   "schemaVersion": 3,
   "statistics": {
+    "collapsedRetainedCatalogEntries": 19,
     "correctedBackupArchives": 1,
     "correctedMalformedSchemeArchives": 1,
     "correctedRouteArchives": 25,
@@ -27,11 +29,16 @@
     "deduplicatedRoutes": 29,
     "emittedRoutes": 2154,
     "filledMissingImages": 1,
-    "imageDisambiguatedMatches": 16,
+    "idDisambiguatedMatches": 2,
+    "imageDisambiguatedMatches": 14,
     "matchedUpgradeSources": 231,
     "matchedUpgradeTargets": 1310,
+    "mergedRetainedNameGroups": 11,
     "normalizedGithubBlobArchives": 4,
     "omittedInvalidArchives": 102,
+    "plannedRetainedIdentities": 295,
+    "remappedRetainedSourceIds": 273,
+    "remappedRetainedTargetIds": 60,
     "replacedUpgradeSourceIds": 176,
     "replacedUpgradeTargetIds": 1092,
     "resolvedBackupArchiveConflicts": 1,
@@ -43,18 +50,6 @@
     "upgradeDataRouteCandidates": 1370
   },
   "warnings": [
-    {
-      "archive": "na",
-      "heroId": 28,
-      "issue": "invalidArchiveOmitted",
-      "kind": "upgrade",
-      "origin": "Skin",
-      "row": 67,
-      "skinCategory": 0,
-      "skinId": 0,
-      "upgradeCategory": 0,
-      "upgradeId": 2
-    },
     {
       "archive": "https://github.com/azizboy2007/ASS-S2-SHIRO/raw/main/NATALIA%20SPECIAL1.jpg",
       "heroId": 24,
@@ -68,13 +63,16 @@
       "upgradeId": 2
     },
     {
-      "archive": "kiw",
-      "heroId": 128,
+      "archive": "na",
+      "heroId": 28,
       "issue": "invalidArchiveOmitted",
-      "kind": "backup",
-      "name": "Surging Wave",
+      "kind": "upgrade",
+      "origin": "Skin",
+      "row": 67,
       "skinCategory": 0,
-      "skinId": 0
+      "skinId": 0,
+      "upgradeCategory": 0,
+      "upgradeId": 2
     },
     {
       "archive": "m",
@@ -82,6 +80,15 @@
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
       "name": "Astrowarden",
+      "skinCategory": 0,
+      "skinId": 0
+    },
+    {
+      "archive": "kiw",
+      "heroId": 128,
+      "issue": "invalidArchiveOmitted",
+      "kind": "backup",
+      "name": "Surging Wave",
       "skinCategory": 0,
       "skinId": 0
     },
@@ -382,7 +389,7 @@
       "kind": "backup",
       "name": "Shimmering Waves",
       "skinCategory": -1,
-      "skinId": 1
+      "skinId": 1462770674
     },
     {
       "archive": "l",
@@ -436,7 +443,7 @@
       "kind": "backup",
       "name": "Captain Thorns",
       "skinCategory": -1,
-      "skinId": 8
+      "skinId": 307741492
     },
     {
       "archive": "l",
@@ -452,9 +459,9 @@
       "heroId": 5,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Wind Fairy ",
+      "name": "Wind Fairy",
       "skinCategory": -1,
-      "skinId": 5
+      "skinId": 1873183871
     },
     {
       "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20nana%20summer.jpg",
@@ -503,7 +510,7 @@
       "kind": "backup",
       "name": "Curse of Cinder",
       "skinCategory": -1,
-      "skinId": 6
+      "skinId": 1592012961
     },
     {
       "archive": "l",
@@ -521,14 +528,14 @@
       "kind": "backup",
       "name": "Monolith Watcher",
       "skinCategory": -1,
-      "skinId": 1
+      "skinId": 1664200973
     },
     {
       "archive": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Akai_%28Marvelous_Maestro%29.jpg/revision/latest?cb=20240904133115",
       "heroId": 9,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Marvelous Maestro ",
+      "name": "Marvelous Maestro",
       "skinCategory": 0,
       "skinId": 5
     },
@@ -548,7 +555,7 @@
       "kind": "backup",
       "name": "Monk",
       "skinCategory": -1,
-      "skinId": 7
+      "skinId": 1599154803
     },
     {
       "archive": "l",
@@ -622,7 +629,7 @@
       "heroId": 89,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Mworld Wanwan",
+      "name": "MWorld Wanwan",
       "skinCategory": 0,
       "skinId": 4
     },
@@ -633,7 +640,7 @@
       "kind": "backup",
       "name": "Midnight Justice",
       "skinCategory": -1,
-      "skinId": 3
+      "skinId": 27160880
     },
     {
       "archive": "l",
@@ -726,7 +733,7 @@
       "kind": "backup",
       "name": "Mecha King Perseus",
       "skinCategory": -1,
-      "skinId": 7
+      "skinId": 1074891229
     },
     {
       "archive": "l",
@@ -735,7 +742,7 @@
       "kind": "backup",
       "name": "Lightborn Striker",
       "skinCategory": -1,
-      "skinId": 7
+      "skinId": 930969832
     },
     {
       "archive": "l",
@@ -744,7 +751,7 @@
       "kind": "backup",
       "name": "Child of Fall",
       "skinCategory": -1,
-      "skinId": 8
+      "skinId": 1341675579
     },
     {
       "archive": "l",
@@ -798,7 +805,7 @@
       "kind": "backup",
       "name": "Beach Sweetheart",
       "skinCategory": -1,
-      "skinId": 5
+      "skinId": 1911639295
     },
     {
       "archive": "l",
@@ -816,7 +823,7 @@
       "kind": "backup",
       "name": "S.A.B.E.R Manhunter",
       "skinCategory": -1,
-      "skinId": 7
+      "skinId": 391909928
     },
     {
       "archive": "l",
@@ -825,7 +832,7 @@
       "kind": "backup",
       "name": "Gladiator",
       "skinCategory": -1,
-      "skinId": 8
+      "skinId": 367071512
     },
     {
       "archive": "l",
@@ -850,7 +857,7 @@
       "heroId": 47,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Pisces ",
+      "name": "Pisces",
       "skinCategory": 0,
       "skinId": 4
     },
@@ -877,7 +884,7 @@
       "heroId": 84,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "NeoBeast Ling",
+      "name": "Neobeast Ling",
       "skinCategory": 0,
       "skinId": 7
     },
@@ -937,7 +944,7 @@
       "kind": "backup",
       "name": "Snake Eye Commander",
       "skinCategory": -1,
-      "skinId": 7
+      "skinId": 812575605
     },
     {
       "archive": "j",
@@ -946,7 +953,7 @@
       "kind": "backup",
       "name": "Forest Hymn",
       "skinCategory": -1,
-      "skinId": 1
+      "skinId": 194042502
     },
     {
       "archive": "k",
@@ -973,7 +980,7 @@
       "kind": "backup",
       "name": "Dragon Maw",
       "skinCategory": -1,
-      "skinId": 7
+      "skinId": 1771759467
     },
     {
       "archive": "k",
@@ -1000,7 +1007,7 @@
       "kind": "backup",
       "name": "Nature Harmony",
       "skinCategory": -1,
-      "skinId": 6
+      "skinId": 1001223605
     },
     {
       "archive": "j",
@@ -1072,7 +1079,7 @@
       "kind": "backup",
       "name": "Silver Edge",
       "skinCategory": -1,
-      "skinId": 6
+      "skinId": 1330138823
     },
     {
       "archive": "j",
@@ -1081,7 +1088,7 @@
       "kind": "backup",
       "name": "Spirit Woman",
       "skinCategory": -1,
-      "skinId": 1
+      "skinId": 1341004599
     },
     {
       "archive": "k",
@@ -1090,7 +1097,7 @@
       "kind": "backup",
       "name": "Divine Owl",
       "skinCategory": -1,
-      "skinId": 2
+      "skinId": 88382329
     },
     {
       "archive": "j",
@@ -1099,7 +1106,7 @@
       "kind": "backup",
       "name": "Jade Empress",
       "skinCategory": -1,
-      "skinId": 3
+      "skinId": 934640865
     },
     {
       "archive": "k",
@@ -1108,7 +1115,7 @@
       "kind": "backup",
       "name": "Steam Glider",
       "skinCategory": -1,
-      "skinId": 4
+      "skinId": 2018787614
     },
     {
       "archive": "epic",
@@ -1148,7 +1155,7 @@
       "kind": "backup",
       "name": "Evolved Predator",
       "skinCategory": -1,
-      "skinId": 3
+      "skinId": 1981575740
     },
     {
       "archive": "k",
@@ -1173,9 +1180,9 @@
       "heroId": 125,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Ethereal Serenity ",
+      "name": "Ethereal Serenity",
       "skinCategory": -1,
-      "skinId": 1
+      "skinId": 478252575
     },
     {
       "archive": "k",
@@ -1202,7 +1209,7 @@
       "kind": "backup",
       "name": "Meowskin Tracker",
       "skinCategory": -1,
-      "skinId": 3
+      "skinId": 358113266
     },
     {
       "archive": "k",
@@ -1220,7 +1227,7 @@
       "kind": "backup",
       "name": "Twilight Horseman",
       "skinCategory": -1,
-      "skinId": 6
+      "skinId": 1590991719
     },
     {
       "archive": "j",
@@ -1229,7 +1236,7 @@
       "kind": "backup",
       "name": "Monitor Lizard",
       "skinCategory": -1,
-      "skinId": 5
+      "skinId": 36131984
     },
     {
       "archive": "k",
@@ -1247,7 +1254,7 @@
       "kind": "backup",
       "name": "Wasteland Psycho",
       "skinCategory": -1,
-      "skinId": 7
+      "skinId": 91984397
     },
     {
       "archive": "n",
@@ -1256,7 +1263,7 @@
       "kind": "backup",
       "name": "Heavenly Splendor",
       "skinCategory": -1,
-      "skinId": 1
+      "skinId": 327383125
     },
     {
       "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
@@ -1265,7 +1272,7 @@
       "kind": "backup",
       "name": "Undying Remnants",
       "skinCategory": -1,
-      "skinId": 1
+      "skinId": 107489981
     },
     {
       "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUFlBXsJ9mrF9jzRBHnUE_GFK-pWEiR5qmbxGMS7EeX7AWLwPCevpyihKZ2eVSsm7_7tizj_Q9iy_vaNDETDfWm1qweH7cp4XInNUbanRVOhqEJ4wataiWscb8dFkPBa5wo2p-mNMZl_cy_9NvS7Ut6l0dqpLQtNjJCVqB6cLRj3WfmSac9WI53BSHJcoF/s3840/chou-revamp-wallpaper.jpg",
@@ -3288,7 +3295,7 @@
       "origin": "Upgrade Skin Data",
       "row": 1213,
       "skinCategory": -1,
-      "skinId": 2,
+      "skinId": 645168455,
       "upgradeCategory": 0,
       "upgradeId": 3
     },
@@ -3391,6 +3398,62 @@
       "source": "upgradeData"
     },
     {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "category": -1,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738"
+      ],
+      "issue": "imageConflict",
+      "row": 1314,
+      "skinId": 102949340,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "category": -1,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738"
+      ],
+      "issue": "imageConflict",
+      "row": 1315,
+      "skinId": 102949340,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "category": -1,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738"
+      ],
+      "issue": "imageConflict",
+      "row": 1316,
+      "skinId": 102949340,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "category": -1,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738"
+      ],
+      "issue": "imageConflict",
+      "row": 1317,
+      "skinId": 102949340,
+      "source": "upgradeData"
+    },
+    {
       "catalogLandscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_JkAkvBeE5CSnPzM1N5Ahp-HITXlhw3haUK9E9B87gKorZ4DVNjEKv_tIEAEWOBqyd1CjoqbIulXn5RygFeCQrpVbk6InHWB4uzdBtReNtx7DZaDR-FxPjlGNJu9dbKyl9IpwljASHBSsYhZ2ffwTXzn53nl9fcjDfnaD9h1p93QXbGMcWzyWcboZExa/s1920/chou-echo-champion-skin-wallpaper-hd.jpg",
       "catalogPortrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
       "category": 0,
@@ -3458,6 +3521,20 @@
       "issue": "imageConflict",
       "row": 1338,
       "skinId": 10,
+      "source": "upgradeData"
+    },
+    {
+      "catalogLandscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "catalogPortrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20GUIN%20ASPIRANT.jpg",
+      "category": -1,
+      "heroId": 80,
+      "incomingImages": [
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738",
+        "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Guinevere_%28Twilight_Star%29.jpg/revision/latest?cb=20250822102738"
+      ],
+      "issue": "imageConflict",
+      "row": 1339,
+      "skinId": 102949340,
       "source": "upgradeData"
     },
     {

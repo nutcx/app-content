@@ -3,39 +3,10 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/images%20(17).jpeg",
-      "name": "Deep Sea Monster",
-      "portrait": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/images%20(17).jpeg",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bane%20Basic%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Bane%20Basic%20to%20Epic.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/BANE%20BASIC%20TO%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Bane_%28Warlord%29.jpg/revision/latest?cb=20220204050341",
       "name": "Warlord",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Bane_%28Warlord%29.jpg/revision/latest?cb=20220204050341",
-      "skinId": 2,
+      "skinId": 174825183,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip",
         "upgrades": [
@@ -51,6 +22,35 @@
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/BANE%20SEASON%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/images%20(17).jpeg",
+      "name": "Deep Sea Monster",
+      "portrait": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/images%20(17).jpeg",
+      "skinId": 1491259761,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bane%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Bane%20Basic%20to%20Epic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/BANE%20BASIC%20TO%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 4
           }

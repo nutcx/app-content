@@ -6,39 +6,24 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
       "name": "Soul Tyrant",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
-      "skinId": 1,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
-      "name": "Soul Tyrant",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
-      "skinId": 4,
+      "skinId": 589119329,
       "source": null,
       "timestamp": 0,
       "type": ""
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Terizla_%28Abyss_Guard%29.jpg/revision/latest?cb=20220713092856",
-      "name": "Abyss Guard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Terizla_%28Abyss_Guard%29.jpg/revision/latest?cb=20220713092856",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Terizla_%28Flare%29.jpg/revision/latest?cb=20220713092901",
+      "name": "Flare",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Terizla_%28Flare%29.jpg/revision/latest?cb=20220713092901",
+      "skinId": 640962183,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Teriz%20Basic%20to%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20BASIC%20TO%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20ELITE%20TO%20COLLECTOR.zip",
+            "targetCategory": -2,
+            "targetSkinId": 589119329
           }
         ]
       },
@@ -50,7 +35,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Terizla_%28Rustwreck%29.jpg/revision/latest?cb=20240213093113",
       "name": "Rustwreck",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Terizla_%28Rustwreck%29.jpg/revision/latest?cb=20240213093113",
-      "skinId": 2,
+      "skinId": 946212109,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
         "upgrades": [
@@ -71,17 +56,22 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Terizla_%28Flare%29.jpg/revision/latest?cb=20220713092901",
-      "name": "Flare",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Terizla_%28Flare%29.jpg/revision/latest?cb=20220713092901",
-      "skinId": 3,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Terizla_%28Abyss_Guard%29.jpg/revision/latest?cb=20220713092856",
+      "name": "Abyss Guard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Terizla_%28Abyss_Guard%29.jpg/revision/latest?cb=20220713092856",
+      "skinId": 1591570400,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20ELITE%20TO%20COLLECTOR.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Teriz%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
           }
         ]
       },
@@ -129,7 +119,7 @@
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20SPECIAL%20TO%20COLLECTOR.zip",
             "targetCategory": -2,
-            "targetSkinId": 1
+            "targetSkinId": 589119329
           }
         ]
       },
@@ -148,7 +138,7 @@
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20EPIC%20TO%20COLLECTOR.zip",
             "targetCategory": -2,
-            "targetSkinId": 4
+            "targetSkinId": 589119329
           }
         ]
       },

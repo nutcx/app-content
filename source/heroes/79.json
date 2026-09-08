@@ -3,10 +3,49 @@
   "skins": [
     {
       "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Granger_%28Doomsday_Terminator%29.jpg/revision/latest?cb=20211010075422",
+      "name": "Doomsday Terminator",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Granger_%28Doomsday_Terminator%29.jpg/revision/latest?cb=20211010075422",
+      "skinId": 1674186695,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Elite%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J17%20GRANGER%20ELITE%20TRANSFORMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Elite%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 7
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20ELITE%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 10
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GRANGER%20ELITE%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 11
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Granger_%28Bardic_Whisper%29.jpg/revision/latest?cb=20211010075700",
       "name": "Bardic Whisper",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Granger_%28Bardic_Whisper%29.jpg/revision/latest?cb=20211010075700",
-      "skinId": 1,
+      "skinId": 2070838505,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
         "upgrades": [
@@ -47,45 +86,6 @@
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GRANGER%20BASIC%20TO%20SOULV.zip",
-            "targetCategory": 0,
-            "targetSkinId": 11
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Granger_%28Doomsday_Terminator%29.jpg/revision/latest?cb=20211010075422",
-      "name": "Doomsday Terminator",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Granger_%28Doomsday_Terminator%29.jpg/revision/latest?cb=20211010075422",
-      "skinId": 2,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Elite%20to%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J17%20GRANGER%20ELITE%20TRANSFORMER.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Elite%20to%20EXORCIST.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20ELITE%20TO%20PRIME.zip",
-            "targetCategory": 0,
-            "targetSkinId": 10
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GRANGER%20ELITE%20TO%20SOULV.zip",
             "targetCategory": 0,
             "targetSkinId": 11
           }

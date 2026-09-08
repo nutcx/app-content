@@ -6,7 +6,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Natalia_%28Glass_Blade%29.jpg/revision/latest?cb=20200427043825",
       "name": "Glass Blade",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Natalia_%28Glass_Blade%29.jpg/revision/latest?cb=20200427043825",
-      "skinId": 1,
+      "skinId": 727994489,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Natalia%20-%20Backup.zip",
         "upgrades": [
@@ -27,15 +27,15 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Natalia_%28Deadly_Mamba%29.jpg/revision/latest?cb=20240711074312",
-      "name": "Deadly Mamba",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Natalia_%28Deadly_Mamba%29.jpg/revision/latest?cb=20240711074312",
-      "skinId": 2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Natalia_%28Phantom_Dancer%29.jpg/revision/latest?cb=20230702154313",
+      "name": "Phantom Dancer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Natalia_%28Phantom_Dancer%29.jpg/revision/latest?cb=20230702154313",
+      "skinId": 871944746,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Natalia%20-%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Elite%20to%20CREATE.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Starlight%20to%20CREATE.zip",
             "targetCategory": 0,
             "targetSkinId": 3
           }
@@ -46,15 +46,15 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Natalia_%28Phantom_Dancer%29.jpg/revision/latest?cb=20230702154313",
-      "name": "Phantom Dancer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Natalia_%28Phantom_Dancer%29.jpg/revision/latest?cb=20230702154313",
-      "skinId": 3,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Natalia_%28Deadly_Mamba%29.jpg/revision/latest?cb=20240711074312",
+      "name": "Deadly Mamba",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Natalia_%28Deadly_Mamba%29.jpg/revision/latest?cb=20240711074312",
+      "skinId": 1868192432,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Natalia%20-%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Starlight%20to%20CREATE.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Elite%20to%20CREATE.zip",
             "targetCategory": 0,
             "targetSkinId": 3
           }

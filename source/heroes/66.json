@@ -3,10 +3,39 @@
   "skins": [
     {
       "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Vale_%28Soaring_Devata%29.jpg/revision/latest?cb=20211221013440",
+      "name": "Soaring Devala",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Vale_%28Soaring_Devata%29.jpg/revision/latest?cb=20211221013440",
+      "skinId": 1295911180,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Starlight%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 3
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Starlight%20to%20Annual.zip",
+            "targetCategory": 0,
+            "targetSkinId": 4
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Starlight%20to%20Gaara.zip",
+            "targetCategory": 0,
+            "targetSkinId": 5
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Vale_%28Cerulean_Winds%29.jpg/revision/latest?cb=20211010164949",
       "name": "Cerulean Winds",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Vale_%28Cerulean_Winds%29.jpg/revision/latest?cb=20211010164949",
-      "skinId": 1,
+      "skinId": 1640170362,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
         "upgrades": [
@@ -40,7 +69,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Vale_%28Kannagi%29.jpg/revision/latest?cb=20211010170122",
       "name": "Kannagi",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Vale_%28Kannagi%29.jpg/revision/latest?cb=20211010170122",
-      "skinId": 2,
+      "skinId": 1872242672,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
         "upgrades": [
@@ -61,35 +90,6 @@
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Elite%20to%20Gaara.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Vale_%28Soaring_Devata%29.jpg/revision/latest?cb=20211221013440",
-      "name": "Soaring Devala",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Vale_%28Soaring_Devata%29.jpg/revision/latest?cb=20211221013440",
-      "skinId": 4,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Starlight%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Starlight%20to%20Annual.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Vale%20Starlight%20to%20Gaara.zip",
             "targetCategory": 0,
             "targetSkinId": 5
           }

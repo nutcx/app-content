@@ -3,39 +3,15 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/revkajabasic.jpeg",
-      "name": "Commandment",
-      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/revkajabasic.jpeg",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Revamped-Kaja/Revamped.Kaja.Basic.Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Revamped-Kaja/Revamped.Kaja.Luckybox.Replace.Basic.-.Nutx.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kaja%20Basic%20to%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Kaja_%28Horror_Whiplash%29.jpg/revision/latest?cb=20200427111902",
-      "name": "Horror Whiplash",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Kaja_%28Horror_Whiplash%29.jpg/revision/latest?cb=20200427111902",
-      "skinId": 2,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Kaja_%28Kaminari%29.jpg/revision/latest?cb=20200427112205",
+      "name": "Kaminari",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Kaja_%28Kaminari%29.jpg/revision/latest?cb=20200427112205",
+      "skinId": 190499858,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kaja%20backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kaja%20Elite%20to%20LUCKYBOX.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kaja%20Starlight%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 1
           }
@@ -49,7 +25,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Crow_Magician_wall.jpg/revision/latest?cb=20210620032651",
       "name": "Crow Magician",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Crow_Magician_wall.jpg/revision/latest?cb=20210620032651",
-      "skinId": 3,
+      "skinId": 673989527,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kaja%20backup.zip",
         "upgrades": [
@@ -65,17 +41,41 @@
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Kaja_%28Kaminari%29.jpg/revision/latest?cb=20200427112205",
-      "name": "Kaminari",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Kaja_%28Kaminari%29.jpg/revision/latest?cb=20200427112205",
-      "skinId": 4,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Kaja_%28Horror_Whiplash%29.jpg/revision/latest?cb=20200427111902",
+      "name": "Horror Whiplash",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Kaja_%28Horror_Whiplash%29.jpg/revision/latest?cb=20200427111902",
+      "skinId": 1744753206,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kaja%20backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kaja%20Starlight%20to%20LUCKYBOX.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kaja%20Elite%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 1
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/revkajabasic.jpeg",
+      "name": "Commandment",
+      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/revkajabasic.jpeg",
+      "skinId": 1980230520,
+      "source": {
+        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Revamped-Kaja/Revamped.Kaja.Basic.Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Revamped-Kaja/Revamped.Kaja.Luckybox.Replace.Basic.-.Nutx.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kaja%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2
           }
         ]
       },
