@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Kagura_%28Onmyouji_Master%29.jpg/revision/latest?cb=20211212135733",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1251/landscape.webp",
       "name": "Onmyouji Master",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20241021141216",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1251/portrait.webp",
       "skinId": 1251,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
@@ -67,9 +67,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Kagura_%28Flower_Season%29.jpg/revision/latest?cb=20210827085724",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1252/landscape.webp",
       "name": "Flower Season",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Kagura_%28Flower_Season%29.jpg/revision/latest?cb=20210827085724",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1252/portrait.webp",
       "skinId": 1252,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
@@ -111,9 +111,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Kagura_%28Cherry_Witch%29.jpg/revision/latest?cb=20240424073218",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1253/landscape.webp",
       "name": "Cherry Witch",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Kagura_%28Cherry_Witch%29.jpg/revision/latest?cb=20240424073218",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1253/portrait.webp",
       "skinId": 1253,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
@@ -150,9 +150,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Kagura_%28Summer_Festival%29.jpg/revision/latest?cb=20220701102121",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1254/landscape.webp",
       "name": "Summer Festival",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Kagura_%28Summer_Festival%29.jpg/revision/latest?cb=20220701102121",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1254/portrait.webp",
       "skinId": 1254,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
@@ -189,9 +189,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Kagura_%28Soryu_Maiden%29.jpg/revision/latest?cb=20181113231007",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1255/landscape.webp",
       "name": "Dragon Maiden",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Kagura_%28Soryu_Maiden%29.jpg/revision/latest?cb=20181113231007",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1255/portrait.webp",
       "skinId": 1255,
       "source": {
         "backupArchive": "",
@@ -208,9 +208,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Kagura_%28Rainy_Walk%29.jpg/revision/latest?cb=20211109062903",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1256/landscape.webp",
       "name": "Rainy Walk",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Kagura_%28Rainy_Walk%29.jpg/revision/latest?cb=20211109062903",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1256/portrait.webp",
       "skinId": 1256,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KAGURA%20BACKUP.zip",
@@ -242,9 +242,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Kagura_%28Water_Lily%29.jpg/revision/latest?cb=20211214071601",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1257/landscape.webp",
       "name": "Water Lily",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Kagura_%28Water_Lily%29.jpg/revision/latest?cb=20211214071601",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1257/portrait.webp",
       "skinId": 1257,
       "source": {
         "backupArchive": "",
@@ -266,9 +266,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kagura_%28Exorcist_Kagura%29.jpg/revision/latest?cb=20220915133612",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1258/landscape.webp",
       "name": "Exorcist Kagura",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kagura_%28Exorcist_Kagura%29.jpg/revision/latest?cb=20220915133612",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1258/portrait.webp",
       "skinId": 1258,
       "source": null,
       "timestamp": 1727363959953,
@@ -276,9 +276,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Kagura_%28Beyond_the_Clouds_Kagura%29.jpg/revision/latest?cb=20240520053314",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1259/landscape.webp",
       "name": "Beyond the Clouds Kagura",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Kagura_%28Beyond_the_Clouds_Kagura%29.jpg/revision/latest?cb=20240520053314",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1259/portrait.webp",
       "skinId": 1259,
       "source": {
         "backupArchive": "",
@@ -295,9 +295,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/102510/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/102510/landscape.webp",
       "name": "Jade Blossom",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/102510/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/102510/portrait.webp",
       "skinId": 102510,
       "source": {
         "backupArchive": "",
@@ -334,9 +334,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20KAGURA%20SPECIAL.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/102511/landscape.webp",
       "name": "Lady Parasol",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20KAGURA%20SPECIAL.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/102511/portrait.webp",
       "skinId": 102511,
       "source": null,
       "timestamp": 1756745854593,

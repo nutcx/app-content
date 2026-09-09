@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Windtalker_wall.jpg/revision/latest?cb=20211010164504",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1661/landscape.webp",
       "name": "Windtalker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero661-portrait.png/revision/latest?cb=20250406000746",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1661/portrait.webp",
       "skinId": 1661,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
@@ -71,9 +71,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Vale_%28Cerulean_Winds%29.jpg/revision/latest?cb=20211010164949",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1662/landscape.webp",
       "name": "Cerulean Winds",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Vale_%28Cerulean_Winds%29.jpg/revision/latest?cb=20211010164949",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1662/portrait.webp",
       "skinId": 1662,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
@@ -105,9 +105,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Vale_%28Blizzard_Storm%29.jpg/revision/latest?cb=20220226091204",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1663/landscape.webp",
       "name": "Blizzard Storm",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Vale_%28Blizzard_Storm%29.jpg/revision/latest?cb=20220226091204",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1663/portrait.webp",
       "skinId": 1663,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
@@ -129,9 +129,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Vale_%28Kannagi%29.jpg/revision/latest?cb=20211010170122",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1664/landscape.webp",
       "name": "Kannagi",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Vale_%28Kannagi%29.jpg/revision/latest?cb=20211010170122",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1664/portrait.webp",
       "skinId": 1664,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip",
@@ -163,9 +163,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Vale_%28Supernal_Tempest%29.jpg/revision/latest?cb=20220408062526",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1666/landscape.webp",
       "name": "Supernal Tempest",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Vale_%28Supernal_Tempest%29.jpg/revision/latest?cb=20220408062526",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1666/portrait.webp",
       "skinId": 1666,
       "source": null,
       "timestamp": 1727377759257,
@@ -173,9 +173,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Vale_%28Concerto_of_Light%29.jpg/revision/latest?cb=20240904133143",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1668/landscape.webp",
       "name": "Concerto of Light",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Vale_%28Concerto_of_Light%29.jpg/revision/latest?cb=20240904133143",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1668/portrait.webp",
       "skinId": 1668,
       "source": null,
       "timestamp": 1728902068580,
@@ -183,9 +183,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Vale_%28Gaara%29.jpg/revision/latest?cb=20250411100220",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1669/landscape.webp",
       "name": "Gaara",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Vale_%28Gaara%29.jpg/revision/latest?cb=20250411100220",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1669/portrait.webp",
       "skinId": 1669,
       "source": null,
       "timestamp": 1744538084856,

@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Gloo_%28Swamp_Spirits%29.jpg/revision/latest?cb=20220218134437",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2041/landscape.webp",
       "name": "Swamp Spirits",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png/revision/latest?cb=20240602231141",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2041/portrait.webp",
       "skinId": 2041,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GLOO%20BACKUP.zip",
@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Gloo_%28Verdant_Enchanter%29.png/revision/latest?cb=20230109180041",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2042/landscape.webp",
       "name": "Verdant Enchanter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Gloo_%28Verdant_Enchanter%29.png/revision/latest?cb=20230109180041",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2042/portrait.webp",
       "skinId": 2042,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GLOO%20BACKUP.zip",
@@ -51,9 +51,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Gloo_%28Jellyman%29.jpg/revision/latest?cb=20230819040938",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2043/landscape.webp",
       "name": "Jellyman",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Gloo_%28Jellyman%29.jpg/revision/latest?cb=20230819040938",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2043/portrait.webp",
       "skinId": 2043,
       "source": null,
       "timestamp": 1727283139170,
@@ -61,9 +61,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20GLOO%20PATRICK.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2044/landscape.webp",
       "name": "Patrick",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20GLOO%20PATRICK.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2044/portrait.webp",
       "skinId": 2044,
       "source": null,
       "timestamp": 1767611181544,

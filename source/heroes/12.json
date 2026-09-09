@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Bruno_%28Mech_Protector%29.jpg/revision/latest?cb=20231009020353",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1121/landscape.webp",
       "name": "The Protector",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20240605133847",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1121/portrait.webp",
       "skinId": 1121,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Bruno%20Backup.zip",
@@ -47,9 +47,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Bruno_%28Vanguard_Elite%29.png/revision/latest?cb=20180612072100",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1122/landscape.webp",
       "name": "Vanguard Elite",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Bruno_%28Vanguard_Elite%29.png/revision/latest?cb=20180612072100",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1122/portrait.webp",
       "skinId": 1122,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Bruno%20Backup.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(92).jpeg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1123/landscape.webp",
       "name": "Best DJ",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(92).jpeg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1123/portrait.webp",
       "skinId": 1123,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Bruno%20Backup.zip",
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Bruno_%28Street_Football%29.jpg/revision/latest?cb=20201119070651",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1124/landscape.webp",
       "name": "Street Football",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Bruno_%28Street_Football%29.jpg/revision/latest?cb=20201119070651",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1124/portrait.webp",
       "skinId": 1124,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Bruno%20Backup.zip",
@@ -119,9 +119,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Bruno_%28The_Falcon%29.jpg/revision/latest?cb=20210726042236",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1125/landscape.webp",
       "name": "The Falcon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest?cb=20220525164551",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1125/portrait.webp",
       "skinId": 1125,
       "source": null,
       "timestamp": 1727229828001,
@@ -129,9 +129,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Bruno_%28Firebolt%29.jpg/revision/latest?cb=20220226091107",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1126/landscape.webp",
       "name": "Firebolt",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest?cb=20220525164552",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1126/portrait.webp",
       "skinId": 1126,
       "source": null,
       "timestamp": 1727229832900,
@@ -139,9 +139,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Bruno_%28Street_Hype%29.jpg/revision/latest?cb=20240122031638",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1127/landscape.webp",
       "name": "Street Hype",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest?cb=20240114091333",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1127/portrait.webp",
       "skinId": 1127,
       "source": null,
       "timestamp": 1727229837930,
@@ -149,9 +149,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Bruno_%28Halo_Striker%29.jpg/revision/latest?cb=20221111142411",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1128/landscape.webp",
       "name": "Halo Striker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1128/portrait.webp",
       "skinId": 1128,
       "source": null,
       "timestamp": 1727230018069,
@@ -159,9 +159,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Bruno_%28Neymar_Jr%29.jpg/revision/latest?cb=20221111142415",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1129/landscape.webp",
       "name": "Neymar Jr",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero129-portrait.png/revision/latest?cb=20221103134235",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1129/portrait.webp",
       "skinId": 1129,
       "source": null,
       "timestamp": 1727230025406,

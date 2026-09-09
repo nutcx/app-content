@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Chip_%28Phase_Technician%29.jpg/revision/latest?cb=20240303050952",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2241/landscape.webp",
       "name": "Phase Technician",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240917154206",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2241/portrait.webp",
       "skinId": 2241,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Chip%20Elite.zip",
@@ -22,9 +22,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Chip_%28Badlands_Hiatus%29.jpg/revision/latest?cb=20240909043304",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2243/landscape.webp",
       "name": "Badlands Hiatus",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero1243-portrait.png/revision/latest?cb=20240909043655",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2243/portrait.webp",
       "skinId": 2243,
       "source": null,
       "timestamp": 1727238148432,

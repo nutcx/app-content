@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Minsitthar_%28Courageous_Warrior%29.jpg/revision/latest?cb=20230622001705",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1741/landscape.webp",
       "name": "Courageous Warrior",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1741/portrait.webp",
       "skinId": 1741,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MINSITHAR%20BACKUP.zip",
@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Minsitthar_%28King_of_War%29.jpg/revision/latest?cb=20181124125214",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1742/landscape.webp",
       "name": "King of War",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Minsitthar_%28King_of_War%29.jpg/revision/latest?cb=20181124125214",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1742/portrait.webp",
       "skinId": 1742,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MINSITHAR%20BACKUP.zip",
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Minsitthar_%28Crimson_Lion%29.jpg/revision/latest?cb=20240126081201",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1745/landscape.webp",
       "name": "Crimson Lion",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Minsitthar_%28Crimson_Lion%29.jpg/revision/latest?cb=20240126081201",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1745/portrait.webp",
       "skinId": 1745,
       "source": null,
       "timestamp": 1727371004081,
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Minsitthar_%28Sol_Invictus%29.jpg/revision/latest?cb=20240126074854",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1746/landscape.webp",
       "name": "Sol Invictus",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Minsitthar_%28Sol_Invictus%29.jpg/revision/latest?cb=20240126074854",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1746/portrait.webp",
       "skinId": 1746,
       "source": null,
       "timestamp": 1727371020450,
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20MINSITHAR%20ELITE.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1748/landscape.webp",
       "name": "Golden Marshal",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20MINSITHAR%20ELITE.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1748/portrait.webp",
       "skinId": 1748,
       "source": null,
       "timestamp": 1756745782595,

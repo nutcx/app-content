@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Atlas_%28Ocean_Gladiator%29.jpg/revision/latest?cb=20200528124541",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1931/landscape.webp",
       "name": "Ocean Gladiator",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20220525171026",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1931/portrait.webp",
       "skinId": 1931,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/ATLAS%20BACKUP.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Reactor_Core_wall.jpg/revision/latest?cb=20200528124305",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1932/landscape.webp",
       "name": "Reactor Core",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Reactor_Core_wall.jpg/revision/latest?cb=20200528124305",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1932/portrait.webp",
       "skinId": 1932,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/ATLAS%20BACKUP.zip",
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Fuel_Turbine_wall.jpg/revision/latest?cb=20200907091800",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1933/landscape.webp",
       "name": "Fuel Turbine",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest?cb=20220525170224",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1933/portrait.webp",
       "skinId": 1933,
       "source": null,
       "timestamp": 1727162213821,
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Atlas_%28Space_Mech%29.png/revision/latest?cb=20220908203813",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1934/landscape.webp",
       "name": "Space Mech",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest?cb=20220804115339",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1934/portrait.webp",
       "skinId": 1934,
       "source": null,
       "timestamp": 1727162234859,
@@ -86,9 +86,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Atlas_%28Rune_Sentinel%29.jpg/revision/latest?cb=20240124081454",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1935/landscape.webp",
       "name": "Rune Sentinel",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1935/portrait.webp",
       "skinId": 1935,
       "source": null,
       "timestamp": 1727162246744,
@@ -96,9 +96,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Atlas_%28Mecha_Infernus%29.jpg/revision/latest?cb=20240725093233",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1936/landscape.webp",
       "name": "Mecha Infernus",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero936-portrait.png/revision/latest?cb=20240918023911",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1936/portrait.webp",
       "skinId": 1936,
       "source": null,
       "timestamp": 1727162264245,

@@ -22,9 +22,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Carmilla_%28Shadow_of_Twilight%29.jpg/revision/latest?cb=20200815122158",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1921/landscape.webp",
       "name": "Shadow of Twilight",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest?cb=20220525171356",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1921/portrait.webp",
       "skinId": 1921,
       "source": {
         "backupArchive": "https://github.com/Mexi23/SuppD/raw/main/carmilla_def_backup.zip",
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1923/landscape.webp",
       "name": "Magician Girl",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero923-portrait.png/revision/latest?cb=20220525170212",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1923/portrait.webp",
       "skinId": 1923,
       "source": null,
       "timestamp": 1727230336025,
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Phantom_Countess_%26_Phantom_Count_wall.jpg/revision/latest?cb=20210214041829",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1924/landscape.webp",
       "name": "Phantom Countess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero924-portrait.png/revision/latest?cb=20220525170213",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1924/portrait.webp",
       "skinId": 1924,
       "source": null,
       "timestamp": 1727230330982,
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Carmilla_%28Astral_Arcana%29.jpg/revision/latest?cb=20240717044701",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1925/landscape.webp",
       "name": "Astral Arcana",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero925-portrait.png/revision/latest?cb=20240717044414",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1925/portrait.webp",
       "skinId": 1925,
       "source": null,
       "timestamp": 1727230340830,

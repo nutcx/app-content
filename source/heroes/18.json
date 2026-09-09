@@ -51,9 +51,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Layla_%28Energy_Gunner%29.jpg/revision/latest?cb=20231009030108",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1181/landscape.webp",
       "name": "Energy Gunner",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1181/portrait.webp",
       "skinId": 1181,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
@@ -105,9 +105,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Layla_%28Bunny_Babe%29.jpg/revision/latest?cb=20201107034343",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1183/landscape.webp",
       "name": "Bunny Babe",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Layla_%28Bunny_Babe%29.jpg/revision/latest?cb=20201107034343",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1183/portrait.webp",
       "skinId": 1183,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
@@ -124,9 +124,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Layla_%28Cannon_and_Roses%29.jpg/revision/latest?cb=20240801124614",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1184/landscape.webp",
       "name": "Cannon and Roses",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Layla_%28Cannon_and_Roses%29.jpg/revision/latest?cb=20240801124614",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1184/portrait.webp",
       "skinId": 1184,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
@@ -143,9 +143,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Layla_%28Blue_Spectre%29.jpg/revision/latest?cb=20201107034844",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1185/landscape.webp",
       "name": "Blue Specter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Layla_%28Blue_Spectre%29.jpg/revision/latest?cb=20201107034844",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1185/portrait.webp",
       "skinId": 1185,
       "source": null,
       "timestamp": 1727367543549,
@@ -153,9 +153,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Layla_%28Classic_Malefic_Gunner%29.jpg/revision/latest?cb=20201107040255",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1186/landscape.webp",
       "name": "Classic Malefic Gunner",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Layla_%28Classic_Malefic_Gunner%29.jpg/revision/latest?cb=20201107040255",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1186/portrait.webp",
       "skinId": 1186,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/LAYLA%20BACKUP.zip",
@@ -177,9 +177,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Layla_%28S.A.B.E.R._Breacher%29.jpg/revision/latest?cb=20201107041606",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1187/landscape.webp",
       "name": "S.A.B.E.R. Breacher",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Layla_%28S.A.B.E.R._Breacher%29.jpg/revision/latest?cb=20201107041606",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1187/portrait.webp",
       "skinId": 1187,
       "source": null,
       "timestamp": 1727367563782,
@@ -187,9 +187,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20LAYLA%20BLAZING%20NEW.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1188/landscape.webp",
       "name": "Blazing Gun",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20LAYLA%20BLAZING%20NEW.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1188/portrait.webp",
       "skinId": 1188,
       "source": null,
       "timestamp": 1727367571434,
@@ -197,9 +197,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Layla_%28Miss_Hikari%29.jpg/revision/latest?cb=20220214155719",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1189/landscape.webp",
       "name": "Miss Hikari",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Layla_%28Miss_Hikari%29.jpg/revision/latest?cb=20220214155719",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1189/portrait.webp",
       "skinId": 1189,
       "source": null,
       "timestamp": 1727367630970,
@@ -207,9 +207,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Layla_%28Twilight_Waltz%29.jpg/revision/latest?cb=20231009022948",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/101810/landscape.webp",
       "name": "Twilight Waltz",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Layla_%28Twilight_Waltz%29.jpg/revision/latest?cb=20231009022948",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/101810/portrait.webp",
       "skinId": 101810,
       "source": null,
       "timestamp": 1727367660080,
@@ -217,9 +217,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Layla_%28Paranormal_Operative%29.jpg/revision/latest?cb=20240620040625",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/101811/landscape.webp",
       "name": "Paranormal Operative",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Layla_%28Paranormal_Operative%29.jpg/revision/latest?cb=20240620040625",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/101811/portrait.webp",
       "skinId": 101811,
       "source": null,
       "timestamp": 1727367683879,
@@ -227,9 +227,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20LAYLA%20NEXUS.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/101812/landscape.webp",
       "name": "The Beacon",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20LAYLA%20NEXUS.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/101812/portrait.webp",
       "skinId": 101812,
       "source": null,
       "timestamp": 1756746068756,

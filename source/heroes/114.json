@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Melissa_%28Cursed_Needle%29.jpg/revision/latest?cb=20220301065501",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2141/landscape.webp",
       "name": "Cursed Needle",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb=20220525170741",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2141/portrait.webp",
       "skinId": 2141,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Melissa%20BACKUP.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Melissa_%28Twinge_Weaver%29.jpg/revision/latest?cb=20220324084759",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2142/landscape.webp",
       "name": "Twinge Weaver",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Melissa_%28Twinge_Weaver%29.jpg/revision/latest?cb=20220324084759",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2142/portrait.webp",
       "skinId": 2142,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Melissa%20BACKUP.zip",
@@ -71,9 +71,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Melissa_%28Nobara_Kugisaki%29.jpg/revision/latest?cb=20230308111010",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2143/landscape.webp",
       "name": "Nobara Kugisaki",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Melissa_%28Nobara_Kugisaki%29.jpg/revision/latest?cb=20230308111010",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2143/portrait.webp",
       "skinId": 2143,
       "source": null,
       "timestamp": 1727370639424,
@@ -81,9 +81,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Melissa_%28Nightwalker%29.jpg/revision/latest?cb=20240817134251",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2144/landscape.webp",
       "name": "Nightwalker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Melissa_%28Nightwalker%29.jpg/revision/latest?cb=20240817134251",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2144/portrait.webp",
       "skinId": 2144,
       "source": {
         "backupArchive": "",
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Melissa_%28SPARKLE_Melissa%29.jpg/revision/latest?cb=20240317064417",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2145/landscape.webp",
       "name": "SPARKLE Melissa",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Melissa_%28SPARKLE_Melissa%29.jpg/revision/latest?cb=20240317064417",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2145/portrait.webp",
       "skinId": 2145,
       "source": {
         "backupArchive": "",
@@ -119,9 +119,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2146/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2146/landscape.webp",
       "name": "Umbra Bloom",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2146/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2146/portrait.webp",
       "skinId": 2146,
       "source": {
         "backupArchive": "",

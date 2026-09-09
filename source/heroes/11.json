@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Bane_%28Frozen_King%29.jpg/revision/latest?cb=20210415134911",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1111/landscape.webp",
       "name": "Frozen King",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20241021140922",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1111/portrait.webp",
       "skinId": 1111,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Bane_%28Castle_Master%29.jpg/revision/latest?cb=20220204045716",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1112/landscape.webp",
       "name": "Castle Master",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest?cb=20220525164539",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1112/portrait.webp",
       "skinId": 1112,
       "source": null,
       "timestamp": 1727163411132,
@@ -47,9 +47,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/images%20(17).jpeg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1113/landscape.webp",
       "name": "Deep Sea Monster",
-      "portrait": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/images%20(17).jpeg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1113/portrait.webp",
       "skinId": 1113,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Bane_%28Warlord%29.jpg/revision/latest?cb=20220204050341",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1114/landscape.webp",
       "name": "Warlord",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Bane_%28Warlord%29.jpg/revision/latest?cb=20220204050341",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1114/portrait.webp",
       "skinId": 1114,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip",
@@ -105,9 +105,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Bane_%28Underworld_Outlaw%29.jpg/revision/latest?cb=20220225030417",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1115/landscape.webp",
       "name": "Underworld Outlaw",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest?cb=20220525164542",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1115/portrait.webp",
       "skinId": 1115,
       "source": {
         "backupArchive": "",
@@ -129,9 +129,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Bane_%28Soul_Defiler%29.jpg/revision/latest?cb=20230321152302",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1116/landscape.webp",
       "name": "Soul Defiler",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1116/portrait.webp",
       "skinId": 1116,
       "source": null,
       "timestamp": 1727163434504,
@@ -139,9 +139,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Bane%20Starlight.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1117/landscape.webp",
       "name": "Lord of Scalding Seas",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20Bane%20Starlight.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1117/portrait.webp",
       "skinId": 1117,
       "source": null,
       "timestamp": 1761514270583,

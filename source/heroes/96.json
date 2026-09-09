@@ -13,9 +13,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Luo_Yi_%28Yin-yang_Geomancer%29.jpg/revision/latest?cb=20200523052957",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1961/landscape.webp",
       "name": "Yin-yang Geomancer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest?cb=20240501052651",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1961/portrait.webp",
       "skinId": 1961,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
@@ -57,9 +57,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Luo_Yi_%28Yin-yang_Mage%29.jpg/revision/latest?cb=20200523053147",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1962/landscape.webp",
       "name": "Yin-yang Mage",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Luo_Yi_%28Yin-yang_Mage%29.jpg/revision/latest?cb=20200523053147",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1962/portrait.webp",
       "skinId": 1962,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
@@ -96,9 +96,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Luo_Yi_%28Tenko%29.jpg/revision/latest?cb=20230621235447",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1963/landscape.webp",
       "name": "Tenko",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Luo_Yi_%28Tenko%29.jpg/revision/latest?cb=20230621235447",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1963/portrait.webp",
       "skinId": 1963,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
@@ -130,9 +130,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Luo_Yi_%28Dawning_Fortune%29.jpg/revision/latest?cb=20230621235518",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1964/landscape.webp",
       "name": "Dawning Fortune",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Luo_Yi_%28Dawning_Fortune%29.jpg/revision/latest?cb=20230621235518",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1964/portrait.webp",
       "skinId": 1964,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
@@ -154,9 +154,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Luo_Yi_%28Siren_Priestess%29.jpg/revision/latest?cb=20230621235603",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1965/landscape.webp",
       "name": "Siren Priestess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Luo_Yi_%28Siren_Priestess%29.jpg/revision/latest?cb=20230621235603",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1965/portrait.webp",
       "skinId": 1965,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
@@ -183,9 +183,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Luo_Yi_%28Elysium_Guardian%29.jpg/revision/latest?cb=20220630091233",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1966/landscape.webp",
       "name": "Elysium Guardian",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Luo_Yi_%28Elysium_Guardian%29.jpg/revision/latest?cb=20220630091233",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1966/portrait.webp",
       "skinId": 1966,
       "source": null,
       "timestamp": 1727369593035,
@@ -193,9 +193,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Luo_Yi_%28Oracle_of_Sol%29.jpg/revision/latest?cb=20230529054921",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1967/landscape.webp",
       "name": "Oracle of Sol",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Luo_Yi_%28Oracle_of_Sol%29.jpg/revision/latest?cb=20230529054921",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1967/portrait.webp",
       "skinId": 1967,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
@@ -212,9 +212,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1750344456307.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1968/landscape.webp",
       "name": "Starborne Matron",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1750344456307.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1968/portrait.webp",
       "skinId": 1968,
       "source": null,
       "timestamp": 1750344728372,
@@ -222,9 +222,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20LUOYI%20DRAGON.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1969/landscape.webp",
       "name": "Lady Dragon",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20LUOYI%20DRAGON.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1969/portrait.webp",
       "skinId": 1969,
       "source": null,
       "timestamp": 1759855982764,

@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Benedetta%28Shadow_Ranger%29.jpg/revision/latest?cb=20230926170223",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1971/landscape.webp",
       "name": "Shadow Ranger",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1971/portrait.webp",
       "skinId": 1971,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
@@ -62,9 +62,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Benedetta%28Honor_Blade%29.jpg/revision/latest?cb=20230926170412",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1972/landscape.webp",
       "name": "Honor Blade",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Benedetta%28Honor_Blade%29.jpg/revision/latest?cb=20230926170412",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1972/portrait.webp",
       "skinId": 1972,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
@@ -111,9 +111,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1973/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1973/landscape.webp",
       "name": "Street Thrasher",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1973/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1973/portrait.webp",
       "skinId": 1973,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
@@ -135,9 +135,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Benedetta%28Death_Oath%29.jpg/revision/latest?cb=20230926170422",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1974/landscape.webp",
       "name": "Death Oath",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb=20220525170255",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1974/portrait.webp",
       "skinId": 1974,
       "source": {
         "backupArchive": "",
@@ -154,9 +154,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Benedetta%28Moon_Blade%29.jpg/revision/latest?cb=20230926170434",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1975/landscape.webp",
       "name": "Moonblade",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb=20220525170256",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1975/portrait.webp",
       "skinId": 1975,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
@@ -193,9 +193,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Benedetta_%28Panigale_V4S_Rider%29.png/revision/latest?cb=20230914133857",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1976/landscape.webp",
       "name": "Panigale V4S Rider",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1976/portrait.webp",
       "skinId": 1976,
       "source": null,
       "timestamp": 1727227822823,
@@ -203,9 +203,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Benedetta_%28Quantum_Edge%29.jpg/revision/latest?cb=20240314065758",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1977/landscape.webp",
       "name": "Quantum Edge",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest?cb=20240314065930",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1977/portrait.webp",
       "skinId": 1977,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
@@ -227,9 +227,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20BENE%20COVELANT.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1978/landscape.webp",
       "name": "Phantom Mirage",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20BENE%20COVELANT.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1978/portrait.webp",
       "skinId": 1978,
       "source": null,
       "timestamp": 1741504032013,
@@ -237,9 +237,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1979/landscape.webp",
       "name": "Vessel of Pride",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1979/portrait.webp",
       "skinId": 1979,
       "source": null,
       "timestamp": 1765181876759,

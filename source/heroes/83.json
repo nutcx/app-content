@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/X.Borg_%28Firaga_Armor%29.jpg/revision/latest?cb=20231009020959",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1831/landscape.webp",
       "name": "Firaga Armor",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20230826055048",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1831/portrait.webp",
       "skinId": 1831,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/XBORG%20BACKUP.zip",
@@ -42,9 +42,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/X.Borg_%28Blue_Storm%29.jpg/revision/latest?cb=20200427091448",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1832/landscape.webp",
       "name": "Blue Storm",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/X.Borg_%28Blue_Storm%29.jpg/revision/latest?cb=20200427091448",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1832/portrait.webp",
       "skinId": 1832,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/XBORG%20BACKUP.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/X.Borg_%28Moto_Drifter%29.jpg/revision/latest?cb=20200427091153",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1833/landscape.webp",
       "name": "Moto Drifter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/X.Borg_%28Moto_Drifter%29.jpg/revision/latest?cb=20200427091153",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1833/portrait.webp",
       "skinId": 1833,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/XBORG%20BACKUP.zip",
@@ -105,9 +105,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/X.Borg_%28Graffiti_Fashion%29.jpg/revision/latest?cb=20200601090004",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1834/landscape.webp",
       "name": "Graffiti Fashion",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/X.Borg_%28Graffiti_Fashion%29.jpg/revision/latest?cb=20200601090004",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1834/portrait.webp",
       "skinId": 1834,
       "source": null,
       "timestamp": 1727378899993,
@@ -115,9 +115,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/X.Borg_%28Tesla_Maniac%29.jpg/revision/latest?cb=20211215020408",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1835/landscape.webp",
       "name": "Tesla Maniac",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/X.Borg_%28Tesla_Maniac%29.jpg/revision/latest?cb=20211215020408",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1835/portrait.webp",
       "skinId": 1835,
       "source": null,
       "timestamp": 1727378908074,
@@ -125,9 +125,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/X.Borg_%28Bumblebee%29.jpg/revision/latest?cb=20211215015544",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1836/landscape.webp",
       "name": "Bumblebee",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/X.Borg_%28Bumblebee%29.jpg/revision/latest?cb=20211215015544",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1836/portrait.webp",
       "skinId": 1836,
       "source": null,
       "timestamp": 1727378915539,
@@ -135,9 +135,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20XB%20MCGG.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1837/landscape.webp",
       "name": "Pecados Rioter",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20XB%20MCGG.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1837/portrait.webp",
       "skinId": 1837,
       "source": null,
       "timestamp": 1740338711886,
@@ -145,9 +145,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1120098919994100.jpeg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1838/landscape.webp",
       "name": "Invoker's Flame",
-      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1120098919994100.jpeg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1838/portrait.webp",
       "skinId": 1838,
       "source": null,
       "timestamp": 1754320499023,

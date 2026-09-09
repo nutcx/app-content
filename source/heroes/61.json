@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Chang%27e_%28Moon_Palace_Immortal%29.jpg/revision/latest?cb=20200427092750",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1611/landscape.webp",
       "name": "Moon Palace Immortal",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero611-portrait.png/revision/latest?cb=20240121134835",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1611/portrait.webp",
       "skinId": 1611,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/change_def_backup.zip",
@@ -47,9 +47,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Chang%27e_%28Moonstruck%29.jpg/revision/latest?cb=20180604072054",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1612/landscape.webp",
       "name": "Moonstruck",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Chang%27e_%28Moonstruck%29.jpg/revision/latest?cb=20180604072054",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1612/portrait.webp",
       "skinId": 1612,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/change_def_backup.zip",
@@ -81,9 +81,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Chang%27e_%28Crimson_Moon%29.jpg/revision/latest?cb=20200427093655",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1613/landscape.webp",
       "name": "Crimson Moon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Chang%27e_%28Crimson_Moon%29.jpg/revision/latest?cb=20200427093655",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1613/portrait.webp",
       "skinId": 1613,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/change_def_backup.zip",
@@ -110,9 +110,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Chang%27e_%28Floral_Elfo%29.jpg/revision/latest?cb=20210129135549",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1614/landscape.webp",
       "name": "Floral Elfo",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Chang%27e_%28Floral_Elfo%29.jpg/revision/latest?cb=20210129135549",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1614/portrait.webp",
       "skinId": 1614,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/change_def_backup.zip",
@@ -134,9 +134,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Chang%27e_%28Lunar_Magic%29.jpg/revision/latest?cb=20200606084724",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1615/landscape.webp",
       "name": "Lunar Magic",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest?cb=20220525165543",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1615/portrait.webp",
       "skinId": 1615,
       "source": null,
       "timestamp": 1727236365167,
@@ -144,9 +144,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Chang%27e_%28Strawberry_Parfait%29.jpg/revision/latest?cb=20210117022240",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1616/landscape.webp",
       "name": "Strawberry Parfait",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero616-portrait.png/revision/latest?cb=20220525165544",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1616/portrait.webp",
       "skinId": 1616,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHANGE%20STARLIGHT%20TO%20SANRIO.zip",
@@ -163,9 +163,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Chang%27e_%28Vine_Cradle%29.jpg/revision/latest?cb=20220115052941",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1617/landscape.webp",
       "name": "Vine Cradle",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero617-portrait.png/revision/latest?cb=20220525165545",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1617/portrait.webp",
       "skinId": 1617,
       "source": {
         "backupArchive": "",
@@ -182,9 +182,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Chang%27e_%28Moon_Artist%29.jpg/revision/latest?cb=20220216164736",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1618/landscape.webp",
       "name": "Moon Artist",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest?cb=20220525165546",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1618/portrait.webp",
       "skinId": 1618,
       "source": null,
       "timestamp": 1727236405550,
@@ -192,9 +192,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chang%27e_%28New_Moon%29.jpg/revision/latest?cb=20230308110809",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1619/landscape.webp",
       "name": "New Moon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero619-portrait.png/revision/latest?cb=20221216103139",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1619/portrait.webp",
       "skinId": 1619,
       "source": null,
       "timestamp": 1727236410369,
@@ -202,9 +202,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Chang%27e_%28Tech_Tensai%29.jpg/revision/latest?cb=20240126073209",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106110/landscape.webp",
       "name": "Tech Tensai",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest?cb=20240130070359",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106110/portrait.webp",
       "skinId": 106110,
       "source": null,
       "timestamp": 1727236414396,

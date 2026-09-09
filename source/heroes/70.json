@@ -22,9 +22,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Belerick_%28Guard_of_Nature%29.jpg/revision/latest?cb=20220715131615",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1701/landscape.webp",
       "name": "Guard of Nature",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest?cb=20220525165729",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1701/portrait.webp",
       "skinId": 1701,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip",
@@ -61,9 +61,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Belerick_%28Torch_Guardian%29.jpg/revision/latest?cb=20220609141557",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1703/landscape.webp",
       "name": "Torch Guardian",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero703-portrait.png/revision/latest?cb=20220525165732",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1703/portrait.webp",
       "skinId": 1703,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip",
@@ -80,9 +80,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Belerick_%28The_Deep_One%29.jpg/revision/latest?cb=20220609141719",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1704/landscape.webp",
       "name": "The Deep One",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero704-portrait.png/revision/latest?cb=20220525165734",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1704/portrait.webp",
       "skinId": 1704,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip",
@@ -99,9 +99,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Belerick_%28Emerald_Guardian%29.jpg/revision/latest?cb=20230622003031",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1705/landscape.webp",
       "name": "Emerald Guardian",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero705-portrait.png/revision/latest?cb=20220525165735",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1705/portrait.webp",
       "skinId": 1705,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip",
@@ -118,9 +118,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20BELERICK%20EPIC.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1706/landscape.webp",
       "name": "Arbiter of Stars",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20BELERICK%20EPIC.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1706/portrait.webp",
       "skinId": 1706,
       "source": null,
       "timestamp": 1741935251572,

@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hanabi_%28Scarlet_Flower%29.jpg/revision/latest?cb=20230308110952",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1601/landscape.webp",
       "name": "Scarlet Flower",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png/revision/latest?cb=20221217032835",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1601/portrait.webp",
       "skinId": 1601,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
@@ -86,9 +86,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hanabi_%28Resplendent_Iris%29.jpg/revision/latest?cb=20241128094755",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1602/landscape.webp",
       "name": "Resplendent Iris",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hanabi_%28Resplendent_Iris%29.jpg/revision/latest?cb=20241128094755",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1602/portrait.webp",
       "skinId": 1602,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
@@ -120,9 +120,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hanabi_%28Viper%29.jpg/revision/latest?cb=20200824031410",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1603/landscape.webp",
       "name": "Viper",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hanabi_%28Viper%29.jpg/revision/latest?cb=20200824031410",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1603/portrait.webp",
       "skinId": 1603,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
@@ -144,9 +144,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/V.E.N.O.M._-_Nephila_wall.jpg/revision/latest?cb=20200824031603",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1604/landscape.webp",
       "name": "V.E.N.O.M. Nephila",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/V.E.N.O.M._-_Nephila_wall.jpg/revision/latest?cb=20200824031603",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1604/portrait.webp",
       "skinId": 1604,
       "source": null,
       "timestamp": 1727285078642,
@@ -154,9 +154,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hanabi_%28Fiery_Moth%29.jpg/revision/latest?cb=20200513060336",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1605/landscape.webp",
       "name": "Fiery Moth",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hanabi_%28Fiery_Moth%29.jpg/revision/latest?cb=20200513060336",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1605/portrait.webp",
       "skinId": 1605,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
@@ -178,9 +178,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hanabi_%28Rakshesha%29.jpg/revision/latest?cb=20200513061916",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1606/landscape.webp",
       "name": "Rakshesha",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hanabi_%28Rakshesha%29.jpg/revision/latest?cb=20200513061916",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1606/portrait.webp",
       "skinId": 1606,
       "source": null,
       "timestamp": 1727285109794,
@@ -188,9 +188,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hanabi_%28Field_Op%29.jpg/revision/latest?cb=20210529213850",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1607/landscape.webp",
       "name": "Field Op",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hanabi_%28Field_Op%29.jpg/revision/latest?cb=20210529213850",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1607/portrait.webp",
       "skinId": 1607,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/hana_def_backup.zip",
@@ -207,9 +207,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hanabi_%28Riverland_Phoenix%29.jpg/revision/latest?cb=20220107111042",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1608/landscape.webp",
       "name": "Riverland Phoenix",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hanabi_%28Riverland_Phoenix%29.jpg/revision/latest?cb=20220107111042",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1608/portrait.webp",
       "skinId": 1608,
       "source": null,
       "timestamp": 1727285146539,
@@ -217,9 +217,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hanabi_%28Moonlit_Ninja%29.jpg/revision/latest?cb=20230321152256",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1609/landscape.webp",
       "name": "Moonlit Ninja",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hanabi_%28Moonlit_Ninja%29.jpg/revision/latest?cb=20230321152256",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1609/portrait.webp",
       "skinId": 1609,
       "source": null,
       "timestamp": 1727285176315,
@@ -227,9 +227,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hanabi_%28Vessel_of_Rage%29.jpg/revision/latest?cb=20240725101324",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106010/landscape.webp",
       "name": "Vessel of Rage",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hanabi_%28Vessel_of_Rage%29.jpg/revision/latest?cb=20240725101324",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106010/portrait.webp",
       "skinId": 106010,
       "source": null,
       "timestamp": 1727285199611,
@@ -237,9 +237,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/FB_IMG_1753608095092.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/61060112/landscape.webp",
       "name": "Neon Glamour",
-      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/FB_IMG_1753608095092.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/61060112/portrait.webp",
       "skinId": 61060112,
       "source": null,
       "timestamp": 1754319551024,

@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Joy_%28Flash_of_Miracle%29.png/revision/latest?cb=20221024200222",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2181/landscape.webp",
       "name": "Flash of Miracle",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20240501100807",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2181/portrait.webp",
       "skinId": 2181,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Joy%20Backup.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Joy_%28Feline_Ranger%29.jpg/revision/latest?cb=20221205091859",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2182/landscape.webp",
       "name": "Feline Ranger",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Joy_%28Feline_Ranger%29.jpg/revision/latest?cb=20221205091859",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2182/portrait.webp",
       "skinId": 2182,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Joy%20Backup.zip",
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Joy_%28Royal_Protector%29.jpg/revision/latest?cb=20240411082143",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2184/landscape.webp",
       "name": "Royal Protector",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Joy_%28Royal_Protector%29.jpg/revision/latest?cb=20240411082143",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2184/portrait.webp",
       "skinId": 2184,
       "source": null,
       "timestamp": 1727363128081,
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20JOY%20STARLIGHT.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2185/landscape.webp",
       "name": "Exostar Scout",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20JOY%20STARLIGHT.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2185/portrait.webp",
       "skinId": 2185,
       "source": null,
       "timestamp": 1741503498234,
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20JOY%20CHAMPION.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2187/landscape.webp",
       "name": "ONIC PH",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20JOY%20CHAMPION.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2187/portrait.webp",
       "skinId": 2187,
       "source": null,
       "timestamp": 1756746144689,

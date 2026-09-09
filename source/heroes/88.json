@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Masha_%28Wild-oats_Fist%29.jpg/revision/latest?cb=20200818083823",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1881/landscape.webp",
       "name": "Wild-oats Fist",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1881/portrait.webp",
       "skinId": 1881,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Masha_%28Winter_Guard%29.jpg/revision/latest?cb=20200427115759",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1882/landscape.webp",
       "name": "Winter Guard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Masha_%28Winter_Guard%29.jpg/revision/latest?cb=20200427115759",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1882/portrait.webp",
       "skinId": 1882,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Masha_%28Combat_Maiden%29.jpg/revision/latest?cb=20200627082821",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1883/landscape.webp",
       "name": "Combat Maiden",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Masha_%28Combat_Maiden%29.jpg/revision/latest?cb=20200627082821",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1883/portrait.webp",
       "skinId": 1883,
       "source": null,
       "timestamp": 1727370200201,
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Masha_%28Dragon_Armor%29.jpg/revision/latest?cb=20200627082325",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1884/landscape.webp",
       "name": "Dragon Armor",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Masha_%28Dragon_Armor%29.jpg/revision/latest?cb=20200627082325",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1884/portrait.webp",
       "skinId": 1884,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
@@ -85,9 +85,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Masha_%28Spirited_Gauntlet%29.png/revision/latest?cb=20221128145315",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1885/landscape.webp",
       "name": "Spirited Gauntlet",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Masha_%28Spirited_Gauntlet%29.png/revision/latest?cb=20221128145315",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1885/portrait.webp",
       "skinId": 1885,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/masha_def_backup.zip",
@@ -104,9 +104,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Masha_%28Rogue_Talon%29.jpg/revision/latest?cb=20230819033509",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1886/landscape.webp",
       "name": "Rogue Talon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Masha_%28Rogue_Talon%29.jpg/revision/latest?cb=20230819033509",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1886/portrait.webp",
       "skinId": 1886,
       "source": null,
       "timestamp": 1727370224134,
@@ -114,9 +114,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Masha_%28Mai_Shiranui%29.jpg/revision/latest?cb=20240430024326",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1887/landscape.webp",
       "name": "Mai Shiranui",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Masha_%28Mai_Shiranui%29.jpg/revision/latest?cb=20240430024326",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1887/portrait.webp",
       "skinId": 1887,
       "source": null,
       "timestamp": 1727370239063,

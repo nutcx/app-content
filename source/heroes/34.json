@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Estes_%28Moon_Elf_King%29.jpg/revision/latest?cb=20200514034311",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1341/landscape.webp",
       "name": "Moon Elf King",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20240501095928",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1341/portrait.webp",
       "skinId": 1341,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/BACKUP%20ESTES.zip",
@@ -52,9 +52,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Estes_%28Holy_Priest%29.jpg/revision/latest?cb=20200514034225",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1342/landscape.webp",
       "name": "Holy Priest",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Estes_%28Holy_Priest%29.jpg/revision/latest?cb=20200514034225",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1342/portrait.webp",
       "skinId": 1342,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/ESTES%20BACKUP.zip",
@@ -91,9 +91,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Estes_%28Galaxy_Dominator%29.jpg/revision/latest?cb=20230321152152",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1343/landscape.webp",
       "name": "Galaxy Dominator",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero343-portrait.png/revision/latest?cb=20230212041009",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1343/portrait.webp",
       "skinId": 1343,
       "source": null,
       "timestamp": 1727147583897,
@@ -101,9 +101,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Estes_%28White_Crane%29.jpg/revision/latest?cb=20200514034402",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1344/landscape.webp",
       "name": "White Crane",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Estes_%28White_Crane%29.jpg/revision/latest?cb=20200514034402",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1344/portrait.webp",
       "skinId": 1344,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/ESTES%20BACKUP.zip",
@@ -120,9 +120,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Estes_%28Crow_Bishop%29.jpg/revision/latest?cb=20200514034554",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1345/landscape.webp",
       "name": "Crow Bishop",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero345-portrait.png/revision/latest?cb=20220525165045",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1345/portrait.webp",
       "skinId": 1345,
       "source": null,
       "timestamp": 1727147610534,
@@ -130,9 +130,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Estes_%28Rattan_Dragon%29.jpg/revision/latest?cb=20200611050003",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1346/landscape.webp",
       "name": "Rattan Dragon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest?cb=20220525165046",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1346/portrait.webp",
       "skinId": 1346,
       "source": null,
       "timestamp": 1727147638914,
@@ -140,9 +140,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Estes_%28Blacklist_International%29.jpg/revision/latest?cb=20220804115054",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1347/landscape.webp",
       "name": "Blacklist International",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1347/portrait.webp",
       "skinId": 1347,
       "source": null,
       "timestamp": 1727147675765,
@@ -150,9 +150,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20TESTES%20SPECIAL%20NEW.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1348/landscape.webp",
       "name": "Arcane Magistrate",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20TESTES%20SPECIAL%20NEW.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1348/portrait.webp",
       "skinId": 1348,
       "source": null,
       "timestamp": 1733570805079,
@@ -160,9 +160,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Estes_%28SPARKLE_Estes%29.jpg/revision/latest?cb=20240416015245",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1349/landscape.webp",
       "name": "SPARKLE Estes",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest?cb=20240416015757",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1349/portrait.webp",
       "skinId": 1349,
       "source": null,
       "timestamp": 1727147717305,

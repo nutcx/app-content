@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Saber_%28Wandering_Sword%29.jpg/revision/latest?cb=20201009123921",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1031/landscape.webp",
       "name": "Wandering Sword",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20240602234619",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1031/portrait.webp",
       "skinId": 1031,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Saber_%28Golden_Flash%29.jpg/revision/latest?cb=20201009123849",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1032/landscape.webp",
       "name": "Golden Flash",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Saber_%28Golden_Flash%29.jpg/revision/latest?cb=20201009123849",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1032/portrait.webp",
       "skinId": 1032,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Saber_%28Force_Warrior%29.jpg/revision/latest?cb=20200419032828",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1033/landscape.webp",
       "name": "Force Warrior",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Saber_%28Force_Warrior%29.jpg/revision/latest?cb=20200419032828",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1033/portrait.webp",
       "skinId": 1033,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
@@ -109,9 +109,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Saber_%28Codename-Storm%29.png/revision/latest?cb=20260102012009",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1034/landscape.webp",
       "name": "Codename - Storm",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Saber_%28Codename-Storm%29.png/revision/latest?cb=20260102012009",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1034/portrait.webp",
       "skinId": 1034,
       "source": null,
       "timestamp": 1727376283449,
@@ -119,9 +119,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Saber_%28Fullmetal_Ronin%29.png/revision/latest?cb=20180531080207",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1035/landscape.webp",
       "name": "Fullmetal Ronin",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Saber_%28Fullmetal_Ronin%29.png/revision/latest?cb=20180531080207",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1035/portrait.webp",
       "skinId": 1035,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
@@ -143,9 +143,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Saber_%28S.A.B.E.R._Regulator%29.jpg/revision/latest?cb=20220302141803",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1036/landscape.webp",
       "name": "S.A.B.E.R. Regulator",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Saber_%28S.A.B.E.R._Regulator%29.jpg/revision/latest?cb=20220302141803",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1036/portrait.webp",
       "skinId": 1036,
       "source": null,
       "timestamp": 1727376294310,
@@ -153,9 +153,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1037/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1037/landscape.webp",
       "name": "Onimaru",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1037/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1037/portrait.webp",
       "skinId": 1037,
       "source": null,
       "timestamp": 1727376303984,
@@ -163,9 +163,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Saber_%28Silver_Edge%29.jpg/revision/latest?cb=20211221013434",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1038/landscape.webp",
       "name": "Silver Edge",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Saber_%28Silver_Edge%29.jpg/revision/latest?cb=20211221013434",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1038/portrait.webp",
       "skinId": 1038,
       "source": {
         "backupArchive": "",
@@ -182,9 +182,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Saber_%28Iron_Hound%29.jpg/revision/latest?cb=20230308111045",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1039/landscape.webp",
       "name": "Iron Hound",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Saber_%28Iron_Hound%29.jpg/revision/latest?cb=20230308111045",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1039/portrait.webp",
       "skinId": 1039,
       "source": {
         "backupArchive": "",

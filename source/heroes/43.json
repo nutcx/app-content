@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Irithel_%28Jungle_Heart%29.jpg/revision/latest?cb=20230819021925",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1431/landscape.webp",
       "name": "Jungle Heart",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20220525165209",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1431/portrait.webp",
       "skinId": 1431,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/iri_def_backup.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Irithel_%28Silver_Cyclone%29.jpg/revision/latest?cb=20230819021934",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1432/landscape.webp",
       "name": "Silver Cyclone",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Irithel_%28Silver_Cyclone%29.jpg/revision/latest?cb=20230819021934",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1432/portrait.webp",
       "skinId": 1432,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/iri_def_backup.zip",
@@ -71,9 +71,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Irithel_%28Hellfire%29.jpg/revision/latest?cb=20230819022120",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1433/landscape.webp",
       "name": "Hellfire",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Irithel_%28Hellfire%29.jpg/revision/latest?cb=20230819022120",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1433/portrait.webp",
       "skinId": 1433,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/iri_def_backup.zip",
@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Irithel_%28Nightarrow%29.jpg/revision/latest?cb=20230819022046",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1434/landscape.webp",
       "name": "Nightarrow",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Irithel_%28Nightarrow%29.jpg/revision/latest?cb=20230819022046",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1434/portrait.webp",
       "skinId": 1434,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/iri_def_backup.zip",
@@ -119,9 +119,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Irithel_%28Sagittarius%29.jpg/revision/latest?cb=20231029205301",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1435/landscape.webp",
       "name": "Sagittarius",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Irithel_%28Sagittarius%29.jpg/revision/latest?cb=20231029205301",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1435/portrait.webp",
       "skinId": 1435,
       "source": null,
       "timestamp": 1727361719575,
@@ -129,9 +129,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Irithel_%28Astral_Wanderer%29.jpg/revision/latest?cb=20220920091219",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1436/landscape.webp",
       "name": "Astral Wanderer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Irithel_%28Astral_Wanderer%29.jpg/revision/latest?cb=20220920091219",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1436/portrait.webp",
       "skinId": 1436,
       "source": null,
       "timestamp": 1727361732240,
@@ -139,9 +139,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/images%20(1)%20(18).jpeg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1437/landscape.webp",
       "name": "Monster SP Rider",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/images%20(1)%20(18).jpeg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1437/portrait.webp",
       "skinId": 1437,
       "source": null,
       "timestamp": 1727361776521,
@@ -149,9 +149,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Irithel_%28Checkered_Knight%29.jpg/revision/latest?cb=20250211140705",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1438/landscape.webp",
       "name": "Checkered Knight",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Irithel_%28Checkered_Knight%29.jpg/revision/latest?cb=20250211140705",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1438/portrait.webp",
       "skinId": 1438,
       "source": null,
       "timestamp": 1727361692005,

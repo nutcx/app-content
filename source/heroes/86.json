@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Lylia_%28Little_Witch%29.jpg/revision/latest?cb=20200510100008",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1861/landscape.webp",
       "name": "Little Witch",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest?cb=20220525170038",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1861/portrait.webp",
       "skinId": 1861,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Lylia_%28School_Idol%29.jpg/revision/latest?cb=20200510100106",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1862/landscape.webp",
       "name": "School Idol",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Lylia_%28School_Idol%29.jpg/revision/latest?cb=20200510100106",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1862/portrait.webp",
       "skinId": 1862,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Lylia_%28Star_Student%29.jpg/revision/latest?cb=20200510100207",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1863/landscape.webp",
       "name": "Star Student",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Lylia_%28Star_Student%29.jpg/revision/latest?cb=20200510100207",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1863/portrait.webp",
       "skinId": 1863,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Lylia_%28Future_Star%29.jpg/revision/latest?cb=20200510095637",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1864/landscape.webp",
       "name": "Future Star",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Lylia_%28Future_Star%29.jpg/revision/latest?cb=20200510095637",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1864/portrait.webp",
       "skinId": 1864,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
@@ -114,9 +114,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Lylia_%28Haunted_Doll%29.jpg/revision/latest?cb=20201010005622",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1865/landscape.webp",
       "name": "Haunted Doll",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Lylia_%28Haunted_Doll%29.jpg/revision/latest?cb=20201010005622",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1865/portrait.webp",
       "skinId": 1865,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
@@ -138,9 +138,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Lylia_%28Neobeast_Lylia%29.jpg/revision/latest?cb=20230905081459",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1866/landscape.webp",
       "name": "Neobeast Lylia",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Lylia_%28Neobeast_Lylia%29.jpg/revision/latest?cb=20230905081459",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1866/portrait.webp",
       "skinId": 1866,
       "source": null,
       "timestamp": 1727369754717,
@@ -148,9 +148,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Lylia_%28Magitech_Arsenal%29.jpg/revision/latest?cb=20240401090255",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1867/landscape.webp",
       "name": "Magitech Arsenal",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Lylia_%28Magitech_Arsenal%29.jpg/revision/latest?cb=20240401090255",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1867/portrait.webp",
       "skinId": 1867,
       "source": {
         "backupArchive": "",
@@ -167,9 +167,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LYLIA%20COVENANT.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1869/landscape.webp",
       "name": "Phantasmal Revelry",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LYLIA%20COVENANT.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1869/portrait.webp",
       "skinId": 1869,
       "source": null,
       "timestamp": 1770124369775,

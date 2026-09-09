@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Martis_%28Asura_King%29.jpg/revision/latest?cb=20231029212951",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1581/landscape.webp",
       "name": "Asura King",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1581/portrait.webp",
       "skinId": 1581,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
@@ -42,9 +42,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Martis_%28Tyrant%29.jpg/revision/latest?cb=20231029212959",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1582/landscape.webp",
       "name": "Tyrant",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Martis_%28Tyrant%29.jpg/revision/latest?cb=20231029212959",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1582/portrait.webp",
       "skinId": 1582,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Martis_%28Searing_Maw%29.jpg/revision/latest?cb=20231029213011",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1583/landscape.webp",
       "name": "Searing Maw",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Martis_%28Searing_Maw%29.jpg/revision/latest?cb=20231029213011",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1583/portrait.webp",
       "skinId": 1583,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
@@ -105,9 +105,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Martis_%28God_of_War%29.jpg/revision/latest?cb=20220804115103",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1584/landscape.webp",
       "name": "God of War",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Martis_%28God_of_War%29.jpg/revision/latest?cb=20220804115103",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1584/portrait.webp",
       "skinId": 1584,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
@@ -124,9 +124,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Martis_%28Capricorn%29.jpg/revision/latest?cb=20240123102203",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1585/landscape.webp",
       "name": "Capricorn",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Martis_%28Capricorn%29.jpg/revision/latest?cb=20240123102203",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1585/portrait.webp",
       "skinId": 1585,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
@@ -143,9 +143,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Martis_%28Deathrock%29.jpg/revision/latest?cb=20231029213031",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1586/landscape.webp",
       "name": "Deathrock",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Martis_%28Deathrock%29.jpg/revision/latest?cb=20231029213031",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1586/portrait.webp",
       "skinId": 1586,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",
@@ -172,9 +172,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Martis_%28Levi%29.jpg/revision/latest?cb=20240122041659",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1587/landscape.webp",
       "name": "Levi",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Martis_%28Levi%29.jpg/revision/latest?cb=20240122041659",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1587/portrait.webp",
       "skinId": 1587,
       "source": null,
       "timestamp": 1727370003904,
@@ -182,9 +182,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Martis_%28Darkwater_Terror%29.jpg/revision/latest?cb=20241116131932",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1588/landscape.webp",
       "name": "Darkwater Terror",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Martis_%28Darkwater_Terror%29.jpg/revision/latest?cb=20241116131932",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1588/portrait.webp",
       "skinId": 1588,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/MARTIS%20BACKUP.zip",

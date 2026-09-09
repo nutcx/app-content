@@ -23,9 +23,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Beatrix_%28Dawnbreak_Soldier%29.jpg/revision/latest?cb=20220218134351",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2051/landscape.webp",
       "name": "Dawnbreak Soldier",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20240501053744",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2051/portrait.webp",
       "skinId": 2051,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
@@ -72,9 +72,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Beatrix_%28X_Factor%29.jpg/revision/latest?cb=20210520094424",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2052/landscape.webp",
       "name": "X Factor",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Beatrix_%28X_Factor%29.jpg/revision/latest?cb=20210520094424",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2052/portrait.webp",
       "skinId": 2052,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
@@ -106,9 +106,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Beatrix_%28Blitz_Attack%29.jpg/revision/latest?cb=20210916141109",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2053/landscape.webp",
       "name": "Blitz Attack",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2053/portrait.webp",
       "skinId": 2053,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
@@ -135,9 +135,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Beatrix_%28Space_Agent%29.jpg/revision/latest?cb=20220302045134",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2054/landscape.webp",
       "name": "Space Agent",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest?cb=20220525170423",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2054/portrait.webp",
       "skinId": 2054,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
@@ -154,9 +154,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Beatrix_%28Light_Chaser%29.jpg/revision/latest?cb=20230308110724",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2055/landscape.webp",
       "name": "Light Chaser",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest?cb=20221216103144",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2055/portrait.webp",
       "skinId": 2055,
       "source": null,
       "timestamp": 1727164188765,
@@ -164,9 +164,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Beatrix_%28Stellar_Briliance%29.png/revision/latest?cb=20221228185117",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2056/landscape.webp",
       "name": "Stellar Brilliance",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2056/portrait.webp",
       "skinId": 2056,
       "source": null,
       "timestamp": 1727164195072,
@@ -174,9 +174,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Beatrix_%28Vibrant_Fiesta%29.jpg/revision/latest?cb=20231203105851",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2057/landscape.webp",
       "name": "Vibrant Fiesta",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1057-portrait.png/revision/latest?cb=20230805043918",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2057/portrait.webp",
       "skinId": 2057,
       "source": null,
       "timestamp": 1727164208580,
@@ -184,9 +184,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/110510/landscape.webp",
       "name": "Sky Force Maverick",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/110510/portrait.webp",
       "skinId": 110510,
       "source": null,
       "timestamp": 1757785922313,

@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Minotaur_%28Son_of_Minos%29.jpg/revision/latest?cb=20231029214729",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1191/landscape.webp",
       "name": "Son of Minos",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20240605151309",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1191/portrait.webp",
       "skinId": 1191,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
@@ -27,9 +27,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Minotaur_%28Bursting_Yama%29.jpg/revision/latest?cb=20231029214752",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1192/landscape.webp",
       "name": "Bursting Yama",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Minotaur_%28Bursting_Yama%29.jpg/revision/latest?cb=20231029214752",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1192/portrait.webp",
       "skinId": 1192,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
@@ -46,9 +46,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Minotaur_%28Orbiter%29.jpg/revision/latest?cb=20231029214828",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1193/landscape.webp",
       "name": "Orbiter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Minotaur_%28Orbiter%29.jpg/revision/latest?cb=20231029214828",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1193/portrait.webp",
       "skinId": 1193,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
@@ -65,9 +65,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Minotaur_%28Sacred_Hammer%29.jpg/revision/latest?cb=20231029215114",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1194/landscape.webp",
       "name": "Sacred Hammer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Minotaur_%28Sacred_Hammer%29.jpg/revision/latest?cb=20231029215114",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1194/portrait.webp",
       "skinId": 1194,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
@@ -84,9 +84,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Minotaur_%28Taurus%29.jpg/revision/latest?cb=20231029215432",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1195/landscape.webp",
       "name": "Taurus",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Minotaur_%28Taurus%29.jpg/revision/latest?cb=20231029215432",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1195/portrait.webp",
       "skinId": 1195,
       "source": null,
       "timestamp": 1727370883625,
@@ -94,9 +94,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/GwC-_xPaoAAVkYU.jpeg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1197/landscape.webp",
       "name": "Nether Overseer",
-      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/GwC-_xPaoAAVkYU.jpeg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1197/portrait.webp",
       "skinId": 1197,
       "source": null,
       "timestamp": 1754319644230,

@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Floryn_%28The_Budding_Hope%29.jpg/revision/latest?cb=20220218134532",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2121/landscape.webp",
       "name": "The Budding Hope",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2121/portrait.webp",
       "skinId": 2121,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20BACKUP.zip",
@@ -42,9 +42,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Floryn_%28Springtide%29.jpg/revision/latest?cb=20230819042202",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2122/landscape.webp",
       "name": "Springtide",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Floryn_%28Springtide%29.jpg/revision/latest?cb=20230819042202",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2122/portrait.webp",
       "skinId": 2122,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20BACKUP.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Floryn_%28Fluffy_Dream%29.jpg/revision/latest?cb=20220216165132",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2123/landscape.webp",
       "name": "Fluffy Dream",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Floryn_%28Fluffy_Dream%29.jpg/revision/latest?cb=20220216165132",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2123/portrait.webp",
       "skinId": 2123,
       "source": {
         "backupArchive": "",
@@ -95,9 +95,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Floryn_%28Paw_Power%29.jpg/revision/latest?cb=20230321152035",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2124/landscape.webp",
       "name": "Paw Power",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Floryn_%28Paw_Power%29.jpg/revision/latest?cb=20230321152035",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2124/portrait.webp",
       "skinId": 2124,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20BACKUP.zip",
@@ -124,9 +124,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Floryn_%28Yatai_Waitress%29.jpg/revision/latest?cb=20240721073958",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2125/landscape.webp",
       "name": "Yatai Waitress",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Floryn_%28Yatai_Waitress%29.jpg/revision/latest?cb=20240721073958",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2125/portrait.webp",
       "skinId": 2125,
       "source": {
         "backupArchive": "",
@@ -143,9 +143,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2126/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2126/landscape.webp",
       "name": "Melody of Light",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2126/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2126/portrait.webp",
       "skinId": 2126,
       "source": null,
       "timestamp": 1736568768536,
@@ -153,9 +153,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20FLORYN%20SEASON.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2127/landscape.webp",
       "name": "Herald of Autumn",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20FLORYN%20SEASON.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2127/portrait.webp",
       "skinId": 2127,
       "source": null,
       "timestamp": 1770123999818,

@@ -27,9 +27,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Pharsa_%28Wings_of_Vengeance%29.jpg/revision/latest?cb=20200818031855",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1521/landscape.webp",
       "name": "Wings of Vengeance",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20240122082105",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1521/portrait.webp",
       "skinId": 1521,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
@@ -71,9 +71,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Pharsa_%28Wings_of_Heaven%29.jpg/revision/latest?cb=20181119104050",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1522/landscape.webp",
       "name": "Wings of Heaven",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Pharsa_%28Wings_of_Heaven%29.jpg/revision/latest?cb=20181119104050",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1522/portrait.webp",
       "skinId": 1522,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Pharsa_%28Indigo_Aviatrix%29.jpg/revision/latest?cb=20200408113752",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1524/landscape.webp",
       "name": "Indigo Aviatrix",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Pharsa_%28Indigo_Aviatrix%29.jpg/revision/latest?cb=20200408113752",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1524/portrait.webp",
       "skinId": 1524,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
@@ -124,9 +124,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Pharsa_%28Enchanting_Witch%29.jpg/revision/latest?cb=20200417235945",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1525/landscape.webp",
       "name": "Enchanting Witch",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Pharsa_%28Enchanting_Witch%29.jpg/revision/latest?cb=20200417235945",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1525/portrait.webp",
       "skinId": 1525,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
@@ -148,9 +148,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Pharsa_%28Empress_Phoenix%29.jpg/revision/latest?cb=20200806093644",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1526/landscape.webp",
       "name": "Empress Phoenix",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Pharsa_%28Empress_Phoenix%29.jpg/revision/latest?cb=20200806093644",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1526/portrait.webp",
       "skinId": 1526,
       "source": null,
       "timestamp": 1727373221415,
@@ -158,9 +158,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Pharsa_%28Samba_Muse%29.jpg/revision/latest?cb=20210119124735",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1527/landscape.webp",
       "name": "Samba Muse",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Pharsa_%28Samba_Muse%29.jpg/revision/latest?cb=20210119124735",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1527/portrait.webp",
       "skinId": 1527,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
@@ -177,9 +177,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Pharsa_%28Peony_Bloom%29.jpg/revision/latest?cb=20211221013458",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1528/landscape.webp",
       "name": "Peony Bloom",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Pharsa_%28Peony_Bloom%29.jpg/revision/latest?cb=20211221013458",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1528/portrait.webp",
       "skinId": 1528,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
@@ -201,9 +201,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Pharsa_%28Hierophant%29.jpg/revision/latest?cb=20220519140338",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1529/landscape.webp",
       "name": "Hierophant",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Pharsa_%28Hierophant%29.jpg/revision/latest?cb=20220519140338",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1529/portrait.webp",
       "skinId": 1529,
       "source": null,
       "timestamp": 1727373242894,
@@ -211,9 +211,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Pharsa_%28Neon_Shingetsu%29.jpg/revision/latest?cb=20230914134143",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105210/landscape.webp",
       "name": "Neon Shingetsu",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Pharsa_%28Neon_Shingetsu%29.jpg/revision/latest?cb=20230914134143",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105210/portrait.webp",
       "skinId": 105210,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
@@ -230,9 +230,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Pharsa_%28Neobeast_Pharsa%29.jpg/revision/latest?cb=20250301020412",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105211/landscape.webp",
       "name": "Neobeast Pharsa",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Pharsa_%28Neobeast_Pharsa%29.jpg/revision/latest?cb=20250301020412",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105211/portrait.webp",
       "skinId": 105211,
       "source": null,
       "timestamp": 1742527115806,

@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Kaja_Nazar_King.png/revision/latest?cb=20180520202829",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1621/landscape.webp",
       "name": "Nazar King",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png/revision/latest?cb=20220525165548",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1621/portrait.webp",
       "skinId": 1621,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kaja%20backup.zip",
@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Kaja_Commandment.png/revision/latest?cb=20180609055231",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1622/landscape.webp",
       "name": "Commandment",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Kaja_Commandment.png/revision/latest?cb=20180609055231",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1622/portrait.webp",
       "skinId": 1622,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kaja%20backup.zip",
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Kaja_%28Kaminari%29.jpg/revision/latest?cb=20200427112205",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1623/landscape.webp",
       "name": "Kaminari",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Kaja_%28Kaminari%29.jpg/revision/latest?cb=20200427112205",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1623/portrait.webp",
       "skinId": 1623,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kaja%20backup.zip",
@@ -75,9 +75,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Kaja_%28Horror_Whiplash%29.jpg/revision/latest?cb=20200427111902",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1624/landscape.webp",
       "name": "Horror Whiplash",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Kaja_%28Horror_Whiplash%29.jpg/revision/latest?cb=20200427111902",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1624/portrait.webp",
       "skinId": 1624,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kaja%20backup.zip",
@@ -94,9 +94,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1625/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1625/landscape.webp",
       "name": "Skyblocker",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1625/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1625/portrait.webp",
       "skinId": 1625,
       "source": null,
       "timestamp": 1727364146760,
@@ -104,9 +104,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Crow_Magician_wall.jpg/revision/latest?cb=20210620032651",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1626/landscape.webp",
       "name": "Crow Magician",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Crow_Magician_wall.jpg/revision/latest?cb=20210620032651",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1626/portrait.webp",
       "skinId": 1626,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/kaja%20backup.zip",
@@ -123,9 +123,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Kaja_%28Inferno_Taskmaster%29.jpg/revision/latest?cb=20230914134324",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1627/landscape.webp",
       "name": "Inferno Taskmaster",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Kaja_%28Inferno_Taskmaster%29.jpg/revision/latest?cb=20230914134324",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1627/portrait.webp",
       "skinId": 1627,
       "source": null,
       "timestamp": 1727364164519,

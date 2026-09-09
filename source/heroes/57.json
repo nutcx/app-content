@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Valir_%28Son_of_Flames%29.jpg/revision/latest?cb=20230829113759",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1571/landscape.webp",
       "name": "Son of Flames",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero571-portrait.png/revision/latest?cb=20240501080033",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1571/portrait.webp",
       "skinId": 1571,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
@@ -52,9 +52,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Valir_%28Pale_Flame%29.jpg/revision/latest?cb=20230829113807",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1572/landscape.webp",
       "name": "Pale Flame",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Valir_%28Pale_Flame%29.jpg/revision/latest?cb=20230829113807",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1572/portrait.webp",
       "skinId": 1572,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
@@ -96,9 +96,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Valir_%28Shikigami_Summoner%29.jpg/revision/latest?cb=20230829113816",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1573/landscape.webp",
       "name": "Shikigami Summoner",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Valir_%28Shikigami_Summoner%29.jpg/revision/latest?cb=20230829113816",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1573/portrait.webp",
       "skinId": 1573,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
@@ -127,7 +127,7 @@
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Valir_%28Dictator%29.jpg/revision/latest?cb=20230829113825",
       "name": "Dictator",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Valir_%28Dictator%29.jpg/revision/latest?cb=20230829113825",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1574/portrait.webp",
       "skinId": 1574,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/valir_def_backup.zip",
@@ -154,9 +154,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Valir_%28Draconic_Flame%29.jpg/revision/latest?cb=20230829113835",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1575/landscape.webp",
       "name": "Draconic Flame",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Valir_%28Draconic_Flame%29.jpg/revision/latest?cb=20230829113835",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1575/portrait.webp",
       "skinId": 1575,
       "source": null,
       "timestamp": 1727378239458,
@@ -164,9 +164,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Valir_%28Demonlord%29.jpg/revision/latest?cb=20230829113848",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1576/landscape.webp",
       "name": "Demonlord",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Valir_%28Demonlord%29.jpg/revision/latest?cb=20230829113848",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1576/portrait.webp",
       "skinId": 1576,
       "source": null,
       "timestamp": 1727378249187,
@@ -174,9 +174,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Valir_%28Infernal_Blaze%29.jpg/revision/latest?cb=20230829113859",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1577/landscape.webp",
       "name": "Infernal Blaze",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Valir_%28Infernal_Blaze%29.jpg/revision/latest?cb=20230829113859",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1577/portrait.webp",
       "skinId": 1577,
       "source": null,
       "timestamp": 1727378257802,
@@ -184,9 +184,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Valir_%28Phoenix_Ikki%29.jpg/revision/latest?cb=20220915134424",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1578/landscape.webp",
       "name": "Phoenix Ikki",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Valir_%28Phoenix_Ikki%29.jpg/revision/latest?cb=20220915134424",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1578/portrait.webp",
       "skinId": 1578,
       "source": null,
       "timestamp": 1727378267157,
@@ -194,9 +194,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Valir_%28Leo_Ikki%29.jpg/revision/latest?cb=20220915134414",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1579/landscape.webp",
       "name": "Leo Ikki",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Valir_%28Leo_Ikki%29.jpg/revision/latest?cb=20220915134414",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1579/portrait.webp",
       "skinId": 1579,
       "source": null,
       "timestamp": 1727378284691,
@@ -204,9 +204,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Valir_%28Kyo_Kusanagi%29.jpg/revision/latest?cb=20240430023040",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105711/landscape.webp",
       "name": "Kyo Kusanagi",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Valir_%28Kyo_Kusanagi%29.jpg/revision/latest?cb=20240430023040",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105711/portrait.webp",
       "skinId": 105711,
       "source": null,
       "timestamp": 1727378300504,
@@ -214,9 +214,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20VALIR%20EPIC.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105712/landscape.webp",
       "name": "Ember Gaze",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20VALIR%20EPIC.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105712/portrait.webp",
       "skinId": 105712,
       "source": null,
       "timestamp": 1770123858494,

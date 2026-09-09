@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Arlott_%28Lone_Lancer%29.jpg/revision/latest?cb=20230308110635",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2201/landscape.webp",
       "name": "Lone Lancer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20241021140737",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2201/portrait.webp",
       "skinId": 2201,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Assasins_defS/raw/main/arlott_def_backup.zip",
@@ -47,9 +47,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Arlott_%28Wandering_Spear%29.jpg/revision/latest?cb=20230308110711",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2202/landscape.webp",
       "name": "Wandering Spear",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest?cb=20230208125754",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2202/portrait.webp",
       "skinId": 2202,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Assasins_defS/raw/main/arlott_def_backup.zip",
@@ -71,9 +71,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Arlott_%28Fury_of_the_Deep%29.jpg/revision/latest?cb=20240122032447",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2203/landscape.webp",
       "name": "Fury of the Deep",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1203-portrait.png/revision/latest?cb=20240114160254",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2203/portrait.webp",
       "skinId": 2203,
       "source": {
         "backupArchive": "",
@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Image%20Arlot%20Collector.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2204/landscape.webp",
       "name": "Aeon of Twilight",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Image%20Arlot%20Collector.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2204/portrait.webp",
       "skinId": 2204,
       "source": null,
       "timestamp": 1728822887476,

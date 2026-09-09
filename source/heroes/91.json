@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Cecilion_%28Embrace_of_Night%29.jpg/revision/latest?cb=20200815122305",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1911/landscape.webp",
       "name": "Embrace of Night",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20220525171232",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1911/portrait.webp",
       "skinId": 1911,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
@@ -120,9 +120,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Wisteria_Count%2C_%26_Wisteria_Countess_wall.jpg/revision/latest?cb=20200824133424",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1912/landscape.webp",
       "name": "Wisteria Count",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Wisteria_Count%2C_%26_Wisteria_Countess_wall.jpg/revision/latest?cb=20200824133424",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1912/portrait.webp",
       "skinId": 1912,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
@@ -159,9 +159,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Cecilion_%28Stargazer%29.jpg/revision/latest?cb=20220202133459",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1915/landscape.webp",
       "name": "Stargazer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Cecilion_%28Stargazer%29.jpg/revision/latest?cb=20220202133459",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1915/portrait.webp",
       "skinId": 1915,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
@@ -183,9 +183,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Cecilion_%28Crimson_Wings%29.jpg/revision/latest?cb=20220915133531",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1916/landscape.webp",
       "name": "Crimson Wings",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1916/portrait.webp",
       "skinId": 1916,
       "source": null,
       "timestamp": 1727235959508,
@@ -193,9 +193,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20CECILLION%20HXH.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1917/landscape.webp",
       "name": "Hisoka",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20CECILLION%20HXH.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1917/portrait.webp",
       "skinId": 1917,
       "source": null,
       "timestamp": 1733571039328,
@@ -203,9 +203,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Cecilion_%28Vessel_of_Gluttony%29.png/revision/latest?cb=20260106025831",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1918/landscape.webp",
       "name": "Vessel of Gluttony",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Cecilion_%28Vessel_of_Gluttony%29.png/revision/latest?cb=20260106025831",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1918/portrait.webp",
       "skinId": 1918,
       "source": null,
       "timestamp": 1765181845337,

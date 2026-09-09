@@ -46,9 +46,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Tigreal_%28Warrior_of_Dawn%29.jpg/revision/latest?cb=20220203071035",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1061/landscape.webp",
       "name": "Warrior of Dawn",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20240605132742",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1061/portrait.webp",
       "skinId": 1061,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
@@ -85,9 +85,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Tigreal_%28Dark_Guardian%29.jpg/revision/latest?cb=20230622005012",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1062/landscape.webp",
       "name": "Dark Guardian",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Tigreal_%28Dark_Guardian%29.jpg/revision/latest?cb=20230622005012",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1062/portrait.webp",
       "skinId": 1062,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
@@ -114,9 +114,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Tigreal_%28Wyrmslayer%29.jpg/revision/latest?cb=20201128042856",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1064/landscape.webp",
       "name": "Wyrmslayer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Tigreal_%28Wyrmslayer%29.jpg/revision/latest?cb=20201128042856",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1064/portrait.webp",
       "skinId": 1064,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
@@ -138,9 +138,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Tigreal_%28Lightborn_-_Defender%29.jpg/revision/latest?cb=20201128043317",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1065/landscape.webp",
       "name": "Lightborn - Defender",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Tigreal_%28Lightborn_-_Defender%29.jpg/revision/latest?cb=20201128043317",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1065/portrait.webp",
       "skinId": 1065,
       "source": null,
       "timestamp": 1727377343180,
@@ -148,9 +148,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Tigreal_%28Gold_Baron%29.jpg/revision/latest?cb=20210814152007",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1067/landscape.webp",
       "name": "Gold Baron",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Tigreal_%28Gold_Baron%29.jpg/revision/latest?cb=20210814152007",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1067/portrait.webp",
       "skinId": 1067,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
@@ -167,9 +167,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Tigreal_%28Galactic_Marshal%29.jpg/revision/latest?cb=20230825080154",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1068/landscape.webp",
       "name": "Galactic Marshal",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Tigreal_%28Galactic_Marshal%29.jpg/revision/latest?cb=20230825080154",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1068/portrait.webp",
       "skinId": 1068,
       "source": null,
       "timestamp": 1727377363214,
@@ -177,9 +177,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20TIREAL%20SPECIAL%20PASHA.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1069/landscape.webp",
       "name": "Pasha of Justice",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20TIREAL%20SPECIAL%20PASHA.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1069/portrait.webp",
       "skinId": 1069,
       "source": null,
       "timestamp": 1727809202252,
@@ -187,9 +187,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20TIGREAL%20COL.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/100610/landscape.webp",
       "name": "Celestial General",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20TIGREAL%20COL.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/100610/portrait.webp",
       "skinId": 100610,
       "source": null,
       "timestamp": 1759856024703,

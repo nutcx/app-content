@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Akai_%28Panda_Warrior%29.jpg/revision/latest?cb=20231104055333",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1091/landscape.webp",
       "name": "Panda Warrior",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20241021140401",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1091/portrait.webp",
       "skinId": 1091,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip",
@@ -42,9 +42,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241127_213411.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1092/landscape.webp",
       "name": "Summer Party",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241127_213411.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1092/portrait.webp",
       "skinId": 1092,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip",
@@ -61,9 +61,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Akai_%28Monk%29.jpg/revision/latest?cb=20210712230531",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1093/landscape.webp",
       "name": "Monk",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Akai_%28Monk%29.jpg/revision/latest?cb=20210712230531",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1093/portrait.webp",
       "skinId": 1093,
       "source": {
         "backupArchive": "",
@@ -80,9 +80,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Akai_%28Akazonae_Samurai%29.jpg/revision/latest?cb=20210712230720",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1094/landscape.webp",
       "name": "Akazonae Samurai",
-      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEh1Z76jsyDzBbwB02vv3Pe7-sFvxf2V1byYc1fK-IwjvwUY2zc1gnCKjXirx-pcbXovD_FhDdS_HDSVVLhVRMJnajDXkUOb_baPyv48aliUz9KNo8XMQf3gGiZX9Y-ZKHthV76-uVZfShSbAXNLaGVkfrqG6fktDngT3A-vhEmZq0_4b-exPqd0a3hBtw=s1920",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1094/portrait.webp",
       "skinId": 1094,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip",
@@ -99,9 +99,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Akai_%28Imperial_Assassin%29.jpg/revision/latest?cb=20230818081350",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1095/landscape.webp",
       "name": "Imperial Assassin",
-      "portrait": "https://blogger.googleusercontent.com/img/a/AVvXsEgL3yPH4O5XyXpfvLU2aqYc5gdLsbNpkrxOgS1L9ToF-S8GPVtgVNoxV75d__ot-I9NFMOTPZWnAHrYfduVvZwbAM25qr0O-wlqV1DiHO-_S7aNbEgNEuUfRJnUnOrLR8ohmZC7R4toNKIapPm_IWoSx3FI8o3BjxtbDb1nsNEln9vZd3ESYLyhpsO69Q=s1920",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1095/portrait.webp",
       "skinId": 1095,
       "source": null,
       "timestamp": 1727082122435,
@@ -109,9 +109,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Akai_%28Stream_Recluse%29.jpg/revision/latest?cb=20210712230737",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1096/landscape.webp",
       "name": "Stream Recluse",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Akai_%28Stream_Recluse%29.jpg/revision/latest?cb=20210712230737",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1096/portrait.webp",
       "skinId": 1096,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip",
@@ -128,9 +128,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Akai_%28Street_Enforcer%29.jpg/revision/latest?cb=20210730190452",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1097/landscape.webp",
       "name": "Street Enforcer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Akai_%28Street_Enforcer%29.jpg/revision/latest?cb=20210730190452",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1097/portrait.webp",
       "skinId": 1097,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip",
@@ -147,9 +147,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Akai_%28Kung_Fu_Panda%29.jpg/revision/latest?cb=20220804115052",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1098/landscape.webp",
       "name": "Kung Fu Panda",
-      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5-Ys91A2lF7pO8bTocXwVUoUsetcUlHwC0LEXaG-gsqQaEiOu_u4CV0Aab2SPQxCMsvVckTlV8x6LvoS9Son7TuwgZejwUHLbRQdWbOGI3HE12YNCcQkMItNLUxgc7ZrLgMKZTBSaSbDUP-ym0Atl2KUvynPHakgiej1aNlnKoechF45qahE9gYk4aw/s1082/akai-po-skin-kung-fu-panda-wallpaper-hd.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1098/portrait.webp",
       "skinId": 1098,
       "source": null,
       "timestamp": 1727082189424,
@@ -157,9 +157,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Akai_%28Pumpkin_Brawler%29.jpg/revision/latest?cb=20231021072829",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1099/landscape.webp",
       "name": "Pumpkin Brawler",
-      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWE-DbxO0_tzZHg6IQY7v1skWWx9O69c94YHhIrTSBEq9Cx1P9Z2aQMHaVLdY4oRSwecZHyKdBgaqBJXUaoTScjaQOXUK0wb9WJEmQypcEWYZO1kmUrwuU-IpiPIEzrrZ4VXo7nBPwc1xH2i02TSn09QoHaN4zLbhKTZ9RsOT23omgaSJuUy8tNaqd4VZT/s3840/akai-pumpkin-brawler-hallowen-skin-wallpaper-hd.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1099/portrait.webp",
       "skinId": 1099,
       "source": {
         "backupArchive": "",
@@ -176,9 +176,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/received_938935237994115.jpeg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/100910/landscape.webp",
       "name": "Marvelous Maestro",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/received_938935237994115.jpeg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/100910/portrait.webp",
       "skinId": 100910,
       "source": {
         "backupArchive": "",

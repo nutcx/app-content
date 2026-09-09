@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Edith_%28Ancient_Guard%29.jpg/revision/latest?cb=20211221193138",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2111/landscape.webp",
       "name": "Ancient Guard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20220525171947",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2111/portrait.webp",
       "skinId": 2111,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/edith_def_backup.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Edith_%28Celestial_Safeguard%29.jpg/revision/latest?cb=20211224175707",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2112/landscape.webp",
       "name": "Celestial Safeguard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Edith_%28Celestial_Safeguard%29.jpg/revision/latest?cb=20211224175707",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2112/portrait.webp",
       "skinId": 2112,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/edith_def_backup.zip",
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Edith_%28Ancient_Warden%29.jpg/revision/latest?cb=20230402084136",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2113/landscape.webp",
       "name": "Ancient Warden",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Edith_%28Ancient_Warden%29.jpg/revision/latest?cb=20230402084136",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2113/portrait.webp",
       "skinId": 2113,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/edith_def_backup.zip",
@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Edith_%28Red_Bastion%29.jpg/revision/latest?cb=20240405035251",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2114/landscape.webp",
       "name": "Red Bastion",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Edith_%28Red_Bastion%29.jpg/revision/latest?cb=20240405035251",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2114/portrait.webp",
       "skinId": 2114,
       "source": null,
       "timestamp": 1727280488001,
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Edith_%28Beyond_the_Clouds_Edith%29.jpg/revision/latest?cb=20230819042704",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2115/landscape.webp",
       "name": "Beyond the Clouds Edith",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Edith_%28Beyond_the_Clouds_Edith%29.jpg/revision/latest?cb=20230819042704",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2115/portrait.webp",
       "skinId": 2115,
       "source": null,
       "timestamp": 1727280498989,
@@ -110,9 +110,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20EDITH%20MPL.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2116/landscape.webp",
       "name": "Prismatic Sentinel",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20EDITH%20MPL.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2116/portrait.webp",
       "skinId": 2116,
       "source": null,
       "timestamp": 1741503536633,

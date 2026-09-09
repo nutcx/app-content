@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Esmeralda_%28Astrologer%29.jpg/revision/latest?cb=20200427041318",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1811/landscape.webp",
       "name": "Astrologer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest?cb=20240121135702",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1811/portrait.webp",
       "skinId": 1811,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20BACKUP.zip",
@@ -52,9 +52,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Esmeralda_%28Ruddy_Dusk%29.jpg/revision/latest?cb=20200427042705",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1812/landscape.webp",
       "name": "Ruddy Dusk",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Esmeralda_%28Ruddy_Dusk%29.jpg/revision/latest?cb=20200427042705",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1812/portrait.webp",
       "skinId": 1812,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20BACKUP.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Esmeralda_%28Poison_Vine%29.jpg/revision/latest?cb=20200427042811",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1813/landscape.webp",
       "name": "Poison Vine",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Esmeralda_%28Poison_Vine%29.jpg/revision/latest?cb=20200427042811",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1813/portrait.webp",
       "skinId": 1813,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20BACKUP.zip",
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Esmeralda_%28Lady_Thief%29.jpg/revision/latest?cb=20230819032019",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1814/landscape.webp",
       "name": "Lady Thief",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Esmeralda_%28Lady_Thief%29.jpg/revision/latest?cb=20230819032019",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1814/portrait.webp",
       "skinId": 1814,
       "source": null,
       "timestamp": 1727280714399,
@@ -110,9 +110,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Esmeralda_%28Cleopatra%29.jpg/revision/latest?cb=20200912121629",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1815/landscape.webp",
       "name": "Cleopatra",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Esmeralda_%28Cleopatra%29.jpg/revision/latest?cb=20200912121629",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1815/portrait.webp",
       "skinId": 1815,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20BACKUP.zip",
@@ -129,9 +129,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20ESME%20BLAZING%20NEW.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1816/landscape.webp",
       "name": "Blazing Shadow",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20ESME%20BLAZING%20NEW.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1816/portrait.webp",
       "skinId": 1816,
       "source": null,
       "timestamp": 1727280754692,
@@ -139,9 +139,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Esmeralda_%28The_Foreseer%29.jpg/revision/latest?cb=20220226091237",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1817/landscape.webp",
       "name": "The Foreseer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Esmeralda_%28The_Foreseer%29.jpg/revision/latest?cb=20220226091237",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1817/portrait.webp",
       "skinId": 1817,
       "source": null,
       "timestamp": 1727280772067,
@@ -149,9 +149,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Esmeralda_%28Light_Envoy%29.jpg/revision/latest?cb=20220519140341",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1818/landscape.webp",
       "name": "Light Envoy",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Esmeralda_%28Light_Envoy%29.jpg/revision/latest?cb=20220519140341",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1818/portrait.webp",
       "skinId": 1818,
       "source": null,
       "timestamp": 1727280790465,
@@ -159,9 +159,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Esmeralda_%28Astral_Muse%29.jpg/revision/latest?cb=20240329063246",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1819/landscape.webp",
       "name": "Astral Muse",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Esmeralda_%28Astral_Muse%29.jpg/revision/latest?cb=20240329063246",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1819/portrait.webp",
       "skinId": 1819,
       "source": null,
       "timestamp": 1727280805004,

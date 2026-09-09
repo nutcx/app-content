@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Faramis_%28Soul_Binder%29.jpg/revision/latest?cb=20220814094208",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1761/landscape.webp",
       "name": "Soul Binder",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20240501101543",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1761/portrait.webp",
       "skinId": 1761,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FARAMIS%20BACKUP.zip",
@@ -27,9 +27,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Faramis_%28Dark_Necro%29.jpg/revision/latest?cb=20220630095402",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1762/landscape.webp",
       "name": "Dark Necro",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Faramis_%28Dark_Necro%29.jpg/revision/latest?cb=20220630095402",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1762/portrait.webp",
       "skinId": 1762,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FARAMIS%20BACKUP.zip",
@@ -46,9 +46,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Faramis_%28Summer_Sparks%29.jpg/revision/latest?cb=20230913021213",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1764/landscape.webp",
       "name": "Summer Sparks",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Faramis_%28Summer_Sparks%29.jpg/revision/latest?cb=20230913021213",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1764/portrait.webp",
       "skinId": 1764,
       "source": null,
       "timestamp": 1727281649248,
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Faramis_%28Infernal_Magister%29.jpg/revision/latest?cb=20240122090321",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1765/landscape.webp",
       "name": "Infernal Magister",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Faramis_%28Infernal_Magister%29.jpg/revision/latest?cb=20240122090321",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1765/portrait.webp",
       "skinId": 1765,
       "source": null,
       "timestamp": 1727281660927,

@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Yve_%28Astrowarden%29.jpg/revision/latest?cb=20240617074227",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2011/landscape.webp",
       "name": "Astrowarden",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20241021143118",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2011/portrait.webp",
       "skinId": 2011,
       "source": {
         "backupArchive": "",
@@ -22,9 +22,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Yve_%28Forest_Hymn%29.jpg/revision/latest?cb=20211218014550",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2012/landscape.webp",
       "name": "Forest Hymn",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Yve_%28Forest_Hymn%29.jpg/revision/latest?cb=20211218014550",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2012/portrait.webp",
       "skinId": 2012,
       "source": {
         "backupArchive": "",
@@ -41,9 +41,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20YVE%20STAR.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/620142/landscape.webp",
       "name": "Radiant Lotus",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20IMG%20YVE%20STAR.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/620142/portrait.webp",
       "skinId": 620142,
       "source": null,
       "timestamp": 1759855900529,

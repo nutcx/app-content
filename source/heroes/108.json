@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Aulus_%28Warrior_of_Ferocity%29.jpg/revision/latest?cb=20211213141917",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2081/landscape.webp",
       "name": "Warrior of Ferocity",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2081/portrait.webp",
       "skinId": 2081,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/AULUS%20BACKUP.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Aulus_%28Berserker%29.jpg/revision/latest?cb=20210906163845",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2082/landscape.webp",
       "name": "Berserker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2082/portrait.webp",
       "skinId": 2082,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/AULUS%20BACKUP.zip",
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Aulus_%28Barren_Pioneer%29.jpg/revision/latest?cb=20221228191312",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2083/landscape.webp",
       "name": "Barren Pioneer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2083/portrait.webp",
       "skinId": 2083,
       "source": null,
       "timestamp": 1727162453952,
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Aulus_%28War_Lion%29.png/revision/latest?cb=20221227130745",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2084/landscape.webp",
       "name": "War Lion",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1084-portrait.png/revision/latest?cb=20221216103149",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2084/portrait.webp",
       "skinId": 2084,
       "source": null,
       "timestamp": 1727162465211,
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Aulus_%28Ironmane_Reaver%29.jpg/revision/latest?cb=20240831031242",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2085/landscape.webp",
       "name": "Ironmane Reaver",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero1085-portrait.png/revision/latest?cb=20240920034710",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2085/portrait.webp",
       "skinId": 2085,
       "source": null,
       "timestamp": 1727162501949,

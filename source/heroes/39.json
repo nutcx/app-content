@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Roger_%28Dire_Wolf_Hunter%29.jpg/revision/latest?cb=20200815074734",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1391/landscape.webp",
       "name": "Dire Wolf Hunter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1391/portrait.webp",
       "skinId": 1391,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
@@ -57,9 +57,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Roger_%28Dark_Gent%29.jpg/revision/latest?cb=20241128083630",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1392/landscape.webp",
       "name": "Dark Gent",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Roger_%28Dark_Gent%29.jpg/revision/latest?cb=20241128083630",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1392/portrait.webp",
       "skinId": 1392,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
@@ -101,9 +101,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Roger_%28Dr._Beast%29.jpg/revision/latest?cb=20220920092202",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1393/landscape.webp",
       "name": "Dr Beast",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Roger_%28Dr._Beast%29.jpg/revision/latest?cb=20220920092202",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1393/portrait.webp",
       "skinId": 1393,
       "source": null,
       "timestamp": 1727375810421,
@@ -111,9 +111,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Roger_%28Anubis%29.jpg/revision/latest?cb=20200824043711",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1394/landscape.webp",
       "name": "Anubis",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Roger_%28Anubis%29.jpg/revision/latest?cb=20200824043711",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1394/portrait.webp",
       "skinId": 1394,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
@@ -145,9 +145,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Roger_%28Phantom_Hunter%29.jpg/revision/latest?cb=20230321152130",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1395/landscape.webp",
       "name": "Phantom Hunter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Roger_%28Phantom_Hunter%29.jpg/revision/latest?cb=20230321152130",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1395/portrait.webp",
       "skinId": 1395,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
@@ -169,9 +169,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Roger_%28Cyborg_Werewolf%29.jpg/revision/latest?cb=20231104060722",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1396/landscape.webp",
       "name": "Cyborg Werewolf",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Roger_%28Cyborg_Werewolf%29.jpg/revision/latest?cb=20231104060722",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1396/portrait.webp",
       "skinId": 1396,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ROGER%20BACKUP.zip",
@@ -193,9 +193,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Roger_%28Phantom_Ranger%29.jpg/revision/latest?cb=20211202145246",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1397/landscape.webp",
       "name": "Phantom Ranger",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Roger_%28Phantom_Ranger%29.jpg/revision/latest?cb=20211202145246",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1397/portrait.webp",
       "skinId": 1397,
       "source": null,
       "timestamp": 1727375849834,
@@ -203,9 +203,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Roger_%28Fiend_Haunter%29.jpg/revision/latest?cb=20211202144811",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1398/landscape.webp",
       "name": "Fiend Haunter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Roger_%28Fiend_Haunter%29.jpg/revision/latest?cb=20211202144811",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1398/portrait.webp",
       "skinId": 1398,
       "source": null,
       "timestamp": 1727375877818,
@@ -213,9 +213,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Roger_%28Grimlock%29.jpg/revision/latest?cb=20220519140335",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1399/landscape.webp",
       "name": "Grimlock",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Roger_%28Grimlock%29.jpg/revision/latest?cb=20220519140335",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1399/portrait.webp",
       "skinId": 1399,
       "source": null,
       "timestamp": 1727375891084,
@@ -223,9 +223,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1335954258275650.jpeg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/103910/landscape.webp",
       "name": "Invoker's Restraint",
-      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1335954258275650.jpeg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/103910/portrait.webp",
       "skinId": 103910,
       "source": null,
       "timestamp": 1754322248969,

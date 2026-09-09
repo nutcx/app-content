@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Jawhead_%28Steel_Sweetheart%29.jpg/revision/latest?cb=20231030014652",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1541/landscape.webp",
       "name": "Steel Sweetheart",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20240501074636",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1541/portrait.webp",
       "skinId": 1541,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20BACKUP.zip",
@@ -57,9 +57,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Jawhead_%28Girl_Scout%29.jpg/revision/latest?cb=20231030014710",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1542/landscape.webp",
       "name": "Girl Scout",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Jawhead_%28Girl_Scout%29.jpg/revision/latest?cb=20231030014710",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1542/portrait.webp",
       "skinId": 1542,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20BACKUP.zip",
@@ -86,9 +86,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Jawhead_%28Space_Explorer%29.jpg/revision/latest?cb=20231030014720",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1543/landscape.webp",
       "name": "Space Explorer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Jawhead_%28Space_Explorer%29.jpg/revision/latest?cb=20231030014720",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1543/portrait.webp",
       "skinId": 1543,
       "source": null,
       "timestamp": 1727362262260,
@@ -96,9 +96,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Jawhead_%28Foo_Quarterback%29.jpg/revision/latest?cb=20231030014731",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1544/landscape.webp",
       "name": "Foo Quarterback",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Jawhead_%28Foo_Quarterback%29.jpg/revision/latest?cb=20231030014731",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1544/portrait.webp",
       "skinId": 1544,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20BACKUP.zip",
@@ -120,9 +120,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Jawhead_%28The_Nutcracker%29.jpg/revision/latest?cb=20231030014740",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1545/landscape.webp",
       "name": "The Nutcracker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Jawhead_%28The_Nutcracker%29.jpg/revision/latest?cb=20231030014740",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1545/portrait.webp",
       "skinId": 1545,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/JAWHEAD%20BACKUP.zip",
@@ -144,9 +144,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Jawhead_%28Samurai_Mech%29.jpg/revision/latest?cb=20231030014749",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1546/landscape.webp",
       "name": "Samurai Mech",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Jawhead_%28Samurai_Mech%29.jpg/revision/latest?cb=20231030014749",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1546/portrait.webp",
       "skinId": 1546,
       "source": null,
       "timestamp": 1727362307547,
@@ -154,9 +154,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Jawhead_%28Candy_Bear%29.jpg/revision/latest?cb=20231030014759",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1547/landscape.webp",
       "name": "Candy Bear",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Jawhead_%28Candy_Bear%29.jpg/revision/latest?cb=20231030014759",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1547/portrait.webp",
       "skinId": 1547,
       "source": null,
       "timestamp": 1727362380839,
@@ -164,9 +164,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Jawhead_%28Cyber_Ranger%29.jpg/revision/latest?cb=20220814094230",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1548/landscape.webp",
       "name": "Cyber Ranger",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Jawhead_%28Cyber_Ranger%29.jpg/revision/latest?cb=20220814094230",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1548/portrait.webp",
       "skinId": 1548,
       "source": null,
       "timestamp": 1727362394417,
@@ -174,9 +174,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Jawhead%20Allstar.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105410/landscape.webp",
       "name": "Proto Guardian",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Jawhead%20Allstar.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/105410/portrait.webp",
       "skinId": 105410,
       "source": null,
       "timestamp": 1748900444363,

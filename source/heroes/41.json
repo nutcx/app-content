@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Gatotkaca_%28Iron_Steel%29.jpg/revision/latest?cb=20231029221857",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1411/landscape.webp",
       "name": "Mighty Legend",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest?cb=20220525165152",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1411/portrait.webp",
       "skinId": 1411,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20BACKUP.zip",
@@ -44,7 +44,7 @@
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Gatotkaca_%28Mighty_Guardian%29.jpg/revision/latest?cb=20241128083620",
       "name": "Mighty Guardian",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Gatotkaca_%28Mighty_Guardian%29.jpg/revision/latest?cb=20241128083620",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1412/portrait.webp",
       "skinId": 1412,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20BACKUP.zip",
@@ -71,9 +71,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1414/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1414/landscape.webp",
       "name": "Sentinel",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1414/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1414/portrait.webp",
       "skinId": 1414,
       "source": null,
       "timestamp": 1727282902491,
@@ -81,9 +81,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Gatotkaca_%28Tide_Preserver%29.jpg/revision/latest?cb=20240123101059",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1417/landscape.webp",
       "name": "Tide Preserver",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Gatotkaca_%28Tide_Preserver%29.jpg/revision/latest?cb=20240123101059",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1417/portrait.webp",
       "skinId": 1417,
       "source": null,
       "timestamp": 1727282915179,
@@ -91,9 +91,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gatotkaca_%28Nutcracker_Monarch%29.jpg/revision/latest?cb=20240724133448",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1418/landscape.webp",
       "name": "Nutcracker Monarch",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gatotkaca_%28Nutcracker_Monarch%29.jpg/revision/latest?cb=20240724133448",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1418/portrait.webp",
       "skinId": 1418,
       "source": null,
       "timestamp": 1727282978208,

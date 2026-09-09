@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Odette_%28Swan_Princess%29.jpg/revision/latest?cb=20211217230122",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1461/landscape.webp",
       "name": "Swan Princess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1461/portrait.webp",
       "skinId": 1461,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20BACKUP.zip",
@@ -57,9 +57,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Odette_%28Black_Swan%29.jpg/revision/latest?cb=20240311144029",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1462/landscape.webp",
       "name": "Black Swan",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Odette_%28Black_Swan%29.jpg/revision/latest?cb=20240311144029",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1462/portrait.webp",
       "skinId": 1462,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20BACKUP.zip",
@@ -101,9 +101,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Odette_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202173308",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1463/landscape.webp",
       "name": "Christmas Carnival",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Odette_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202173308",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1463/portrait.webp",
       "skinId": 1463,
       "source": {
         "backupArchive": "",
@@ -120,9 +120,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Odette_%28Mermaid_Princess%29.jpg/revision/latest?cb=20211220202317",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1464/landscape.webp",
       "name": "Mermaid Princess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Odette_%28Mermaid_Princess%29.jpg/revision/latest?cb=20211220202317",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1464/portrait.webp",
       "skinId": 1464,
       "source": null,
       "timestamp": 1727372565563,
@@ -130,9 +130,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Odette_%28Butterfly_Goddess%29.jpg/revision/latest?cb=20210922180755",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1465/landscape.webp",
       "name": "Butterfly Goddess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Odette_%28Butterfly_Goddess%29.jpg/revision/latest?cb=20210922180755",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1465/portrait.webp",
       "skinId": 1465,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20BACKUP.zip",
@@ -169,9 +169,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Odette_%28Virgo-revamp%29.jpg/revision/latest?cb=20230810053743",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1466/landscape.webp",
       "name": "Virgo",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Odette_%28Virgo-revamp%29.jpg/revision/latest?cb=20230810053743",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1466/portrait.webp",
       "skinId": 1466,
       "source": null,
       "timestamp": 1727372574769,
@@ -179,9 +179,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Odette_%28Auspicious_Charm%29.jpg/revision/latest?cb=20200414053811",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1467/landscape.webp",
       "name": "Auspicious Charm",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Odette_%28Auspicious_Charm%29.jpg/revision/latest?cb=20200414053811",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1467/portrait.webp",
       "skinId": 1467,
       "source": {
         "backupArchive": "",
@@ -198,9 +198,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1468/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1468/landscape.webp",
       "name": "Sage of the Currents",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1468/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1468/portrait.webp",
       "skinId": 1468,
       "source": {
         "backupArchive": "",
@@ -217,9 +217,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Odette_%28Wisdom_of_the_Stars%29.jpg/revision/latest?cb=20240824115042",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1469/landscape.webp",
       "name": "Wisdom of the Stars",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Odette_%28Wisdom_of_the_Stars%29.jpg/revision/latest?cb=20240824115042",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1469/portrait.webp",
       "skinId": 1469,
       "source": {
         "backupArchive": "",
@@ -236,9 +236,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Odette_Song_of_Devotion.png/revision/latest?cb=20260202010358",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/104610/landscape.webp",
       "name": "Song of Devotion",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Odette_Song_of_Devotion.png/revision/latest?cb=20260202010358",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/104610/portrait.webp",
       "skinId": 104610,
       "source": null,
       "timestamp": 1770124484041,

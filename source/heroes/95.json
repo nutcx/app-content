@@ -23,9 +23,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Yu_Zhong_%28Black_Dragon%29.jpg/revision/latest?cb=20240620010918",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1951/landscape.webp",
       "name": "Black Dragon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1951/portrait.webp",
       "skinId": 1951,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YZ%20BACKUP.zip",
@@ -77,9 +77,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Yu_Zhong_%28Emerald_Dragon%29.jpg/revision/latest?cb=20200619101640",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1952/landscape.webp",
       "name": "Emerald Dragon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Yu_Zhong_%28Emerald_Dragon%29.jpg/revision/latest?cb=20200619101640",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1952/portrait.webp",
       "skinId": 1952,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YZ%20BACKUP.zip",
@@ -116,9 +116,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Yu_Zhong_%28Biohazard%29.jpg/revision/latest?cb=20210124033536",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1953/landscape.webp",
       "name": "Biohazard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Yu_Zhong_%28Biohazard%29.jpg/revision/latest?cb=20210124033536",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1953/portrait.webp",
       "skinId": 1953,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YZ%20BACKUP.zip",
@@ -145,9 +145,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Yu_Zhong_%28Blood_Serpent%29.jpg/revision/latest?cb=20211215022337",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1954/landscape.webp",
       "name": "Blood Serpent",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Yu_Zhong_%28Blood_Serpent%29.jpg/revision/latest?cb=20211215022337",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1954/portrait.webp",
       "skinId": 1954,
       "source": null,
       "timestamp": 1727379507150,
@@ -155,9 +155,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Yu_Zhong_%28Exorcist_Yu_Zhong%29.jpg/revision/latest?cb=20220915134452",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1955/landscape.webp",
       "name": "Exorcist Yu Zhong",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Yu_Zhong_%28Exorcist_Yu_Zhong%29.jpg/revision/latest?cb=20220915134452",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1955/portrait.webp",
       "skinId": 1955,
       "source": null,
       "timestamp": 1727379517510,
@@ -165,9 +165,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Yu_Zhong_%28Dragon%27s_Shade%29.jpg/revision/latest?cb=20231029210009",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1957/landscape.webp",
       "name": "Dragon's Shade",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Yu_Zhong_%28Dragon%27s_Shade%29.jpg/revision/latest?cb=20231029210009",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1957/portrait.webp",
       "skinId": 1957,
       "source": null,
       "timestamp": 1727379531011,
@@ -175,9 +175,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Yu_Zhong_%28Cosmic_Dragon%29.jpg/revision/latest?cb=20231029210048",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1958/landscape.webp",
       "name": "Cosmic Dragon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Yu_Zhong_%28Cosmic_Dragon%29.jpg/revision/latest?cb=20231029210048",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1958/portrait.webp",
       "skinId": 1958,
       "source": null,
       "timestamp": 1727379561702,

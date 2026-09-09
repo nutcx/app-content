@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Yi_Sun-shin_%28Paenlong_Legend%29.jpg/revision/latest?cb=20230811025401",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1301/landscape.webp",
       "name": "Paenlong Legend",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1301/portrait.webp",
       "skinId": 1301,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
@@ -42,9 +42,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Yi_Sun-shin_%28Major_General%29.jpg/revision/latest?cb=20230811025436",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1302/landscape.webp",
       "name": "Major General",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Yi_Sun-shin_%28Major_General%29.jpg/revision/latest?cb=20230811025436",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1302/portrait.webp",
       "skinId": 1302,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Yi_Sun-shin_%28Apocalypse_Agent%29.jpg/revision/latest?cb=20230811025436",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1303/landscape.webp",
       "name": "Apocalypse Agent",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Yi_Sun-shin_%28Apocalypse_Agent%29.jpg/revision/latest?cb=20230811025436",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1303/portrait.webp",
       "skinId": 1303,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Yi_Sun-shin_%28Roguish_Ranger%29.jpg/revision/latest?cb=20230811025529",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1304/landscape.webp",
       "name": "Roguish Ranger",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Yi_Sun-shin_%28Roguish_Ranger%29.jpg/revision/latest?cb=20230811025529",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1304/portrait.webp",
       "skinId": 1304,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
@@ -114,9 +114,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Yi_Sun-shin_%28Lone_Destructor%29.jpg/revision/latest?cb=20230811025434",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1305/landscape.webp",
       "name": "Lone Destructor",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Yi_Sun-shin_%28Lone_Destructor%29.jpg/revision/latest?cb=20230811025434",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1305/portrait.webp",
       "skinId": 1305,
       "source": null,
       "timestamp": 1727379127190,
@@ -124,9 +124,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Yi_Sun-shin_%28Azure_Sentry%29.jpg/revision/latest?cb=20230811025402",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1306/landscape.webp",
       "name": "Azure Sentry",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Yi_Sun-shin_%28Azure_Sentry%29.jpg/revision/latest?cb=20230811025402",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1306/portrait.webp",
       "skinId": 1306,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
@@ -143,9 +143,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Yi_Sun-shin_%28Fleet_Warden%29.jpg/revision/latest?cb=20220630091243",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1307/landscape.webp",
       "name": "Fleet Warden",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Yi_Sun-shin_%28Fleet_Warden%29.jpg/revision/latest?cb=20220630091243",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1307/portrait.webp",
       "skinId": 1307,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
@@ -162,9 +162,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Yi_Sun-shin_%28Surging_Torrent%29.jpg/revision/latest?cb=20240124071916",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1308/landscape.webp",
       "name": "Surging Torrent",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Yi_Sun-shin_%28Surging_Torrent%29.jpg/revision/latest?cb=20240124071916",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1308/portrait.webp",
       "skinId": 1308,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",

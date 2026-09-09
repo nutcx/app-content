@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Badang_%28Tribal_Warrior%29.jpg/revision/latest?cb=20240327131624",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1771/landscape.webp",
       "name": "Tribal Warrior",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1771/portrait.webp",
       "skinId": 1771,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Backup.zip",
@@ -77,9 +77,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Badang_%28Ironfists%29.jpg/revision/latest?cb=20240327131640",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1772/landscape.webp",
       "name": "Ironfists",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Badang_%28Ironfists%29.jpg/revision/latest?cb=20240327131640",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1772/portrait.webp",
       "skinId": 1772,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Backup.zip",
@@ -111,9 +111,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Badang_%28Susanoo%29.jpg/revision/latest?cb=20240327131703",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1773/landscape.webp",
       "name": "Susanoo",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Badang_%28Susanoo%29.jpg/revision/latest?cb=20240327131703",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1773/portrait.webp",
       "skinId": 1773,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Backup.zip",
@@ -140,9 +140,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Badang_%28Leo%29.jpg/revision/latest?cb=20190728103051",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1774/landscape.webp",
       "name": "Leo",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1774/portrait.webp",
       "skinId": 1774,
       "source": null,
       "timestamp": 1727162878855,
@@ -150,9 +150,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1089103439311418.jpeg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1775/landscape.webp",
       "name": "Steel Arms",
-      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1089103439311418.jpeg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1775/portrait.webp",
       "skinId": 1775,
       "source": null,
       "timestamp": 1754319871509,
@@ -160,9 +160,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Badang_%28Fist_of_Zen%29.jpg/revision/latest?cb=20240327131735",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1776/landscape.webp",
       "name": "Fist of Zen",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1776/portrait.webp",
       "skinId": 1776,
       "source": null,
       "timestamp": 1727162885170,
@@ -170,9 +170,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Badang_%28Pegasus_Seiya%29.jpg/revision/latest?cb=20220915133514",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1777/landscape.webp",
       "name": "Pegasus Seiya",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1777/portrait.webp",
       "skinId": 1777,
       "source": {
         "backupArchive": "",
@@ -194,9 +194,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Badang_%28Sagittarius_Seiya%29.jpg/revision/latest?cb=20220915134400",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1778/landscape.webp",
       "name": "Sagittarius Seiya",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest?cb=20220915122047",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1778/portrait.webp",
       "skinId": 1778,
       "source": null,
       "timestamp": 1727162909737,

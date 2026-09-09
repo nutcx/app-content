@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Karrie_%28Lost_Star%29.jpg/revision/latest?cb=20200818083837",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1401/landscape.webp",
       "name": "Lost Star",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero401-portrait.png/revision/latest?cb=20240121135955",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1401/portrait.webp",
       "skinId": 1401,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
@@ -54,7 +54,7 @@
       "category": 0,
       "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(93).jpeg",
       "name": "Rising Star",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(93).jpeg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1402/portrait.webp",
       "skinId": 1402,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
@@ -86,9 +86,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Karrie_%28Bladed_Mantis%29.jpg/revision/latest?cb=20250205132245",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1403/landscape.webp",
       "name": "Bladed Mantis",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Karrie_%28Bladed_Mantis%29.jpg/revision/latest?cb=20250205132245",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1403/portrait.webp",
       "skinId": 1403,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
@@ -110,9 +110,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Karrie_%28Dragon_Queen%29.jpg/revision/latest?cb=20250205132254",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1404/landscape.webp",
       "name": "Dragon Queen",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Karrie_%28Dragon_Queen%29.jpg/revision/latest?cb=20250205132254",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1404/portrait.webp",
       "skinId": 1404,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
@@ -129,9 +129,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Karrie_%28Jester%29.jpg/revision/latest?cb=20250205132315",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1405/landscape.webp",
       "name": "Jester",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Karrie_%28Jester%29.jpg/revision/latest?cb=20250205132315",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1405/portrait.webp",
       "skinId": 1405,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
@@ -148,9 +148,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Karrie_%28Hawkwatch%29.jpg/revision/latest?cb=20240124031933",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1406/landscape.webp",
       "name": "Hawkwatch",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Karrie_%28Hawkwatch%29.jpg/revision/latest?cb=20240124031933",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1406/portrait.webp",
       "skinId": 1406,
       "source": null,
       "timestamp": 1727364647299,
@@ -158,9 +158,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Karrie_%28Gill-Girl%29.jpg/revision/latest?cb=20250205132301",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1407/landscape.webp",
       "name": "Gill-girl",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Karrie_%28Gill-Girl%29.jpg/revision/latest?cb=20250205132301",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1407/portrait.webp",
       "skinId": 1407,
       "source": null,
       "timestamp": 1727364634254,
@@ -168,9 +168,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Karrie_%28Neon_Lightwheel%29.jpg/revision/latest?cb=20220227142911",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1408/landscape.webp",
       "name": "Neon Lightwheel",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Karrie_%28Neon_Lightwheel%29.jpg/revision/latest?cb=20220227142911",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1408/portrait.webp",
       "skinId": 1408,
       "source": null,
       "timestamp": 1727364682505,
@@ -178,9 +178,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Karrie_%28Wheel_of_Justice%29.jpg/revision/latest?cb=20211218215729",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1409/landscape.webp",
       "name": "Wheel of Justice",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Karrie_%28Wheel_of_Justice%29.jpg/revision/latest?cb=20211218215729",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1409/portrait.webp",
       "skinId": 1409,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
@@ -202,9 +202,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Karrie_%28Ice_Talon%29.jpg/revision/latest?cb=20230911111149",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/104010/landscape.webp",
       "name": "Ice Talon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Karrie_%28Ice_Talon%29.jpg/revision/latest?cb=20230911111149",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/104010/portrait.webp",
       "skinId": 104010,
       "source": null,
       "timestamp": 1727364691531,
@@ -212,9 +212,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162910.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/104011/landscape.webp",
       "name": "Breath of Naraka",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_162910.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/104011/portrait.webp",
       "skinId": 104011,
       "source": null,
       "timestamp": 1738667272844,

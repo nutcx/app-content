@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Khufra_%28Desert_Tyrant%29.jpg/revision/latest?cb=20240327134634",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1781/landscape.webp",
       "name": "Desert Tyrant",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest?cb=20240114021830",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1781/portrait.webp",
       "skinId": 1781,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
@@ -42,9 +42,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Khufra_%28Desert_Owl%29.jpg/revision/latest?cb=20240327134644",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1782/landscape.webp",
       "name": "Desert Owl",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Khufra_%28Desert_Owl%29.jpg/revision/latest?cb=20240327134644",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1782/portrait.webp",
       "skinId": 1782,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Khufra_%28Apophis%29.jpg/revision/latest?cb=20200427040150",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1783/landscape.webp",
       "name": "Apophis",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Khufra_%28Apophis%29.jpg/revision/latest?cb=20200427040150",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1783/portrait.webp",
       "skinId": 1783,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
@@ -105,9 +105,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Khufra_%28Gentleman_Thief%29.jpg/revision/latest?cb=20240327134753",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1784/landscape.webp",
       "name": "Gentleman Thief",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Khufra_%28Gentleman_Thief%29.jpg/revision/latest?cb=20240327134753",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1784/portrait.webp",
       "skinId": 1784,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
@@ -129,9 +129,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Khufra_%28Volcanic_Overlord%29.jpg/revision/latest?cb=20240327134819",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1785/landscape.webp",
       "name": "Volcanic Overlord",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Khufra_%28Volcanic_Overlord%29.jpg/revision/latest?cb=20240327134819",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1785/portrait.webp",
       "skinId": 1785,
       "source": null,
       "timestamp": 1727365298949,
@@ -139,9 +139,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Khufra_%28Dreadful_Clown%29.jpg/revision/latest?cb=20240327134832",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1786/landscape.webp",
       "name": "Dreadful Clown",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Khufra_%28Dreadful_Clown%29.jpg/revision/latest?cb=20240327134832",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1786/portrait.webp",
       "skinId": 1786,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
@@ -158,9 +158,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Khufra_%28Iron_Hook%29.jpg/revision/latest?cb=20240327134848",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1787/landscape.webp",
       "name": "Iron Hook",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Khufra_%28Iron_Hook%29.jpg/revision/latest?cb=20240327134848",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1787/portrait.webp",
       "skinId": 1787,
       "source": {
         "backupArchive": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
@@ -182,9 +182,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_043614.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1788/landscape.webp",
       "name": "Cursed Scroll",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20240930_043614.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1788/portrait.webp",
       "skinId": 1788,
       "source": null,
       "timestamp": 1727642400327,

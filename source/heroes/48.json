@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Diggie_%28Timekeeper%29.jpg/revision/latest?cb=20200815122437",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1481/landscape.webp",
       "name": "Timekeeper",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png/revision/latest?cb=20240112141634",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1481/portrait.webp",
       "skinId": 1481,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/DIGGIE%20BACKUP.zip",
@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Diggie_%28Constellation%29.jpg/revision/latest?cb=20190428090444",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1483/landscape.webp",
       "name": "Constellation",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Diggie_%28Constellation%29.jpg/revision/latest?cb=20190428090444",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1483/portrait.webp",
       "skinId": 1483,
       "source": null,
       "timestamp": 1727279931215,
@@ -42,9 +42,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Diggie_%28Fairytaler%29.jpg/revision/latest?cb=20220317062633",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1485/landscape.webp",
       "name": "Fairytaler",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Diggie_%28Fairytaler%29.jpg/revision/latest?cb=20220317062633",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1485/portrait.webp",
       "skinId": 1485,
       "source": null,
       "timestamp": 1727279989737,

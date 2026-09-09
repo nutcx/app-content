@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Terizla_%28Executioner%29.jpg/revision/latest?cb=20200818083821",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1821/landscape.webp",
       "name": "Executioner",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1821/portrait.webp",
       "skinId": 1821,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
@@ -61,9 +61,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Terizla_%28Abyss_Guard%29.jpg/revision/latest?cb=20220713092856",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1822/landscape.webp",
       "name": "Abyss Guard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Terizla_%28Abyss_Guard%29.jpg/revision/latest?cb=20220713092856",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1822/portrait.webp",
       "skinId": 1822,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
@@ -85,9 +85,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Terizla_%28Flare%29.jpg/revision/latest?cb=20220713092901",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1823/landscape.webp",
       "name": "Flare",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Terizla_%28Flare%29.jpg/revision/latest?cb=20220713092901",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1823/portrait.webp",
       "skinId": 1823,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
@@ -104,9 +104,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Terizla_%28Hammer_Giant%29.jpg/revision/latest?cb=20201027120126",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1824/landscape.webp",
       "name": "Hammer Giant",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Terizla_%28Hammer_Giant%29.jpg/revision/latest?cb=20201027120126",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1824/portrait.webp",
       "skinId": 1824,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
@@ -123,9 +123,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Terizla_%28Rustwreck%29.jpg/revision/latest?cb=20240213093113",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1825/landscape.webp",
       "name": "Rustwreck",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Terizla_%28Rustwreck%29.jpg/revision/latest?cb=20240213093113",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1825/portrait.webp",
       "skinId": 1825,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
@@ -147,9 +147,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Terizla_%28Flames_of_Judgement%29.jpg/revision/latest?cb=20240417022241",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1826/landscape.webp",
       "name": "Flames of Judgment",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Terizla_%28Flames_of_Judgement%29.jpg/revision/latest?cb=20240417022241",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1826/portrait.webp",
       "skinId": 1826,
       "source": null,
       "timestamp": 1727377041203,
@@ -157,9 +157,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20TERIZLA%20COLLECTOR.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1827/landscape.webp",
       "name": "Soulblight Tyrant",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMAGE%20TERIZLA%20COLLECTOR.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1827/portrait.webp",
       "skinId": 1827,
       "source": null,
       "timestamp": 1734772127252,

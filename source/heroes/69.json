@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hanzo_%28Akuma_Ninja%29.jpg/revision/latest?cb=20200818083812",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1691/landscape.webp",
       "name": "Akuma Ninja",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20240112141926",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1691/portrait.webp",
       "skinId": 1691,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Backup.zip",
@@ -61,9 +61,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20ELIT.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1693/landscape.webp",
       "name": "Undead King",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20ELIT.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1693/portrait.webp",
       "skinId": 1693,
       "source": {
         "backupArchive": "",
@@ -80,9 +80,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20SPECIAL.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1694/landscape.webp",
       "name": "Insidious Tutor",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20SPECIAL.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1694/portrait.webp",
       "skinId": 1694,
       "source": {
         "backupArchive": "",
@@ -99,9 +99,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hanzo_%28Soulfire_Netherlord%29.jpg/revision/latest?cb=20250411100227",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1695/landscape.webp",
       "name": "Soulfire Netherlord",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hanzo_%28Soulfire_Netherlord%29.jpg/revision/latest?cb=20250411100227",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1695/portrait.webp",
       "skinId": 1695,
       "source": null,
       "timestamp": 1744536969703,

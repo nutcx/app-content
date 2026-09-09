@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Leomord_%28Sworn_Sword%29.jpg/revision/latest?cb=20220814094236",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1671/landscape.webp",
       "name": "Sworn Sword",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1671/portrait.webp",
       "skinId": 1671,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
@@ -139,9 +139,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Leomord_%28Hell_Knight%29.jpg/revision/latest?cb=20220704101353",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1672/landscape.webp",
       "name": "Hell Knight",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Leomord_%28Hell_Knight%29.jpg/revision/latest?cb=20220704101353",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1672/portrait.webp",
       "skinId": 1672,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
@@ -178,9 +178,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Leomord_%28Frostborn_Paladin%29.jpg/revision/latest?cb=20200824073558",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1673/landscape.webp",
       "name": "Frostborn Paladin",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Leomord_%28Frostborn_Paladin%29.jpg/revision/latest?cb=20200824073558",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1673/portrait.webp",
       "skinId": 1673,
       "source": {
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
@@ -207,9 +207,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Leomord_%28Inferno_Soul%29.jpg/revision/latest?cb=20230529044303",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1675/landscape.webp",
       "name": "Inferno Soul",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Leomord_%28Inferno_Soul%29.jpg/revision/latest?cb=20230529044303",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1675/portrait.webp",
       "skinId": 1675,
       "source": {
         "backupArchive": "",
@@ -226,9 +226,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Leomord_%28Shadow_Knight%29.jpg/revision/latest?cb=20230819030432",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1677/landscape.webp",
       "name": "Shadow Knight",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Leomord_%28Shadow_Knight%29.jpg/revision/latest?cb=20230819030432",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1677/portrait.webp",
       "skinId": 1677,
       "source": null,
       "timestamp": 1727368083661,
@@ -236,9 +236,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1678/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1678/landscape.webp",
       "name": "Diavel V4 Rider",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1678/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1678/portrait.webp",
       "skinId": 1678,
       "source": null,
       "timestamp": 1727642854089,
@@ -246,9 +246,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20LEOMORD%20EPIC.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1679/landscape.webp",
       "name": "Nightmare Count",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20LEOMORD%20EPIC.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1679/portrait.webp",
       "skinId": 1679,
       "source": null,
       "timestamp": 1741935275468,
@@ -256,9 +256,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Leomord_Auspicious_Blaze.png/revision/latest?cb=20260206235554",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106710/landscape.webp",
       "name": "Auspicious Blaze",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Leomord_Auspicious_Blaze.png/revision/latest?cb=20260206235554",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106710/portrait.webp",
       "skinId": 106710,
       "source": null,
       "timestamp": 1770560933302,

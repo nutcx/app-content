@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Khaleed_%28Desert_Scimitar%29.jpg/revision/latest?cb=20240403054051",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1981/landscape.webp",
       "name": "Desert Scimitar",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest?cb=20220525170258",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1981/portrait.webp",
       "skinId": 1981,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/CHIN-11/raw/main/O13%20Khaleed%20Backup.zip",
@@ -27,9 +27,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Khaleed_%28Prince_of_Sand%29.jpg/revision/latest?cb=20240403054104",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1982/landscape.webp",
       "name": "Prince of Sand",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Khaleed_%28Prince_of_Sand%29.jpg/revision/latest?cb=20240403054104",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1982/portrait.webp",
       "skinId": 1982,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/CHIN-11/raw/main/O13%20Khaleed%20Backup.zip",
@@ -46,9 +46,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Khaleed_%28Crescent_Scimitar%29.jpg/revision/latest?cb=20240403060025",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1983/landscape.webp",
       "name": "Crescent Scimitar",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Khaleed_%28Crescent_Scimitar%29.jpg/revision/latest?cb=20240403060025",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1983/portrait.webp",
       "skinId": 1983,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/CHIN-11/raw/main/O13%20Khaleed%20Backup.zip",
@@ -65,9 +65,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Khaleed_%28Wave_Strider%29.jpg/revision/latest?cb=20240507145907",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1984/landscape.webp",
       "name": "Wave Strider",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Khaleed_%28Wave_Strider%29.jpg/revision/latest?cb=20240507145907",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1984/portrait.webp",
       "skinId": 1984,
       "source": null,
       "timestamp": 1727365020791,

@@ -48,7 +48,7 @@
     "catalogReferences": 1399,
     "collapsedRetainedCatalogEntries": 26,
     "configuredReviewedImageConflictRows": 220,
-    "configuredSkinImageOverrides": 73,
+    "configuredSkinImageOverrides": 978,
     "configuredUpgradeDataIdentityMappingRows": 6,
     "configuredUpgradeSkinIdentityMappingRows": 1,
     "correctedBackupArchives": 1,
@@ -119,7 +119,7 @@
     "usedBackupArchiveSelections": 1,
     "usedReviewedImageConflictRows": 220,
     "usedRouteSelections": 24,
-    "usedSkinImageOverrides": 73,
+    "usedSkinImageOverrides": 978,
     "usedUpgradeDataIdentityMappingRows": 6,
     "usedUpgradeSkinIdentityMappingRows": 1
   },

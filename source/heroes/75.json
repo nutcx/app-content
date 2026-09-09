@@ -13,9 +13,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Kadita_%28Ocean_Goddess%29.jpg/revision/latest?cb=20200513055531",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1751/landscape.webp",
       "name": "Ocean Goddess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png/revision/latest?cb=20240121134111",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1751/portrait.webp",
       "skinId": 1751,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KADITA%20BACKUP.zip",
@@ -47,9 +47,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Kadita_%28Atlantean_Princess%29.jpg/revision/latest?cb=20200513055632",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1752/landscape.webp",
       "name": "Atlantean Princess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Kadita_%28Atlantean_Princess%29.jpg/revision/latest?cb=20200513055632",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1752/portrait.webp",
       "skinId": 1752,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KADITA%20BACKUP.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Kadita_%28White_Robin%29.jpg/revision/latest?cb=20200513055739",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1753/landscape.webp",
       "name": "White Robin",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Kadita_%28White_Robin%29.jpg/revision/latest?cb=20200513055739",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1753/portrait.webp",
       "skinId": 1753,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KADITA%20BACKUP.zip",
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Kadita_%28Hydromancer%29.jpg/revision/latest?cb=20230810203230",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1755/landscape.webp",
       "name": "Hydromancer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Kadita_%28Hydromancer%29.jpg/revision/latest?cb=20230810203230",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1755/portrait.webp",
       "skinId": 1755,
       "source": null,
       "timestamp": 1727363576032,
@@ -110,9 +110,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1756/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1756/landscape.webp",
       "name": "Heart of the Sea",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1756/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1756/portrait.webp",
       "skinId": 1756,
       "source": null,
       "timestamp": 1727363672193,
@@ -120,9 +120,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Kadita%20Starlight.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1757/landscape.webp",
       "name": "Maiden of the Tide",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Kadita%20Starlight.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1757/portrait.webp",
       "skinId": 1757,
       "source": null,
       "timestamp": 1748900374481,

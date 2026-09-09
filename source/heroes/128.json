@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Kalea_%28Surging_Wave%29.jpg/revision/latest?cb=20250406101609",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2281/landscape.webp",
       "name": "Surging Wave",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb=20250407160846",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2281/portrait.webp",
       "skinId": 2281,
       "source": {
         "backupArchive": "",
@@ -22,9 +22,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250414_032440.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2282/landscape.webp",
       "name": "Shimmering Waves",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250414_032440.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2282/portrait.webp",
       "skinId": 2282,
       "source": {
         "backupArchive": "",
@@ -41,9 +41,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Kalea_%28Sakura_Haruno%29.jpg/revision/latest?cb=20250411100241",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2283/landscape.webp",
       "name": "Sakura Haruno",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Kalea_%28Sakura_Haruno%29.jpg/revision/latest?cb=20250411100241",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2283/portrait.webp",
       "skinId": 2283,
       "source": null,
       "timestamp": 1744536806070,

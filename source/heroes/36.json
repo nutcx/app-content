@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Aurora_%28Maiden_of_the_Glacier%29.jpg/revision/latest?cb=20240131121029",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1361/landscape.webp",
       "name": "Maiden of the Glacier",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20240131102638",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1361/portrait.webp",
       "skinId": 1361,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Heartbreak_Empress_wall.png/revision/latest?cb=20180529055107",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1363/landscape.webp",
       "name": "Heartbreak Empress",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero363-portrait.png/revision/latest?cb=20240212112411",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1363/portrait.webp",
       "skinId": 1363,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Foxy_Lady_%28revamp%29_wall.jpg/revision/latest?cb=20220213165648",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1364/landscape.webp",
       "name": "Foxy Lady",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero364-portrait.png/revision/latest?cb=20220525165103",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1364/portrait.webp",
       "skinId": 1364,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
@@ -119,9 +119,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Aurora_Aquarius_Revamped.jpg/revision/latest?cb=20230508131315",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1365/landscape.webp",
       "name": "Aquarius",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest?cb=20240212110806",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1365/portrait.webp",
       "skinId": 1365,
       "source": null,
       "timestamp": 1727162692584,
@@ -129,9 +129,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1366/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1366/landscape.webp",
       "name": "Kula Diamond",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1366/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1366/portrait.webp",
       "skinId": 1366,
       "source": null,
       "timestamp": 1727162697528,
@@ -139,9 +139,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/FB_IMG_1727684487684.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1367/landscape.webp",
       "name": "Veil of the Celestials",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/FB_IMG_1727684487684.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1367/portrait.webp",
       "skinId": 1367,
       "source": null,
       "timestamp": 1727162710667,

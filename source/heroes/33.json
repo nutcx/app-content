@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Cyclops_%28Starsoul_Magician%29.jpg/revision/latest?cb=20230902072937",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1331/landscape.webp",
       "name": "Starsoul Magician",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20240122082946",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1331/portrait.webp",
       "skinId": 1331,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
@@ -47,9 +47,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1332/landscape.webp",
       "name": "Exorcist",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1332/portrait.webp",
       "skinId": 1332,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Cyclops_%28Super_Adventurer%29.jpg/revision/latest?cb=20230902072945",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1333/landscape.webp",
       "name": "Super Adventurer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Cyclops_%28Super_Adventurer%29.jpg/revision/latest?cb=20230902072945",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1333/portrait.webp",
       "skinId": 1333,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Cyclops_%28S.A.B.E.R._Enforcer%29.jpg/revision/latest?cb=20230902072954",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1334/landscape.webp",
       "name": "S.A.B.E.R. Enforcer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png/revision/latest?cb=20220525165025",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1334/portrait.webp",
       "skinId": 1334,
       "source": null,
       "timestamp": 1727267972735,
@@ -110,9 +110,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Cyclops_%28Deep_Sea_Rescuer%29.jpg/revision/latest?cb=20230902073009",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1335/landscape.webp",
       "name": "Deep Sea Rescuer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Cyclops_%28Deep_Sea_Rescuer%29.jpg/revision/latest?cb=20230902073009",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1335/portrait.webp",
       "skinId": 1335,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
@@ -134,9 +134,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1336/landscape.webp",
       "name": "Zombie Bambino",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1336/portrait.webp",
       "skinId": 1336,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
@@ -158,9 +158,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Cyclops_%28Master_Yoda%29.jpg/revision/latest?cb=20211214141539",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1337/landscape.webp",
       "name": "Master Yoda",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1337/portrait.webp",
       "skinId": 1337,
       "source": null,
       "timestamp": 1727267983154,
@@ -168,9 +168,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Cyclops_%28Straw_Doll%29.jpg/revision/latest?cb=20230902073036",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1338/landscape.webp",
       "name": "Straw Doll",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest?cb=20220525165032",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1338/portrait.webp",
       "skinId": 1338,
       "source": null,
       "timestamp": 1727267989884,
@@ -178,9 +178,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Cyclops_%28Yokai_Warlock%29.jpg/revision/latest?cb=20230321152232",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1339/landscape.webp",
       "name": "Yokai Warlock",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1339/portrait.webp",
       "skinId": 1339,
       "source": null,
       "timestamp": 1727268074052,
@@ -188,9 +188,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/103310/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/103310/landscape.webp",
       "name": "SpongeBob",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/103310/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/103310/portrait.webp",
       "skinId": 103310,
       "source": null,
       "timestamp": 1765181956679,

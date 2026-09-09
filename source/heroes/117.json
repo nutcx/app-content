@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Fredrinn_%28Rogue_Appraiser%29.jpg/revision/latest?cb=20220814094221",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2171/landscape.webp",
       "name": "Rogue Appraiser",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2171/portrait.webp",
       "skinId": 2171,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Fredrinn%20Backup.zip",
@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Fredrinn_%28Regal_Renegade%29.jpg/revision/latest?cb=20220814094216",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2172/landscape.webp",
       "name": "Regal Renegade",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Fredrinn_%28Regal_Renegade%29.jpg/revision/latest?cb=20220814094216",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2172/portrait.webp",
       "skinId": 2172,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Fredrinn%20Backup.zip",
@@ -61,9 +61,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Fredrinn_%28Jewel_Connoisseur%29.jpg/revision/latest?cb=20230308110944",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2173/landscape.webp",
       "name": "Jewel Connoisseur",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Fredrinn_%28Jewel_Connoisseur%29.jpg/revision/latest?cb=20230308110944",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2173/portrait.webp",
       "skinId": 2173,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Fredrinn%20Backup.zip",
@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Fredrinn_%28Neobeast_Fredrinn%29.jpg/revision/latest?cb=20230905081409",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2174/landscape.webp",
       "name": "Neobeast Fredrinn",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Fredrinn_%28Neobeast_Fredrinn%29.jpg/revision/latest?cb=20230905081409",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2174/portrait.webp",
       "skinId": 2174,
       "source": null,
       "timestamp": 1727282284538,
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Fredrinn_%28Sparkle_Fredrinn%29.png/revision/latest?cb=20240405144645",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2175/landscape.webp",
       "name": "SPARKLE Fredrinn",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Fredrinn_%28Sparkle_Fredrinn%29.png/revision/latest?cb=20240405144645",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2175/portrait.webp",
       "skinId": 2175,
       "source": {
         "backupArchive": "",
@@ -119,9 +119,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2176/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2176/landscape.webp",
       "name": "Royal Marshal",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2176/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2176/portrait.webp",
       "skinId": 2176,
       "source": {
         "backupArchive": "",

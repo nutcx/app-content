@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Alice_%28Queen_of_Blood%29.jpg/revision/latest?cb=20200419033908",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1041/landscape.webp",
       "name": "Queen of Blood",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20241021140346",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1041/portrait.webp",
       "skinId": 1041,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ALICE%20BACKUP.zip",
@@ -27,9 +27,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Alice_Spirit_Woman.jpg/revision/latest?cb=20251208095844",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1042/landscape.webp",
       "name": "Spirit Woman",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Alice_Spirit_Woman.jpg/revision/latest?cb=20251208095844",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1042/portrait.webp",
       "skinId": 1042,
       "source": {
         "backupArchive": "",
@@ -46,9 +46,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Alice_Wizardry_Teacher.png/revision/latest?cb=20260122223935",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1043/landscape.webp",
       "name": "Wizardry Teacher",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Alice_Wizardry_Teacher.png/revision/latest?cb=20260122223935",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1043/portrait.webp",
       "skinId": 1043,
       "source": null,
       "timestamp": 1770308478088,
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Divine_Owl_and_Midnight_Raven_wall.JPG/revision/latest?cb=20200419034055",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1044/landscape.webp",
       "name": "Divine Owl",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Divine_Owl_and_Midnight_Raven_wall.JPG/revision/latest?cb=20200419034055",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1044/portrait.webp",
       "skinId": 1044,
       "source": {
         "backupArchive": "",
@@ -75,9 +75,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Alice_%28Steam_Glider%29.jpg/revision/latest?cb=20190304141517",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1045/landscape.webp",
       "name": "Steam Glider",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Alice_%28Steam_Glider%29.jpg/revision/latest?cb=20190304141517",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1045/portrait.webp",
       "skinId": 1045,
       "source": {
         "backupArchive": "",
@@ -94,9 +94,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Atlas_HQHeroAtlas451_add-qlpicsay.png/revision/latest?cb=20260202235411",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1046/landscape.webp",
       "name": "Jade Empress",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Atlas_HQHeroAtlas451_add-qlpicsay.png/revision/latest?cb=20260202235411",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1046/portrait.webp",
       "skinId": 1046,
       "source": {
         "backupArchive": "",
@@ -113,9 +113,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Alice_%28Darknet_Temptress%29.jpg/revision/latest?cb=20240620040615",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1047/landscape.webp",
       "name": "Darknet Temptress",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Alice_%28Darknet_Temptress%29.jpg/revision/latest?cb=20240620040615",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1047/portrait.webp",
       "skinId": 1047,
       "source": null,
       "timestamp": 1736568660159,

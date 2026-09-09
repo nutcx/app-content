@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Rafaela_%28Wings_of_Holiness%29.jpg/revision/latest?cb=20200420150336",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1141/landscape.webp",
       "name": "Wings of Holiness",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20240605145920",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1141/portrait.webp",
       "skinId": 1141,
       "source": {
         "backupArchive": "https://github.com/Mexi23/SuppD/raw/main/rafaela_def_backup.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Rafaela_%28Fertility_Goddess%29.jpg/revision/latest?cb=20200427113133",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1142/landscape.webp",
       "name": "Fertility Goddess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Rafaela_%28Fertility_Goddess%29.jpg/revision/latest?cb=20200427113133",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1142/portrait.webp",
       "skinId": 1142,
       "source": {
         "backupArchive": "https://github.com/Mexi23/SuppD/raw/main/rafaela_def_backup.zip",
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Rafaela_%28S.A.B.E.R._Savior%29.jpg/revision/latest?cb=20211218181738",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1145/landscape.webp",
       "name": "S.A.B.E.R. Savior",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Rafaela_%28S.A.B.E.R._Savior%29.jpg/revision/latest?cb=20211218181738",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1145/portrait.webp",
       "skinId": 1145,
       "source": null,
       "timestamp": 1727373617774,
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Rafaela_%28Angelic_Sonata%29.jpg/revision/latest?cb=20211221013524",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1147/landscape.webp",
       "name": "Angelic Sonata",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Rafaela_%28Angelic_Sonata%29.jpg/revision/latest?cb=20211221013524",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1147/portrait.webp",
       "skinId": 1147,
       "source": null,
       "timestamp": 1727373635802,
@@ -76,9 +76,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Rafaela_%28Seraphic_Selfie%29.jpg/revision/latest?cb=20230810201343",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1148/landscape.webp",
       "name": "Seraphic Selfie",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Rafaela_%28Seraphic_Selfie%29.jpg/revision/latest?cb=20230810201343",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1148/portrait.webp",
       "skinId": 1148,
       "source": null,
       "timestamp": 1727373650619,
@@ -86,9 +86,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1149/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1149/landscape.webp",
       "name": "Bloom of Abundance",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1149/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1149/portrait.webp",
       "skinId": 1149,
       "source": null,
       "timestamp": 1733846719034,

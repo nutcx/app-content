@@ -27,9 +27,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Novaria_%28Star_Rebel%29.jpg/revision/latest?cb=20240124060833",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2191/landscape.webp",
       "name": "Star Rebel",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20240616052213",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2191/portrait.webp",
       "skinId": 2191,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/NOVARIA%20BACKUP.zip",
@@ -51,9 +51,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Novaria_%28Sugar_Glaze%29.jpg/revision/latest?cb=20240128145026",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2193/landscape.webp",
       "name": "Sugar Glaze",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Novaria_%28Sugar_Glaze%29.jpg/revision/latest?cb=20240128145026",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2193/portrait.webp",
       "skinId": 2193,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/NOVARIA%20BACKUP.zip",
@@ -70,9 +70,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250405_003043.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2194/landscape.webp",
       "name": "Dragonsworn",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250405_003043.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2194/portrait.webp",
       "skinId": 2194,
       "source": null,
       "timestamp": 1743784448095,

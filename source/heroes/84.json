@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Ling_%28Cyan_Finch%29.jpg/revision/latest?cb=20240620010712",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1841/landscape.webp",
       "name": "Cyan Finch",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20240621034004",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1841/portrait.webp",
       "skinId": 1841,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
@@ -72,9 +72,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Ling_%28Fiery_Dance%29.jpg/revision/latest?cb=20200528124647",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1842/landscape.webp",
       "name": "Fiery Dance",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Ling_%28Fiery_Dance%29.jpg/revision/latest?cb=20200528124647",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1842/portrait.webp",
       "skinId": 1842,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
@@ -111,9 +111,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Ling_%28Street_Punk%29.jpg/revision/latest?cb=20200528124628",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1843/landscape.webp",
       "name": "Street Punk",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Ling_%28Street_Punk%29.jpg/revision/latest?cb=20200528124628",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1843/portrait.webp",
       "skinId": 1843,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
@@ -145,9 +145,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Ling_%28Night_Shade%29.jpg/revision/latest?cb=20211207174412",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1844/landscape.webp",
       "name": "Night Shade",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Ling_%28Night_Shade%29.jpg/revision/latest?cb=20211207174412",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1844/portrait.webp",
       "skinId": 1844,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
@@ -174,9 +174,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Ling_%28Cosmo_Guard%29.jpg/revision/latest?cb=20230819032307",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1845/landscape.webp",
       "name": "Cosmo Guard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Ling_%28Cosmo_Guard%29.jpg/revision/latest?cb=20230819032307",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1845/portrait.webp",
       "skinId": 1845,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/LING%20BACKUP%20REVAMP.zip",
@@ -208,9 +208,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LING%20COLLECTOR.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1846/landscape.webp",
       "name": "Serene Plume",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LING%20COLLECTOR.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1846/portrait.webp",
       "skinId": 1846,
       "source": null,
       "timestamp": 1727368878989,
@@ -218,9 +218,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Ling_%28M-World_Ling%29.jpg/revision/latest?cb=20220408062534",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1847/landscape.webp",
       "name": "M-World Ling",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Ling_%28M-World_Ling%29.jpg/revision/latest?cb=20220408062534",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1847/portrait.webp",
       "skinId": 1847,
       "source": {
         "backupArchive": "",
@@ -237,9 +237,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Ling_%28Lord_Shen%29.jpg/revision/latest?cb=20220804115101",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1848/landscape.webp",
       "name": "Lord Shen",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Ling_%28Lord_Shen%29.jpg/revision/latest?cb=20220804115101",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1848/portrait.webp",
       "skinId": 1848,
       "source": {
         "backupArchive": "",
@@ -256,9 +256,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Ling_%28Neobeast_Ling%29.jpg/revision/latest?cb=20250301020408",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/108410/landscape.webp",
       "name": "Neobeast Ling",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Ling_%28Neobeast_Ling%29.jpg/revision/latest?cb=20250301020408",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/108410/portrait.webp",
       "skinId": 108410,
       "source": {
         "backupArchive": "",

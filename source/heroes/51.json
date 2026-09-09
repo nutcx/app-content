@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Helcurt_%28Shadowbringer%29.jpg/revision/latest?cb=20240424080504",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1511/landscape.webp",
       "name": "Shadowbringer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1511/portrait.webp",
       "skinId": 1511,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Helcurt%20Backup.zip",
@@ -32,9 +32,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Helcurt_%28Exoracial_Executer%29_%282017-2024%29.jpg/revision/latest?cb=20230915152628",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1512/landscape.webp",
       "name": "Exoracial Executer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Helcurt_%28Exoracial_Executer%29_%282017-2024%29.jpg/revision/latest?cb=20230915152628",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1512/portrait.webp",
       "skinId": 1512,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Helcurt%20Backup.zip",
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Helcurt_%28Ice_Scythe%29.jpg/revision/latest?cb=20230915152643",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1513/landscape.webp",
       "name": "Ice Scythe",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Helcurt_%28Ice_Scythe%29.jpg/revision/latest?cb=20230915152643",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1513/portrait.webp",
       "skinId": 1513,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Helcurt%20Backup.zip",
@@ -75,9 +75,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Helcurt_%28Evolved_Predator%29.jpg/revision/latest?cb=20230915152657",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1514/landscape.webp",
       "name": "Evolved Predator",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Helcurt_%28Evolved_Predator%29.jpg/revision/latest?cb=20230915152657",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1514/portrait.webp",
       "skinId": 1514,
       "source": {
         "backupArchive": "",
@@ -94,9 +94,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Helcurt_%28Scorpio%29.jpg/revision/latest?cb=20230917012307",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1515/landscape.webp",
       "name": "Scorpio",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Helcurt_%28Scorpio%29.jpg/revision/latest?cb=20230917012307",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1515/portrait.webp",
       "skinId": 1515,
       "source": null,
       "timestamp": 1727286050623,
@@ -104,9 +104,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Helcurt_%28Dream_Prowler%29.jpg/revision/latest?cb=20240604025521",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1516/landscape.webp",
       "name": "Dream Prowler",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Helcurt_%28Dream_Prowler%29.jpg/revision/latest?cb=20240604025521",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1516/portrait.webp",
       "skinId": 1516,
       "source": {
         "backupArchive": "",

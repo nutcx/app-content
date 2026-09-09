@@ -13,9 +13,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Zhuxin_Beacon_of_Spirits.jpg/revision/latest?cb=20251208095315",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2251/landscape.webp",
       "name": "Beacon of Spirits",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero1251-portrait.png/revision/latest?cb=20241021140847",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2251/portrait.webp",
       "skinId": 2251,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ZHUXIN%20BACKUP.zip",
@@ -37,9 +37,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Zhuxin_%28Ethereal_Serenity%29.jpg/revision/latest?cb=20250304064647",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2252/landscape.webp",
       "name": "Ethereal Serenity",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Zhuxin_%28Ethereal_Serenity%29.jpg/revision/latest?cb=20250304064647",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2252/portrait.webp",
       "skinId": 2252,
       "source": {
         "backupArchive": "",
@@ -56,9 +56,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Zhuxin_%28Emberwisp_Mystic%29.jpg/revision/latest?cb=20241229022651",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2253/landscape.webp",
       "name": "Emberwisp Mystic",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Zhuxin_%28Emberwisp_Mystic%29.jpg/revision/latest?cb=20241229022651",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2253/portrait.webp",
       "skinId": 2253,
       "source": {
         "backupArchive": "",
@@ -75,9 +75,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20ZHUXIN%20ANNIV.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2255/landscape.webp",
       "name": "P.ACE Zhuxin",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20ZHUXIN%20ANNIV.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2255/portrait.webp",
       "skinId": 2255,
       "source": null,
       "timestamp": 1756745888716,

@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Ruby_%28Little_Red_Hood%29.jpg/revision/latest?cb=20231231093700",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1291/landscape.webp",
       "name": "Little Red Hood",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20240612224841",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1291/portrait.webp",
       "skinId": 1291,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
@@ -52,9 +52,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ruby_%28Cat_Girl%29.jpg/revision/latest?cb=20241128083641",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1292/landscape.webp",
       "name": "Cat Girl",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ruby_%28Cat_Girl%29.jpg/revision/latest?cb=20241128083641",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1292/portrait.webp",
       "skinId": 1292,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
@@ -81,9 +81,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Ruby_%28Hidden_Orchid_Butterfly%29.jpg/revision/latest?cb=20200824064403",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1293/landscape.webp",
       "name": "Hidden Orchid Butterfly",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Ruby_%28Hidden_Orchid_Butterfly%29.jpg/revision/latest?cb=20200824064403",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1293/portrait.webp",
       "skinId": 1293,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Ruby_%28Edelweiss%29.jpg/revision/latest?cb=20190809133611",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1294/landscape.webp",
       "name": "Edelweiss",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Ruby_%28Edelweiss%29.jpg/revision/latest?cb=20190809133611",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1294/portrait.webp",
       "skinId": 1294,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
@@ -119,9 +119,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Ruby_%28Lady_Zombie%29.jpg/revision/latest?cb=20200824070016",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1295/landscape.webp",
       "name": "Lady Zombie",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Ruby_%28Lady_Zombie%29.jpg/revision/latest?cb=20200824070016",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1295/portrait.webp",
       "skinId": 1295,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
@@ -138,9 +138,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Ruby_%28Pirate_Parrot%29.jpg/revision/latest?cb=20211221013448",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1296/landscape.webp",
       "name": "Pirate Parrot",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Ruby_%28Pirate_Parrot%29.jpg/revision/latest?cb=20211221013448",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1296/portrait.webp",
       "skinId": 1296,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/RUBY%20BACKUP.zip",
@@ -157,9 +157,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Ruby_%28Prismatic_Plume%29.jpg/revision/latest?cb=20230903013337",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1297/landscape.webp",
       "name": "Prismatic Plume",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Ruby_%28Prismatic_Plume%29.jpg/revision/latest?cb=20230903013337",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1297/portrait.webp",
       "skinId": 1297,
       "source": null,
       "timestamp": 1727376108016,
@@ -167,9 +167,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Ruby_%28Mecha_Maiden%29.jpg/revision/latest?cb=20221111142426",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1298/landscape.webp",
       "name": "Mecha Maiden",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Ruby_%28Mecha_Maiden%29.jpg/revision/latest?cb=20221111142426",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1298/portrait.webp",
       "skinId": 1298,
       "source": null,
       "timestamp": 1727376096116,
@@ -177,9 +177,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Ruby_%28Soul_Reaper%29.jpg/revision/latest?cb=20240609043208",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1299/landscape.webp",
       "name": "Soul Reaper",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Ruby_%28Soul_Reaper%29.jpg/revision/latest?cb=20240609043208",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1299/portrait.webp",
       "skinId": 1299,
       "source": null,
       "timestamp": 1727376125864,
@@ -187,9 +187,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Ruby_%28Crescent_Dervish%29.jpg/revision/latest?cb=20250324130503",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/102910/landscape.webp",
       "name": "Crescent Dervish",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Ruby_%28Crescent_Dervish%29.jpg/revision/latest?cb=20250324130503",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/102910/portrait.webp",
       "skinId": 102910,
       "source": null,
       "timestamp": 1739099492465,
@@ -197,9 +197,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Ruby_%28Neon_Edge%29.jpg/revision/latest?cb=20250324130517",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/102911/landscape.webp",
       "name": "Neon Edge",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Ruby_%28Neon_Edge%29.jpg/revision/latest?cb=20250324130517",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/102911/portrait.webp",
       "skinId": 102911,
       "source": null,
       "timestamp": 1739099483509,

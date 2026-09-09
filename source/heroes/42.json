@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Harley_%28Mage_Genius%29.jpg/revision/latest?cb=20230819021629",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1421/landscape.webp",
       "name": "Mage Genius",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1421/portrait.webp",
       "skinId": 1421,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
@@ -42,9 +42,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1422/landscape.webp",
       "name": "Naughty Joker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1422/portrait.webp",
       "skinId": 1422,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
@@ -66,9 +66,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1423/landscape.webp",
       "name": "Royal Magister",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1423/portrait.webp",
       "skinId": 1423,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Harley_%28Great_Inventor%29.jpg/revision/latest?cb=20230819021710",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1425/landscape.webp",
       "name": "Great Inventor",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Harley_%28Great_Inventor%29.jpg/revision/latest?cb=20230819021710",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1425/portrait.webp",
       "skinId": 1425,
       "source": null,
       "timestamp": 1727285775155,
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Harley_%28V.E.N.O.M._Octopus%29.jpg/revision/latest?cb=20230819021722",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1426/landscape.webp",
       "name": "V.E.N.O.M. Octopus",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Harley_%28V.E.N.O.M._Octopus%29.jpg/revision/latest?cb=20230819021722",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1426/portrait.webp",
       "skinId": 1426,
       "source": null,
       "timestamp": 1727285789569,
@@ -110,9 +110,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Harley_%28Dream_Caster%29.jpg/revision/latest?cb=20230819021734",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1427/landscape.webp",
       "name": "Dream Caster",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Harley_%28Dream_Caster%29.jpg/revision/latest?cb=20230819021734",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1427/portrait.webp",
       "skinId": 1427,
       "source": null,
       "timestamp": 1727285806706,
@@ -120,9 +120,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harley_%28Pulsar_Prodigy%29.jpg/revision/latest?cb=20221022092010",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1428/landscape.webp",
       "name": "Pulsar Prodigy",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harley_%28Pulsar_Prodigy%29.jpg/revision/latest?cb=20221022092010",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1428/portrait.webp",
       "skinId": 1428,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",

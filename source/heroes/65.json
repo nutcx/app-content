@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Claude_%28Master_Thief%29.jpg/revision/latest?cb=20211202234638",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1651/landscape.webp",
       "name": "Master Thief",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest?cb=20240501064446",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1651/portrait.webp",
       "skinId": 1651,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
@@ -62,9 +62,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Claude_%28Golden_Bullet%29.jpg/revision/latest?cb=20211202234652",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1652/landscape.webp",
       "name": "Golden Bullet",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Claude_%28Golden_Bullet%29.jpg/revision/latest?cb=20211202234652",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1652/portrait.webp",
       "skinId": 1652,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
@@ -111,9 +111,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Claude_%28Plunderous_Pirate%29.jpg/revision/latest?cb=20211202234712",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1653/landscape.webp",
       "name": "Plunderous Pirate",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Claude_%28Plunderous_Pirate%29.jpg/revision/latest?cb=20211202234712",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1653/portrait.webp",
       "skinId": 1653,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
@@ -150,9 +150,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Claude_%28Mecha_Dragon%29.jpg/revision/latest?cb=20240314064106",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1654/landscape.webp",
       "name": "Mecha Dragon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest?cb=20240314064605",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1654/portrait.webp",
       "skinId": 1654,
       "source": null,
       "timestamp": 1727238964437,
@@ -160,9 +160,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1655/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1655/landscape.webp",
       "name": "Summer Chill",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1655/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1655/portrait.webp",
       "skinId": 1655,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
@@ -204,9 +204,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Claude_%28Christmas_Carnival%29.jpg/revision/latest?cb=20200528122850",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1656/landscape.webp",
       "name": "Christmas Carnival",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest?cb=20220525165639",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1656/portrait.webp",
       "skinId": 1656,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
@@ -233,9 +233,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Claude_%28Earth%27s_Mightiest%29.jpg/revision/latest?cb=20210618055047",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1657/landscape.webp",
       "name": "Earth's Mightiest",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero657-portrait.png/revision/latest?cb=20220525165640",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1657/portrait.webp",
       "skinId": 1657,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/CLAUDE%20BACKUP.zip",
@@ -262,9 +262,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Claude_%28Blazing_Trace%29.jpg/revision/latest?cb=20241201052634",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1658/landscape.webp",
       "name": "Blazing Trace",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Claude_%28Blazing_Trace%29.jpg/revision/latest?cb=20241201052634",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1658/portrait.webp",
       "skinId": 1658,
       "source": null,
       "timestamp": 1727239029411,
@@ -272,9 +272,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Claude_%28Bad_Bro%29.jpg/revision/latest?cb=20220216164936",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1659/landscape.webp",
       "name": "Bad Bro",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest?cb=20220525165642",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1659/portrait.webp",
       "skinId": 1659,
       "source": null,
       "timestamp": 1727239042536,
@@ -282,9 +282,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Claude_%28Heart_Aflame%29.jpg/revision/latest?cb=20230819030144",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106510/landscape.webp",
       "name": "Heart Aflame",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest?cb=20230212035455",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106510/portrait.webp",
       "skinId": 106510,
       "source": null,
       "timestamp": 1727239064060,
@@ -292,9 +292,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Claude_%28Challenger%27s_Spark%29.jpg/revision/latest?cb=20240904133121",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106511/landscape.webp",
       "name": "Challenger's Spark",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Claude_%28Challenger%27s_Spark%29.jpg/revision/latest?cb=20240904133121",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106511/portrait.webp",
       "skinId": 106511,
       "source": null,
       "timestamp": 1729882034952,
@@ -302,9 +302,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Claude_%28Cosmic_Blaze%29.jpg/revision/latest?cb=20240904133123",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106512/landscape.webp",
       "name": "Cosmic Blaze",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Claude_%28Cosmic_Blaze%29.jpg/revision/latest?cb=20240904133123",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106512/portrait.webp",
       "skinId": 106512,
       "source": null,
       "timestamp": 1731268104264,

@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Silvanna_%28Imperial_Knightess%29.jpg/revision/latest?cb=20200816042744",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1901/landscape.webp",
       "name": "Imperial Knightess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1901/portrait.webp",
       "skinId": 1901,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20BACKUP.zip",
@@ -42,9 +42,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Silvanna_%28Hallowed_Lance%29.jpg/revision/latest?cb=20200324160836",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1902/landscape.webp",
       "name": "Hallowed Lance",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Silvanna_%28Hallowed_Lance%29.jpg/revision/latest?cb=20200324160836",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1902/portrait.webp",
       "skinId": 1902,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20BACKUP.zip",
@@ -71,9 +71,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Silvanna_%28Midnight_Justice%29.jpg/revision/latest?cb=20200526103346",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1903/landscape.webp",
       "name": "Midnight Justice",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Silvanna_%28Midnight_Justice%29.jpg/revision/latest?cb=20200526103346",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1903/portrait.webp",
       "skinId": 1903,
       "source": {
         "backupArchive": "",
@@ -90,9 +90,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Silvanna_%28Queen_Frost%29.jpg/revision/latest?cb=20220216160730",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1905/landscape.webp",
       "name": "Queen Frost",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Silvanna_%28Queen_Frost%29.jpg/revision/latest?cb=20220216160730",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1905/portrait.webp",
       "skinId": 1905,
       "source": null,
       "timestamp": 1727376698497,
@@ -100,9 +100,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Silvanna_%28Future_Cop%29.jpg/revision/latest?cb=20231104054045",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1906/landscape.webp",
       "name": "Future Cop",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Silvanna_%28Future_Cop%29.jpg/revision/latest?cb=20231104054045",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1906/portrait.webp",
       "skinId": 1906,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/SILVANA%20BACKUP.zip",
@@ -129,9 +129,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Silvanna_%28Verdant_Lancer%29.jpg/revision/latest?cb=20240826025457",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1907/landscape.webp",
       "name": "Verdant Lancer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Silvanna_%28Verdant_Lancer%29.jpg/revision/latest?cb=20240826025457",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1907/portrait.webp",
       "skinId": 1907,
       "source": null,
       "timestamp": 1727376712735,
@@ -139,9 +139,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Silvanna_%28Alluring_Mystique%29.jpg/revision/latest?cb=20240213092500",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1908/landscape.webp",
       "name": "Alluring Mystique",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Silvanna_%28Alluring_Mystique%29.jpg/revision/latest?cb=20240213092500",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1908/portrait.webp",
       "skinId": 1908,
       "source": null,
       "timestamp": 1727376728331,
@@ -149,9 +149,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Silvana%20Fatcat.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/109010/landscape.webp",
       "name": "Meowkin Warden",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Silvana%20Fatcat.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/109010/portrait.webp",
       "skinId": 109010,
       "source": null,
       "timestamp": 1748509450880,

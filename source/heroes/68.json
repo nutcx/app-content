@@ -3,9 +3,9 @@
   "skins": [
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Lunox_%28Twilight_Goddess%29.jpg/revision/latest?cb=20200427113835",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1681/landscape.webp",
       "name": "Twilight Goddess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1681/portrait.webp",
       "skinId": 1681,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
@@ -57,9 +57,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Lunox_%28Bloody_Mary%29.jpg/revision/latest?cb=20200427113455",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1682/landscape.webp",
       "name": "Bloody Mary",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Lunox_%28Bloody_Mary%29.jpg/revision/latest?cb=20200427113455",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1682/portrait.webp",
       "skinId": 1682,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
@@ -91,9 +91,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Lunox_%28Cosmic_Harmony%29.jpg/revision/latest?cb=20200427114137",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1683/landscape.webp",
       "name": "Cosmic Harmony",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Lunox_%28Cosmic_Harmony%29.jpg/revision/latest?cb=20200427114137",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1683/portrait.webp",
       "skinId": 1683,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
@@ -125,9 +125,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Lunox_%28Ash_Blossom%29.jpg/revision/latest?cb=20200427113410",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1684/landscape.webp",
       "name": "Ash Blossom",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest?cb=20220525165715",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1684/portrait.webp",
       "skinId": 1684,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
@@ -154,9 +154,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Lunox_%28Libra%29.jpg/revision/latest?cb=20230917012406",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1685/landscape.webp",
       "name": "Libra",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20230917050312",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1685/portrait.webp",
       "skinId": 1685,
       "source": null,
       "timestamp": 1727149380742,
@@ -164,9 +164,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1686/landscape.webp",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1686/landscape.webp",
       "name": "Butterfly Seraphim",
-      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1686/portrait.webp",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1686/portrait.webp",
       "skinId": 1686,
       "source": null,
       "timestamp": 1727149411311,
@@ -174,9 +174,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Lunox_%28Eyes_of_Eternity%29.jpg/revision/latest?cb=20210618142900",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1687/landscape.webp",
       "name": "Eyes of Eternity",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest?cb=20220525165719",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1687/portrait.webp",
       "skinId": 1687,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
@@ -198,9 +198,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Lunox_%28Dawn_Revelation%29.jpg/revision/latest?cb=20211022123755",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1688/landscape.webp",
       "name": "Dawn Revelation",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest?cb=20220525165720",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1688/portrait.webp",
       "skinId": 1688,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LUNOX%20BACKUP.zip",
@@ -227,9 +227,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Lunox_%28Divine_Goddess%29.jpg/revision/latest?cb=20230819030814",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1689/landscape.webp",
       "name": "Divine Goddess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1689/portrait.webp",
       "skinId": 1689,
       "source": null,
       "timestamp": 1727149475643,
@@ -237,9 +237,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Lunox_%28Nature%27s_Harmony%29.jpg/revision/latest?cb=20240717042046",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106810/landscape.webp",
       "name": "Nature's Harmony",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero106810-portrait.png/revision/latest?cb=20240619175050",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106810/portrait.webp",
       "skinId": 106810,
       "source": null,
       "timestamp": 1727149494531,
@@ -247,9 +247,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20LUNOX%20MPL.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106811/landscape.webp",
       "name": "Quantum Polarity",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A1%20IMG%20LUNOX%20MPL.jpg",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/106811/portrait.webp",
       "skinId": 106811,
       "source": null,
       "timestamp": 1756745991858,
@@ -257,9 +257,9 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Lunox_Nature%27s_Harmony.png/revision/latest?cb=20251208222943",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/616831/landscape.webp",
       "name": "Nature Harmony",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Lunox_Nature%27s_Harmony.png/revision/latest?cb=20251208222943",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/616831/portrait.webp",
       "skinId": 616831,
       "source": {
         "backupArchive": "",
