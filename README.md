@@ -25,4 +25,4 @@ bundle under `versions/`.
 
 See [FORMAT.md](FORMAT.md) for the container specification, [PAYLOADS.md](PAYLOADS.md)
 for the three JSON payload schemas, and [SOURCE.md](SOURCE.md) for the source-to-release
-boundary.
+boundary. See [MEDIA.md](MEDIA.md) for the verified static skin-image export.
