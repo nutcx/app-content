@@ -3,42 +3,22 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Dyrroth_%28Gon%29.jpg/revision/latest?cb=20241208031721",
-      "name": "Gon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Dyrroth_%28Gon%29.jpg/revision/latest?cb=20241208031721",
-      "skinId": 250560970,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dyrroth_%28Scalebore%29.jpg/revision/latest?cb=20200427090440",
-      "name": "Scalebore",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dyrroth_%28Scalebore%29.jpg/revision/latest?cb=20200427090440",
-      "skinId": 700015498,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Dyrroth_%28V.E.N.O.M._Cobra%29.jpg/revision/latest?cb=20220317062640",
+      "name": "V.E.N.O.M Cobra",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Dyrroth_%28V.E.N.O.M._Cobra%29.jpg/revision/latest?cb=20220317062640",
+      "skinId": 1512369630,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F3%20DYROTH%20BASIC%20TO%20HXH.zip",
-            "targetCategory": -1,
-            "targetSkinId": 250560970
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20VENOM%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1853
           },
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20BASIC%20TO%20KOF.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Venom%20to%20COLL.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20VENOM.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1857
           }
         ]
       },
@@ -50,54 +30,39 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Dyrroth_%28Prince_of_the_Abyss%29.jpg/revision/latest?cb=20200818083813",
       "name": "Prince of the Abyss",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20250917081250",
-      "skinId": 0,
+      "skinId": 1851,
       "source": {
-        "backupArchive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Backup.zip",
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20KOF.zip",
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Dyroth%20KOF%20Revamp.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1853
           },
           {
             "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20STARLIGHT.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Dyroth%20Venom.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/O30%20DIROT%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Dyroth%20Lightborn.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Hunter%20x%20Hunter.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1854
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20DYROTH%20LIGHTBORN.zip",
             "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 1855
           },
           {
-            "archive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Street%20Fighter%20-%20Guile%20(Outfit%201).zip",
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Dyroth%20Venom.zip",
             "targetCategory": 0,
-            "targetSkinId": 8
+            "targetSkinId": 1856
           },
           {
-            "archive": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Street%20Fighter%20-%20Guile%20(Outfit%202).zip",
+            "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/O30%20DIROT%20COLL.zip",
             "targetCategory": 0,
-            "targetSkinId": 9
+            "targetSkinId": 1857
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Dyroth%20Revamp%20HXH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1858
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Anime%20Dyroth%20NARUTO.zip",
@@ -131,10 +96,44 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dyrroth_%28Scalebore%29.jpg/revision/latest?cb=20200427090440",
+      "name": "Scalebore",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dyrroth_%28Scalebore%29.jpg/revision/latest?cb=20200427090440",
+      "skinId": 1852,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20VENOM.zip",
+            "targetCategory": -1,
+            "targetSkinId": 1512369630
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20BASIC%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1853
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1857
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F3%20DYROTH%20BASIC%20TO%20HXH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1858
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1853/landscape.webp",
       "name": "Orochi Chris",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20REVAMP%20KOF%20DYROTH%20.jpg",
-      "skinId": 1,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1853/portrait.webp",
+      "skinId": 1853,
       "source": null,
       "timestamp": 1727280216842,
       "type": "King of Fighters"
@@ -144,29 +143,29 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Dyrroth_Ruins_Scavenger_wall.png/revision/latest?cb=20191125135115",
       "name": "Ruins Scavenger",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Dyrroth_Ruins_Scavenger_wall.png/revision/latest?cb=20191125135115",
-      "skinId": 2,
+      "skinId": 1854,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20HXH.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20VENOM.zip",
             "targetCategory": -1,
-            "targetSkinId": 250560970
+            "targetSkinId": 1512369630
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20STARLIGHT%20TO%20KOF.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20VENOM.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1853
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20COLL.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1857
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20HXH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1858
           }
         ]
       },
@@ -175,25 +174,21 @@
     },
     {
       "category": 0,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20DYROTH%20LIGHTBORN.jpg",
+      "name": "Prince of Light",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20DYROTH%20LIGHTBORN.jpg",
+      "skinId": 1855,
+      "source": null,
+      "timestamp": 1771718076452,
+      "type": "Lightborn"
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Dyrroth_%28V.E.N.O.M._Cobra%29.jpg/revision/latest?cb=20220317062640",
-      "name": "V.E.N.O.M Cobra",
+      "name": "V.E.N.O.M. Cobra",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Dyrroth_%28V.E.N.O.M._Cobra%29.jpg/revision/latest?cb=20220317062640",
-      "skinId": 3,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20VENOM%20TO%20KOF.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Venom%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          }
-        ]
-      },
+      "skinId": 1856,
+      "source": null,
       "timestamp": 1727280261205,
       "type": "V.E.N.O.M"
     },
@@ -202,60 +197,20 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Dyrroth_%28Naraka_Flame%29.jpg/revision/latest?cb=20230308110844",
       "name": "Naraka Flame",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Dyrroth_%28Naraka_Flame%29.jpg/revision/latest?cb=20230308110844",
-      "skinId": 4,
+      "skinId": 1857,
       "source": null,
       "timestamp": 1727280272699,
       "type": "Collector"
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_175012.jpg",
-      "name": "Prince of the Moniyan",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241010_175012.jpg",
-      "skinId": 5,
-      "source": null,
-      "timestamp": 1728553868096,
-      "type": "Lightborn"
-    },
-    {
-      "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20DYROTH%20HXH.jpg",
-      "name": "Gon Freecss",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20DYROTH%20HXH.jpg",
-      "skinId": 6,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1858/landscape.webp",
+      "name": "Gon",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1858/portrait.webp",
+      "skinId": 1858,
       "source": null,
       "timestamp": 1733571101600,
       "type": "HxH"
-    },
-    {
-      "category": 0,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20DYROTH%20LIGHTBORN.jpg",
-      "name": "Prince of Light",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20DYROTH%20LIGHTBORN.jpg",
-      "skinId": 7,
-      "source": null,
-      "timestamp": 1771718076452,
-      "type": "Lightborn"
-    },
-    {
-      "category": 0,
-      "landscape": "https://pbs.twimg.com/media/HJaaVWeakAAZlJM?format=jpg&name=large",
-      "name": "Guile (Outfit 1)",
-      "portrait": "https://pbs.twimg.com/media/HJaaVWeakAAZlJM?format=jpg&name=large",
-      "skinId": 8,
-      "source": null,
-      "timestamp": 1783124124955,
-      "type": "Street Fighter"
-    },
-    {
-      "category": 0,
-      "landscape": "https://pbs.twimg.com/media/HJaaVY0aMAAWUfO?format=jpg&name=large",
-      "name": "Guile (Outfit 2)",
-      "portrait": "https://pbs.twimg.com/media/HJaaVY0aMAAWUfO?format=jpg&name=large",
-      "skinId": 9,
-      "source": null,
-      "timestamp": 1783124177820,
-      "type": "Street Fighter"
     },
     {
       "category": 1,

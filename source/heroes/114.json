@@ -2,67 +2,33 @@
   "heroId": 114,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Melissa_%28Twinge_Weaver%29.jpg/revision/latest?cb=20220324084759",
-      "name": "Twinge Weaver",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Melissa_%28Twinge_Weaver%29.jpg/revision/latest?cb=20220324084759",
-      "skinId": 1958125385,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Melissa%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Melissa/Melissa%20Default/Melissa%20X%20Nobara%20Revamp%20Replace%20Basic%20-%5BK4%2CNutx%2CXvrn%5D.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Melissa%20Normal%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Melissa%20Normal%20to%20SPARKLE.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20MELISSA%20BASIC%20TO%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Melissa_%28Cursed_Needle%29.jpg/revision/latest?cb=20220301065501",
       "name": "Cursed Needle",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb=20220525170741",
-      "skinId": 0,
+      "skinId": 2141,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Melissa%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Melissa/Melissa%20Default/Melissa%20X%20Nobara%20Revamp%20Replace%20Default%20-%5BK4%2CNutx%2CXvrn%5D.zip",
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Melissa%20Nobara.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 2143
           },
           {
             "archive": "https://github.com/azizboy2007/V33/raw/main/Melisa%20Starlight.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 2144
           },
           {
             "archive": "https://github.com/azizboy2007/V43Ztools/raw/main/MELISA%20SPARKLE.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 2145
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20MELISSA%20COLLECTOR.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 2146
           }
         ]
       },
@@ -71,10 +37,44 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Melissa_%28Twinge_Weaver%29.jpg/revision/latest?cb=20220324084759",
+      "name": "Twinge Weaver",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Melissa_%28Twinge_Weaver%29.jpg/revision/latest?cb=20220324084759",
+      "skinId": 2142,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Melissa%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Melissa%20Basic%20to%20NOBARA.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2143
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Melissa%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2144
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Melissa%20Normal%20to%20SPARKLE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2145
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20MELISSA%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2146
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Melissa_%28Nobara_Kugisaki%29.jpg/revision/latest?cb=20230308111010",
       "name": "Nobara Kugisaki",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Melissa_%28Nobara_Kugisaki%29.jpg/revision/latest?cb=20230308111010",
-      "skinId": 1,
+      "skinId": 2143,
       "source": null,
       "timestamp": 1727370639424,
       "type": "Jujutsu Kaisen"
@@ -82,16 +82,16 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Melissa_%28Nightwalker%29.jpg/revision/latest?cb=20240817134251",
-      "name": "NightWalker",
+      "name": "Nightwalker",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Melissa_%28Nightwalker%29.jpg/revision/latest?cb=20240817134251",
-      "skinId": 2,
+      "skinId": 2144,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Melissa%20Starlight%20to%20NOBARA.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 2143
           }
         ]
       },
@@ -103,14 +103,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Melissa_%28SPARKLE_Melissa%29.jpg/revision/latest?cb=20240317064417",
       "name": "SPARKLE Melissa",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Melissa_%28SPARKLE_Melissa%29.jpg/revision/latest?cb=20240317064417",
-      "skinId": 3,
+      "skinId": 2145,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Melissa%20Sparkle%20to%20NOBARA.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 2143
           }
         ]
       },
@@ -119,17 +119,17 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20MELISA%20COLL.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2146/landscape.webp",
       "name": "Umbra Bloom",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20MELISA%20COLL.jpg",
-      "skinId": 4,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2146/portrait.webp",
+      "skinId": 2146,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Melissa%20Collector%20to%20NOBARA.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 2143
           }
         ]
       },

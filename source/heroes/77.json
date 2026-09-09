@@ -2,106 +2,43 @@
   "heroId": 77,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Badang_%28Ironfists%29.jpg/revision/latest?cb=20240327131640",
-      "name": "Ironfists",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Badang_%28Ironfists%29.jpg/revision/latest?cb=20240327131640",
-      "skinId": 974624897,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20BASIC%20TO%20ZODIAC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20BASIC%20TO%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Badang%20Normal%20to%20Pegasus%20Seiya.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Badang%20Basic%20to%20SaintSeiya.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Badang_%28Susanoo%29.jpg/revision/latest?cb=20240327131703",
-      "name": "Susanoo",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Badang_%28Susanoo%29.jpg/revision/latest?cb=20240327131703",
-      "skinId": 1367476400,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20SPECIAL%20TO%20ZODIAC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20BADANG%20SPECIAL%20TO%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Badang%20Special%20to%20SaintSeiya.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Badang_%28Tribal_Warrior%29.jpg/revision/latest?cb=20240327131624",
       "name": "Tribal Warrior",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
-      "skinId": 0,
+      "skinId": 1771,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20ZODIAC%20NEW.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20BADANG%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Pegasus%20Seiya.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Badang%20SaintSeiya.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Badang%20X%20Madara.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1774
           },
           {
             "archive": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/Badang%20Steel%20Arm.zip",
             "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 1775
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1776
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Pegasus%20Seiya.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1777
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Badang%20SaintSeiya.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1778
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Badang%20X%20Madara.zip",
+            "targetCategory": 1,
+            "targetSkinId": 6
           },
           {
             "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Lapu%20Inosuke.zip",
@@ -140,20 +77,93 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Badang_%28Ironfists%29.jpg/revision/latest?cb=20240327131640",
+      "name": "Ironfists",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Badang_%28Ironfists%29.jpg/revision/latest?cb=20240327131640",
+      "skinId": 1772,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20BASIC%20TO%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1774
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20BASIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1776
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Badang%20Normal%20to%20Pegasus%20Seiya.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1777
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Badang%20Basic%20to%20SaintSeiya.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1778
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Badang_%28Susanoo%29.jpg/revision/latest?cb=20240327131703",
+      "name": "Susanoo",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Badang_%28Susanoo%29.jpg/revision/latest?cb=20240327131703",
+      "skinId": 1773,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20SPECIAL%20TO%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1774
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20SPECIAL%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1776
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Badang%20Special%20to%20SaintSeiya.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1778
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Badang_%28Leo%29.jpg/revision/latest?cb=20190728103051",
       "name": "Leo",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
-      "skinId": 2,
+      "skinId": 1774,
       "source": null,
       "timestamp": 1727162878855,
       "type": "Zodiac"
     },
     {
       "category": 0,
+      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1089103439311418.jpeg",
+      "name": "Steel Arms",
+      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1089103439311418.jpeg",
+      "skinId": 1775,
+      "source": null,
+      "timestamp": 1754319871509,
+      "type": "Special"
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Badang_%28Fist_of_Zen%29.jpg/revision/latest?cb=20240327131735",
       "name": "Fist of Zen",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
-      "skinId": 3,
+      "skinId": 1776,
       "source": null,
       "timestamp": 1727162885170,
       "type": "Collector"
@@ -163,19 +173,19 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Badang_%28Pegasus_Seiya%29.jpg/revision/latest?cb=20220915133514",
       "name": "Pegasus Seiya",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
-      "skinId": 4,
+      "skinId": 1777,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20BADANG%20SPECIAL%20TO%20COLLECTOR.zip",
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BADANG%20PEGASUS%20SEIYA%20TO%20COLLECTOR.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1776
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Badang%20pegasusseiya%20to%20SAINTSEIYA.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1778
           }
         ]
       },
@@ -187,13 +197,13 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Badang_%28Sagittarius_Seiya%29.jpg/revision/latest?cb=20220915134400",
       "name": "Sagittarius Seiya",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest?cb=20220915122047",
-      "skinId": 5,
+      "skinId": 1778,
       "source": null,
       "timestamp": 1727162909737,
       "type": "Saint Seiya"
     },
     {
-      "category": 0,
+      "category": 1,
       "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Badang%20Madara.jpeg",
       "name": "Madara Uchiha (Customized)",
       "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Badang%20Madara.jpeg",
@@ -201,16 +211,6 @@
       "source": null,
       "timestamp": 1746897780786,
       "type": "Naruto Shippuden"
-    },
-    {
-      "category": 0,
-      "landscape": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1089103439311418.jpeg",
-      "name": "Steel Arm",
-      "portrait": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/received_1089103439311418.jpeg",
-      "skinId": 7,
-      "source": null,
-      "timestamp": 1754319871509,
-      "type": "Special"
     },
     {
       "category": 1,

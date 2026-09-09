@@ -2,52 +2,33 @@
   "heroId": 14,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Rafaela_%28Fertility_Goddess%29.jpg/revision/latest?cb=20200427113133",
-      "name": "Fertility Goddess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Rafaela_%28Fertility_Goddess%29.jpg/revision/latest?cb=20200427113133",
-      "skinId": 427593681,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/SuppD/raw/main/rafaela_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Rafaela%20Elite%20to%20LUNARFEST.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Rafaela_%28Wings_of_Holiness%29.jpg/revision/latest?cb=20200420150336",
       "name": "Wings of Holiness",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20240605145920",
-      "skinId": 0,
+      "skinId": 1141,
       "source": {
-        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1141.zip",
+        "backupArchive": "https://github.com/Mexi23/SuppD/raw/main/rafaela_def_backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/Mexi23/SuppD/raw/main/rafaela_def_saber.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1145
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Rafaela%20Christmas.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1147
           },
           {
             "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/RAFAELA%20ALLSTAR.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1148
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Rafaela%20LunarFist.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1149
           }
         ]
       },
@@ -56,10 +37,29 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Rafaela_%28Fertility_Goddess%29.jpg/revision/latest?cb=20200427113133",
+      "name": "Fertility Goddess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Rafaela_%28Fertility_Goddess%29.jpg/revision/latest?cb=20200427113133",
+      "skinId": 1142,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/SuppD/raw/main/rafaela_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Rafaela%20Elite%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1149
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Rafaela_%28S.A.B.E.R._Savior%29.jpg/revision/latest?cb=20211218181738",
-      "name": "S.A.B.E.R Savior",
+      "name": "S.A.B.E.R. Savior",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Rafaela_%28S.A.B.E.R._Savior%29.jpg/revision/latest?cb=20211218181738",
-      "skinId": 1,
+      "skinId": 1145,
       "source": null,
       "timestamp": 1727373617774,
       "type": "S.A.B.E.R"
@@ -69,7 +69,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Rafaela_%28Angelic_Sonata%29.jpg/revision/latest?cb=20211221013524",
       "name": "Angelic Sonata",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Rafaela_%28Angelic_Sonata%29.jpg/revision/latest?cb=20211221013524",
-      "skinId": 2,
+      "skinId": 1147,
       "source": null,
       "timestamp": 1727373635802,
       "type": "Christmas"
@@ -79,17 +79,17 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Rafaela_%28Seraphic_Selfie%29.jpg/revision/latest?cb=20230810201343",
       "name": "Seraphic Selfie",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Rafaela_%28Seraphic_Selfie%29.jpg/revision/latest?cb=20230810201343",
-      "skinId": 3,
+      "skinId": 1148,
       "source": null,
       "timestamp": 1727373650619,
       "type": "AllStars"
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241211_000307.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1149/landscape.webp",
       "name": "Bloom of Abundance",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/20241211_000307.jpg",
-      "skinId": 4,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1149/portrait.webp",
+      "skinId": 1149,
       "source": null,
       "timestamp": 1733846719034,
       "type": "Lunarfest"

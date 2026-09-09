@@ -3,40 +3,21 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Beatrix_%28X_Factor%29.jpg/revision/latest?cb=20210520094424",
-      "name": "X Factor",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Beatrix_%28X_Factor%29.jpg/revision/latest?cb=20210520094424",
-      "skinId": 606520261,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20M4.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20PRIME.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Beatrix%20FMVP%20Basic.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          },
-          {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Basic/Beatrix%20Basic%20to%20Epic.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          }
-        ]
-      },
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
+      "name": "SkyForce Maverick",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
+      "skinId": 397035955,
+      "source": null,
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Beatrix_%28Stellar_Briliance%29.png/revision/latest?cb=20221228185117",
+      "name": "Stellar Briliance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Beatrix_%28Stellar_Briliance%29.png/revision/latest?cb=20221228185117",
+      "skinId": 1719694615,
+      "source": null,
       "timestamp": 0,
       "type": ""
     },
@@ -45,44 +26,39 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Beatrix_%28Dawnbreak_Soldier%29.jpg/revision/latest?cb=20220218134351",
       "name": "Dawnbreak Soldier",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20240501053744",
-      "skinId": 0,
+      "skinId": 2051,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Elite.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 2053
           },
           {
             "archive": "https://github.com/azizboy2007/v25/raw/main/Beatrix%20starlight.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 2054
           },
           {
             "archive": "https://github.com/Mexi23/Mm/raw/main/bea_def_m4.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 2055
           },
           {
             "archive": "https://github.com/azizboy2007/V28/raw/main/Beatrix%20Prime.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 2056
           },
           {
             "archive": "https://github.com/azizboy2007/V32/raw/main/beatrix%20special.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 2057
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Beatrix%20FMVP%20Default.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
-          },
-          {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Default/Beatrix%20Epic.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 110510
           },
           {
             "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Sniperman.zip",
@@ -96,32 +72,61 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Beatrix_%28Blitz_Attack%29.jpg/revision/latest?cb=20210916141109",
-      "name": "Blitz Attack",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Beatrix_%28X_Factor%29.jpg/revision/latest?cb=20210520094424",
+      "name": "X Factor",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Beatrix_%28X_Factor%29.jpg/revision/latest?cb=20210520094424",
+      "skinId": 2052,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
         "upgrades": [
           {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Beatrix%20FMVP%20Basic.zip",
+            "targetCategory": -1,
+            "targetSkinId": 397035955
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20PRIME.zip",
+            "targetCategory": -1,
+            "targetSkinId": 1719694615
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2054
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20M4.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2055
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Beatrix_%28Blitz_Attack%29.jpg/revision/latest?cb=20210916141109",
+      "name": "Blitz Attack",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
+      "skinId": 2053,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20PRIME.zip",
+            "targetCategory": -1,
+            "targetSkinId": 1719694615
+          },
+          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20STARLIGHT.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 2054
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20M4.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20PRIME.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Skins/Beatrix%20Epic%20Script%20(Skin02)%20-%20Nutx.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 2055
           }
         ]
       },
@@ -133,19 +138,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Beatrix_%28Space_Agent%29.jpg/revision/latest?cb=20220302045134",
       "name": "Space Agent",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest?cb=20220525170423",
-      "skinId": 2,
+      "skinId": 2054,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Starlight%20to%20PRIME.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Skins/Beatrix%20Epic%20Script%20(Skin03)%20-%20Nutx.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
+            "targetCategory": -1,
+            "targetSkinId": 1719694615
           }
         ]
       },
@@ -157,7 +157,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Beatrix_%28Light_Chaser%29.jpg/revision/latest?cb=20230308110724",
       "name": "Light Chaser",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest?cb=20221216103144",
-      "skinId": 3,
+      "skinId": 2055,
       "source": null,
       "timestamp": 1727164188765,
       "type": "M4"
@@ -165,9 +165,9 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Beatrix_%28Stellar_Briliance%29.png/revision/latest?cb=20221228185117",
-      "name": "Stellar Briliance",
+      "name": "Stellar Brilliance",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
-      "skinId": 4,
+      "skinId": 2056,
       "source": null,
       "timestamp": 1727164195072,
       "type": "Prime"
@@ -177,7 +177,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Beatrix_%28Vibrant_Fiesta%29.jpg/revision/latest?cb=20231203105851",
       "name": "Vibrant Fiesta",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1057-portrait.png/revision/latest?cb=20230805043918",
-      "skinId": 5,
+      "skinId": 2057,
       "source": null,
       "timestamp": 1727164208580,
       "type": "Create"
@@ -185,22 +185,12 @@
     {
       "category": 0,
       "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
-      "name": "SkyForce Maverick",
+      "name": "Sky Force Maverick",
       "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
-      "skinId": 6,
+      "skinId": 110510,
       "source": null,
       "timestamp": 1757785922313,
       "type": "FMVP"
-    },
-    {
-      "category": 0,
-      "landscape": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
-      "name": "Four Seasons of Fragrance",
-      "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
-      "skinId": 7,
-      "source": null,
-      "timestamp": 1783325262000,
-      "type": "Epic"
     },
     {
       "category": 2,

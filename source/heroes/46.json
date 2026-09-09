@@ -2,145 +2,52 @@
   "heroId": 46,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Odette_%28Butterfly_Goddess%29.jpg/revision/latest?cb=20210922180755",
-      "name": "Butterfly Goddess",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Odette_%28Butterfly_Goddess%29.jpg/revision/latest?cb=20210922180755",
-      "skinId": 1102589208,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Special%20to%20CREATE.zip",
-            "targetCategory": -1,
-            "targetSkinId": 2061396134
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Special%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Special%20to%20ZODIAC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Special%20to%20LUNARFEST.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ODETTE%20SPECIAL%20TO%20VALENTINE.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Odette_%28Black_Swan%29.jpg/revision/latest?cb=20240311144029",
-      "name": "Black Swan",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Odette_%28Black_Swan%29.jpg/revision/latest?cb=20240311144029",
-      "skinId": 1169900929,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20CREATE.zip",
-            "targetCategory": -1,
-            "targetSkinId": 2061396134
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20ZODIAC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20LUNARFEST.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ODETTE%20BASIC%20TO%20VALENTINE.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/%28Odette%29_Sage_of_the_Currents.jpg/revision/latest?cb=20230529031025",
-      "name": "Sage of the Currents",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/%28Odette%29_Sage_of_the_Currents.jpg/revision/latest?cb=20230529031025",
-      "skinId": 2061396134,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Odette_%28Swan_Princess%29.jpg/revision/latest?cb=20211217230122",
       "name": "Swan Princess",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
-      "skinId": 0,
+      "skinId": 1461,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20CHRISTMAS.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1463
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Odette%20Luckybox.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1464
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Odette%20Zodiac.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1466
           },
           {
             "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20LUNAR.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1467
           },
           {
             "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20CREATE.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1468
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Odette%20Starlight.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1469
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ODETTE%20VALENTINE.zip",
             "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 104610
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Odette%20Lightning.zip",
-            "targetCategory": 0,
+            "targetCategory": 1,
             "targetSkinId": 8
           }
         ]
@@ -150,17 +57,61 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Odette_%28Black_Swan%29.jpg/revision/latest?cb=20240311144029",
+      "name": "Black Swan",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Odette_%28Black_Swan%29.jpg/revision/latest?cb=20240311144029",
+      "skinId": 1462,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1464
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1466
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1467
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20CREATE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1468
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1469
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ODETTE%20BASIC%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 104610
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Odette_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202173308",
       "name": "Christmas Carnival",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Odette_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211202173308",
-      "skinId": 1,
+      "skinId": 1463,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ODETTE%20CHRISTMAS%20TO%20VALENTINE.zip",
             "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 104610
           }
         ]
       },
@@ -172,17 +123,56 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Odette_%28Mermaid_Princess%29.jpg/revision/latest?cb=20211220202317",
       "name": "Mermaid Princess",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Odette_%28Mermaid_Princess%29.jpg/revision/latest?cb=20211220202317",
-      "skinId": 2,
+      "skinId": 1464,
       "source": null,
       "timestamp": 1727372565563,
       "type": "LuckyBox"
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Odette_%28Butterfly_Goddess%29.jpg/revision/latest?cb=20210922180755",
+      "name": "Butterfly Goddess",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Odette_%28Butterfly_Goddess%29.jpg/revision/latest?cb=20210922180755",
+      "skinId": 1465,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/ODETTE%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Special%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1464
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Special%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1466
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Special%20to%20LUNARFEST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1467
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Odette%20Special%20to%20CREATE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1468
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ODETTE%20SPECIAL%20TO%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 104610
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Odette_%28Virgo-revamp%29.jpg/revision/latest?cb=20230810053743",
       "name": "Virgo",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Odette_%28Virgo-revamp%29.jpg/revision/latest?cb=20230810053743",
-      "skinId": 3,
+      "skinId": 1466,
       "source": null,
       "timestamp": 1727372574769,
       "type": "Zodiac"
@@ -192,14 +182,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Odette_%28Auspicious_Charm%29.jpg/revision/latest?cb=20200414053811",
       "name": "Auspicious Charm",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Odette_%28Auspicious_Charm%29.jpg/revision/latest?cb=20200414053811",
-      "skinId": 4,
+      "skinId": 1467,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ODETTE%20LUNAR%20TO%20VALENTINE.zip",
             "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 104610
           }
         ]
       },
@@ -208,17 +198,17 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Odette_%28Sage_of_the_Currents%29.jpg/revision/latest?cb=20230529031025",
-      "name": "Sage of the Current",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Odette_%28Sage_of_the_Currents%29.jpg/revision/latest?cb=20230529031025",
-      "skinId": 5,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1468/landscape.webp",
+      "name": "Sage of the Currents",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1468/portrait.webp",
+      "skinId": 1468,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ODETTE%20CREATE%20TO%20VALENTINE.zip",
             "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 104610
           }
         ]
       },
@@ -230,14 +220,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Odette_%28Wisdom_of_the_Stars%29.jpg/revision/latest?cb=20240824115042",
       "name": "Wisdom of the Stars",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Odette_%28Wisdom_of_the_Stars%29.jpg/revision/latest?cb=20240824115042",
-      "skinId": 6,
+      "skinId": 1469,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ODETTE%20STARLIGHT%20TO%20VALENTINE.zip",
             "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 104610
           }
         ]
       },
@@ -249,13 +239,13 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Odette_Song_of_Devotion.png/revision/latest?cb=20260202010358",
       "name": "Song of Devotion",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Odette_Song_of_Devotion.png/revision/latest?cb=20260202010358",
-      "skinId": 7,
+      "skinId": 104610,
       "source": null,
       "timestamp": 1770124484041,
       "type": "Valentine"
     },
     {
-      "category": 0,
+      "category": 1,
       "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ODETTE%20LIGHTNING.png",
       "name": "Goddest of Light",
       "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ODETTE%20LIGHTNING.png",

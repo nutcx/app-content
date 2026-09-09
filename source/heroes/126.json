@@ -2,37 +2,18 @@
   "heroId": 126,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Suyou_%28Venerated_Vigilance%29.jpg/revision/latest?cb=20250304064607",
-      "name": "Venerated Vigilance",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Suyou_%28Venerated_Vigilance%29.jpg/revision/latest?cb=20250304064607",
-      "skinId": 282074155,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Suyou%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20SUYOU%20BASIC%20TO%20SASUKE.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Suyou_%28Mask_of_the_Immortal%29.jpg/revision/latest?cb=20240921150438",
       "name": "Mask of the Immortal",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20241021140902",
-      "skinId": 0,
+      "skinId": 2261,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Suyou%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20SUYOU%20X%20SASUKE.zip",
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Suyou%20Sasuke.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 2263
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/SUYOU%20X%20SASUKE.zip",
@@ -46,10 +27,29 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Suyou_%28Sasuke_Uchiha%29.jpg/revision/latest?cb=20250411100259",
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Suyou_%28Venerated_Vigilance%29.jpg/revision/latest?cb=20250304064607",
+      "name": "Venerated Vigilance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Suyou_%28Venerated_Vigilance%29.jpg/revision/latest?cb=20250304064607",
+      "skinId": 2262,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Suyou%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Suyou%20Basic%20to%20Sasuke.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2263
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2263/landscape.webp",
       "name": "Sasuke Uchiha",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Suyou_%28Sasuke_Uchiha%29.jpg/revision/latest?cb=20250411100259",
-      "skinId": 1,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/2263/portrait.webp",
+      "skinId": 2263,
       "source": null,
       "timestamp": 1744537444995,
       "type": "Naruto Shippuden"

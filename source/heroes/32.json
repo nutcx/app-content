@@ -3,51 +3,22 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
-      "name": "Starblazer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
-      "skinId": 931240419,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
+      "name": "S.A.B.E.R Automata",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
+      "skinId": 668597093,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Anniv%20to%20Transformer.zip",
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Saber%20to%20Transformer.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1327
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Anniv%20to%20LEGEND%20(NEW).zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Saber%20to%20LEGEND.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Johnson_%28Fire_Chief%29.jpg/revision/latest?cb=20241128083558",
-      "name": "Fire Chief",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Johnson_%28Fire_Chief%29.jpg/revision/latest?cb=20241128083558",
-      "skinId": 1970359044,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Normal%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Basic%20to%20Transformer.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Basic%20to%20LEGEND(FIX).zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1329
           }
         ]
       },
@@ -59,39 +30,39 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Johnson_%28Wild_Engine%29.jpg/revision/latest?cb=20231009020910",
       "name": "Wild Engine",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png/revision/latest?cb=20230826055045",
-      "skinId": 0,
+      "skinId": 1321,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Johnson%20Saber.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1323
           },
           {
             "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/JOHNSON%20ELITE%20JEEPNEY.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1324
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Johnson%20Luckybox.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1325
           },
           {
             "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/JOHNSON%20SPECIAL%20DETRIDE.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1326
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Transformer.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1327
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F4%20Johnson%20LEGEND.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1329
           },
           {
             "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Wheelchair.zip",
@@ -215,25 +186,40 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
-      "name": "S.A.B.E.R Automata",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Johnson_%28Fire_Chief%29.jpg/revision/latest?cb=20241128083558",
+      "name": "Fire Chief",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Johnson_%28Fire_Chief%29.jpg/revision/latest?cb=20241128083558",
+      "skinId": 1322,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Saber%20to%20Transformer.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Normal%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1325
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Saber%20to%20LEGEND.zip",
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Basic%20to%20Transformer.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1327
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Basic%20to%20LEGEND(FIX).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1329
           }
         ]
       },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
+      "name": "S.A.B.E.R. Automata",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
+      "skinId": 1323,
+      "source": null,
       "timestamp": 1727362749537,
       "type": "S.A.B.E.R"
     },
@@ -242,19 +228,19 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Johnson_%28Jeepney_Racer%29.jpg/revision/latest?cb=20181031101759",
       "name": "Jeepney Racer",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Johnson_%28Jeepney_Racer%29.jpg/revision/latest?cb=20181031101759",
-      "skinId": 2,
+      "skinId": 1324,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Elite%20to%20Transformer.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1327
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Elite%20to%20LEGEND%20(FIX).zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1329
           }
         ]
       },
@@ -266,7 +252,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Johnson_%28Wreck_King%29.jpg/revision/latest?cb=20240429080234",
       "name": "Wreck King",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Johnson_%28Wreck_King%29.jpg/revision/latest?cb=20240429080234",
-      "skinId": 3,
+      "skinId": 1325,
       "source": null,
       "timestamp": 1727362813749,
       "type": "Luckybox"
@@ -276,19 +262,19 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Johnson_%28Death_Ride%29.jpg/revision/latest?cb=20201213132140",
       "name": "Death Ride",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Johnson_%28Death_Ride%29.jpg/revision/latest?cb=20201213132140",
-      "skinId": 4,
+      "skinId": 1326,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Special%20to%20Transformer.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1327
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Special%20to%20LEGEND(FIX).zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1329
           }
         ]
       },
@@ -300,17 +286,41 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Johnson_%28Optimus_Prime%29.jpg/revision/latest?cb=20211214152518",
       "name": "Optimus Prime",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Johnson_%28Optimus_Prime%29.jpg/revision/latest?cb=20211214152518",
-      "skinId": 5,
+      "skinId": 1327,
       "source": null,
       "timestamp": 1727362856029,
       "type": "Transformers"
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
+      "name": "Starblazer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Johnson_%28Starblazer%29.jpg/revision/latest?cb=20231029223314",
+      "skinId": 1328,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Anniv%20to%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1327
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Anniv%20to%20LEGEND%20(NEW).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1329
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Johnson_%28Sovereign_of_Realms%29.jpg/revision/latest?cb=20241208031713",
       "name": "Sovereign of Realms",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Johnson_%28Sovereign_of_Realms%29.jpg/revision/latest?cb=20241208031713",
-      "skinId": 6,
+      "skinId": 1329,
       "source": null,
       "timestamp": 1734772213527,
       "type": "Legend"

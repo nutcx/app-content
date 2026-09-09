@@ -3,56 +3,37 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Harith_%28Stardust%29.jpg/revision/latest?cb=20240326070113",
-      "name": "Stardust",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Harith_%28Stardust%29.jpg/revision/latest?cb=20240326070113",
-      "skinId": 1646279735,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Elite%20to%20Champion.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Elite%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Elite%20to%20HXH(New).zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          }
-        ]
-      },
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harith_%28EVOS_Legends%29.jpg/revision/latest?cb=20240326070241",
+      "name": "EVOS Legend",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harith_%28EVOS_Legends%29.jpg/revision/latest?cb=20240326070241",
+      "skinId": 1508623505,
+      "source": null,
       "timestamp": 0,
       "type": ""
     },
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Harith_%28Savannah_Cat%29.jpg/revision/latest?cb=20240326070101",
-      "name": "Savannah Cat",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Harith_%28Savannah_Cat%29.jpg/revision/latest?cb=20240326070101",
-      "skinId": 1713571140,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Harith_%28Lightborn_-_Inspirer%29.jpg/revision/latest?cb=20240326070226",
+      "name": "Lightborn Inspirer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Harith_%28Lightborn_-_Inspirer%29.jpg/revision/latest?cb=20240326070226",
+      "skinId": 1616013426,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Champion.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Lightborn%20to%20Champion.zip",
+            "targetCategory": -1,
+            "targetSkinId": 1508623505
           },
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Collector.zip",
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Lightborn%20to%20Collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1737
           },
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Basic%20to%20HXH(New).zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Lighborn%20to%20HXH.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1739
           }
         ]
       },
@@ -64,39 +45,39 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Harith_%28Time_Traveler%29.jpg/revision/latest?cb=20240326070049",
       "name": "Time Traveler",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero731-portrait.png/revision/latest?cb=20240111124620",
-      "skinId": 0,
+      "skinId": 1731,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARITH%20515.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1734
           },
           {
             "archive": "https://github.com/Mexi23/MageD/raw/main/harith_def_LB.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1735
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Champion.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1736
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Harith%20Collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1737
           },
           {
             "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARITH%20CHRISTMAS.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1738
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D24%20HARITH%20HXH.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1739
           }
         ]
       },
@@ -105,27 +86,85 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Harith_%28Savannah_Cat%29.jpg/revision/latest?cb=20240326070101",
+      "name": "Savannah Cat",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Harith_%28Savannah_Cat%29.jpg/revision/latest?cb=20240326070101",
+      "skinId": 1732,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Champion.zip",
+            "targetCategory": -1,
+            "targetSkinId": 1508623505
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1737
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Basic%20to%20HXH(New).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1739
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Harith_%28Stardust%29.jpg/revision/latest?cb=20240326070113",
+      "name": "Stardust",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Harith_%28Stardust%29.jpg/revision/latest?cb=20240326070113",
+      "skinId": 1733,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Elite%20to%20Champion.zip",
+            "targetCategory": -1,
+            "targetSkinId": 1508623505
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Elite%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1737
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Elite%20to%20HXH(New).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1739
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Harith_%28Fashion_Expert%29.jpg/revision/latest?cb=20240326070206",
       "name": "Fashion Expert",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Harith_%28Fashion_Expert%29.jpg/revision/latest?cb=20240326070206",
-      "skinId": 1,
+      "skinId": 1734,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20515%20to%20Champion.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
+            "targetCategory": -1,
+            "targetSkinId": 1508623505
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20515%20to%20Collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1737
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20515%20to%20HXH(Fix).zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1739
           }
         ]
       },
@@ -135,38 +174,19 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Harith_%28Lightborn_-_Inspirer%29.jpg/revision/latest?cb=20240326070226",
-      "name": "Lightborn Inspirer",
+      "name": "Lightborn - Inspirer",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Harith_%28Lightborn_-_Inspirer%29.jpg/revision/latest?cb=20240326070226",
-      "skinId": 2,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Lightborn%20to%20Champion.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Lightborn%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Lighborn%20to%20HXH.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          }
-        ]
-      },
+      "skinId": 1735,
+      "source": null,
       "timestamp": 1727285558378,
       "type": "Lightborn"
     },
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harith_%28EVOS_Legends%29.jpg/revision/latest?cb=20240326070241",
-      "name": "EVOS Legend",
+      "name": "EVOS Legends",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harith_%28EVOS_Legends%29.jpg/revision/latest?cb=20240326070241",
-      "skinId": 3,
+      "skinId": 1736,
       "source": null,
       "timestamp": 1727285573205,
       "type": "Champion"
@@ -174,9 +194,9 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Harith_%28Psychic%29.jpg/revision/latest?cb=20240604141549",
-      "name": "Pychic",
+      "name": "Psychic",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Harith_%28Psychic%29.jpg/revision/latest?cb=20240604141549",
-      "skinId": 4,
+      "skinId": 1737,
       "source": null,
       "timestamp": 1727285591186,
       "type": "Collector"
@@ -186,14 +206,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Harith_%28Christmas_Carnival%29.jpg/revision/latest?cb=20240123101837",
       "name": "Christmas Carnival",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Harith_%28Christmas_Carnival%29.jpg/revision/latest?cb=20240123101837",
-      "skinId": 5,
+      "skinId": 1738,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Christmas%20to%20Collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1737
           }
         ]
       },
@@ -202,10 +222,10 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
-      "name": "Killua Zoldyck",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20HARITH%20HXH.jpg",
-      "skinId": 6,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1739/landscape.webp",
+      "name": "Killua",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1739/portrait.webp",
+      "skinId": 1739,
       "source": null,
       "timestamp": 1733570947977,
       "type": "HxH"

@@ -2,81 +2,33 @@
   "heroId": 42,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
-      "name": "Royal Magister",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
-      "skinId": 388130112,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Starlight%20to%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Starlight%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
-      "name": "Naughty Joker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
-      "skinId": 815032019,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Harley_%28Mage_Genius%29.jpg/revision/latest?cb=20230819021629",
-      "name": "Magic Genius",
+      "name": "Mage Genius",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336",
-      "skinId": 0,
+      "skinId": 1421,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Harley%20Epic.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1425
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Harley%20Venom.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1426
           },
           {
             "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20COLLECTOR.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1427
           },
           {
             "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20SPECIAL.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1428
           },
           {
             "archive": "https://github.com/azizboy2007/v22/raw/main/Mafia%20Money.zip",
@@ -90,10 +42,58 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
+      "name": "Naughty Joker",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Harley_%28Naughty_Joker%29.jpg/revision/latest?cb=20230819021639",
+      "skinId": 1422,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1425
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1427
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
+      "name": "Royal Magister",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Harley_%28Royal_Magister%29.jpg/revision/latest?cb=20230819021649",
+      "skinId": 1423,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Starlight%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1425
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Starlight%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1427
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Harley_%28Great_Inventor%29.jpg/revision/latest?cb=20230819021710",
       "name": "Great Inventor",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Harley_%28Great_Inventor%29.jpg/revision/latest?cb=20230819021710",
-      "skinId": 1,
+      "skinId": 1425,
       "source": null,
       "timestamp": 1727285775155,
       "type": "Epic"
@@ -101,9 +101,9 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Harley_%28V.E.N.O.M._Octopus%29.jpg/revision/latest?cb=20230819021722",
-      "name": "V.E.N.O.M Octopus",
+      "name": "V.E.N.O.M. Octopus",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Harley_%28V.E.N.O.M._Octopus%29.jpg/revision/latest?cb=20230819021722",
-      "skinId": 2,
+      "skinId": 1426,
       "source": null,
       "timestamp": 1727285789569,
       "type": "V.E.N.O.M"
@@ -113,7 +113,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Harley_%28Dream_Caster%29.jpg/revision/latest?cb=20230819021734",
       "name": "Dream Caster",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Harley_%28Dream_Caster%29.jpg/revision/latest?cb=20230819021734",
-      "skinId": 3,
+      "skinId": 1427,
       "source": null,
       "timestamp": 1727285806706,
       "type": "Collector"
@@ -123,14 +123,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harley_%28Pulsar_Prodigy%29.jpg/revision/latest?cb=20221022092010",
       "name": "Pulsar Prodigy",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harley_%28Pulsar_Prodigy%29.jpg/revision/latest?cb=20221022092010",
-      "skinId": 4,
+      "skinId": 1428,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/HARLEY%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harley%20Special%20to%20COLL.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1427
           }
         ]
       },

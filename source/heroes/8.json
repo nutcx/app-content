@@ -2,86 +2,43 @@
   "heroId": 8,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Karina_%28Black_Pearl%29.jpg/revision/latest?cb=20211010064323",
-      "name": "Black Pearl",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Karina_%28Black_Pearl%29.jpg/revision/latest?cb=20211010064323",
-      "skinId": 127521118,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20Starlight%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Karina_%28Phantom_Blade%29.jpg/revision/latest?cb=20240128041938",
-      "name": "Phantom Blade",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Karina_%28Phantom_Blade%29.jpg/revision/latest?cb=20240128041938",
-      "skinId": 2132159779,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20elit%20phntom%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Karina%20Basic%20to%20KOF.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Karina_%28Shadow_Blade%29.jpg/revision/latest?cb=20211010063626",
       "name": "Shadow Blade",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151",
-      "skinId": 0,
+      "skinId": 1081,
       "source": {
-        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1081.zip",
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/karina_def_chrisN.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1083
           },
           {
             "archive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/Karina%20elite%20lily.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1085
           },
           {
             "archive": "https://github.com/Mexi23/Assasins_defS/raw/main/karina_def_epic.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1086
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Karina%20KOF.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1087
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Karina%20Zodiac.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1088
           },
           {
             "archive": "https://github.com/azizboy2007/v21/raw/main/Selena%20-%20Default%20to%20Elite.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1089
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANIME%20Karina%20X%20Sakura.zip",
@@ -95,32 +52,75 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Karina_%28Phantom_Blade%29.jpg/revision/latest?cb=20240128041938",
+      "name": "Phantom Blade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Karina_%28Phantom_Blade%29.jpg/revision/latest?cb=20240128041938",
+      "skinId": 1082,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20elit%20phntom%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1086
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Karina%20Basic%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1087
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Karina_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211010064248",
       "name": "Christmas Carnival",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Karina_%28Christmas_Carnival%29.jpg/revision/latest?cb=20211010064248",
-      "skinId": 1,
+      "skinId": 1083,
       "source": null,
       "timestamp": 1727364321091,
       "type": "Christmas"
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Karina_%28Black_Pearl%29.jpg/revision/latest?cb=20211010064323",
+      "name": "Black Pearl",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Karina_%28Black_Pearl%29.jpg/revision/latest?cb=20211010064323",
+      "skinId": 1084,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20Starlight%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1086
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Karina_%28Spider_Lily%29.jpg/revision/latest?cb=20211010064352",
       "name": "Spider Lily",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Karina_%28Spider_Lily%29.jpg/revision/latest?cb=20211010064352",
-      "skinId": 2,
+      "skinId": 1085,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Karina%20Elite%20to%20KOF.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1087
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20Elite%20Spyder%20to%20ZODIAC.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1088
           }
         ]
       },
@@ -132,7 +132,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Karina_%28Doom_Duelist%29.jpg/revision/latest?cb=20240609065721",
       "name": "Doom Duelist",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Karina_%28Doom_Duelist%29.jpg/revision/latest?cb=20240609065721",
-      "skinId": 3,
+      "skinId": 1086,
       "source": null,
       "timestamp": 1727364340776,
       "type": "LuckyBox"
@@ -140,19 +140,19 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Karina_%28Leona%29.jpg/revision/latest?cb=20211010064443",
-      "name": "Leonara",
+      "name": "Leona",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Karina_%28Leona%29.jpg/revision/latest?cb=20211010064443",
-      "skinId": 4,
+      "skinId": 1087,
       "source": null,
       "timestamp": 1727364349279,
       "type": "King of Fighters"
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Selena_%28Gemini_-_Shadow%29.jpg/revision/latest?cb=20211010064501",
-      "name": "Gemini Shadow",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Selena_%28Gemini_-_Shadow%29.jpg/revision/latest?cb=20211010064501",
-      "skinId": 5,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1088/landscape.webp",
+      "name": "Gemini - Halo",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1088/portrait.webp",
+      "skinId": 1088,
       "source": null,
       "timestamp": 1727364387777,
       "type": "Zodiac"
@@ -162,14 +162,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Karina_%28Blood_Moon%29.jpg/revision/latest?cb=20211010064521",
       "name": "Blood Moon",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Karina_%28Blood_Moon%29.jpg/revision/latest?cb=20211010064521",
-      "skinId": 6,
+      "skinId": 1089,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20BloodMoon%20to%20KOF.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1087
           }
         ]
       },

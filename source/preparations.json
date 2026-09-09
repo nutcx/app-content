@@ -1,54 +1,6 @@
 {
   "preparations": [
     {
-      "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Radiant.Kits.Backup.zip",
-      "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/RadiantKitsDefault.png",
-      "items": [
-        {
-          "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Alucard_Nutx_Skin06.zip",
-          "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/alu.png",
-          "name": "Obsidian Blade"
-        },
-        {
-          "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Balancemagic_Nutx_Skin08.zip",
-          "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/lunox.png",
-          "name": "Divine Goddess"
-        },
-        {
-          "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Freya_Nutx_Skin09.zip",
-          "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/freya.png",
-          "name": "Galactic Vanquisher"
-        },
-        {
-          "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Qiangseng_Nutx_Skin08.zip",
-          "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/js.png",
-          "name": "Sovereign of Realms"
-        },
-        {
-          "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Shikongjianhao_Nutx_Skin03.zip",
-          "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/saber.png",
-          "name": "Codename - Storm"
-        },
-        {
-          "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Franco_Nutx_Skin08.zip",
-          "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/franco.png",
-          "name": "King of Hell"
-        },
-        {
-          "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Warrior_Nutx_Skin08.zip",
-          "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/alpha.png",
-          "name": "Revenant of Roses"
-        },
-        {
-          "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Mage_Nutx_Skin03.zip",
-          "image": "https://github.com/Mr-Nutcracker/RadKits/raw/main/gord.png",
-          "name": "Conqueror"
-        }
-      ],
-      "name": "Radiant Kits - Default",
-      "preparationId": 0
-    },
-    {
       "archive": "https://github.com/azizboy2007/azizboy2007/raw/main/Emote%20Backup.zip",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Genius%21.png/revision/latest?cb=20240919140102",
       "items": [
@@ -464,7 +416,7 @@
         }
       ],
       "name": "Genius!",
-      "preparationId": 1
+      "preparationId": 0
     },
     {
       "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/KLASIK%20BACKUP.zip",
@@ -707,7 +659,7 @@
         }
       ],
       "name": "Classic",
-      "preparationId": 2
+      "preparationId": 1
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -745,7 +697,7 @@
         }
       ],
       "name": "Light & Dark",
-      "preparationId": 3
+      "preparationId": 2
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -798,7 +750,7 @@
         }
       ],
       "name": "Halloween",
-      "preparationId": 4
+      "preparationId": 3
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -911,7 +863,7 @@
         }
       ],
       "name": "Oriental Fighter",
-      "preparationId": 5
+      "preparationId": 4
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -924,7 +876,7 @@
         }
       ],
       "name": "M1 Glory 2019",
-      "preparationId": 6
+      "preparationId": 5
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -947,7 +899,7 @@
         }
       ],
       "name": "Party King",
-      "preparationId": 7
+      "preparationId": 6
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -980,7 +932,7 @@
         }
       ],
       "name": "Blazing West",
-      "preparationId": 8
+      "preparationId": 7
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -993,7 +945,7 @@
         }
       ],
       "name": "M2 Glory",
-      "preparationId": 9
+      "preparationId": 8
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1016,7 +968,7 @@
         }
       ],
       "name": "Party Star",
-      "preparationId": 10
+      "preparationId": 9
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1099,7 +1051,7 @@
         }
       ],
       "name": "Starwars",
-      "preparationId": 11
+      "preparationId": 10
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1117,7 +1069,7 @@
         }
       ],
       "name": "Transformer",
-      "preparationId": 12
+      "preparationId": 11
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1155,7 +1107,7 @@
         }
       ],
       "name": "5th Anniversary",
-      "preparationId": 13
+      "preparationId": 12
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1213,7 +1165,7 @@
         }
       ],
       "name": "M3 Glorious Return",
-      "preparationId": 14
+      "preparationId": 13
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1246,7 +1198,7 @@
         }
       ],
       "name": "515 Shuttle!",
-      "preparationId": 15
+      "preparationId": 14
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1344,7 +1296,7 @@
         }
       ],
       "name": "Atomic Pop",
-      "preparationId": 16
+      "preparationId": 15
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1357,7 +1309,7 @@
         }
       ],
       "name": "Stellar Briliance",
-      "preparationId": 17
+      "preparationId": 16
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1440,7 +1392,7 @@
         }
       ],
       "name": "M4",
-      "preparationId": 18
+      "preparationId": 17
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1513,7 +1465,7 @@
         }
       ],
       "name": "M5",
-      "preparationId": 19
+      "preparationId": 18
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1541,7 +1493,7 @@
         }
       ],
       "name": "Sparkle",
-      "preparationId": 20
+      "preparationId": 19
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1569,7 +1521,7 @@
         }
       ],
       "name": "M6",
-      "preparationId": 21
+      "preparationId": 20
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1592,7 +1544,7 @@
         }
       ],
       "name": "M7",
-      "preparationId": 22
+      "preparationId": 21
     },
     {
       "archive": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/Recall%20BACKUP%202025.zip",
@@ -1615,7 +1567,7 @@
         }
       ],
       "name": "Golden Month",
-      "preparationId": 23
+      "preparationId": 22
     },
     {
       "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/Elimination%20backup.zip",
@@ -1713,7 +1665,7 @@
         }
       ],
       "name": "Classic",
-      "preparationId": 24
+      "preparationId": 23
     },
     {
       "archive": "https://github.com/azizboy2007/Trail-Effect/raw/main/Backup%20Trail.zip",
@@ -1836,7 +1788,7 @@
         }
       ],
       "name": "Classic",
-      "preparationId": 25
+      "preparationId": 24
     }
   ]
 }

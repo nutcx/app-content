@@ -3,35 +3,6 @@
   "skins": [
     {
       "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Kimmy_%28Charge_Leader%29.jpg/revision/latest?cb=20200414051632",
-      "name": "Charge Leader",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Kimmy_%28Charge_Leader%29.jpg/revision/latest?cb=20200414051632",
-      "skinId": 146103252,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/kimmy_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20to%20Luckybox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20to%20DTamer.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20to%20Starwars.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
       "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20KIMMY%20TOPUP%20ELITE.jpg",
       "name": "High Seats Cadet",
       "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20KIMMY%20TOPUP%20ELITE.jpg",
@@ -42,17 +13,17 @@
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Elite%20TopUp%20to%20Luckybox.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1714
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Elite%20TopUp%20to%20DTamer.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1716
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Elite%20TopUp%20to%20Starwars.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1717
           }
         ]
       },
@@ -71,70 +42,17 @@
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Basic%20to%20Luckybox.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1714
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Basic%20DTamer.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1716
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Basic%20to%20Starwars.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Kimmy_%28Bio_Frontier%29.jpg/revision/latest?cb=20200810132053",
-      "name": "Bio Frontier",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Kimmy_%28Bio_Frontier%29.jpg/revision/latest?cb=20200810132053",
-      "skinId": 1772872744,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/kimmy_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Starlight%20to%20Luckybox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Starlight%20to%20DTamer.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Starlight%20to%20Starwars.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Kimmy_%28Rising_Nova%29.jpg/revision/latest?cb=20241226230017",
-      "name": "Rising Nova",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Kimmy_%28Rising_Nova%29.jpg/revision/latest?cb=20241226230017",
-      "skinId": 1809743353,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/kimmy_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20M5%20to%20Luckybox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20M5%20to%20Starwars.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1717
           }
         ]
       },
@@ -144,31 +62,31 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Jetpack_Rebel_wall.jpg/revision/latest?cb=20200810124104",
-      "name": "Jetpack Rebel",
+      "name": "Hoverjet Outrider",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero711-portrait.png/revision/latest?cb=20250320124912",
-      "skinId": 0,
+      "skinId": 1711,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/kimmy_def_backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Luckybox.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1714
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20DTamer.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1716
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Starwars.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1717
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/KIMMY%20COLLLECTOR.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1719
           }
         ]
       },
@@ -177,32 +95,90 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Kimmy_%28Bio_Frontier%29.jpg/revision/latest?cb=20200810132053",
+      "name": "Bio Frontier",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Kimmy_%28Bio_Frontier%29.jpg/revision/latest?cb=20200810132053",
+      "skinId": 1713,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/kimmy_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Starlight%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1714
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Starlight%20to%20DTamer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1716
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Starlight%20to%20Starwars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1717
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Kimmy_%28Astrocat%29.jpg/revision/latest?cb=20190628090451",
       "name": "Astrocat",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Kimmy_%28Astrocat%29.jpg/revision/latest?cb=20190628090451",
-      "skinId": 2,
+      "skinId": 1714,
       "source": null,
       "timestamp": 1727365600837,
       "type": "LuckyBox"
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Kimmy_%28Charge_Leader%29.jpg/revision/latest?cb=20200414051632",
+      "name": "Charge Leader",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Kimmy_%28Charge_Leader%29.jpg/revision/latest?cb=20200414051632",
+      "skinId": 1715,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/kimmy_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1714
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20to%20DTamer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1716
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20to%20Starwars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1717
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Kimmy_%28Frost_Wing%29.jpg/revision/latest?cb=20200827013450",
       "name": "Frost Wing",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Kimmy_%28Frost_Wing%29.jpg/revision/latest?cb=20200827013450",
-      "skinId": 4,
+      "skinId": 1716,
       "source": {
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/kimmy_def_backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20DTamer%20to%20Luckybox.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1714
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20DTamer%20to%20Starwars.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1717
           }
         ]
       },
@@ -212,19 +188,43 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Kimmy_%28First_Order_Jet_Trooper%29.jpg/revision/latest?cb=20230906023620",
-      "name": "Jet Trooper",
+      "name": "First Order Jet Trooper",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Kimmy_%28First_Order_Jet_Trooper%29.jpg/revision/latest?cb=20230906023620",
-      "skinId": 5,
+      "skinId": 1717,
       "source": null,
       "timestamp": 1727365656150,
       "type": "Star Wars"
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Kimmy_%28Rising_Nova%29.jpg/revision/latest?cb=20241226230017",
+      "name": "Rising Nova",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Kimmy_%28Rising_Nova%29.jpg/revision/latest?cb=20241226230017",
+      "skinId": 1718,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/kimmy_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20M5%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1714
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Kimmy%20Special%20M5%20to%20Starwars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1717
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20KIMMY%20COLLECTOR.jpg",
       "name": "High Seas Cadet",
       "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20KIMMY%20COLLECTOR.jpg",
-      "skinId": 6,
+      "skinId": 1719,
       "source": null,
       "timestamp": 1765181940723,
       "type": "Collector"

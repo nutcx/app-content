@@ -12,28 +12,47 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yin%20Normal%20to%20MWORLD.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
+            "targetCategory": -1,
+            "targetSkinId": 1126496504
           },
           {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Yin/Yin%20Default/Yin%20Replace%20Skins/Yin%20X%20Itadori%20Revamp%20Blackflash%20Mode%20Replace%20Basic%20-%5BK4%2CNutx%2CXvrn%5D.zip",
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yin%20Normal%20to%20JJK.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/yin%20basic%20to%20aot.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 2134
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yin%20Normal%20to%20Starlight.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 2135
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/yin%20basic%20to%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2136
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Yin%20Basic%20to%20Collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 2137
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": -1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Yin_%28M-World_Yin%29.jpg/revision/latest?cb=20220408062536",
+      "name": "Mworld Yin",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Yin_%28M-World_Yin%29.jpg/revision/latest?cb=20220408062536",
+      "skinId": 1126496504,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YIN%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Yin%20Mworld%20to%20AOT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2136
           }
         ]
       },
@@ -45,34 +64,34 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Yin_%28Martial_Genius%29.jpg/revision/latest?cb=20220113132448",
       "name": "Martial Genius",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240918065501",
-      "skinId": 0,
+      "skinId": 2131,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YIN%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Yin%20Mworld.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 2133
           },
           {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Yin/Yin%20Default/Yin%20Replace%20Skins/Yin%20X%20Itadori%20Revamp%20Blackflash%20Mode%20Replace%20Default%20-%5BK4%2CNutx%2CXvrn%5D.zip",
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Yin%20Jujutsu%20Kaisen.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/yin%20aot.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 2134
           },
           {
             "archive": "https://github.com/Mexi23/fighterD/raw/main/yin_def_starN.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 2135
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/yin%20aot.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2136
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Yin%20Collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 2137
           },
           {
             "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Yin%20Naruto.zip",
@@ -117,19 +136,10 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Yin_%28M-World_Yin%29.jpg/revision/latest?cb=20220408062536",
-      "name": "MWorld Yin",
+      "name": "M-World Yin",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Yin_%28M-World_Yin%29.jpg/revision/latest?cb=20220408062536",
-      "skinId": 1,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YIN%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Yin%20Mworld%20to%20AOT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
+      "skinId": 2133,
+      "source": null,
       "timestamp": 1727379322120,
       "type": "MWorld"
     },
@@ -138,44 +148,34 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Yin_%28Yuji_Itadori%29.jpg/revision/latest?cb=20230308111142",
       "name": "Yuji Itadori",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Yin_%28Yuji_Itadori%29.jpg/revision/latest?cb=20230308111142",
-      "skinId": 2,
+      "skinId": 2134,
       "source": null,
       "timestamp": 1727379350188,
       "type": "Jujutsu Kaisen"
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Yin_%28Eren%29.jpg/revision/latest?cb=20240122041247",
-      "name": "Eren",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Yin_%28Eren%29.jpg/revision/latest?cb=20240122041247",
-      "skinId": 3,
-      "source": null,
-      "timestamp": 1727379358656,
-      "type": "Attack on Titan"
-    },
-    {
-      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Yin_%28Eternal_Guardian%29.jpg/revision/latest?cb=20240815171340",
       "name": "Eternal Guardian",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Yin_%28Eternal_Guardian%29.jpg/revision/latest?cb=20240815171340",
-      "skinId": 4,
+      "skinId": 2135,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/YIN%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yin%20Starlight%20to%20JJK.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 2134
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/yin%20starlight%20to%20aot.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 2136
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Yin%20Starlight%20to%20Collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 2137
           }
         ]
       },
@@ -184,10 +184,20 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Yin_%28Eren%29.jpg/revision/latest?cb=20240122041247",
+      "name": "Eren",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Yin_%28Eren%29.jpg/revision/latest?cb=20240122041247",
+      "skinId": 2136,
+      "source": null,
+      "timestamp": 1727379358656,
+      "type": "Attack on Titan"
+    },
+    {
+      "category": 0,
       "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013511.jpg",
       "name": "Dauntless Battlelord",
       "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013511.jpg",
-      "skinId": 5,
+      "skinId": 2137,
       "source": null,
       "timestamp": 1757785946171,
       "type": "Collector"

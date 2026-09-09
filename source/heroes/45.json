@@ -2,77 +2,33 @@
   "heroId": 45,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Argus_%28Light_of_Dawn%29.jpg/revision/latest?cb=20240311143111",
-      "name": "Light of Dawn",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Argus_%28Light_of_Dawn%29.jpg/revision/latest?cb=20240311143111",
-      "skinId": 1038425080,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Argus%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Argus%20Basic%20to%20Starlight.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Argus%20Basic%20to%20STARWARS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/CCTitans/Argus.Collector.Titan.Replace.Basic.-.K4IJ1.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20BASIC%20TO%20TOJI%20V2.zip",
-            "targetCategory": 1,
-            "targetSkinId": 19
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Argus_Dark_Angel.png/revision/latest?cb=20251208102146",
       "name": "Dark Angel",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20250407160733",
-      "skinId": 0,
+      "skinId": 1451,
       "source": {
-        "backupArchive": "https://github.com/Meow00001/Files/raw/main/Argus/Argus%20Default/Argus%20Backup.zip",
+        "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Argus%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20ARGUS%20STARLIGHT.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1453
           },
           {
             "archive": "https://github.com/azizboy2007/FG-S2-SHIRO/raw/main/ARGUS%20ELITE.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1454
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/FIX%20ARGUS%20STARWARS.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1456
           },
           {
             "archive": "https://github.com/azizboy2007/FG-S2-SHIRO/raw/main/ARGUS%20SEASON.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/releases/download/CCTitans/Argus.Collector.Titan.Replace.Default.-.K4IJ1.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/Meow00001/Files/raw/main/Argus/Argus%20Default/Argus%20Epic.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 1457
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Anime%20Argus%20X%20Sasuke.zip",
@@ -95,11 +51,6 @@
             "targetSkinId": 19
           },
           {
-            "archive": "https://github.com/Mr-Nutcracker/ntx/raw/main/Argus/Argus%20Default/ArgusXHidan.zip",
-            "targetCategory": 1,
-            "targetSkinId": 20
-          },
-          {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARGUS%20X%20STEVE%20MINECRFAFT.zip",
             "targetCategory": 2,
             "targetSkinId": 15
@@ -116,17 +67,46 @@
     },
     {
       "category": 0,
-      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1IbIGAROcYlVqTXK3fdU6Vk7CewOKt_uboNNsPDWKtOLyy1Kh8-WFkAlb3KY12B_IYA-q2C5hdHJ3j0p5mflpg_tlRBklM0s1Pj31Og_ZOPY5heWcaXrY2ickskkz-V8ti5awU6vlpMN/s1920/argus-dark-draconic-starlight-skin-mobile-legends-wallpaper-hd.jpg",
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Argus_%28Light_of_Dawn%29.jpg/revision/latest?cb=20240311143111",
+      "name": "Light of Dawn",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Argus_%28Light_of_Dawn%29.jpg/revision/latest?cb=20240311143111",
+      "skinId": 1452,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Argus%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Argus%20Basic%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1453
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Argus%20Basic%20to%20STARWARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1456
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20BASIC%20TO%20TOJI%20V2.zip",
+            "targetCategory": 1,
+            "targetSkinId": 19
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1453/landscape.webp",
       "name": "Dark Draconic",
-      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0oQ6w58GNto3yIm7Tf6pM4a5j2vihEn7HXwNbIWRJU4FG4wxWhNbEIyb_i-nf6OOwERlkKzwoZz12ff0KL0fCOeE__Xw9q8a42nyywTx1W0JKfqgLis7mfkQJa5n9Lb3KA3Bsu618CaB6/s1920/argus-dark-draconic-starlight-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
-      "skinId": 1,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1453/portrait.webp",
+      "skinId": 1453,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Argus%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Argus%20Starlight%20to%20STARWARS.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1456
           }
         ]
       },
@@ -135,17 +115,17 @@
     },
     {
       "category": 0,
-      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDt6VRNIAFttP3ov4PEtTXhSvpYypgkdUYoBztXNQaPuQZB2T55FPFQcv7SGyznd7wM5MsJUVVGXoZy5xWcdKeEDFJ8mghg_Tju1yHwweApzDIzATSyHD7AbWkKkiFhfjuQN14Hp6v1sj/s1920/argus-catastrophe-elite-skin-mobile-legends-wallpaper-hd.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1454/landscape.webp",
       "name": "Catastrophe",
-      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAKJbd9_AXxzUnaRF3b0ath58mIS78GRtZNXlALBtqb9QBpb3llculVxF3E-xjjMiUWdsLDhZSI7sEG44kb0AmIcxrjTmCy9Dyvff8PGl1MWxh_D3vrq8mn5BVIyMApJlfV72adCp51Mm2/s1920/argus-catastrophe-elite-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
-      "skinId": 2,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1454/portrait.webp",
+      "skinId": 1454,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Argus%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Argus%20Elite%20to%20STARWARS.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1456
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20ELITE%20TO%20TOJI%20V2.zip",
@@ -159,10 +139,10 @@
     },
     {
       "category": 0,
-      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpzDjHmjYVvDngjyW3m8L-S5W1n-G4vkHaTYelKFGrYjUH3EapBG183DpiT-47RdLNg1wgM6zFyMqjmcpyOkckVOKoouvqlstzcw9hojsRnHdX6Zey1rrdWmENRcItI9UdGfYmazkfwuH/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1456/landscape.webp",
       "name": "Darth Vader",
-      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWXg2nOnHTZM5mHEh9eizJtUqgXgIEPY9MyoCu8YPUIAC6Qh7E8BZZDPe-a61Aa3vg-XzY5jYmVLBT81OYwpcrGfbv9yzzhvbp3bFsaB9nae_10N4HGOmvXW59PsXRrfMKDMbTArHBIb3n/s1920/argus-darth-vader-skin-wars-skin-mobile-legends-wallpaper-hd-phone-android.jpg",
-      "skinId": 3,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1456/portrait.webp",
+      "skinId": 1456,
       "source": null,
       "timestamp": 1727161797879,
       "type": "Star Wars"
@@ -172,14 +152,14 @@
       "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/20241013_021650.jpg",
       "name": "Winged Nightmare",
       "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwb7EWeQDR_4zirix8lrGejOO2BDa7lgukOc6bdoLknyEViOsDwpSgDY4BzHH91XXHP-gDyMsbjWg6DIe1BoC4cItMWjiSonk9OAd1UjfFwK6YUzfYoGUhU0X3PjAglbwwsgy5OD0rzwsJ_SwN6S9JEQxUBALyPMnFoXzkGvoSIQEmXBLdVBjXgaGkjw/s1912/argus-winged-nightmare-season-27-skin-wallpaper-hd.jpg",
-      "skinId": 4,
+      "skinId": 1457,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Argus%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Argus%20Season%20to%20STARWARS.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1456
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20SEASON%20TO%20TOJI%20V2.zip",
@@ -190,26 +170,6 @@
       },
       "timestamp": 1727161821498,
       "type": "Season"
-    },
-    {
-      "category": 0,
-      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/argus-titan-collector-skin-splash-art-v0-v2ikao3ya7ch1.png",
-      "name": "Raiden Maru",
-      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/argus-titan-collector-skin-splash-art-v0-v2ikao3ya7ch1.png",
-      "skinId": 5,
-      "source": null,
-      "timestamp": 1784419567455,
-      "type": "Collector Titans"
-    },
-    {
-      "category": 0,
-      "landscape": "https://pbs.twimg.com/media/GsR4kO_aMAQccrt?format=jpg&name=large",
-      "name": "Blade of Rakshasa",
-      "portrait": "https://pbs.twimg.com/media/GsR4kO_aMAQccrt?format=jpg&name=large",
-      "skinId": 7,
-      "source": null,
-      "timestamp": 1783124397607,
-      "type": "Epic"
     },
     {
       "category": 1,
@@ -250,16 +210,6 @@
       "source": null,
       "timestamp": 1773720491546,
       "type": "Anime|JujutsuKaisen"
-    },
-    {
-      "category": 1,
-      "landscape": "https://github.com/Mr-Nutcracker/splashdog/raw/main/hidan.jpg",
-      "name": "Hidan (3D Model)",
-      "portrait": "https://github.com/Mr-Nutcracker/splashdog/raw/main/hidan.jpg",
-      "skinId": 20,
-      "source": null,
-      "timestamp": 1786104001723,
-      "type": "Custom | Naruto Shippuden"
     },
     {
       "category": 2,

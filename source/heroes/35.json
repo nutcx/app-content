@@ -4,21 +4,21 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hilda_%28Power_of_Megalith%29.jpg/revision/latest?cb=20240310142524",
-      "name": "Power Megalith",
+      "name": "Power of Megalith",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20240112140916",
-      "skinId": 0,
+      "skinId": 1351,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hilda%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hilda%20Zodiac.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1355
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hilda%20Special.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1356
           }
         ]
       },
@@ -30,7 +30,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hilda_%28Aries%29.jpg/revision/latest?cb=20230321152141",
       "name": "Aries",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hilda_%28Aries%29.jpg/revision/latest?cb=20230321152141",
-      "skinId": 1,
+      "skinId": 1355,
       "source": null,
       "timestamp": 1727361274901,
       "type": "Zodiac"
@@ -40,7 +40,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hilda_%28Bass_Craze%29.jpg/revision/latest?cb=20240310142745",
       "name": "Bass Craze",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hilda_%28Bass_Craze%29.jpg/revision/latest?cb=20240310142745",
-      "skinId": 2,
+      "skinId": 1356,
       "source": null,
       "timestamp": 1727361287916,
       "type": "Special"

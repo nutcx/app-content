@@ -2,30 +2,6 @@
   "heroId": 16,
   "skins": [
     {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
-      "name": "Glorious General",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
-      "skinId": 1219514193,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Glorius%20to%20LuckyBox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Glorius%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": -1,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Zilong_%28Dragon_of_Prosperity%29.jpg/revision/latest?cb=20240126073647",
       "name": "Lunar Fest",
@@ -36,150 +12,48 @@
       "type": ""
     },
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Zilong_%28Elite_Warrior%29.jpg/revision/latest?cb=20240128041555",
-      "name": "Elite Warrior",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Zilong_%28Elite_Warrior%29.jpg/revision/latest?cb=20240128041555",
-      "skinId": 952628480,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Glorius.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1219514193
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20LunarFest.zip",
-            "targetCategory": -1,
-            "targetSkinId": 494687747
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Christmas.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Summer.zip",
-            "targetCategory": 0,
-            "targetSkinId": 9
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Zilong_%28Blazing_Lancer%29.png/revision/latest?cb=20180525135543",
-      "name": "Blazing Lancer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Zilong_%28Blazing_Lancer%29.png/revision/latest?cb=20180525135543",
-      "skinId": 1285713344,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Blazing%20to%20Glorius.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1219514193
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Blazing%20to%20LuckyBox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20Shining%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Blazing%20Lancer%20to%20Summer.zip",
-            "targetCategory": 0,
-            "targetSkinId": 9
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Loyal_Spear_wall.jpg/revision/latest?cb=20240303042358",
-      "name": "Loyal Spear",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Loyal_Spear_wall.jpg/revision/latest?cb=20240303042358",
-      "skinId": 1707260220,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Loyal%20Spear%20to%20LuckyBox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Loyal%20Spear%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Loyal%20Spear%20to%20Summer.zip",
-            "targetCategory": 0,
-            "targetSkinId": 9
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUl-ooyOJ8otJ5rKigp3h8F9fpenjLIrvWPiSugz2a-kU9FswqgVxd7WYcMWEVGdLO6DwInM8yfw47Gl1kMr36CpaqN71Eqp7_1LsO69gksYAuork-NdCbh4UrEgytjGj7E7KKMYIs6Jlw2iWmfHFKh4mYJ9ZhfmiBwvc_uBhEx-GoNfd-Ez40XRinpl5Y/s819/zilong-revamp-wallpaper-hd.png",
-      "name": "Spear of Dragon",
+      "name": "Spear of the Dragon",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915",
-      "skinId": 0,
+      "skinId": 1161,
       "source": {
-        "backupArchive": "https://github.com/Mr-Nutcracker/ntx/releases/download/Backups/1161.zip",
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Starlight.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1164
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Zilong%20LuckyBox.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1166
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ZILONG%20CHRISTMAS.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          },
-          {
-            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ZILONG%20515.zip",
-            "targetCategory": 0,
-            "targetSkinId": 7
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Zilong%20Lunar%20Fest.zip",
-            "targetCategory": 0,
-            "targetSkinId": 8
+            "targetSkinId": 1167
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20Revamp%20Zilong%20Summer.zip",
             "targetCategory": 0,
-            "targetSkinId": 9
+            "targetSkinId": 1169
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101610
+          },
+          {
+            "archive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ZILONG%20515.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101611
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Zilong%20Lunar%20Fest.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101612
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20X%20Downfall%20Dragon.zip",
@@ -208,17 +82,80 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Zilong_%28Elite_Warrior%29.jpg/revision/latest?cb=20240128041555",
+      "name": "Elite Warrior",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Zilong_%28Elite_Warrior%29.jpg/revision/latest?cb=20240128041555",
+      "skinId": 1162,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20LunarFest.zip",
+            "targetCategory": -1,
+            "targetSkinId": 494687747
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Glorius.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1163
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Christmas.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1167
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1169
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101610
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
+      "name": "Glorious General",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Zilong_%28Gloroius_General%29.jpg/revision/latest?cb=20210619095730",
+      "skinId": 1163,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Glorius%20to%20LuckyBox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1166
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Glorius%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101610
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrRnp8_Ua7-rHWHD3hRO4_HTnVp5iSIsezuaWQbZqE_LfWMIfyTDAXpv-Gv08iwx2BI-rESk7COq20sQPTluie9uaQtiOHQn-qclqYTPXO8kX9ilv0hy8wz4s3IsuE9VFfyN3O98IwG9Bj/s1920/zilong-eastern-warrior-starlight-skin-mobile-legends-wallpaper-hd.jpg",
       "name": "Eastern Warrior",
       "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSSb4Uk9MZvqhf8q8JkjYwid0B_TtkZo8FqyNxWMTfPMk-qTGqy78hOEBSosMZpYPWr24h-BemGsTlDNvoIBKPkKl6AWy7YEgQeeV_wQ-Y-w8OkexoMH3JOxaFbuCb08dikCJ7z7IOSsJj/s1920/zilong-eastern-warrior-starlight-skin-mobile-legends-wallpaper-hd-mobile.jpg",
-      "skinId": 1,
+      "skinId": 1164,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Starlight%20to%20LuckyBox.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1166
           }
         ]
       },
@@ -227,32 +164,66 @@
     },
     {
       "category": 0,
-      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFglBSw4fGLeAwKpawFh0dWqfCLetVJTa0rPokUuywijpBLWaru8xSGpzn4wLwjS2Kb4yrsKCPpmMfs2pGnG1F0-SPDcu0opwqE9bjwrwcaLJpj1Pbj0nUoXY3de89SKCElcw9mu7pQEp733rwvyFGVH4MZq0iAfj_PvrXON6eZqcpSy_ey6nrGyJGJA3l/s1780/zilong-changbanpo-commander-epic-skin.png",
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Zilong_%28Blazing_Lancer%29.png/revision/latest?cb=20180525135543",
+      "name": "Blazing Lancer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Zilong_%28Blazing_Lancer%29.png/revision/latest?cb=20180525135543",
+      "skinId": 1165,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Blazing%20to%20Glorius.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1163
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Blazing%20to%20LuckyBox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1166
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Blazing%20Lancer%20to%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1169
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20Shining%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101610
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1166/landscape.webp",
       "name": "Changbanpo Commander",
-      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCAvO0hrgOX0QjuDohGtBaxxmaHaj8cHjogm2BKwccYZDSiMZlBKQxBDDDzG4sDLRZRvEFTN2i57pNL4LBgI9LvA2cE_0jEh1UbSr1gY14WX0UpywkAE4TM797kugpRg_qV_qMRzDwG03BRI_sfly-cWdCFHaBt0dpM3ElioI97zoPfxzmSatz8xauq_Xd/s1560/zilong-changbanpo-commander-epic-skin-revamp.png",
-      "skinId": 2,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1166/portrait.webp",
+      "skinId": 1166,
       "source": null,
       "timestamp": 1727112327564,
       "type": "LuckyBox"
     },
     {
       "category": 0,
-      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDLH1HCT4jd63p62DWb-iD34tskuCqXhLqRB6m3ic9zRA_kC5jiTncER4Zf0V5SGgRclP8vCPbjnGNpC4HCT1VcG5T9C0-NbFALMVJQF44gV7b_SDxrW7ZhxerqpDftDgUx3LPyzBxrPA/s1123/zilong-christmas-carnival-special-skin-mobile--legends-wallpaper-hd.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1167/landscape.webp",
       "name": "Christmas Carnival",
-      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyabUzv54gOsUNwDQYIxECpiUqp7865W8ROFhi5w20f0VVEu7V4otLURjonp8JwU5TTt1Qkq7Jaz2p5-ppD-ICbwJomZkE-thyH1bAh7NpLN03u-jdTchZ2PrBPXut38jSTzzgifdhl930/s1920/zilong-christmas-carnival-special-skin-mobile--legends-wallpaper-hd-mobile.jpg",
-      "skinId": 3,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1167/portrait.webp",
+      "skinId": 1167,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Christmas%20to%20Glorius.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1219514193
+            "targetCategory": 0,
+            "targetSkinId": 1163
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Christmas%20to%20Collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 101610
           }
         ]
       },
@@ -261,42 +232,81 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Loyal_Spear_wall.jpg/revision/latest?cb=20240303042358",
+      "name": "Loyal Spear",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Loyal_Spear_wall.jpg/revision/latest?cb=20240303042358",
+      "skinId": 1168,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Loyal%20Spear%20to%20LuckyBox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1166
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Loyal%20Spear%20to%20Summer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1169
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Loyal%20Spear%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101610
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1169/landscape.webp",
+      "name": "Summer Waves",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1169/portrait.webp",
+      "skinId": 1169,
+      "source": null,
+      "timestamp": 1753526158952,
+      "type": "Summer"
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Zilong_%28Empyrean_Paladin%29.jpg/revision/latest?cb=20220113132329",
-      "name": "Empyrean Flames",
+      "name": "Empyrean Paladin",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Zilong_%28Empyrean_Paladin%29.jpg/revision/latest?cb=20220113132329",
-      "skinId": 6,
+      "skinId": 101610,
       "source": null,
       "timestamp": 1727112660214,
       "type": "Collector"
     },
     {
       "category": 0,
-      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_l-FOecYYjV-0N54RjnLxX0brebEcgNHovaXI3mkzs1DYIJ0I6VCYb4Eyvp4bVR2JrKALuK4I216iZhlFapJpQbdSIvSUD1PVGMC5SIc-GGOHFvrpjuTs_KZRTZZLFkxGH3yikJo56lVxWlKJ3V8mkbaL6VwtZboe9485MJN8ptZGZzKp-RU37A9r6A/s2122/zilong-storm-rider-515-skin-wallpaper-hd.jpg",
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/101611/landscape.webp",
       "name": "Storm Rider",
-      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ8-94J3Q8_gaet_WW6flnDRyOhTl1ceF4s4ZrDCN9Xrd_6hSbxyGIcNCTWjvN3MH5_lCSiwovWgBpuFInU4ytiqtIc3LR4FrZrOeO7gZtNPTX7T4HsPE4FxeqlVdKQ4DffNb1Px880bZxOvHlWPQzCxQvqyeriHI-o6fgvo7KrFwxruQOK-5yFHklDw/s2166/zilong-storm-rider-m-world-skin-wallpaper-hd.jpg",
-      "skinId": 7,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/101611/portrait.webp",
+      "skinId": 101611,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20515%20to%20LuckyBox.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1166
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20515%20to%20Christmas.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20515%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1167
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20515%20to%20Summer.zip",
             "targetCategory": 0,
-            "targetSkinId": 9
+            "targetSkinId": 1169
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20515%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101610
           }
         ]
       },
@@ -308,20 +318,10 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Zilong_%28Dragon_of_Prosperity%29.jpg/revision/latest?cb=20240126073647",
       "name": "Dragon of Prosperity",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Zilong_%28Dragon_of_Prosperity%29.jpg/revision/latest?cb=20240126073647",
-      "skinId": 8,
+      "skinId": 101612,
       "source": null,
       "timestamp": 1727112916677,
       "type": "Lunarfest"
-    },
-    {
-      "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
-      "name": "Summer Waves",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/S1%20img%20Zilong%20summer%20.jpg",
-      "skinId": 9,
-      "source": null,
-      "timestamp": 1753526158952,
-      "type": "Summer"
     },
     {
       "category": 1,

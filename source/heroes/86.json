@@ -2,129 +2,28 @@
   "heroId": 86,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Lylia_%28Haunted_Doll%29.jpg/revision/latest?cb=20201010005622",
-      "name": "Haunted Doll",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Lylia_%28Haunted_Doll%29.jpg/revision/latest?cb=20201010005622",
-      "skinId": 155608433,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/lylia%20haloween%20to%20neobeast.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20HALLOWEEN%20TO%20COEVENANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Lylia_%28Future_Star%29.jpg/revision/latest?cb=20200510095637",
-      "name": "Future Star",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Lylia_%28Future_Star%29.jpg/revision/latest?cb=20200510095637",
-      "skinId": 648391579,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/lylia%20special%20to%20neobeast.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20515%20TO%20COEVENANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Lylia_%28Star_Student%29.jpg/revision/latest?cb=20200510100207",
-      "name": "Star Student",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Lylia_%28Star_Student%29.jpg/revision/latest?cb=20200510100207",
-      "skinId": 661831633,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/lylia%20elite%20to%20neobeast.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20ELITE%20TO%20COEVENANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Lylia_%28School_Idol%29.jpg/revision/latest?cb=20200510100106",
-      "name": "School Idol",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Lylia_%28School_Idol%29.jpg/revision/latest?cb=20200510100106",
-      "skinId": 794841710,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/lylia%20basic%20to%20neobeast.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lylia%20Normal%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20BASIC%20TO%20COEVEANAT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Lylia_%28Little_Witch%29.jpg/revision/latest?cb=20200510100008",
       "name": "Little Witch",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest?cb=20220525170038",
-      "skinId": 0,
+      "skinId": 1861,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/lylia%20default%20to%20neobeast.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1866
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Lylia%20Starlight.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1867
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20COEVENANT.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1869
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20LYLIA.zip",
@@ -138,10 +37,111 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Lylia_%28School_Idol%29.jpg/revision/latest?cb=20200510100106",
+      "name": "School Idol",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Lylia_%28School_Idol%29.jpg/revision/latest?cb=20200510100106",
+      "skinId": 1862,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/lylia%20basic%20to%20neobeast.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1866
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lylia%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1867
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20BASIC%20TO%20COEVEANAT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1869
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Lylia_%28Star_Student%29.jpg/revision/latest?cb=20200510100207",
+      "name": "Star Student",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Lylia_%28Star_Student%29.jpg/revision/latest?cb=20200510100207",
+      "skinId": 1863,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/lylia%20elite%20to%20neobeast.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1866
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20ELITE%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1869
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Lylia_%28Future_Star%29.jpg/revision/latest?cb=20200510095637",
+      "name": "Future Star",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Lylia_%28Future_Star%29.jpg/revision/latest?cb=20200510095637",
+      "skinId": 1864,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/lylia%20special%20to%20neobeast.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1866
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20515%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1869
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Lylia_%28Haunted_Doll%29.jpg/revision/latest?cb=20201010005622",
+      "name": "Haunted Doll",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Lylia_%28Haunted_Doll%29.jpg/revision/latest?cb=20201010005622",
+      "skinId": 1865,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/LYLIA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/lylia%20haloween%20to%20neobeast.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1866
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20HALLOWEEN%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1869
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Lylia_%28Neobeast_Lylia%29.jpg/revision/latest?cb=20230905081459",
-      "name": "NeoBeast Lylia",
+      "name": "Neobeast Lylia",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Lylia_%28Neobeast_Lylia%29.jpg/revision/latest?cb=20230905081459",
-      "skinId": 1,
+      "skinId": 1866,
       "source": null,
       "timestamp": 1727369754717,
       "type": "NeoBeast"
@@ -151,14 +151,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Lylia_%28Magitech_Arsenal%29.jpg/revision/latest?cb=20240401090255",
       "name": "Magitech Arsenal",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Lylia_%28Magitech_Arsenal%29.jpg/revision/latest?cb=20240401090255",
-      "skinId": 2,
+      "skinId": 1867,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LYLIA%20STARLIGHT%20TO%20COEVENANT.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1869
           }
         ]
       },
@@ -170,7 +170,7 @@
       "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LYLIA%20COVENANT.jpg",
       "name": "Phantasmal Revelry",
       "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20LYLIA%20COVENANT.jpg",
-      "skinId": 3,
+      "skinId": 1869,
       "source": null,
       "timestamp": 1770124369775,
       "type": "Covenant"

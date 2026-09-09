@@ -2,42 +2,23 @@
   "heroId": 76,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Faramis_%28Dark_Necro%29.jpg/revision/latest?cb=20220630095402",
-      "name": "Dark Necro",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Faramis_%28Dark_Necro%29.jpg/revision/latest?cb=20220630095402",
-      "skinId": 573604301,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FARAMIS%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Faramis%20Basic%20to%20SUMMER.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Faramis_%28Soul_Binder%29.jpg/revision/latest?cb=20220814094208",
       "name": "Soul Binder",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20240501101543",
-      "skinId": 0,
+      "skinId": 1761,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FARAMIS%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FARAMIS%20SUMMER.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1764
           },
           {
             "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FARAMIS%20MYTHIC.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1765
           }
         ]
       },
@@ -46,10 +27,29 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Faramis_%28Dark_Necro%29.jpg/revision/latest?cb=20220630095402",
+      "name": "Dark Necro",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Faramis_%28Dark_Necro%29.jpg/revision/latest?cb=20220630095402",
+      "skinId": 1762,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FARAMIS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Faramis%20Basic%20to%20SUMMER.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1764
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Faramis_%28Summer_Sparks%29.jpg/revision/latest?cb=20230913021213",
       "name": "Summer Sparks",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Faramis_%28Summer_Sparks%29.jpg/revision/latest?cb=20230913021213",
-      "skinId": 1,
+      "skinId": 1764,
       "source": null,
       "timestamp": 1727281649248,
       "type": "Summer"
@@ -59,7 +59,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Faramis_%28Infernal_Magister%29.jpg/revision/latest?cb=20240122090321",
       "name": "Infernal Magister",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Faramis_%28Infernal_Magister%29.jpg/revision/latest?cb=20240122090321",
-      "skinId": 2,
+      "skinId": 1765,
       "source": null,
       "timestamp": 1727281660927,
       "type": "Mythic"

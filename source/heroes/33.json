@@ -2,149 +2,38 @@
   "heroId": 33,
   "skins": [
     {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Cyclops_SpongeBob.png/revision/latest?cb=20251208104112",
-      "name": "SpongeBob",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Cyclops_SpongeBob.png/revision/latest?cb=20251208104112",
-      "skinId": 2055249738,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
-      "name": "Zombie Bambino",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
-      "skinId": 1056532772,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CYCLOPS%20SEASON%20TO%20SPONGEBOB.zip",
-            "targetCategory": -2,
-            "targetSkinId": 2055249738
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Season%20to%20STARWARS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Cyclops_%28Super_Adventurer%29.jpg/revision/latest?cb=20230902072945",
-      "name": "Super Adventurer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Cyclops_%28Super_Adventurer%29.jpg/revision/latest?cb=20230902072945",
-      "skinId": 1572889205,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Cyclops%20Elite%20to%20SpongeBob.zip",
-            "targetCategory": -2,
-            "targetSkinId": 2055249738
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Elite%20to%20STARWARS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Cyclops_%28Deep_Sea_Rescuer%29.jpg/revision/latest?cb=20230902073009",
-      "name": "Deep Sea Rescuer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Cyclops_%28Deep_Sea_Rescuer%29.jpg/revision/latest?cb=20230902073009",
-      "skinId": 1871527707,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CYCLOPS%20STARLIGHT%20TO%20SPONGE%20BOB.zip",
-            "targetCategory": -2,
-            "targetSkinId": 2055249738
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Starlight%20to%20STARWARS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
-      "name": "Exorcist",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
-      "skinId": 2100548984,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Cyclops%20Basic%20to%20SongeBob.zip",
-            "targetCategory": -2,
-            "targetSkinId": 2055249738
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Basic%20to%20STARWARS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Basic%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Cyclops_%28Starsoul_Magician%29.jpg/revision/latest?cb=20230902072937",
       "name": "Starsoul Magician",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20240122082946",
-      "skinId": 0,
+      "skinId": 1331,
       "source": {
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_saber.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1334
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D6%20CYCLOPS%20STARWARS%20NEW.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1337
           },
           {
             "archive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CYCLOPS%20HALLOWEEN.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1338
           },
           {
             "archive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1339
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Cyclops%20Spongebob.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 103310
           },
           {
             "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Among%20Us.zip",
@@ -158,20 +47,121 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
+      "name": "Exorcist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Cyclops_%28Exorcist%29.jpg/revision/latest?cb=20241128083526",
+      "skinId": 1332,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Basic%20to%20STARWARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1337
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1339
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Cyclops%20Basic%20to%20SongeBob.zip",
+            "targetCategory": 0,
+            "targetSkinId": 103310
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Cyclops_%28Super_Adventurer%29.jpg/revision/latest?cb=20230902072945",
+      "name": "Super Adventurer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Cyclops_%28Super_Adventurer%29.jpg/revision/latest?cb=20230902072945",
+      "skinId": 1333,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Elite%20to%20STARWARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1337
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Cyclops%20Elite%20to%20SpongeBob.zip",
+            "targetCategory": 0,
+            "targetSkinId": 103310
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Cyclops_%28S.A.B.E.R._Enforcer%29.jpg/revision/latest?cb=20230902072954",
       "name": "S.A.B.E.R. Enforcer",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png/revision/latest?cb=20220525165025",
-      "skinId": 1,
+      "skinId": 1334,
       "source": null,
       "timestamp": 1727267972735,
       "type": "S.A.B.E.R"
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Cyclops_%28Deep_Sea_Rescuer%29.jpg/revision/latest?cb=20230902073009",
+      "name": "Deep Sea Rescuer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Cyclops_%28Deep_Sea_Rescuer%29.jpg/revision/latest?cb=20230902073009",
+      "skinId": 1335,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Starlight%20to%20STARWARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1337
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CYCLOPS%20STARLIGHT%20TO%20SPONGE%20BOB.zip",
+            "targetCategory": 0,
+            "targetSkinId": 103310
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
+      "name": "Zombie Bambino",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cyclops_%28Zombie_Bambino%29.jpg/revision/latest?cb=20230902073018",
+      "skinId": 1336,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/cyclops_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cyclops%20Season%20to%20STARWARS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1337
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CYCLOPS%20SEASON%20TO%20SPONGEBOB.zip",
+            "targetCategory": 0,
+            "targetSkinId": 103310
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Cyclops_%28Master_Yoda%29.jpg/revision/latest?cb=20211214141539",
       "name": "Master Yoda",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
-      "skinId": 3,
+      "skinId": 1337,
       "source": null,
       "timestamp": 1727267983154,
       "type": "Star Wars"
@@ -181,7 +171,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Cyclops_%28Straw_Doll%29.jpg/revision/latest?cb=20230902073036",
       "name": "Straw Doll",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest?cb=20220525165032",
-      "skinId": 4,
+      "skinId": 1338,
       "source": null,
       "timestamp": 1727267989884,
       "type": "Halloween"
@@ -191,17 +181,17 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Cyclops_%28Yokai_Warlock%29.jpg/revision/latest?cb=20230321152232",
       "name": "Yokai Warlock",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
-      "skinId": 5,
+      "skinId": 1339,
       "source": null,
       "timestamp": 1727268074052,
       "type": "Collector"
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20CYCLOPS%20SPONGEBOB.jpg",
-      "name": "Sponge Bob",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20CYCLOPS%20SPONGEBOB.jpg",
-      "skinId": 6,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/103310/landscape.webp",
+      "name": "SpongeBob",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/103310/portrait.webp",
+      "skinId": 103310,
       "source": null,
       "timestamp": 1765181956679,
       "type": "Sponge Bob"

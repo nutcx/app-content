@@ -1,0 +1,34 @@
+{
+  "heroId": 131,
+  "skins": [
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Sora_%28Shifting_Cloud%29.jpg/revision/latest?cb=20251219025337",
+      "name": "Shifting Cloud",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png/revision/latest?cb=20251218014024",
+      "skinId": 2311,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Sora%20X%20Monkey%20D%20Luffy.zip",
+            "targetCategory": 1,
+            "targetSkinId": 15
+          }
+        ]
+      },
+      "timestamp": 1770123520036,
+      "type": "Backup"
+    },
+    {
+      "category": 1,
+      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20SORA%20LUFFY.jpg",
+      "name": "Monkey D'Luffy",
+      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20SORA%20LUFFY.jpg",
+      "skinId": 15,
+      "source": null,
+      "timestamp": 1772355974339,
+      "type": "Anime|One-piece"
+    }
+  ]
+}

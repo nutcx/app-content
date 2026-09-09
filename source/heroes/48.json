@@ -6,19 +6,19 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Diggie_%28Timekeeper%29.jpg/revision/latest?cb=20200815122437",
       "name": "Timekeeper",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png/revision/latest?cb=20240112141634",
-      "skinId": 0,
+      "skinId": 1481,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/DIGGIE%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/DIGGIE%20SPECIAL.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1483
           },
           {
             "archive": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/DIGGIE%20EPIC.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1485
           },
           {
             "archive": "https://github.com/azizboy2007/Weird-Skin/raw/main/Angry%20Bird.zip",
@@ -35,7 +35,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Diggie_%28Constellation%29.jpg/revision/latest?cb=20190428090444",
       "name": "Constellation",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Diggie_%28Constellation%29.jpg/revision/latest?cb=20190428090444",
-      "skinId": 1,
+      "skinId": 1483,
       "source": null,
       "timestamp": 1727279931215,
       "type": "Special"
@@ -45,7 +45,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Diggie_%28Fairytaler%29.jpg/revision/latest?cb=20220317062633",
       "name": "Fairytaler",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Diggie_%28Fairytaler%29.jpg/revision/latest?cb=20220317062633",
-      "skinId": 3,
+      "skinId": 1485,
       "source": null,
       "timestamp": 1727279989737,
       "type": "Epic"

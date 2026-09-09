@@ -2,57 +2,28 @@
   "heroId": 41,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Gatotkaca_%28Mighty_Guardian%29.jpg/revision/latest?cb=20241128083620",
-      "name": "Mighty Guardian",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Gatotkaca_%28Mighty_Guardian%29.jpg/revision/latest?cb=20241128083620",
-      "skinId": 686575846,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/GATOTKACA%20BASIC%20TO%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gatot%20Basic%20to%20EPiC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gatot%20Basic%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Gatotkaca_%28Iron_Steel%29.jpg/revision/latest?cb=20231029221857",
-      "name": "Iron Steel",
+      "name": "Mighty Legend",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest?cb=20220525165152",
-      "skinId": 0,
+      "skinId": 1411,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20BACKUP.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/GATOTKACA%20LUCKYBOX.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1414
           },
           {
             "archive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20EPIC1.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1417
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gatotkaca%20Starlight.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1418
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20GATOTKACA%20X%20HULK.zip",
@@ -71,10 +42,39 @@
     },
     {
       "category": 0,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20GATOT%20LUCKYBOX%20NEW.jpg",
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Gatotkaca_%28Mighty_Guardian%29.jpg/revision/latest?cb=20241128083620",
+      "name": "Mighty Guardian",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Gatotkaca_%28Mighty_Guardian%29.jpg/revision/latest?cb=20241128083620",
+      "skinId": 1412,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/GATOTKACA%20BASIC%20TO%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1414
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gatot%20Basic%20to%20EPiC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1417
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gatot%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1418
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1414/landscape.webp",
       "name": "Sentinel",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/IMG%20GATOT%20LUCKYBOX%20NEW.jpg",
-      "skinId": 1,
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1414/portrait.webp",
+      "skinId": 1414,
       "source": null,
       "timestamp": 1727282902491,
       "type": "LuckyBox"
@@ -84,7 +84,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Gatotkaca_%28Tide_Preserver%29.jpg/revision/latest?cb=20240123101059",
       "name": "Tide Preserver",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Gatotkaca_%28Tide_Preserver%29.jpg/revision/latest?cb=20240123101059",
-      "skinId": 2,
+      "skinId": 1417,
       "source": null,
       "timestamp": 1727282915179,
       "type": "Epic"
@@ -94,7 +94,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gatotkaca_%28Nutcracker_Monarch%29.jpg/revision/latest?cb=20240724133448",
       "name": "Nutcracker Monarch",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gatotkaca_%28Nutcracker_Monarch%29.jpg/revision/latest?cb=20240724133448",
-      "skinId": 3,
+      "skinId": 1418,
       "source": null,
       "timestamp": 1727282978208,
       "type": "Starlight"

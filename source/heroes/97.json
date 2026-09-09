@@ -2,107 +2,48 @@
   "heroId": 97,
   "skins": [
     {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "name": "Vessel of Pride",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "skinId": 1268944472,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Benedetta%28Honor_Blade%29.jpg/revision/latest?cb=20230926170412",
-      "name": "Honor Blade",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Benedetta%28Honor_Blade%29.jpg/revision/latest?cb=20230926170412",
-      "skinId": 1415413887,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20BASIC%20TO%20SOULV.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1268944472
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20Special.zip",
-            "targetCategory": 0,
-            "targetSkinId": 3
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20DUCATI.zip",
-            "targetCategory": 0,
-            "targetSkinId": 4
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20MPL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 5
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20BASIC%20TO%20COVENANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 6
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Benedetta%28Shadow_Ranger%29.jpg/revision/latest?cb=20230926170223",
       "name": "Shadow Ranger",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
-      "skinId": 0,
+      "skinId": 1971,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/BENEDETA%20STARLIGHT.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1973
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/BENEDETA%20Collector.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1974
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/BENEDETA%20Special.zip",
             "targetCategory": 0,
-            "targetSkinId": 3
+            "targetSkinId": 1975
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/BENEDETA%20Ducati.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1976
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/BENEDETA%20MPL.zip",
             "targetCategory": 0,
-            "targetSkinId": 5
+            "targetSkinId": 1977
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/BENEDETA%20Covenant.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1978
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETA%20SOULV.zip",
             "targetCategory": 0,
-            "targetSkinId": 7
+            "targetSkinId": 1979
           },
           {
             "archive": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Benedetta%20Shinobou.zip",
@@ -121,22 +62,71 @@
     },
     {
       "category": 0,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Benedetta%28Street_Blow%29.jpg/revision/latest?cb=20230926170445",
-      "name": "Street Blow",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb=20220525170254",
-      "skinId": 1,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Benedetta%28Honor_Blade%29.jpg/revision/latest?cb=20230926170412",
+      "name": "Honor Blade",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Benedetta%28Honor_Blade%29.jpg/revision/latest?cb=20230926170412",
+      "skinId": 1972,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20STARLIGHT%20TO%20SOULV.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1268944472
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1973
           },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1974
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20Special.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1975
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20DUCATI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1976
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Normal%20to%20MPL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1977
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20BASIC%20TO%20COVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1978
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20BASIC%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1979
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1973/landscape.webp",
+      "name": "Street Thrasher",
+      "portrait": "https://raw.githubusercontent.com/nutcx/app-content/a17f6786801eca2115e4da99cd09963c3a1a5328/media/skins/1973/portrait.webp",
+      "skinId": 1973,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
+        "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20STARLIGHT%20TO%20COVENANT.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1978
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20STARLIGHT%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1979
           }
         ]
       },
@@ -148,14 +138,14 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Benedetta%28Death_Oath%29.jpg/revision/latest?cb=20230926170422",
       "name": "Death Oath",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb=20220525170255",
-      "skinId": 2,
+      "skinId": 1974,
       "source": {
         "backupArchive": "",
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20COLLECTOR%20TO%20SOULV.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1268944472
+            "targetCategory": 0,
+            "targetSkinId": 1979
           }
         ]
       },
@@ -167,34 +157,34 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Benedetta%28Moon_Blade%29.jpg/revision/latest?cb=20230926170434",
       "name": "Moonblade",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb=20220525170256",
-      "skinId": 3,
+      "skinId": 1975,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20SPECIAL%20TO%20SOULV.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1268944472
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Special%20to%20STARLIGHT.zip",
             "targetCategory": 0,
-            "targetSkinId": 1
+            "targetSkinId": 1973
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Special%20to%20COLLECTOR.zip",
             "targetCategory": 0,
-            "targetSkinId": 2
+            "targetSkinId": 1974
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Benedetta%20Special%20to%20DUCATI.zip",
             "targetCategory": 0,
-            "targetSkinId": 4
+            "targetSkinId": 1976
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20SPECIAL%20TO%20COVENANT.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1978
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20SPECIAL%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1979
           }
         ]
       },
@@ -206,7 +196,7 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Benedetta_%28Panigale_V4S_Rider%29.png/revision/latest?cb=20230914133857",
       "name": "Panigale V4S Rider",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
-      "skinId": 4,
+      "skinId": 1976,
       "source": null,
       "timestamp": 1727227822823,
       "type": "Ducati"
@@ -216,19 +206,19 @@
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Benedetta_%28Quantum_Edge%29.jpg/revision/latest?cb=20240314065758",
       "name": "Quantum Edge",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest?cb=20240314065930",
-      "skinId": 5,
+      "skinId": 1977,
       "source": {
         "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20MPL%20TO%20SOULV.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1268944472
-          },
-          {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20MPL%20TO%20COVENANT.zip",
             "targetCategory": 0,
-            "targetSkinId": 6
+            "targetSkinId": 1978
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BENEDETTA%20MPL%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1979
           }
         ]
       },
@@ -240,7 +230,7 @@
       "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20BENE%20COVELANT.jpg",
       "name": "Phantom Mirage",
       "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20BENE%20COVELANT.jpg",
-      "skinId": 6,
+      "skinId": 1978,
       "source": null,
       "timestamp": 1741504032013,
       "type": "Covenant"
@@ -248,9 +238,9 @@
     {
       "category": 0,
       "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "name": "Death Oath",
+      "name": "Vessel of Pride",
       "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Benedetta_%28Vessel_of_Pride%29.jpg/revision/latest?cb=20251205035312",
-      "skinId": 7,
+      "skinId": 1979,
       "source": null,
       "timestamp": 1765181876759,
       "type": "Soul Vessels"
