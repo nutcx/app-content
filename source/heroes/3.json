@@ -2,35 +2,6 @@
   "heroId": 3,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Saber_%28Codename-Storm%29.png/revision/latest?cb=20260102012009",
-      "name": "Codename Storm",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Saber_%28Codename-Storm%29.png/revision/latest?cb=20260102012009",
-      "skinId": 1429198298,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Saber_%28S.A.B.E.R._Regulator%29.jpg/revision/latest?cb=20220302141803",
-      "name": "S.A.B.E.R Regulator",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Saber_%28S.A.B.E.R._Regulator%29.jpg/revision/latest?cb=20220302141803",
-      "skinId": 2053489107,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Saber%20Saber%20to%20LEGEND.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1429198298
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1031/landscape.webp",
       "name": "Wandering Sword",
@@ -75,8 +46,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20BASIC%20TO%20VALENTINE.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1429198298
+            "targetCategory": 0,
+            "targetSkinId": 1034
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Saber%20Basic%20to%20LUCKYBOX.zip",
@@ -99,8 +70,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20STARLIGHT%20FORCE%20WAR%20TO%20LEGEND.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1429198298
+            "targetCategory": 0,
+            "targetSkinId": 1034
           }
         ]
       },
@@ -128,8 +99,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20ELITE%20TO%20LEGEND.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1429198298
+            "targetCategory": 0,
+            "targetSkinId": 1034
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Saber%20Elite%20to%20STARLIGHT.zip",
@@ -147,7 +118,16 @@
       "name": "S.A.B.E.R. Regulator",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1036/portrait.webp",
       "skinId": 1036,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Saber%20Saber%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1034
+          }
+        ]
+      },
       "timestamp": 1727376294310,
       "type": "S.A.B.E.R"
     },
@@ -172,8 +152,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20SILVER%20EDGE%20TO%20LEGEND.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1429198298
+            "targetCategory": 0,
+            "targetSkinId": 1034
           }
         ]
       },
@@ -191,8 +171,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20STARLIGHT%20IRON%20TO%20LEGEND.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1429198298
+            "targetCategory": 0,
+            "targetSkinId": 1034
           }
         ]
       },

@@ -2,79 +2,6 @@
   "heroId": 91,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Cecilion_%28Vessel_of_Gluttony%29.png/revision/latest?cb=20260106025831",
-      "name": "Vessels of Gluttony",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Cecilion_%28Vessel_of_Gluttony%29.png/revision/latest?cb=20260106025831",
-      "skinId": 910205779,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Phantom_Countess_%26_Phantom_Count_wall.jpg/revision/latest?cb=20210214041829",
-      "name": "Phantom Countless",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Phantom_Countess_%26_Phantom_Count_wall.jpg/revision/latest?cb=20210214041829",
-      "skinId": 1315212573,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20VALENTINE%20TO%20SOULV.zip",
-            "targetCategory": -1,
-            "targetSkinId": 910205779
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Cecillion%20Valentine%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1915
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Valentine%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1916
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Valentine%20to%20HXH(New).zip",
-            "targetCategory": 0,
-            "targetSkinId": 1917
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
-      "name": "Magician Girl",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
-      "skinId": 1604447714,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20ELITE%20TO%20SOULV.zip",
-            "targetCategory": -1,
-            "targetSkinId": 910205779
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1916
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20HXH(Updated).zip",
-            "targetCategory": 0,
-            "targetSkinId": 1917
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1911/landscape.webp",
       "name": "Embrace of Night",
@@ -128,11 +55,6 @@
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20BASIC%20TO%20SOULV.zip",
-            "targetCategory": -1,
-            "targetSkinId": 910205779
-          },
-          {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Cecillion%20Basic%20to%20Starlight.zip",
             "targetCategory": 0,
             "targetSkinId": 1915
@@ -148,9 +70,77 @@
             "targetSkinId": 1917
           },
           {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20BASIC%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1918
+          },
+          {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20BASIC%20TO%20SUGURU%20JJK.zip",
             "targetCategory": 1,
             "targetSkinId": 16
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
+      "name": "The Illusionist",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Magician_Girl%2C_%26_The_Illusionist_wall.jpg/revision/latest?cb=20200824132101",
+      "skinId": 1913,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1916
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Elite%20to%20HXH(Updated).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1917
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20ELITE%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1918
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Phantom_Countess_%26_Phantom_Count_wall.jpg/revision/latest?cb=20210214041829",
+      "name": "Phantom Count",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Phantom_Countess_%26_Phantom_Count_wall.jpg/revision/latest?cb=20210214041829",
+      "skinId": 1914,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Cecillion%20Valentine%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1915
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Valentine%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1916
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Valentine%20to%20HXH(New).zip",
+            "targetCategory": 0,
+            "targetSkinId": 1917
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20VALENTINE%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1918
           }
         ]
       },
@@ -167,14 +157,14 @@
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20STARLIGHT%20TO%20SOUL%20VESSELS.zip",
-            "targetCategory": -1,
-            "targetSkinId": 910205779
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Cecillion%20Startlight%20COLL.zip",
             "targetCategory": 0,
             "targetSkinId": 1916
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CECILLION%20STARLIGHT%20TO%20SOUL%20VESSELS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1918
           }
         ]
       },

@@ -2,64 +2,6 @@
   "heroId": 28,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Alpha_%28Fierce_Dragon%29.jpg/revision/latest?cb=20210519161243",
-      "name": "Fierce of Dragon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Alpha_%28Fierce_Dragon%29.jpg/revision/latest?cb=20210519161243",
-      "skinId": 494269734,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20COLL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1074891229
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1282
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20ABYSS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1286
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1287
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Basic%20to%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1289
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
-      "name": "Mecha King Perseus",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Alpha_%28Mecha-King_Perseus%29.jpg/revision/latest?cb=20240503043732",
-      "skinId": 1074891229,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Collector%20to%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1289
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1281/landscape.webp",
       "name": "Blade of Enmity",
@@ -134,6 +76,45 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Alpha_%28Fierce_Dragon%29.jpg/revision/latest?cb=20210519161243",
+      "name": "Fierce Dragon",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Alpha_%28Fierce_Dragon%29.jpg/revision/latest?cb=20210519161243",
+      "skinId": 1283,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1282
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1286
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1287
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1288
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Basic%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1289
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1284/landscape.webp",
       "name": "Sea Gladiator",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1284/portrait.webp",
@@ -142,14 +123,14 @@
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Season%20to%20COLL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1074891229
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Season%20to%20ABYSS.zip",
             "targetCategory": 0,
             "targetSkinId": 1286
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Season%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1288
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Season%20to%20Legend.zip",
@@ -171,14 +152,14 @@
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALPHA%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Special%20to%20COLL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1074891229
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Special%20to%20ABYSS.zip",
             "targetCategory": 0,
             "targetSkinId": 1286
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Special%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1288
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Special%20to%20LEGEND.zip",
@@ -234,7 +215,16 @@
       "name": "Mecha-King Perseus",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1288/portrait.webp",
       "skinId": 1288,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Alpha%20Collector%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1289
+          }
+        ]
+      },
       "timestamp": 1727157895311,
       "type": "Collector"
     },

@@ -2,45 +2,6 @@
   "heroId": 73,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harith_%28EVOS_Legends%29.jpg/revision/latest?cb=20240326070241",
-      "name": "EVOS Legend",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Harith_%28EVOS_Legends%29.jpg/revision/latest?cb=20240326070241",
-      "skinId": 1508623505,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Harith_%28Lightborn_-_Inspirer%29.jpg/revision/latest?cb=20240326070226",
-      "name": "Lightborn Inspirer",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Harith_%28Lightborn_-_Inspirer%29.jpg/revision/latest?cb=20240326070226",
-      "skinId": 1616013426,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Lightborn%20to%20Champion.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1508623505
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Lightborn%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1737
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Lighborn%20to%20HXH.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1739
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1731/landscape.webp",
       "name": "Time Traveler",
@@ -95,8 +56,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Champion.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1508623505
+            "targetCategory": 0,
+            "targetSkinId": 1736
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Basic%20to%20Collector.zip",
@@ -124,8 +85,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Elite%20to%20Champion.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1508623505
+            "targetCategory": 0,
+            "targetSkinId": 1736
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Elite%20to%20Collector.zip",
@@ -153,8 +114,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20515%20to%20Champion.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1508623505
+            "targetCategory": 0,
+            "targetSkinId": 1736
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20515%20to%20Collector.zip",
@@ -177,7 +138,26 @@
       "name": "Lightborn - Inspirer",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1735/portrait.webp",
       "skinId": 1735,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/harith_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Lightborn%20to%20Champion.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1736
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Harith%20Lightborn%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1737
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Harith%20Lighborn%20to%20HXH.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1739
+          }
+        ]
+      },
       "timestamp": 1727285558378,
       "type": "Lightborn"
     },

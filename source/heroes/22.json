@@ -2,30 +2,6 @@
   "heroId": 22,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
-      "name": "S.A.B.E.R Manhunter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
-      "skinId": 391909928,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20luckybox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1225
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20legend.zip",
-            "targetCategory": 0,
-            "targetSkinId": 102210
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1221/landscape.webp",
       "name": "Valkyrie",
@@ -234,6 +210,30 @@
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20epic%20to%20legend.zip",
+            "targetCategory": 0,
+            "targetSkinId": 102210
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
+      "name": "S.A.B.E.R. Manhunter",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Freya_%28S.A.B.E.R._Manhunter%29.jpg/revision/latest?cb=20231029212129",
+      "skinId": 1229,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1225
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20legend.zip",
             "targetCategory": 0,
             "targetSkinId": 102210
           }

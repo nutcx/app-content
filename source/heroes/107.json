@@ -2,16 +2,6 @@
   "heroId": 107,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20NATAN%20COVENANT.png",
-      "name": "Saguine Steward",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20NATAN%20COVENANT.png",
-      "skinId": 615277449,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2071/landscape.webp",
       "name": "Spacetime Walker",
@@ -65,11 +55,6 @@
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/nathan_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20NORMAL%20TO%20COEVENANT.zip",
-            "targetCategory": -1,
-            "targetSkinId": 615277449
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natan%20Basic%20to%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 2074
@@ -83,6 +68,11 @@
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Natan%20Basic%20to%20MSC.zip",
             "targetCategory": 0,
             "targetSkinId": 2077
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20NORMAL%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2078
           }
         ]
       },
@@ -99,11 +89,6 @@
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/nathan_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20ELITE%20TO%20COEVENANT.zip",
-            "targetCategory": -1,
-            "targetSkinId": 615277449
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natan%20Elite%20to%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 2074
@@ -117,6 +102,11 @@
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Natan%20Elite%20to%20MSC.zip",
             "targetCategory": 0,
             "targetSkinId": 2077
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20ELITE%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2078
           }
         ]
       },
@@ -134,8 +124,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20STARLIGHT%20TO%20COEVENANT.zip",
-            "targetCategory": -1,
-            "targetSkinId": 615277449
+            "targetCategory": 0,
+            "targetSkinId": 2078
           }
         ]
       },
@@ -162,11 +152,6 @@
         "backupArchive": "https://github.com/Mexi23/Mm/raw/main/nathan_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20SPECIAL%20TO%20COEVENANT.zip",
-            "targetCategory": -1,
-            "targetSkinId": 615277449
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natan%20Special%20to%20COLLECTOR.zip",
             "targetCategory": 0,
             "targetSkinId": 2075
@@ -175,6 +160,11 @@
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Natan%20Special%20to%20MSC.zip",
             "targetCategory": 0,
             "targetSkinId": 2077
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/NATAN%20SPECIAL%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2078
           }
         ]
       },

@@ -2,35 +2,6 @@
   "heroId": 82,
   "skins": [
     {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
-      "name": "Soul Tyrant",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Terizla_%28Soulblight_Tyrant%29.jpg/revision/latest?cb=20241208031725",
-      "skinId": 589119329,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Terizla_%28Flames_of_Judgement%29.jpg/revision/latest?cb=20240417022241",
-      "name": "Flames of Judgement",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Terizla_%28Flames_of_Judgement%29.jpg/revision/latest?cb=20240417022241",
-      "skinId": 801542680,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20EPIC%20TO%20COLLECTOR.zip",
-            "targetCategory": -2,
-            "targetSkinId": 589119329
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1821/landscape.webp",
       "name": "Executioner",
@@ -70,8 +41,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Teriz%20Basic%20to%20EPIC.zip",
-            "targetCategory": -1,
-            "targetSkinId": 801542680
+            "targetCategory": 0,
+            "targetSkinId": 1826
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20BASIC%20TO%20COLLECTOR.zip",
@@ -94,8 +65,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20ELITE%20TO%20COLLECTOR.zip",
-            "targetCategory": -2,
-            "targetSkinId": 589119329
+            "targetCategory": 0,
+            "targetSkinId": 1827
           }
         ]
       },
@@ -113,8 +84,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20SPECIAL%20TO%20COLLECTOR.zip",
-            "targetCategory": -2,
-            "targetSkinId": 589119329
+            "targetCategory": 0,
+            "targetSkinId": 1827
           }
         ]
       },
@@ -132,8 +103,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Teriz%20Season%20to%20EPIC.zip",
-            "targetCategory": -1,
-            "targetSkinId": 801542680
+            "targetCategory": 0,
+            "targetSkinId": 1826
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20SEASON%20TO%20COLLECTOR.zip",
@@ -151,7 +122,16 @@
       "name": "Flames of Judgment",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1826/portrait.webp",
       "skinId": 1826,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/V43Ztools/raw/main/Terizla%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/TERIZLA%20EPIC%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1827
+          }
+        ]
+      },
       "timestamp": 1727377041203,
       "type": "Epic"
     },

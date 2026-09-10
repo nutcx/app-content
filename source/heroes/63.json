@@ -2,60 +2,6 @@
   "heroId": 63,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Selena_%28S.T.U.N._Selena%29.jpg/revision/latest?cb=20211214074924",
-      "name": "S.T.U.N Selena",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Selena_%28S.T.U.N._Selena%29.jpg/revision/latest?cb=20211214074924",
-      "skinId": 977426057,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Selena_%28Gemini_-_Shadow%29.jpg/revision/latest?cb=20211010064501",
-      "name": "Gemini Shadow",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Selena_%28Gemini_-_Shadow%29.jpg/revision/latest?cb=20211010064501",
-      "skinId": 994371014,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20STUN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 977426057
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20Luckybox.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1261637709
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20Abyss.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1639
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20Zenith.zip",
-            "targetCategory": 0,
-            "targetSkinId": 106311
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Selena_%28Thunder_Flash%29.jpg/revision/latest?cb=20200427044121",
-      "name": "Thunderflash",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Selena_%28Thunder_Flash%29.jpg/revision/latest?cb=20200427044121",
-      "skinId": 1261637709,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1631/landscape.webp",
       "name": "Abyssal Witch",
@@ -119,24 +65,24 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Selena%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20STUN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 977426057
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Zodiac.zip",
-            "targetCategory": -1,
-            "targetSkinId": 994371014
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Luckybox.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1261637709
-          },
-          {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Virus.zip",
             "targetCategory": 0,
             "targetSkinId": 1633
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1634
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1636
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1638
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Basic%20to%20Abyss.zip",
@@ -168,19 +114,19 @@
         "backupArchive": "",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20STUN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 977426057
-          },
-          {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20Zodiac.zip",
-            "targetCategory": -1,
-            "targetSkinId": 994371014
+            "targetCategory": 0,
+            "targetSkinId": 1634
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20Luckybox.zip",
             "targetCategory": 0,
             "targetSkinId": 1636
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1638
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Virus%20to%20Abyss.zip",
@@ -203,7 +149,31 @@
       "name": "Gemini - Shadow",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1634/portrait.webp",
       "skinId": 1634,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1636
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1638
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20Abyss.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1639
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Zodiac%20to%20Zenith.zip",
+            "targetCategory": 0,
+            "targetSkinId": 106311
+          }
+        ]
+      },
       "timestamp": 1727376493044,
       "type": "Zodiac"
     },
@@ -217,24 +187,24 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Selena%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20STUN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 977426057
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20Zodiac.zip",
-            "targetCategory": -1,
-            "targetSkinId": 994371014
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20Luckybox.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1261637709
-          },
-          {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/virus/main/Selena%20Starlight%20to%20Virus.zip",
             "targetCategory": 0,
             "targetSkinId": 1633
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1634
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1636
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1638
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Starlight%20to%20Abyss.zip",
@@ -271,24 +241,24 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Selena%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Selena%20Elite%20to%20STUN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 977426057
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20Zodiac.zip",
-            "targetCategory": -1,
-            "targetSkinId": 994371014
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20Luckybox.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1261637709
-          },
-          {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20Virus.zip",
             "targetCategory": 0,
             "targetSkinId": 1633
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20Zodiac.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1634
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1636
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Selena%20Elite%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1638
           },
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Elite%20to%20STUN.zip",
@@ -326,8 +296,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Selena%20Abyss%20to%20STUN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 977426057
+            "targetCategory": 0,
+            "targetSkinId": 1638
           }
         ]
       },

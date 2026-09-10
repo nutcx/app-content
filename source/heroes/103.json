@@ -2,35 +2,6 @@
   "heroId": 103,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BGV2vW1xKFB102qmuzH7of06h-O2-jxiMZ6h-eJe74LihMzZChC7qi9UeSAK7qpwdGNiLQJowVpvAXKTLx-0cm1kkhZqTqu9zCp5BZAJlLRaZTKNIVNIJ8TpDO3XDYq9XqxJSCFXRsyjtLAaTWQFPCzDfN49U0CQkVGPPy-ps90xnoXh31czNb7_HQ/s1920/paquito-fist-of-light-special-skin-wallpaper-hd.jpg",
-      "name": "Fist of Light",
-      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BGV2vW1xKFB102qmuzH7of06h-O2-jxiMZ6h-eJe74LihMzZChC7qi9UeSAK7qpwdGNiLQJowVpvAXKTLx-0cm1kkhZqTqu9zCp5BZAJlLRaZTKNIVNIJ8TpDO3XDYq9XqxJSCFXRsyjtLAaTWQFPCzDfN49U0CQkVGPPy-ps90xnoXh31czNb7_HQ/s1920/paquito-fist-of-light-special-skin-wallpaper-hd.jpg",
-      "skinId": 580672650,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/Updater/raw/main/Paquito%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Fist%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2037
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Fist%20to%20KOF.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2038
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/PAQUITO%20SPECIAL%20FIST%20TO%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 110310
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2031/landscape.webp",
       "name": "The Heavenly Fist",
@@ -210,6 +181,35 @@
       },
       "timestamp": 1727372827938,
       "type": "Starlight"
+    },
+    {
+      "category": 0,
+      "landscape": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BGV2vW1xKFB102qmuzH7of06h-O2-jxiMZ6h-eJe74LihMzZChC7qi9UeSAK7qpwdGNiLQJowVpvAXKTLx-0cm1kkhZqTqu9zCp5BZAJlLRaZTKNIVNIJ8TpDO3XDYq9XqxJSCFXRsyjtLAaTWQFPCzDfN49U0CQkVGPPy-ps90xnoXh31czNb7_HQ/s1920/paquito-fist-of-light-special-skin-wallpaper-hd.jpg",
+      "name": "Fists of Light",
+      "portrait": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BGV2vW1xKFB102qmuzH7of06h-O2-jxiMZ6h-eJe74LihMzZChC7qi9UeSAK7qpwdGNiLQJowVpvAXKTLx-0cm1kkhZqTqu9zCp5BZAJlLRaZTKNIVNIJ8TpDO3XDYq9XqxJSCFXRsyjtLAaTWQFPCzDfN49U0CQkVGPPy-ps90xnoXh31czNb7_HQ/s1920/paquito-fist-of-light-special-skin-wallpaper-hd.jpg",
+      "skinId": 2036,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/Updater/raw/main/Paquito%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Fist%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2037
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Paquito%20Special%20Fist%20to%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2038
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/PAQUITO%20SPECIAL%20FIST%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 110310
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
     },
     {
       "category": 0,

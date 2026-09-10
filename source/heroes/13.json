@@ -2,25 +2,6 @@
   "heroId": 13,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Clint_%28Dragon%27s_Maw%29.jpg/revision/latest?cb=20241208031740",
-      "name": "Dragon Maw",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Clint_%28Dragon%27s_Maw%29.jpg/revision/latest?cb=20241208031740",
-      "skinId": 1771759467,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20MYTHIC%20TO%20SOULV.zip",
-            "targetCategory": 0,
-            "targetSkinId": 101313
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1131/landscape.webp",
       "name": "West Justice",
@@ -303,7 +284,16 @@
       "name": "Dragon's Maw",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/101312/portrait.webp",
       "skinId": 101312,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CLINT%20MYTHIC%20TO%20SOULV.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101313
+          }
+        ]
+      },
       "timestamp": 1733570865928,
       "type": "Mythic"
     },

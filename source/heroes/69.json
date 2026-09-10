@@ -2,35 +2,6 @@
   "heroId": 69,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20BSIC.jpg",
-      "name": "Pale Pantom",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20BSIC.jpg",
-      "skinId": 1750541588,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F8%20HANZO%20BASIC%20TO%20ELITE.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1693
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/HANZO%20BASIC%20TO%20SPECIAL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1694
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Basic%20to%20Collector.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1695
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1691/landscape.webp",
       "name": "Akuma Ninja",
@@ -58,6 +29,35 @@
       },
       "timestamp": 1727285392997,
       "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20BSIC.jpg",
+      "name": "The Pale Phantom",
+      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20HNZO%20BSIC.jpg",
+      "skinId": 1692,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F8%20HANZO%20BASIC%20TO%20ELITE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1693
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/HANZO%20BASIC%20TO%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1694
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Basic%20to%20Collector.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1695
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
     },
     {
       "category": 0,

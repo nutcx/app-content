@@ -2,65 +2,6 @@
   "heroId": 56,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
-      "name": "Naruto Shippuden",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUSION%20NARUTO.jpg",
-      "skinId": 782182978,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
-      "name": "Dangerous Liason",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
-      "skinId": 934979647,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20VENOM.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1566
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%20Valentine%20to%20Kof.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1567
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1568
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20VALENTINE%20TO%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1569
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 105610
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%2011.zip",
-            "targetCategory": 0,
-            "targetSkinId": 105611
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20VALENTINE%20TO%20NARUTO.zip",
-            "targetCategory": 0,
-            "targetSkinId": 105614
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1561/landscape.webp",
       "name": "Holy Blade",
@@ -154,11 +95,6 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20BASIC%20TO%20NARUTO.zip",
-            "targetCategory": -1,
-            "targetSkinId": 782182978
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%20VENOM.zip",
             "targetCategory": 0,
             "targetSkinId": 1566
@@ -192,6 +128,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%20Starlight.zip",
             "targetCategory": 0,
             "targetSkinId": 105613
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20BASIC%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105614
           }
         ]
       },
@@ -297,7 +238,46 @@
       "name": "Dangerous Liaison",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1565/portrait.webp",
       "skinId": 1565,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1566
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/Gusion%20Valentine%20to%20Kof.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1567
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1568
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20VALENTINE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1569
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105610
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105611
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20VALENTINE%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105614
+          }
+        ]
+      },
       "timestamp": 1727284703686,
       "type": "Valentine"
     },

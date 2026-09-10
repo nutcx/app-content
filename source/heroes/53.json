@@ -2,104 +2,6 @@
   "heroId": 53,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
-      "name": "Dangerous Liason",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Gusion_%28Dangerous_Liaison%29.jpg/revision/latest?cb=20211011033048",
-      "skinId": 787264848,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Valentine%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1535
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Valentine%20to%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1537
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Valentine%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1539
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Lesley%20Valentine%20to%20ASPIRANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 105311
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Valentine%20Covenant.zip",
-            "targetCategory": 0,
-            "targetSkinId": 105313
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Lesley%20Fatcat.jpg",
-      "name": "Fatcat Lesley",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Lesley%20Fatcat.jpg",
-      "skinId": 1936730526,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
-      "name": "Royal Muskeeter",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
-      "skinId": 2101011816,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Lesley%20Basic%20to%20Meowskin.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1936730526
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1535
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1537
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1539
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20ANNUAL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 105310
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Lesley%20Basic%20to%20ASPIRANT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 105311
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Basic%20to%20Covenant.zip",
-            "targetCategory": 0,
-            "targetSkinId": 105313
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1531/landscape.webp",
       "name": "Deadly Sniper",
@@ -162,6 +64,55 @@
       },
       "timestamp": 1727368265149,
       "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
+      "name": "Royal Musketeer",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Lesley_%28Royal_Musketeer%29.png/revision/latest?cb=20241229091356",
+      "skinId": 1532,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1535
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1537
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1539
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Normal%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105310
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Lesley%20Basic%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105311
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/K1%20Lesley%20Basic%20to%20Meowskin.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105312
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Basic%20to%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105313
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
     },
     {
       "category": 0,
@@ -257,7 +208,36 @@
       "name": "Dangerous Love",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1536/portrait.webp",
       "skinId": 1536,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/Mm/raw/main/lesley_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Valentine%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1535
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Valentine%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1537
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lesley%20Valentine%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1539
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/Lesley%20Valentine%20to%20ASPIRANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105311
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20Lesley%20Valentine%20Covenant.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105313
+          }
+        ]
+      },
       "timestamp": 1727368292576,
       "type": "Valentine"
     },

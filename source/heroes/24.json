@@ -2,16 +2,6 @@
   "heroId": 24,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Natalia_%28Warrioress_Paragon%29.jpg/revision/latest?cb=20240725093511",
-      "name": "Warriorness Paragon",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Natalia_%28Warrioress_Paragon%29.jpg/revision/latest?cb=20240725093511",
-      "skinId": 1833609008,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1241/landscape.webp",
       "name": "Bright Claw",
@@ -60,14 +50,14 @@
         "backupArchive": "https://github.com/azizboy2007/All-Skins/raw/main/Natalia%20-%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Basic%20to%20COLL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1833609008
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Basic%20to%20CREATE.zip",
             "targetCategory": 0,
             "targetSkinId": 1247
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Natalia%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1248
           }
         ]
       },

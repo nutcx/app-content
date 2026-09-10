@@ -2,25 +2,6 @@
   "heroId": 64,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/King_of_Supremacy_wall.png/revision/latest?cb=20191011121313",
-      "name": "King of Supermacy",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/King_of_Supremacy_wall.png/revision/latest?cb=20191011121313",
-      "skinId": 1857316120,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20M1%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1647
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1641/landscape.webp",
       "name": "Soul Contractor",
@@ -187,7 +168,16 @@
       "name": "King of Supremacy",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1645/portrait.webp",
       "skinId": 1645,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALDOUS%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aldous%20M1%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1647
+          }
+        ]
+      },
       "timestamp": 1727115597664,
       "type": "M1"
     },

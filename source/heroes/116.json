@@ -2,35 +2,6 @@
   "heroId": 116,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Julian%20Fatcat.jpg",
-      "name": "Fatcat Julian",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/M1%20Julian%20Fatcat.jpg",
-      "skinId": 238921078,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Julian_%28Meowkin_Tracker%29.jpg/revision/latest?cb=20250601063939",
-      "name": "Meowskin Tracker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Julian_%28Meowkin_Tracker%29.jpg/revision/latest?cb=20250601063939",
-      "skinId": 358113266,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/JULIAN%20MEOWSKN%20TO%20NARUTO.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2169
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2161/landscape.webp",
       "name": "Scarlet Raven",
@@ -79,14 +50,14 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/D7%20JULIAN%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Julian%20Basic%20to%20Fatcat.zip",
-            "targetCategory": -1,
-            "targetSkinId": 238921078
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Julian%20Basic%20to%20JJK.zip",
             "targetCategory": 0,
             "targetSkinId": 2163
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Julian%20Basic%20to%20Fatcat.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2166
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F8%20Julian%20Normal%20to%20JJK.zip",
@@ -138,7 +109,16 @@
       "name": "Meowkin Tracker",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2166/portrait.webp",
       "skinId": 2166,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/JULIAN%20MEOWSKN%20TO%20NARUTO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2169
+          }
+        ]
+      },
       "timestamp": 1750500636410,
       "type": "Mystic Meow"
     },

@@ -2,30 +2,6 @@
   "heroId": 52,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Pharsa_%28Peafowl%27s_Dance%29.jpg/revision/latest?cb=20180913134828",
-      "name": "Peafowl Dance",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Pharsa_%28Peafowl%27s_Dance%29.jpg/revision/latest?cb=20180913134828",
-      "skinId": 327104527,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Pharsa%20Elite%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1526
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20ELITE%20TO%20NEOBEAST.zip",
-            "targetCategory": 0,
-            "targetSkinId": 105211
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1521/landscape.webp",
       "name": "Wings of Vengeance",
@@ -90,6 +66,30 @@
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20BASIC%20TO%20NEOBEAST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 105211
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Pharsa_%28Peafowl%27s_Dance%29.jpg/revision/latest?cb=20180913134828",
+      "name": "Peafowl's Dance",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Pharsa_%28Peafowl%27s_Dance%29.jpg/revision/latest?cb=20180913134828",
+      "skinId": 1523,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Pharsa%20Elite%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1526
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20ELITE%20TO%20NEOBEAST.zip",
             "targetCategory": 0,
             "targetSkinId": 105211
           }

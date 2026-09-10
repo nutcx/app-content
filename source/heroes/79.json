@@ -2,35 +2,6 @@
   "heroId": 79,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Granger_%28Starfall_Knight%29.jpg/revision/latest?cb=20211010075548",
-      "name": "Starfall Night",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Granger_%28Starfall_Knight%29.jpg/revision/latest?cb=20211010075548",
-      "skinId": 220098526,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Granger_%28Lightborn_-_Overrider%29.jpg/revision/latest?cb=20211010075446",
-      "name": "Lightborn - Override",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Granger_%28Lightborn_-_Overrider%29.jpg/revision/latest?cb=20211010075446",
-      "skinId": 926586284,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20LIGHTBORN%20TO%20PRIME.zip",
-            "targetCategory": 0,
-            "targetSkinId": 107913
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1791/landscape.webp",
       "name": "Death Chanter",
@@ -119,19 +90,19 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/GG%20BULET%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Normal%20to%20LEGEND.zip",
-            "targetCategory": -1,
-            "targetSkinId": 220098526
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Normal%20FX%20to%20LIGHTBORN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 926586284
+            "targetCategory": 0,
+            "targetSkinId": 1795
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Normal%20to%20COLLECTOR.zip",
             "targetCategory": 0,
             "targetSkinId": 1796
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Granger%20Normal%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1797
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J17%20GRANGER%20BASIC%20TO%20TRANSFORMER.zip",
@@ -237,7 +208,16 @@
       "name": "Lightborn - Overrider",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1795/portrait.webp",
       "skinId": 1795,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GRANGER%20LIGHTBORN%20TO%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 107913
+          }
+        ]
+      },
       "timestamp": 1727283619400,
       "type": "Lightborn"
     },

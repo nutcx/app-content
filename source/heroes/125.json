@@ -2,16 +2,6 @@
   "heroId": 125,
   "skins": [
     {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Zhuxin_P.ACE_Zhuxin.png/revision/latest?cb=20251208014921",
-      "name": "P.A.C.E Zhuxin",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Zhuxin_P.ACE_Zhuxin.png/revision/latest?cb=20251208014921",
-      "skinId": 1105567477,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2251/landscape.webp",
       "name": "Beacon of Spirits",
@@ -46,8 +36,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ZHUXIN%20BASIC%20TO%20PACE.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1105567477
+            "targetCategory": 0,
+            "targetSkinId": 2255
           }
         ]
       },
@@ -65,8 +55,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ZHUXIN%20STARLIGHT%20TO%20PACE.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1105567477
+            "targetCategory": 0,
+            "targetSkinId": 2255
           }
         ]
       },

@@ -6,7 +6,7 @@ sort object keys lexicographically, use deterministic indentation, and end with 
 line-feed byte.
 
 There is deliberately no older-schema compatibility reader. IDs are nonnegative signed
-32-bit integers, skin categories are signed 32-bit integers,
+32-bit integers, published skin categories are nonnegative signed 32-bit integers,
 timestamps are nonnegative signed 64-bit integers, and archive values are either
 empty strings or absolute HTTPS URLs whose path ends in `.zip`.
 
@@ -21,7 +21,9 @@ Each skin contains `skinId`, `category`, `name`, `type`, `portrait`, `landscape`
 numeric `timestamp`, and required `source`. `source` is either `null` or an object
 with string `backupArchive` and an `upgrades` array. An upgrade contains
 `targetSkinId`, `targetCategory`, and string `archive`; its target must exist in the
-same hero catalog.
+same hero catalog. A skin with a non-null `source` is an Upgrade Skin parent and
+must use category `0`. Negative target categories are migration-review identities
+only and cannot appear in a published bundle.
 
 This is the only skin representation. There are no parallel `skinSources`, flattened
 upgrade tables, or legacy skin payloads. An empty archive marks an unavailable file;

@@ -2,30 +2,6 @@
   "heroId": 72,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
-      "name": "Lord Wraith",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
-      "skinId": 1093503685,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20BASIC%20TO%20KUNGFU.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1725
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20THAMUZ%20BASIC%20TO%20NEXUS%20SEA.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1727
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1721/landscape.webp",
       "name": "Lord Lava",
@@ -58,6 +34,30 @@
       },
       "timestamp": 1727377188168,
       "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
+      "name": "Lord of Wraith",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Thamuz_%28Lord_of_Wraith%29.jpg/revision/latest?cb=20181009235829",
+      "skinId": 1722,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/BACKUP%20THAMUZ.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20BASIC%20TO%20KUNGFU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1725
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20THAMUZ%20BASIC%20TO%20NEXUS%20SEA.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1727
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
     },
     {
       "category": 0,

@@ -2,50 +2,6 @@
   "heroId": 15,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
-      "name": "cove",
-      "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20EUDORA%20COVENANT.png",
-      "skinId": 438516450,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
-      "name": "Flame Red Lips",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
-      "skinId": 857120528,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/EUDORA%20BASIC%20TO%20COEVENANT.zip",
-            "targetCategory": -1,
-            "targetSkinId": 438516450
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Basic%20to%20Luckybox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1154
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1157
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20ATOMIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1158
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1151/landscape.webp",
       "name": "Lightning Weaver",
@@ -88,6 +44,40 @@
       },
       "timestamp": 1727281138240,
       "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
+      "name": "Lightning Magister",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Eudora_%28Flame_Red_Lips%29.jpg/revision/latest?cb=20200824041644",
+      "skinId": 1152,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Basic%20to%20Luckybox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1154
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1157
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20ATOMIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1158
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/EUDORA%20BASIC%20TO%20COEVENANT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101510
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
     },
     {
       "category": 0,

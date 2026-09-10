@@ -2,26 +2,6 @@
   "heroId": 105,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
-      "name": "SkyForce Maverick",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
-      "skinId": 397035955,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Beatrix_%28Stellar_Briliance%29.png/revision/latest?cb=20221228185117",
-      "name": "Stellar Briliance",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Beatrix_%28Stellar_Briliance%29.png/revision/latest?cb=20221228185117",
-      "skinId": 1719694615,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2051/landscape.webp",
       "name": "Dawnbreak Soldier",
@@ -80,16 +60,6 @@
         "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Beatrix%20FMVP%20Basic.zip",
-            "targetCategory": -1,
-            "targetSkinId": 397035955
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20PRIME.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1719694615
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 2054
@@ -98,6 +68,16 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20M4.zip",
             "targetCategory": 0,
             "targetSkinId": 2055
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2056
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Beatrix%20FMVP%20Basic.zip",
+            "targetCategory": 0,
+            "targetSkinId": 110510
           }
         ]
       },
@@ -114,11 +94,6 @@
         "backupArchive": "https://github.com/azizboy2007/Zpatcher-V8/raw/main/Beatrix%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20PRIME.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1719694615
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 2054
@@ -127,6 +102,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20M4.zip",
             "targetCategory": 0,
             "targetSkinId": 2055
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20PRIME.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2056
           }
         ]
       },
@@ -144,8 +124,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Starlight%20to%20PRIME.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1719694615
+            "targetCategory": 0,
+            "targetSkinId": 2056
           }
         ]
       },

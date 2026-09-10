@@ -2,16 +2,6 @@
   "heroId": 80,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Guinevere_%28Psion_of_Tomorrow%29.jpg/revision/latest?cb=20220408062538",
-      "name": "Psion of Tommorow",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Guinevere_%28Psion_of_Tomorrow%29.jpg/revision/latest?cb=20220408062538",
-      "skinId": 1799179753,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1801/landscape.webp",
       "name": "Ms. Violet",
@@ -154,11 +144,6 @@
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/guin_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Starlight%20to%20LEGEND.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1799179753
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Starlight%20to%20KOF.zip",
             "targetCategory": 0,
             "targetSkinId": 1803
@@ -167,6 +152,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Starlight%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 1806
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Starlight%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1809
           }
         ]
       },
@@ -236,11 +226,6 @@
         "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/guin_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Sakura%20to%20LEGEND.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1799179753
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Sakura%20to%20KOF.zip",
             "targetCategory": 0,
             "targetSkinId": 1803
@@ -249,6 +234,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Sakura%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 1806
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Guinevere%20Sakura%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1809
           }
         ]
       },

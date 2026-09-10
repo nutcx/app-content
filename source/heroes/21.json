@@ -2,55 +2,6 @@
   "heroId": 21,
   "skins": [
     {
-      "category": -2,
-      "landscape": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
-      "name": "Summer Festival",
-      "portrait": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(82).jpeg",
-      "skinId": 442100126,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20EXORCIST.zip",
-            "targetCategory": -1,
-            "targetSkinId": 44283852
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20ANNUAL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1215
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1216
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%2011.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1218
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Summer%20to%20Kakashi.zip",
-            "targetCategory": 0,
-            "targetSkinId": 102111
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
-      "name": "Exorcist",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hayabusa_%28Exorcist_Hayabusa%29.jpg/revision/latest?cb=20240520070445",
-      "skinId": 44283852,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1211/landscape.webp",
       "name": "Crimson Shadow",
@@ -120,8 +71,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20SUMMER.zip",
-            "targetCategory": -2,
-            "targetSkinId": 442100126
+            "targetCategory": 0,
+            "targetSkinId": 1214
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20ANNUAL.zip",
@@ -198,7 +149,36 @@
       "name": "Sushi Master",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1214/portrait.webp",
       "skinId": 1214,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1215
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1216
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%2011.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1218
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Summer%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 102110
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Summer%20to%20Kakashi.zip",
+            "targetCategory": 0,
+            "targetSkinId": 102111
+          }
+        ]
+      },
       "timestamp": 1727114543512,
       "type": "Summer"
     },

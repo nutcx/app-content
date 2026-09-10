@@ -2,30 +2,6 @@
   "heroId": 32,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
-      "name": "S.A.B.E.R Automata",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest?cb=20220921093901",
-      "skinId": 668597093,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Saber%20to%20Transformer.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1327
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Saber%20to%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1329
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1321/landscape.webp",
       "name": "Wild Engine",
@@ -219,7 +195,21 @@
       "name": "S.A.B.E.R. Automata",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1323/portrait.webp",
       "skinId": 1323,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Johnson%20Saber%20to%20Transformer.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1327
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Johnson%20Saber%20to%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1329
+          }
+        ]
+      },
       "timestamp": 1727362749537,
       "type": "S.A.B.E.R"
     },

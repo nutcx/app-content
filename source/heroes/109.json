@@ -2,40 +2,6 @@
   "heroId": 109,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/%28Night%27s_Edge%29.jpg/revision/latest?cb=20211031111230",
-      "name": "Night Edge",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/%28Night%27s_Edge%29.jpg/revision/latest?cb=20211031111230",
-      "skinId": 114725102,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Aamon%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Basic%20to%20STARLIGHT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2094
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Basic%20to%20VESSELS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 2095
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Aamon_%28Vessel_Of_Deceit%29.jpg/revision/latest?cb=20240725101441",
-      "name": "Vessels of Deceit",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Aamon_%28Vessel_Of_Deceit%29.jpg/revision/latest?cb=20240725101441",
-      "skinId": 345471837,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2091/landscape.webp",
       "name": "Duke of Shards",
@@ -85,7 +51,21 @@
       "name": "Night's Edge",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/2092/portrait.webp",
       "skinId": 2092,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Aamon%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Basic%20to%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2094
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Basic%20to%20VESSELS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2095
+          }
+        ]
+      },
       "timestamp": 1727157472574,
       "type": "Normal"
     },
@@ -99,14 +79,14 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Aamon%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Elite%20to%20VESSELS.zip",
-            "targetCategory": -1,
-            "targetSkinId": 345471837
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Elite%20to%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 2094
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Elite%20to%20VESSELS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 2095
           }
         ]
       },

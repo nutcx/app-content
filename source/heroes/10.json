@@ -2,16 +2,6 @@
   "heroId": 10,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Franco_Captain_of_the_Lost.png/revision/latest?cb=20260206235709",
-      "name": "Captain of Lost",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Franco_Captain_of_the_Lost.png/revision/latest?cb=20260206235709",
-      "skinId": 48054366,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1101/landscape.webp",
       "name": "Frozen Warrior",
@@ -85,11 +75,6 @@
         "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/FRANCO%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FRANCO%20BASIC%20TO%20SPECIAL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 48054366
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Special%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 1106
@@ -103,6 +88,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/AFIX%20Franco%20Special%20to%20LEGEND.zip",
             "targetCategory": 0,
             "targetSkinId": 1109
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FRANCO%20BASIC%20TO%20SPECIAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101011
           }
         ]
       },

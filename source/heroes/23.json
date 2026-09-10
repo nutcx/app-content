@@ -2,16 +2,6 @@
   "heroId": 23,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Gord_%28No.1_Controller%29.jpg/revision/latest?cb=20210521151000",
-      "name": "No 1 Controller",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Gord_%28No.1_Controller%29.jpg/revision/latest?cb=20210521151000",
-      "skinId": 650551927,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1231/landscape.webp",
       "name": "Professor of the Mystics",
@@ -60,14 +50,14 @@
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/gord_def_legend.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Normal%20to%20ANNUAL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 650551927
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/GORD%20BASIC%20TO%20LEGEND.zip",
             "targetCategory": 0,
             "targetSkinId": 1234
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Normal%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1235
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Normal%20to%20EPIC.zip",
@@ -133,14 +123,14 @@
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/gord_def_legend.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Season%20to%20ANNUAL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 650551927
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE-2025/raw/main/GORD%20SEASON%20TO%20LEGEND.zip",
             "targetCategory": 0,
             "targetSkinId": 1234
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Season%20to%20ANNUAL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1235
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gord%20Season%20to%20EPIC.zip",

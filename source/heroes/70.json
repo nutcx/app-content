@@ -2,25 +2,6 @@
   "heroId": 70,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Belerick_%28Tiger%27s_Claw%29.jpg/revision/latest?cb=20220609141235",
-      "name": "Tiger Claw",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Belerick_%28Tiger%27s_Claw%29.jpg/revision/latest?cb=20220609141235",
-      "skinId": 1915238864,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20BELERICK%20BASIC%20TO%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1706
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1701/landscape.webp",
       "name": "Guard of Nature",
@@ -58,6 +39,25 @@
       },
       "timestamp": 1727227462504,
       "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Belerick_%28Tiger%27s_Claw%29.jpg/revision/latest?cb=20220609141235",
+      "name": "Tiger's Claw",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Belerick_%28Tiger%27s_Claw%29.jpg/revision/latest?cb=20220609141235",
+      "skinId": 1702,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20BELERICK%20BASIC%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1706
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
     },
     {
       "category": 0,

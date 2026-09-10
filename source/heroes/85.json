@@ -2,30 +2,6 @@
   "heroId": 85,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Dyrroth_%28V.E.N.O.M._Cobra%29.jpg/revision/latest?cb=20220317062640",
-      "name": "V.E.N.O.M Cobra",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Dyrroth_%28V.E.N.O.M._Cobra%29.jpg/revision/latest?cb=20220317062640",
-      "skinId": 1512369630,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20VENOM%20TO%20KOF.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1853
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Venom%20to%20COLL.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1857
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1851/landscape.webp",
       "name": "Prince of the Abyss",
@@ -104,14 +80,14 @@
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20VENOM.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1512369630
-          },
-          {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20BASIC%20TO%20KOF.zip",
             "targetCategory": 0,
             "targetSkinId": 1853
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1856
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20COLL.zip",
@@ -148,14 +124,14 @@
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20VENOM.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1512369630
-          },
-          {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20STARLIGHT%20TO%20KOF.zip",
             "targetCategory": 0,
             "targetSkinId": 1853
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20VENOM.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1856
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20COLL.zip",
@@ -188,7 +164,21 @@
       "name": "V.E.N.O.M. Cobra",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1856/portrait.webp",
       "skinId": 1856,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20DYROTH%20VENOM%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1853
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Venom%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1857
+          }
+        ]
+      },
       "timestamp": 1727280261205,
       "type": "V.E.N.O.M"
     },

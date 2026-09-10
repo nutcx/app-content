@@ -2,16 +2,6 @@
   "heroId": 75,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Kadita%20Starlight.jpg",
-      "name": "Maiden of Tide",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Kadita%20Starlight.jpg",
-      "skinId": 1930898846,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1751/landscape.webp",
       "name": "Ocean Goddess",
@@ -55,11 +45,6 @@
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KADITA%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/KADITA%20BASIC%20TO%20STARLIGHT.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1930898846
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kadita%20Basic%20to%20MPL.zip",
             "targetCategory": 0,
             "targetSkinId": 1755
@@ -68,6 +53,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kadita%20Basic%20to%20CREATE.zip",
             "targetCategory": 0,
             "targetSkinId": 1756
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/KADITA%20BASIC%20TO%20STARLIGHT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1757
           }
         ]
       },
@@ -84,14 +74,14 @@
         "backupArchive": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/KADITA%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Kadita%20Special%20to%20Starlight.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1930898846
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Kadita%20Special%20to%20CREATE.zip",
             "targetCategory": 0,
             "targetSkinId": 1756
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Kadita%20Special%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1757
           }
         ]
       },

@@ -2,49 +2,6 @@
   "heroId": 6,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Tigreal_%28Lightborn_-_Defender%29.jpg/revision/latest?cb=20201128043317",
-      "name": "Lightborn Defender",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Tigreal_%28Lightborn_-_Defender%29.jpg/revision/latest?cb=20201128043317",
-      "skinId": 1252649635,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Lightborn%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 100610
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Tigreal_%28Fallen_Guard%29.jpg/revision/latest?cb=20201128044540",
-      "name": "Fallen Guardian",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Tigreal_%28Fallen_Guard%29.jpg/revision/latest?cb=20201128044540",
-      "skinId": 1833141798,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Tigreal%20Elite%20Fallen%20to%20LIGHTBORN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1252649635
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Elite%20Fallen%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 100610
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1061/landscape.webp",
       "name": "Warrior of Dawn",
@@ -94,8 +51,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Tigreal%20Elite%20Dark%20to%20LIGHTBORN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1252649635
+            "targetCategory": 0,
+            "targetSkinId": 1065
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Tigreal%20Elite%20Dark%20to%20STARLIGHT.zip",
@@ -104,6 +61,30 @@
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Elite%20Dark%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 100610
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Tigreal_%28Fallen_Guard%29.jpg/revision/latest?cb=20201128044540",
+      "name": "Fallen Guard",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Tigreal_%28Fallen_Guard%29.jpg/revision/latest?cb=20201128044540",
+      "skinId": 1063,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Tigreal%20Elite%20Fallen%20to%20LIGHTBORN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1065
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Elite%20Fallen%20to%20COLLECTOR.zip",
             "targetCategory": 0,
             "targetSkinId": 100610
           }
@@ -123,8 +104,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Tigreal%20Season%20to%20LIGHTBORN.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1252649635
+            "targetCategory": 0,
+            "targetSkinId": 1065
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Season%20to%20COLLECTOR.zip",
@@ -142,7 +123,16 @@
       "name": "Lightborn - Defender",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1065/portrait.webp",
       "skinId": 1065,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/TIGREAL%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20Tigreal%20Lightborn%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 100610
+          }
+        ]
+      },
       "timestamp": 1727377343180,
       "type": "Lightborn"
     },

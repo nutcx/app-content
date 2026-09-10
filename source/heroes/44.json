@@ -2,35 +2,6 @@
   "heroId": 44,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Grock_%28V.E.N.O.M._Monitor_Lizard%29.jpg/revision/latest?cb=20240922131504",
-      "name": "Monitor Lizard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Grock_%28V.E.N.O.M._Monitor_Lizard%29.jpg/revision/latest?cb=20240922131504",
-      "skinId": 36131984,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20VENOM%20TO%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 104410
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Grock_V.E.N.O.M._Monitor_Lizard_wall.jpg/revision/latest?cb=20190508092954",
-      "name": "V.E.N.O.M Monitor Lizard",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Grock_V.E.N.O.M._Monitor_Lizard_wall.jpg/revision/latest?cb=20190508092954",
-      "skinId": 1942350340,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1441/landscape.webp",
       "name": "Fortress Titan",
@@ -80,8 +51,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Basic%20to%20VENOM.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1942350340
+            "targetCategory": 0,
+            "targetSkinId": 1444
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Basic%20to%20EPIC.zip",
@@ -109,8 +80,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Elite%20to%20VENOM.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1942350340
+            "targetCategory": 0,
+            "targetSkinId": 1444
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Grock%20Elite%20to%20EPIC.zip",
@@ -133,7 +104,16 @@
       "name": "V.E.N.O.M. Monitor Lizard",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1444/portrait.webp",
       "skinId": 1444,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GROCK%20VENOM%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 104410
+          }
+        ]
+      },
       "timestamp": 1727283962434,
       "type": "V.E.N.O.M"
     },

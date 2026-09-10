@@ -2,93 +2,6 @@
   "heroId": 67,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Leomord_%28Jack-o%27-lantern%29.jpg/revision/latest?cb=20201102031526",
-      "name": "Jack o Lantern",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Leomord_%28Jack-o%27-lantern%29.jpg/revision/latest?cb=20201102031526",
-      "skinId": 937181127,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Halloween%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1675
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Halloween%20to%20ABYSS.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1677
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Halloween%20to%20DUCATI.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1678
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20HALLOWEEN.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1679
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20HALLOWEEN%20TO%20LUNAR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 106710
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Leomord_Twilight_Horseman.png/revision/latest?cb=20251208222905",
-      "name": "Twilight Horseman",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Leomord_Twilight_Horseman.png/revision/latest?cb=20251208222905",
-      "skinId": 1590991719,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20NEWEPIC%20TO%20LUNAR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 106710
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Leomord_%28Triumph_-_Eagle%29.jpg/revision/latest?cb=20200427095939",
-      "name": "Triumph Eagle",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Leomord_%28Triumph_-_Eagle%29.jpg/revision/latest?cb=20200427095939",
-      "skinId": 1823910944,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20MSC%20to%20DUCATI.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1678
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20MSC%20TO%20EPIC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1679
-          },
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20MSC%20TO%20LUNAR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 106710
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1671/landscape.webp",
       "name": "Sworn Sword",
@@ -207,6 +120,35 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Leomord_%28Triumph_-_Eagle%29.jpg/revision/latest?cb=20200427095939",
+      "name": "Triumph - Eagle",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Leomord_%28Triumph_-_Eagle%29.jpg/revision/latest?cb=20200427095939",
+      "skinId": 1674,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20MSC%20to%20DUCATI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1678
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20MSC%20TO%20EPIC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1679
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20MSC%20TO%20LUNAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 106710
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1675/landscape.webp",
       "name": "Inferno Soul",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1675/portrait.webp",
@@ -223,6 +165,45 @@
       },
       "timestamp": 1727368057731,
       "type": "LuckyBox"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Leomord_%28Jack-o%27-lantern%29.jpg/revision/latest?cb=20201102031526",
+      "name": "Jack-o'-lantern",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Leomord_%28Jack-o%27-lantern%29.jpg/revision/latest?cb=20201102031526",
+      "skinId": 1676,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/fighterD/raw/main/leomord_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Halloween%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1675
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Halloween%20to%20ABYSS.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1677
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Leomord%20Halloween%20to%20DUCATI.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1678
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20HALLOWEEN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1679
+          },
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20HALLOWEEN%20TO%20LUNAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 106710
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
     },
     {
       "category": 0,
@@ -250,7 +231,16 @@
       "name": "Nightmare Count",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1679/portrait.webp",
       "skinId": 1679,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/LEOMORD%20NEWEPIC%20TO%20LUNAR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 106710
+          }
+        ]
+      },
       "timestamp": 1741935275468,
       "type": "Epic"
     },

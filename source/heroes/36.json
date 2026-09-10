@@ -2,35 +2,6 @@
   "heroId": 36,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Aurora_%28Nature%27s_Throne%29.jpg/revision/latest?cb=20241128083651",
-      "name": "Nature Throne",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Aurora_%28Nature%27s_Throne%29.jpg/revision/latest?cb=20241128083651",
-      "skinId": 367804757,
-      "source": {
-        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aurora%20Basic%20to%20ZODIAC.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1365
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20AURORA%20BASIC%20TO%20KOF.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1366
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aurora%20Basic%20to%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1367
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1361/landscape.webp",
       "name": "Maiden of the Glacier",
@@ -73,6 +44,35 @@
       },
       "timestamp": 1727162669423,
       "type": "Backup"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Aurora_%28Nature%27s_Throne%29.jpg/revision/latest?cb=20241128083651",
+      "name": "Nature's Throne",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Aurora_%28Nature%27s_Throne%29.jpg/revision/latest?cb=20241128083651",
+      "skinId": 1362,
+      "source": {
+        "backupArchive": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aurora%20Basic%20to%20ZODIAC.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1365
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20AURORA%20BASIC%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1366
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aurora%20Basic%20to%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1367
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
     },
     {
       "category": 0,

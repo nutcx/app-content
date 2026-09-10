@@ -2,30 +2,6 @@
   "heroId": 1,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20250406080009",
-      "name": "Sweet Fantacy",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20250406080009",
-      "skinId": 786818285,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20VALENTINE%20TO%20COLLECTOR.zip",
-            "targetCategory": 0,
-            "targetSkinId": 100111
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Valentine%20to%20Starlight.zip",
-            "targetCategory": 0,
-            "targetSkinId": 100114
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1011/landscape.webp",
       "name": "Moonlight Archer",
@@ -256,7 +232,21 @@
       "name": "Sweet Fantasy",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1017/portrait.webp",
       "skinId": 1017,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/MIYA%20VALENTINE%20TO%20COLLECTOR.zip",
+            "targetCategory": 0,
+            "targetSkinId": 100111
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Miya%20Valentine%20to%20Starlight.zip",
+            "targetCategory": 0,
+            "targetSkinId": 100114
+          }
+        ]
+      },
       "timestamp": 1727371205554,
       "type": "Valentine"
     },

@@ -2,16 +2,6 @@
   "heroId": 96,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1750344456307.jpg",
-      "name": "Startborne Matron",
-      "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/1750344456307.jpg",
-      "skinId": 2111295875,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1961/landscape.webp",
       "name": "Yin-yang Geomancer",
@@ -65,11 +55,6 @@
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Basic%20to%20Create.zip",
-            "targetCategory": -1,
-            "targetSkinId": 2111295875
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Basic%20to%20LUNARFEST.zip",
             "targetCategory": 0,
             "targetSkinId": 1964
@@ -83,6 +68,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Basic%20to%20EPIC.zip",
             "targetCategory": 0,
             "targetSkinId": 1967
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Basic%20to%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1968
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O1%20LuoYi%20Basic%20to%20Lady%20Dragon.zip",
@@ -104,11 +94,6 @@
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Elite%20to%20Create.zip",
-            "targetCategory": -1,
-            "targetSkinId": 2111295875
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Elite%20to%20LUNARFEST.zip",
             "targetCategory": 0,
             "targetSkinId": 1964
@@ -122,6 +107,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Elite%20to%20EPIC.zip",
             "targetCategory": 0,
             "targetSkinId": 1967
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Elite%20to%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1968
           }
         ]
       },
@@ -162,11 +152,6 @@
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Starlight%20to%20Create.zip",
-            "targetCategory": -1,
-            "targetSkinId": 2111295875
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Starlight%20to%20COLL.zip",
             "targetCategory": 0,
             "targetSkinId": 1966
@@ -175,6 +160,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Starlight%20to%20EPIC.zip",
             "targetCategory": 0,
             "targetSkinId": 1967
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Starlight%20to%20Create.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1968
           }
         ]
       },
@@ -202,8 +192,8 @@
         "upgrades": [
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20LuoYi%20Epic%20to%20Create.zip",
-            "targetCategory": -1,
-            "targetSkinId": 2111295875
+            "targetCategory": 0,
+            "targetSkinId": 1968
           }
         ]
       },

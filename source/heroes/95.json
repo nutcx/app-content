@@ -2,26 +2,6 @@
   "heroId": 95,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Yu_Zhong_%28Dragon%27s_Shade%29.jpg/revision/latest?cb=20231029210009",
-      "name": "Dragon Shade",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Yu_Zhong_%28Dragon%27s_Shade%29.jpg/revision/latest?cb=20231029210009",
-      "skinId": 1646629770,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Yu_Zhong_%28Exorcist_Yu_Zhong%29.jpg/revision/latest?cb=20220915134452",
-      "name": "Exorcist Yuzhong",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Yu_Zhong_%28Exorcist_Yu_Zhong%29.jpg/revision/latest?cb=20220915134452",
-      "skinId": 1874326849,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1951/landscape.webp",
       "name": "Black Dragon",
@@ -85,16 +65,6 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YZ%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20M5.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1646629770
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20EXORCIST.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1874326849
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 1953
@@ -103,6 +73,16 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20COLLECTOR.zip",
             "targetCategory": 0,
             "targetSkinId": 1954
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1955
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20M5.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1957
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Normal%20to%20PRIME.zip",
@@ -124,14 +104,14 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/YZ%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Starlight%20to%20EXORCIST.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1874326849
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Starlight%20to%20COLLECTOR.zip",
             "targetCategory": 0,
             "targetSkinId": 1954
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Starlight%20to%20EXORCIST.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1955
           },
           {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Yuzhong%20Starlight%20to%20PRIME.zip",

@@ -36,9 +36,9 @@
   "outputCounts": {
     "heroes": 130,
     "preparations": 25,
-    "skins": 1235,
+    "skins": 1170,
     "skinsWithSources": 631,
-    "upgradeRoutes": 2096
+    "upgradeRoutes": 2093
   },
   "publishable": true,
   "retainedIdentityPolicy": "sha256-hero-category-normalized-name-v1",
@@ -46,21 +46,20 @@
   "statistics": {
     "ambiguousUpgradeSkinIdentityMappingRows": 0,
     "catalogReferences": 1399,
-    "collapsedRetainedCatalogEntries": 26,
-    "configuredReviewedImageConflictRows": 220,
+    "configuredReviewedImageConflictRows": 248,
     "configuredSkinImageOverrides": 978,
-    "configuredUpgradeDataIdentityMappingRows": 6,
-    "configuredUpgradeSkinIdentityMappingRows": 1,
+    "configuredUpgradeDataIdentityMappingRows": 102,
+    "configuredUpgradeSkinIdentityMappingRows": 59,
     "correctedBackupArchives": 1,
     "correctedMalformedSchemeArchives": 1,
     "correctedRouteArchives": 23,
     "correctedUpgradeDataBaseIds": 1,
     "correctedUpgradeDataHeroes": 19,
-    "correctedUpgradeDataNames": 184,
-    "correctedUpgradeSkinNames": 34,
-    "deduplicatedRoutes": 17,
-    "emittedRoutes": 2096,
-    "filledMissingImages": 455,
+    "correctedUpgradeDataNames": 176,
+    "correctedUpgradeSkinNames": 32,
+    "deduplicatedRoutes": 20,
+    "emittedRoutes": 2093,
+    "filledMissingImages": 515,
     "idDisambiguatedMatches": 1,
     "identityCatalogBlockedRows": 0,
     "identityCatalogCanonicalIdentityCollisionGroups": 2,
@@ -83,10 +82,11 @@
     "invalidRouteSelectionArchives": 0,
     "invalidUpgradeDataIdentityMappingRows": 0,
     "invalidUpgradeSkinIdentityMappingRows": 0,
-    "matchedUpgradeSources": 444,
-    "matchedUpgradeTargets": 1233,
-    "materializedCatalogReferences": 227,
-    "mergedRetainedNameGroups": 20,
+    "invalidUpgradeSourceCategories": 0,
+    "invalidUpgradeTargetCategories": 0,
+    "matchedUpgradeSources": 502,
+    "matchedUpgradeTargets": 1330,
+    "materializedCatalogReferences": 257,
     "mismatchedBackupArchiveSelections": 0,
     "mismatchedReviewedImageConflictRows": 0,
     "mismatchedRouteSelections": 0,
@@ -96,19 +96,13 @@
     "missingSkinImageOverrideTargets": 0,
     "normalizedGithubBlobArchives": 4,
     "omittedInvalidArchives": 101,
-    "plannedRetainedIdentities": 95,
-    "remappedRetainedSourceIds": 58,
-    "remappedRetainedTargetIds": 97,
-    "replacedUpgradeSourceIds": 444,
-    "replacedUpgradeTargetIds": 1225,
+    "replacedUpgradeSourceIds": 502,
+    "replacedUpgradeTargetIds": 1226,
     "resolvedBackupArchiveConflicts": 1,
     "resolvedRouteConflicts": 23,
-    "selectedUpgradeDataRetainedCategories": 7,
     "skinRouteCandidates": 783,
     "unguardedBackupArchiveSelections": 0,
     "unguardedRouteSelections": 0,
-    "unmatchedUpgradeSources": 58,
-    "unmatchedUpgradeTargets": 97,
     "unusedBackupArchiveSelections": 0,
     "unusedReviewedImageConflictRows": 0,
     "unusedRouteSelections": 0,
@@ -117,11 +111,11 @@
     "unusedUpgradeSkinIdentityMappingRows": 0,
     "upgradeDataRouteCandidates": 1330,
     "usedBackupArchiveSelections": 1,
-    "usedReviewedImageConflictRows": 220,
+    "usedReviewedImageConflictRows": 248,
     "usedRouteSelections": 24,
     "usedSkinImageOverrides": 978,
-    "usedUpgradeDataIdentityMappingRows": 6,
-    "usedUpgradeSkinIdentityMappingRows": 1
+    "usedUpgradeDataIdentityMappingRows": 102,
+    "usedUpgradeSkinIdentityMappingRows": 59
   },
   "warnings": [
     {
@@ -234,9 +228,9 @@
       "heroId": 1,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Sweet Fantacy",
-      "skinCategory": -1,
-      "skinId": 786818285
+      "name": "Sweet Fantasy",
+      "skinCategory": 0,
+      "skinId": 1017
     },
     {
       "archive": "l",
@@ -297,9 +291,9 @@
       "heroId": 63,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Gemini Shadow",
-      "skinCategory": -1,
-      "skinId": 994371014
+      "name": "Gemini - Shadow",
+      "skinCategory": 0,
+      "skinId": 1634
     },
     {
       "archive": "l",
@@ -414,9 +408,9 @@
       "heroId": 89,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Mworld Wanwan",
-      "skinCategory": -1,
-      "skinId": 616582050
+      "name": "M-World Wanwan",
+      "skinCategory": 0,
+      "skinId": 1897
     },
     {
       "archive": "l",
@@ -477,27 +471,27 @@
       "heroId": 28,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Mecha King Perseus",
-      "skinCategory": -1,
-      "skinId": 1074891229
+      "name": "Mecha-King Perseus",
+      "skinCategory": 0,
+      "skinId": 1288
     },
     {
       "archive": "l",
       "heroId": 7,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Lightborn Striker",
-      "skinCategory": -1,
-      "skinId": 930969832
+      "name": "Lightborn - Striker",
+      "skinCategory": 0,
+      "skinId": 1079
     },
     {
       "archive": "l",
       "heroId": 7,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Child of Fall",
-      "skinCategory": -1,
-      "skinId": 1341675579
+      "name": "Child of the Fall",
+      "skinCategory": 0,
+      "skinId": 1074
     },
     {
       "archive": "l",
@@ -567,9 +561,9 @@
       "heroId": 22,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "S.A.B.E.R Manhunter",
-      "skinCategory": -1,
-      "skinId": 391909928
+      "name": "S.A.B.E.R. Manhunter",
+      "skinCategory": 0,
+      "skinId": 1229
     },
     {
       "archive": "l",
@@ -711,9 +705,9 @@
       "heroId": 13,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Dragon Maw",
-      "skinCategory": -1,
-      "skinId": 1771759467
+      "name": "Dragon's Maw",
+      "skinCategory": 0,
+      "skinId": 101312
     },
     {
       "archive": "k",
@@ -729,9 +723,9 @@
       "heroId": 79,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Lightborn - Override",
-      "skinCategory": -1,
-      "skinId": 926586284
+      "name": "Lightborn - Overrider",
+      "skinCategory": 0,
+      "skinId": 1795
     },
     {
       "archive": "m",
@@ -927,9 +921,9 @@
       "heroId": 116,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Meowskin Tracker",
-      "skinCategory": -1,
-      "skinId": 358113266
+      "name": "Meowkin Tracker",
+      "skinCategory": 0,
+      "skinId": 2166
     },
     {
       "archive": "k",
@@ -945,18 +939,18 @@
       "heroId": 67,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Twilight Horseman",
-      "skinCategory": -1,
-      "skinId": 1590991719
+      "name": "Nightmare Count",
+      "skinCategory": 0,
+      "skinId": 1679
     },
     {
       "archive": "j",
       "heroId": 44,
       "issue": "invalidArchiveOmitted",
       "kind": "backup",
-      "name": "Monitor Lizard",
-      "skinCategory": -1,
-      "skinId": 36131984
+      "name": "V.E.N.O.M. Monitor Lizard",
+      "skinCategory": 0,
+      "skinId": 1444
     },
     {
       "archive": "k",

@@ -2,35 +2,6 @@
   "heroId": 47,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Lancelot_%28Marques_of_Blades%29.jpg/revision/latest?cb=20230927012930",
-      "name": "Marques of Blades",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Lancelot_%28Marques_of_Blades%29.jpg/revision/latest?cb=20230927012930",
-      "skinId": 1243569958,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Elite%20to%20LUCKYBOX.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1474
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Elite%20to%20Dawning%20Stars.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1478
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Elite%20to%20DRAGONT.zip",
-            "targetCategory": 0,
-            "targetSkinId": 104710
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1471/landscape.webp",
       "name": "Blade of Roses",
@@ -437,7 +408,26 @@
       "name": "Marquess of Blades",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/104711/portrait.webp",
       "skinId": 104711,
-      "source": null,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Lancelot%20Backup.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Elite%20to%20LUCKYBOX.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1474
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Lanselot%20Elite%20to%20Dawning%20Stars.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1478
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Lance%20Elite%20to%20DRAGONT.zip",
+            "targetCategory": 0,
+            "targetSkinId": 104710
+          }
+        ]
+      },
       "timestamp": 1727157195669,
       "type": "Elite"
     },

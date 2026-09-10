@@ -2,75 +2,6 @@
   "heroId": 26,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046",
-      "name": "Thunder Fist",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046",
-      "skinId": 1197823838,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
-      "name": "ECHO Choh",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Chou_%28ECHO%29.jpg/revision/latest?cb=20230819020214",
-      "skinId": 1905880483,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Chou_%28Hip-hop_Boy%29.jpg/revision/latest?cb=20230819015935",
-      "name": "Kung-Fu Boy",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Chou_%28Hip-hop_Boy%29.jpg/revision/latest?cb=20230819015935",
-      "skinId": 1983967600,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHOU%20BASIC%20TO%20KOF.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1266
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Basic%20to%20HERO.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1268
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Basic%20to%20STUN.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1269
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Basic%20to%20DRAGON%20SHIRYU.zip",
-            "targetCategory": 0,
-            "targetSkinId": 102610
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Basic%20to%20LibraShiryu.zip",
-            "targetCategory": 0,
-            "targetSkinId": 102611
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Basic%20to%20ECHO.zip",
-            "targetCategory": 0,
-            "targetSkinId": 102612
-          },
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20Chou%20Basic%20to%20Rocklee.zip",
-            "targetCategory": 1,
-            "targetSkinId": 12
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1261/landscape.webp",
       "name": "Kung Fu Boy",
@@ -206,6 +137,55 @@
     },
     {
       "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Chou_%28Hip-hop_Boy%29.jpg/revision/latest?cb=20230819015935",
+      "name": "Hip-hop Boy",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Chou_%28Hip-hop_Boy%29.jpg/revision/latest?cb=20230819015935",
+      "skinId": 1262,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHOU%20BASIC%20TO%20KOF.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1266
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Basic%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1268
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Basic%20to%20STUN.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1269
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Basic%20to%20DRAGON%20SHIRYU.zip",
+            "targetCategory": 0,
+            "targetSkinId": 102610
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Basic%20to%20LibraShiryu.zip",
+            "targetCategory": 0,
+            "targetSkinId": 102611
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Basic%20to%20ECHO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 102612
+          },
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20Chou%20Basic%20to%20Rocklee.zip",
+            "targetCategory": 1,
+            "targetSkinId": 12
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
+    },
+    {
+      "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1263/landscape.webp",
       "name": "Dragon Boy",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1263/portrait.webp",
@@ -243,14 +223,14 @@
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Elite%20to%20HERO.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1197823838
-          },
-          {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHOU%20ELITE%20TO%20KOF.zip",
             "targetCategory": 0,
             "targetSkinId": 1266
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Elite%20to%20HERO.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1268
           },
           {
             "archive": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Chou%20Elite%20to%20STUN.zip",
@@ -286,16 +266,6 @@
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
         "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Special%20to%20HERO.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1197823838
-          },
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Special%20to%20ECHO.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1905880483
-          },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHOU%20SPECIAL%20TO%20KOF.zip",
             "targetCategory": 0,
@@ -350,11 +320,6 @@
       "source": {
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip",
         "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Chou%20Starlight%20to%20HERO.zip",
-            "targetCategory": -1,
-            "targetSkinId": 1197823838
-          },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHOU%20STARLIGHT%20TO%20KOF.zip",
             "targetCategory": 0,

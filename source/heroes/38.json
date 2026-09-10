@@ -2,16 +2,6 @@
   "heroId": 38,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Vexana_%28The_Sun_Empress%29.jpg/revision/latest?cb=20230914134518",
-      "name": "Sun Empress",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Vexana_%28The_Sun_Empress%29.jpg/revision/latest?cb=20230914134518",
-      "skinId": 326780193,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1381/landscape.webp",
       "name": "Shimmer of Hope",
@@ -60,14 +50,14 @@
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vexana_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Basic%20to%20COLL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 326780193
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Basic%20to%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 1385
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Basic%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1386
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20VEXANA%20BASIC%20TO%20ZENITH.zip",
@@ -99,14 +89,14 @@
         "backupArchive": "https://github.com/Mexi23/MageD/raw/main/vexana_def_backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Season%20to%20COLL.zip",
-            "targetCategory": -1,
-            "targetSkinId": 326780193
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Season%20to%20STARLIGHT.zip",
             "targetCategory": 0,
             "targetSkinId": 1385
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Vexana%20Season%20to%20COLL.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1386
           },
           {
             "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J26%20VEXANA%20SEASON%20TO%20ZENITH.zip",

@@ -2,54 +2,6 @@
   "heroId": 7,
   "skins": [
     {
-      "category": -2,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20220214005924",
-      "name": "Sweet Fantacy",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg/revision/latest?cb=20220214005924",
-      "skinId": 1223531927,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
-      "name": "Lightborn Striker",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
-      "skinId": 930969832,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LIGHTBORN%20TO%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1077
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20250601064155",
-      "name": "Child of Fall",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest?cb=20250601064155",
-      "skinId": 1341675579,
-      "source": {
-        "backupArchive": "",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LUCKYBOX%20TO%20LEGEND.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1077
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1071/landscape.webp",
       "name": "Demon Hunter",
@@ -138,14 +90,14 @@
         "backupArchive": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Normal%20to%20VALENTINE.zip",
-            "targetCategory": -2,
-            "targetSkinId": 1223531927
-          },
-          {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Alucard%20Basic%20to%20LUCKYBOX.zip",
             "targetCategory": 0,
             "targetSkinId": 1074
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alucard%20Normal%20to%20VALENTINE.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1076
           },
           {
             "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20BASIC%20TO%20LEGEND.zip",
@@ -212,7 +164,16 @@
       "name": "Child of the Fall",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1074/portrait.webp",
       "skinId": 1074,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LUCKYBOX%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1077
+          }
+        ]
+      },
       "timestamp": 1748509700494,
       "type": "Luckybox"
     },
@@ -319,7 +280,16 @@
       "name": "Lightborn - Striker",
       "portrait": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1079/portrait.webp",
       "skinId": 1079,
-      "source": null,
+      "source": {
+        "backupArchive": "",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LIGHTBORN%20TO%20LEGEND.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1077
+          }
+        ]
+      },
       "timestamp": 1727160150314,
       "type": "Lightborn"
     },

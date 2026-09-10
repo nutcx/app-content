@@ -2,16 +2,6 @@
   "heroId": 16,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Zilong_%28Dragon_of_Prosperity%29.jpg/revision/latest?cb=20240126073647",
-      "name": "Lunar Fest",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Zilong_%28Dragon_of_Prosperity%29.jpg/revision/latest?cb=20240126073647",
-      "skinId": 494687747,
-      "source": null,
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1161/landscape.webp",
       "name": "Spear of the Dragon",
@@ -90,11 +80,6 @@
         "backupArchive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Zilong%20Backup.zip",
         "upgrades": [
           {
-            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20LunarFest.zip",
-            "targetCategory": -1,
-            "targetSkinId": 494687747
-          },
-          {
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Glorius.zip",
             "targetCategory": 0,
             "targetSkinId": 1163
@@ -113,6 +98,11 @@
             "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20Collector.zip",
             "targetCategory": 0,
             "targetSkinId": 101610
+          },
+          {
+            "archive": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Zilong%20Elite%20to%20LunarFest.zip",
+            "targetCategory": 0,
+            "targetSkinId": 101612
           }
         ]
       },

@@ -2,25 +2,6 @@
   "heroId": 50,
   "skins": [
     {
-      "category": -1,
-      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Zhask_%28Extraterrestrial%29.jpg/revision/latest?cb=20201120095623",
-      "name": "Extraterrestial",
-      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Zhask_%28Extraterrestrial%29.jpg/revision/latest?cb=20201120095623",
-      "skinId": 1352551601,
-      "source": {
-        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ZHASK%20BACKUP.zip",
-        "upgrades": [
-          {
-            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Zhask%20Special%20to%20LuckyBox.zip",
-            "targetCategory": 0,
-            "targetSkinId": 1503
-          }
-        ]
-      },
-      "timestamp": 0,
-      "type": ""
-    },
-    {
       "category": 0,
       "landscape": "https://raw.githubusercontent.com/nutcx/app-content/4f39a5a16a6c2df98eaa9d4ef54e20daf61e35e2/media/skins/1501/landscape.webp",
       "name": "The King of Swarms",
@@ -97,6 +78,25 @@
       "source": null,
       "timestamp": 1727379738552,
       "type": "Zodiac"
+    },
+    {
+      "category": 0,
+      "landscape": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Zhask_%28Extraterrestrial%29.jpg/revision/latest?cb=20201120095623",
+      "name": "Extraterrestrial",
+      "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Zhask_%28Extraterrestrial%29.jpg/revision/latest?cb=20201120095623",
+      "skinId": 1505,
+      "source": {
+        "backupArchive": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ZHASK%20BACKUP.zip",
+        "upgrades": [
+          {
+            "archive": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J8%20Zhask%20Special%20to%20LuckyBox.zip",
+            "targetCategory": 0,
+            "targetSkinId": 1503
+          }
+        ]
+      },
+      "timestamp": 0,
+      "type": ""
     },
     {
       "category": 0,
