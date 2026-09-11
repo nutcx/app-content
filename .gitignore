@@ -1,6 +1,14 @@
 # Generated local work
 .work/
 
+# Recovered/editor JSON stays private and must not return to delivery Git.
+source/
+latest.json
+latest.json.sig
+media/skins/manifest.json
+versions/*/manifest.json
+versions/*/manifest.json.sig
+
 # Release signing material must never be committed.
 .keys/
 *.pem

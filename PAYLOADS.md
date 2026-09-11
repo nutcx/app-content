@@ -40,9 +40,14 @@ defines the replacement index.
 
 Root property: `tags`. Each item contains string `name` and string `image`.
 
-## Editable-source projection
+## Admin-private source and recovery
 
-The two shared documents are validated from `source/`. Sorted
-`source/heroes/<heroId>.json` documents are concatenated as the `heroes` array without
-flattening their owned source graph. Migration reports, review records, Git metadata,
-and signing secrets are never runtime entries.
+The public repository does not expose these payloads as standalone JSON. Editable
+canonical documents live in the Admin's private storage. Sorted per-hero documents
+are projected into the `heroes` array without flattening their owned source graph;
+the two shared documents become the other runtime entries.
+
+When the private editor needs a baseline, it verifies a signed `Document.mlbytes` and
+recovers the exact three embedded JSON documents before reconstructing its canonical
+editing view. Migration reports, review records, Git metadata, and signing secrets
+are never runtime entries or public release metadata.

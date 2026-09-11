@@ -41,8 +41,9 @@ header:
 The directory starts at `headerSize`. The payload-region offset must equal
 `headerSize + directorySize`, and the signature-block offset must equal
 `payloadOffset + storedPayloadSize` when the signature flag is set. When the flag is
-unset for development fixtures, the signature offset is zero and the file ends at the
-end of the payload region. Unknown flag bits are rejected.
+unset for an unsigned pre-signing candidate or development fixture, the signature
+offset is zero and the file ends at the end of the payload region. Unknown flag bits
+are rejected.
 
 The header is followed immediately by the directory. Each variable-size directory
 record contains:
@@ -98,16 +99,17 @@ paths. Their JSON contracts are defined in [PAYLOADS.md](PAYLOADS.md).
 
 Each record size is `64 + pathLength`. Relative payload offsets must equal the sum of
 all preceding stored sizes. Header totals must equal the corresponding directory
-sums. The complete file ends exactly after the payload region for an unsigned fixture,
-or exactly after the signature block for a signed production bundle; trailing bytes
-are forbidden.
+sums. The complete file ends exactly after the payload region for an unsigned
+candidate or development/test fixture, or exactly after the signature block for a
+signed client bundle; trailing bytes are forbidden.
 
 ## Signature block
 
 Release bundles are signed but not encrypted. Production bundles must set header flag
 bit 0 and include the signature block at the declared offset. Flag-zero unsigned
-bundles are permitted only as local development and test fixtures. The signature
-block starts at the offset declared in the fixed header:
+bundles are permitted only as protected-workflow candidates or local development and
+test fixtures; clients must not activate them. The signature block starts at the
+offset declared in the fixed header:
 
 | Size | Field |
 | ---: | --- |
@@ -123,12 +125,6 @@ The signed message is the ASCII domain separator `MLBYTES-SIGNATURE-V1`, a zero 
 all file bytes before the signature block, and the signature-block bytes through the
 key ID. Clients select a pinned public key using the signed key ID. Private signing
 keys must never be committed or embedded in an app.
-
-`latest.json.sig` and `manifest.json.sig` use the same complete `MLBSIG` block. Their
-signed messages use `MLBYTES-LATEST-V1` and `MLBYTES-MANIFEST-V1`, respectively,
-followed by one zero byte, the exact raw JSON bytes, and the signature-block bytes
-through the key ID. Detached JSON is limited to 64 KiB. A detached signature file is
-not a bare 64-byte Ed25519 value.
 
 - The format version changes when the binary container or signature rules change.
 - The schema version changes when the JSON data model changes.
@@ -161,69 +157,36 @@ untouched. Fresh installs use a bundled package processed by the same reader.
 
 ## Distribution
 
-Editable source data remains in Git. A release job validates that source, creates a
-deterministic `.mlbytes` bundle, signs it, and publishes it using the case-sensitive
-filename `Document.mlbytes`:
+The public repository is an artifact handoff and distribution surface. Editable
+canonical source remains in the Admin's private storage. Every public content-bundle
+artifact uses the case-sensitive filename `Document.mlbytes`:
 
 ```text
-latest.json
-latest.json.sig
+Document.mlbytes
+candidates/
+  1001.1/
+    Document.mlbytes
 versions/
-  1001.0/
-    manifest.json
-    manifest.json.sig
+  1001.1/
     assets/
       Document.mlbytes
 ```
 
-Published version directories are append-only and immutable. Changed bytes require a
-new version: publish `1001.1` rather than overwriting `1001.0`. The version in the
-directory name, version manifest, latest pointer, and bundle header must match.
+An Admin publication adds exactly one unsigned candidate at
+`candidates/<version>/Document.mlbytes`. The protected release job revalidates its
+container header, encoded content version, minimum app version, payload hashes, and
+runtime JSON relationships before signing. Signing material is available only to that
+protected job.
 
-The root `latest.json` points to the immutable version manifest using relative paths:
-
-```json
-{
-  "pointerFormat": 1,
-  "channel": "stable",
-  "contentVersion": "1001.0",
-  "release": 1001,
-  "revision": 0,
-  "manifest": {
-    "path": "versions/1001.0/manifest.json",
-    "size": 512,
-    "sha256": "64-lowercase-hex-characters",
-    "signaturePath": "versions/1001.0/manifest.json.sig"
-  },
-  "publishedAt": "2026-09-05T00:00:00Z"
-}
-```
-
-The immutable version manifest identifies the bundle:
-
-```json
-{
-  "manifestFormat": 1,
-  "contentVersion": "1001.0",
-  "release": 1001,
-  "revision": 0,
-  "formatVersion": "1.0",
-  "schemaVersion": 3,
-  "minimumAppVersionCode": 7,
-  "asset": {
-    "path": "versions/1001.0/assets/Document.mlbytes",
-    "size": 123456,
-    "sha256": "64-lowercase-hex-characters"
-  }
-}
-```
-
-Publish `Document.mlbytes`, the version manifest, and their signatures first. Update
-`latest.json` last so clients never discover an incomplete version. Relative paths
-allow the same layout to work from GitHub Raw now and a dedicated CDN later.
+The job first writes the signed bytes to
+`versions/<version>/assets/Document.mlbytes`. Version directories are append-only and
+immutable: different bytes require a new content version. It then publishes those
+same signed bytes as the root `Document.mlbytes`, which is the client's fixed update
+URL. The signed header is the authoritative version and compatibility metadata; no
+standalone JSON metadata or detached signature participates in discovery.
 
 The client rejects a lower version than either its bundled baseline or the highest
-successfully activated version. An equal version with the same bundle SHA-256 is a
+successfully activated version. An equal signed version with the same bytes is a
 no-op; an equal version with different bytes is an immutable-version collision.
 
 The format intentionally does not encrypt public content. A decryption key shipped in

@@ -1,15 +1,24 @@
-# Editable content source
+# Admin-private editable source
 
-The `source/` directory is the validated canonical input for release generation. It
-contains one JSON document per hero plus the shared preparation and skin-tag
-documents. Its manifest records schema version 3 and the SHA-256 digest of
-every declared source file.
+Editable canonical content is private application data owned by the Admin, not a
+public repository tree. Its working model contains one document per hero, the shared
+preparation and skin-tag documents, and the validation state needed to produce schema
+3 runtime content.
 
-Release tooling validates this tree first, projects it into the three runtime documents
-defined by [PAYLOADS.md](PAYLOADS.md), then packs those documents into the immutable
-`Document.mlbytes` artifact. Clients never download or extract the editable source
-tree.
+The Admin can initialize or recover that private database from a trusted signed
+`Document.mlbytes`:
 
-`migration-report.json` and `migration-review.json` remain source audit records. They
-are validated during release preparation but are never included in the runtime
-bundle.
+1. Verify the bundle's Ed25519 signature, format, schema, version, bounds, hashes, and
+   runtime relationships.
+2. Recover the exact `heroes.json`, `preparations.json`, and `skin-tags.json` entries.
+3. Reconstruct the private canonical editing view, including deterministic per-hero
+   ownership.
+4. Validate edits and project the private view back to exactly those three runtime
+   entries.
+5. Build an unsigned `Document.mlbytes` candidate for the protected signing workflow.
+
+Of the Admin's editable outputs, only the unsigned candidate is pushed as a public
+file; no JSON is published standalone. The protected workflow publishes the signed
+root and immutable version bundles. Editor-only review state, migration reports, and
+other provenance stay private, while the embedded runtime JSON remains recoverable
+from a trusted signed bundle.

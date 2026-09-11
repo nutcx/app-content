@@ -1,11 +1,11 @@
 # Verified Skin Media
 
-`media/skins/<costumeId>/` contains static images exported from the exact MLBB
-Unity bundles recorded in `media/skins/manifest.json`.
+`media/skins/<costumeId>/` contains the public static WebP images used by signed
+content bundles.
 
 Each costume directory contains every verified static asset available for that
-costume. Missing media kinds are recorded explicitly in the manifest rather
-than filled with a guessed substitute. The possible files are:
+costume. A missing media kind is left absent rather than filled with a guessed
+substitute. The possible files are:
 
 - `portrait.webp`: the mapped 256x512 card texture, with only its reviewed
   static background composition applied;
@@ -18,11 +18,10 @@ Heads use lossless WebP. Portraits and landscapes use WebP quality 95 with
 their original dimensions and exact alpha preserved. The export process
 verifies every input bundle's byte length and SHA-256 digest, resolves textures
 through their exact Unity resource hierarchy or atlas metadata, and decodes
-every written file again to confirm its dimensions and alpha. The manifest
-preserves source and decoded pixel digests, encoding settings, dimensions,
-object-level selection evidence, and bundle provenance required to reproduce
-or audit the export.
+every written file again to confirm its dimensions and alpha. Source digests,
+decoded pixel digests, encoding settings, dimensions, object-level selection
+evidence, and bundle provenance remain in private audit records.
 
-Published content should use commit-pinned raw GitHub URLs for these files so a
-released content snapshot cannot change when the repository's default branch
-moves.
+There is no public media index or JSON metadata. Signed payloads reference the WebPs
+they use directly. Published WebP paths are immutable: correcting image bytes requires
+a new public path and a new signed content version.
