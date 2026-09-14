@@ -2,10 +2,12 @@
 
 Public binary content and static WebP media consumed by Nut Cracker.
 
-The client reads one signed root artifact:
+The client reads three independently signed root artifacts:
 
 ```text
-Document.mlbytes
+Document.mlbytes       # versioned application content
+ClientPolicy.mlbytes   # notices, availability, and update policy
+ClientConfig.mlbytes   # operational restore/CDN configuration
 ```
 
 The `.mlbytes` format is a compressed, indexed bundle with explicit format, schema,
@@ -14,21 +16,36 @@ but adds per-entry compression, SHA-256 integrity metadata, bounded parsing, and
 Ed25519 publisher signature. It is not encrypted. Schema 3 is the only supported
 content contract; older layouts are rejected rather than translated at runtime.
 
-The bundle contains the application's three UTF-8 JSON datasets as logical entries.
-Those datasets are not published as standalone files, and the bundle contains no
-nested ZIP or extracted repository tree.
+`Document.mlbytes` contains the application's three UTF-8 JSON datasets as logical
+entries. Each operational artifact contains one internal JSON entry. Those payloads
+are not published as standalone files, and no bundle contains a nested ZIP or
+extracted repository tree.
 
 ## Public layout
 
 ```text
 Document.mlbytes
+ClientPolicy.mlbytes
+ClientConfig.mlbytes
 candidates/
   <release>.<revision>/
     Document.mlbytes
+  client-policy/
+    <revision>-<policyId>/
+      ClientPolicy.mlbytes
+  client-config/
+    <revision>-<configId>/
+      ClientConfig.mlbytes
 versions/
   <release>.<revision>/
     assets/
       Document.mlbytes
+policies/
+  <revision>-<policyId>/
+    ClientPolicy.mlbytes
+configs/
+  <revision>-<configId>/
+    ClientConfig.mlbytes
 media/
   skins/
     <costumeId>/
@@ -37,15 +54,15 @@ media/
       landscape.webp
 ```
 
-- The root bundle is the signed active client artifact.
+- The three root bundles are the signed active client endpoints.
 - A candidate is an unsigned, validated signing input. It is never a client endpoint.
-- A versioned bundle is the immutable signed record of one content version.
+- `versions/`, `policies/`, and `configs/` hold immutable signed release records.
 - Existing public WebPs remain directly addressable static assets.
 
 Publishing uses no standalone version pointer, release manifest, media index, or
-detached signature. The protected release job validates a candidate, signs it,
-publishes the immutable version, then updates the root bundle with the same signed
-bytes.
+detached signature. A protected release job validates a candidate, signs it,
+publishes the matching immutable record, then updates its root bundle with the same
+signed bytes.
 
 Editable canonical JSON belongs to the Admin's private storage. The Admin can recover
 its runtime documents from a trusted signed bundle, but neither editable source nor
